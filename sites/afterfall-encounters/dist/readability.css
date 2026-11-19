@@ -1,0 +1,17 @@
+/* Reading sizes stay consistent across the compact and mobile layouts. */
+.page-size-field{display:flex;align-items:center;gap:8px;white-space:nowrap;font-size:.875rem;color:#6b7d63}.page-size-field select{appearance:none;border:1px solid #dfe6d8;border-radius:4px;background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='m3 4 3 3 3-3' stroke='%23708072' fill='none'/%3E%3C/svg%3E") no-repeat right 7px center;padding:5px 25px 5px 9px;color:#506656;font-size:.875rem;cursor:pointer}.result-bar{gap:12px;flex-wrap:wrap}
+.hero p,.detail-summary,.flow-step p,.repeat-text,.detail-list li,.combat-row p,.design-section p,.method-grid p,.method-header p{font-size:1rem;color:#5d6f61}
+.entry-link{font-size:.94rem}.flow-step h3{font-size:1rem}.detail-section h2{font-size:1.12rem}
+td,th{font-size:.875rem}td{color:#5f715e}.category-badge,.inactive-label{font-size:.875rem}
+.entry-subtitle,.row-size,.metric-desc,.source-item code,.source-item small{font-size:.8rem;color:#72816d}
+.metric-label,.filters input,.select-field select,.select-field>span,.reset-button,.result-bar,.pagination,.page-button,.secondary-button,.back-button,.reading-note,.reading-note a,.panel-heading h2 span,.aside-card p,.aside-card li,.aside-card h2,.relation-link,.detail-note,.combat-row strong{font-size:.875rem}
+.metric-label,.result-bar,.pagination,.reading-note,.aside-card p,.aside-card li,.detail-note,.relation-link{color:#6b7d63}
+.eyebrow,.section-eyebrow,.hero-tags span,.detail-alias,.detail-counter,.detail-pagination small,.repeat-label{font-size:.75rem}
+.hero-tags span{color:#62775e}.section-eyebrow{color:#6d8162}.detail-alias,.detail-counter{color:#738568}
+.feature-notes>div p,.highlight p,.highlight>span:last-child{font-size:.875rem;color:#6c7e60}.highlight strong{font-size:.94rem}
+.brand small,.nav-label,.file-label,.sidebar-bottom p,.sidebar-snapshot,.topbar-end,.snapshot-label,.breadcrumb,footer{font-size:.75rem}
+.sidebar-bottom strong{font-size:.875rem}.nav-item{font-size:.875rem}.nav-count{font-size:.75rem}
+.detail-pagination button{font-size:.875rem}.source-disclosure summary{font-size:.94rem}.source-disclosure summary span{font-size:.8rem}
+.table-wrap table{min-width:1150px}.toast{font-size:.875rem}
+@media(max-width:760px){.feature-notes>div p{font-size:.875rem}.topbar-end{font-size:.75rem}.breadcrumb{font-size:.75rem}.hero{min-height:310px}.hero-copy{max-width:330px}.hero-tags{flex-wrap:wrap}.metrics .metric-desc{font-size:.75rem}.select-field{gap:5px}.select-field select{font-size:.875rem;max-width:135px}.filters{gap:8px}.status-select{min-width:172px}.select-field>span{display:none}.detail-aside .aside-card p,.detail-aside .aside-card li{font-size:.94rem}.method-grid p,.detail-summary{font-size:1rem}}
+@media print{.table-wrap table{min-width:0}.detail-summary,.flow-step p,.repeat-text,.detail-list li,.combat-row p{color:#222}}

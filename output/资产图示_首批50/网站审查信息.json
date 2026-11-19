@@ -1,0 +1,27 @@
+{
+  "id": "appgdep_6afd80749cdc8191abc94b9f80f6726c",
+  "project_id": "appgprj_6afd6b95845c8191b98a36f4c5a3f3c5",
+  "title": "After Fall · 局内资产档案",
+  "version_id": "appgprj_6afd6b95845c8191b98a36f4c5a3f3c5~appgver_fe2bd4f02b4881918d4d57e75ab1279d",
+  "type": "publish",
+  "status": "succeeded",
+  "url": "https://afterfall-asset-catalog-20261118.neighborlynook32.chatgpt.site",
+  "has_mcp": false,
+  "screenshot_asset_pointer": null,
+  "provider_deployment_id": "release---6afd6ff87680819183cea14394a5d47a",
+  "failure_message": null,
+  "env_set_revision": 0,
+  "updated_at": "2026-11-18T10:40:13.294789+00:00",
+  "commit_sha": "25406172fae331856349402ab117db3c02efd3e7",
+  "review_url": "https://afterfall-asset-catalog-20261118.neighborlynook32.chatgpt.site/previews/index.html?batch=50",
+  "first": "AF-0001",
+  "last": "AF-0050",
+  "count": 50,
+  "methods": {
+    "原貌截图": 45,
+    "辅助可视化": 4,
+    "说明卡": 1
+  },
+  "reviewPending": true,
+  "checks": "50 个原始 JPEG 完整、分辨率 788×392；图片字节与发布文件一致；筛选、放大、上一条/下一条、深链接、详情图和手机边界通过；905 条数据与既有网站检查通过。"
+}

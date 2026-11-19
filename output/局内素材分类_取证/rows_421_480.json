@@ -1,0 +1,2442 @@
+[
+  {
+    "path": "Workspace.Prefabs.巨型怪物.野猪人3",
+    "index": 421,
+    "parent": "Workspace.Prefabs.巨型怪物",
+    "class": "Model",
+    "locator": "W/2/7/7",
+    "scripts": 0,
+    "children": [
+      "TouchPart [Part]",
+      "面部东西 [Accessory]",
+      "Order [RemoteEvent]",
+      "尾巴 [Accessory]",
+      "眼白 [Accessory]",
+      "LowerPart [Part]",
+      "LeftLowerArm [MeshPart]",
+      "眼睛 [Accessory]",
+      "RightUpperArm [MeshPart]",
+      "LeftUpperArm [MeshPart]",
+      "InitialPoses [Folder]",
+      "Body Colors [BodyColors]",
+      "LocalOrder [BindableEvent]",
+      "LeftFoot [MeshPart]"
+    ],
+    "parts": 33,
+    "attrs": {
+      "RBX_AutoSetupInputAsset": "rbxassetid://129278114786583",
+      "RBX_ImportMethod": "0",
+      "RBX_AvatarPreviewer_shouldReimport": "false",
+      "RBX_AutoSetup_OriginalScale": "3.478922300516521",
+      "RBX_AutoSetupOriginalModelHash": "0cc0d3814be696346772e2ea6224bfc6f80b8fb9e3680691ed82dcd5a520679c",
+      "RBX_AutoSetupped": "true",
+      "RBX_AvatarPreviewer_textured": "true",
+      "RBX_AvatarPreviewer_AutoSetupValidationResultReported": "true",
+      "RBX_AvatarPreviewer_stage": "CheckBody",
+      "RBX_AvatarPreviewer_initialImportComplete": "true",
+      "RBX_AvatarPreviewer_completedAutoSetupSurvey": "false",
+      "RBX_AvatarPreviewer_equippedItems": "[{\"palette\":\"Face\",\"item\":{\"source\":\"instance\",\"key\":\"{ef851aa5-162a-4975-9f33-23efc27a9bae}\"}},{\"palette\":\"Movement\",\"item\":{\"source\":\"builtin\",\"builtinItem\":16562317918}},{\"palette\":\"Waist\",\"item\":{\"source\":\"instance\",\"key\":\"{c6aa6677-9d43-4bd4-996c-b5f90e60d491}\"}}]"
+    },
+    "meshes": 26,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 8,
+    "size": [
+      28.3,
+      33.76,
+      20.53
+    ],
+    "collidable": 8,
+    "meshIds": [
+      "rbxassetid://103075293739626",
+      "rbxassetid://108607484551745",
+      "rbxassetid://111103121990367",
+      "rbxassetid://111400130197254",
+      "rbxassetid://113957885069144",
+      "rbxassetid://116261390198500",
+      "rbxassetid://116271508156062",
+      "rbxassetid://117556723476007",
+      "rbxassetid://120922828795695",
+      "rbxassetid://140516156747231",
+      "rbxassetid://80493371761854",
+      "rbxassetid://81188529048437",
+      "rbxassetid://84350449332366",
+      "rbxassetid://86114812568035",
+      "rbxassetid://88334642949409",
+      "rbxassetid://88363148068059",
+      "rbxassetid://91078275702039",
+      "rbxassetid://91218179252220",
+      "rbxassetid://95092868610836",
+      "rbxassetid://98064285332885",
+      "rbxassetid://99555325251380",
+      "rbxassetid://99645044710671"
+    ],
+    "name": "野猪人3",
+    "position": [
+      -119.06,
+      -775.99,
+      425.38
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "33:1301138577",
+    "descendants": 296
+  },
+  {
+    "path": "Workspace.Prefabs.皮肤.马头饰.驯鹿头饰",
+    "index": 422,
+    "parent": "Workspace.Prefabs.皮肤.马头饰",
+    "class": "Accessory",
+    "locator": "W/2/8/1/1",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 6,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      5,
+      5,
+      5
+    ],
+    "collidable": 5,
+    "meshIds": [],
+    "name": "驯鹿头饰",
+    "position": [
+      -955.8,
+      -784.33,
+      4.14
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "6:2751996192",
+    "descendants": 15
+  },
+  {
+    "path": "Workspace.Prefabs.皮肤.动物伙伴皮肤.Wolf1",
+    "index": 423,
+    "parent": "Workspace.Prefabs.皮肤.动物伙伴皮肤",
+    "class": "Model",
+    "locator": "W/2/8/2/1",
+    "scripts": 0,
+    "children": [
+      "Head [Part]",
+      "Animations [Folder]",
+      "LowerTorso [Part]",
+      "Jaw [Part]",
+      "HumanoidRootPart [Part]",
+      "damage [Sound]",
+      "Left Arm [Part]",
+      "TailFur [Part]",
+      "Right Arm [Part]",
+      "Right Leg [Part]",
+      "Torso [Part]",
+      "Humanoid [Humanoid]",
+      "Left Leg [Part]",
+      "LowerTail [Part]"
+    ],
+    "parts": 37,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 2,
+    "size": [
+      3.44,
+      4.27,
+      7.5
+    ],
+    "collidable": 27,
+    "meshIds": [],
+    "name": "Wolf1",
+    "position": [
+      -535.54,
+      -790.73,
+      273.84
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "37:44136142",
+    "descendants": 156
+  },
+  {
+    "path": "Workspace.Prefabs.皮肤.动物伙伴皮肤.Wild Boar1",
+    "index": 424,
+    "parent": "Workspace.Prefabs.皮肤.动物伙伴皮肤",
+    "class": "Model",
+    "locator": "W/2/8/2/2",
+    "scripts": 0,
+    "children": [
+      "Right Leg [Part]",
+      "Left Arm [Part]",
+      "HumanoidRootPart [Part]",
+      "Head [Part]",
+      "damage [Sound]",
+      "Animations [Folder]",
+      "TailFur [Part]",
+      "Left Leg [Part]",
+      "Jaw [Part]",
+      "Torso [Part]",
+      "AnimSaves [ObjectValue]",
+      "Humanoid [Humanoid]",
+      "Right Arm [Part]",
+      "LowerTorso [Part]"
+    ],
+    "parts": 42,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 2,
+    "size": [
+      3.21,
+      4.1,
+      5.92
+    ],
+    "collidable": 30,
+    "meshIds": [],
+    "name": "Wild Boar1",
+    "position": [
+      -536.17,
+      -790.77,
+      281.14
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "42:952876571",
+    "descendants": 170
+  },
+  {
+    "path": "Workspace.Prefabs.皮肤.道具皮肤.Star Old bag",
+    "index": 425,
+    "parent": "Workspace.Prefabs.皮肤.道具皮肤",
+    "class": "Tool",
+    "locator": "W/2/8/3/1",
+    "scripts": 0,
+    "children": [
+      "Meshes/袋子111_Default (1) [MeshPart]",
+      "Meshes/袋子111_立方体_1 (1) [MeshPart]",
+      "Meshes/袋子111_Default_1 (1) [MeshPart]",
+      "Meshes/袋子111_立方体_3 [MeshPart]",
+      "Meshes/袋子111_Default_2 (1) [MeshPart]",
+      "Meshes/袋子111_立方体_6 (1) [MeshPart]",
+      "Meshes/袋子111_立方体 (1) [MeshPart]",
+      "Size [IntValue]",
+      "Handle [Part]"
+    ],
+    "parts": 8,
+    "attrs": [],
+    "meshes": 7,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.09,
+      2.19,
+      2.2
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://111631352430312",
+      "rbxassetid://119950498093292",
+      "rbxassetid://137756715454207",
+      "rbxassetid://75086641259854",
+      "rbxassetid://79833254865905",
+      "rbxassetid://96510150851841",
+      "rbxassetid://98114084397881"
+    ],
+    "name": "Star Old bag",
+    "position": [
+      -1019.29,
+      -790.16,
+      -168.02
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "8:899563609",
+    "descendants": 26
+  },
+  {
+    "path": "Workspace.Prefabs.皮肤.道具皮肤.Star Good axe",
+    "index": 426,
+    "parent": "Workspace.Prefabs.皮肤.道具皮肤",
+    "class": "Tool",
+    "locator": "W/2/8/3/2",
+    "scripts": 0,
+    "children": [
+      "Meshes/斧头_立方体_8 [MeshPart]",
+      "Meshes/斧头_立方体_2 [MeshPart]",
+      "Meshes/斧头_立方体_6 [MeshPart]",
+      "Meshes/斧头_立方体_13 [MeshPart]",
+      "Meshes/斧头_立方体_5 [MeshPart]",
+      "Meshes/斧头_立方体_6 [MeshPart]",
+      "Handle [MeshPart]",
+      "Meshes/斧头_立方体_4 [MeshPart]",
+      "Meshes/斧头_立方体_7 [MeshPart]",
+      "Meshes/斧头_立方体_3 [MeshPart]"
+    ],
+    "parts": 10,
+    "attrs": [],
+    "meshes": 10,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.56,
+      5.16,
+      0.6
+    ],
+    "collidable": 9,
+    "meshIds": [
+      "rbxassetid://107862889390397",
+      "rbxassetid://116171386860619",
+      "rbxassetid://117378526401169",
+      "rbxassetid://120071310960236",
+      "rbxassetid://134951716640313",
+      "rbxassetid://139030402920763",
+      "rbxassetid://70853061986347",
+      "rbxassetid://87554678864310"
+    ],
+    "name": "Star Good axe",
+    "position": [
+      -1002.86,
+      -791.57,
+      -184.6
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "10:4250998623",
+    "descendants": 29
+  },
+  {
+    "path": "Workspace.Prefabs.皮肤.道具皮肤.Star Power axe",
+    "index": 427,
+    "parent": "Workspace.Prefabs.皮肤.道具皮肤",
+    "class": "Tool",
+    "locator": "W/2/8/3/3",
+    "scripts": 0,
+    "children": [
+      "Meshes/斧头_立方体_13 [MeshPart]",
+      "Meshes/斧头_立方体_5 [MeshPart]",
+      "Meshes/斧头_立方体_6 [MeshPart]",
+      "Handle [MeshPart]",
+      "Meshes/斧头_立方体_4 [MeshPart]",
+      "Meshes/斧头_立方体_7 [MeshPart]",
+      "Meshes/斧头_立方体_3 [MeshPart]",
+      "Meshes/斧头_立方体_6 [MeshPart]",
+      "Meshes/斧头_立方体_8 [MeshPart]",
+      "Meshes/斧头_立方体_2 [MeshPart]",
+      "Meshes/斧头_立方体_6 [MeshPart]"
+    ],
+    "parts": 11,
+    "attrs": [],
+    "meshes": 11,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.96,
+      5.98,
+      0.58
+    ],
+    "collidable": 10,
+    "meshIds": [
+      "rbxassetid://107862889390397",
+      "rbxassetid://109394028565581",
+      "rbxassetid://116171386860619",
+      "rbxassetid://117378526401169",
+      "rbxassetid://120071310960236",
+      "rbxassetid://134951716640313",
+      "rbxassetid://70853061986347",
+      "rbxassetid://87554678864310"
+    ],
+    "name": "Star Power axe",
+    "position": [
+      -1008.12,
+      -791.37,
+      -184.25
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "11:207832064",
+    "descendants": 35
+  },
+  {
+    "path": "Workspace.Prefabs.皮肤.道具皮肤.水枪2号",
+    "index": 428,
+    "parent": "Workspace.Prefabs.皮肤.道具皮肤",
+    "class": "Tool",
+    "locator": "W/2/8/3/4",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]",
+      "配置 [Folder]"
+    ],
+    "parts": 13,
+    "attrs": [],
+    "meshes": 10,
+    "tags": [
+      "RegularBulletStyle",
+      "WaterGunSkinEffect"
+    ],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0.53,
+      1.75,
+      7.39
+    ],
+    "collidable": 12,
+    "meshIds": [
+      "rbxassetid://105156309576023",
+      "rbxassetid://116590201846724",
+      "rbxassetid://117475263850017",
+      "rbxassetid://120497675096507",
+      "rbxassetid://122138868642068",
+      "rbxassetid://130349539516030",
+      "rbxassetid://131304717021221",
+      "rbxassetid://81613541839893",
+      "rbxassetid://90280792266959",
+      "rbxassetid://98568157124455"
+    ],
+    "name": "水枪2号",
+    "position": [
+      -1007.42,
+      -791.72,
+      -177.62
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "13:3576401973",
+    "descendants": 45
+  },
+  {
+    "path": "Workspace.Prefabs.皮肤.道具皮肤.Star Old axe",
+    "index": 429,
+    "parent": "Workspace.Prefabs.皮肤.道具皮肤",
+    "class": "Tool",
+    "locator": "W/2/8/3/5",
+    "scripts": 0,
+    "children": [
+      "Meshes/斧头_立方体_13 [MeshPart]",
+      "Meshes/斧头_立方体_5 [MeshPart]",
+      "Meshes/斧头_立方体_8 [MeshPart]",
+      "Meshes/斧头_立方体_2 [MeshPart]",
+      "Meshes/斧头_立方体_6 [MeshPart]",
+      "Meshes/斧头_立方体_3 [MeshPart]",
+      "Meshes/斧头_立方体_6 [MeshPart]",
+      "Handle [MeshPart]",
+      "Meshes/斧头_立方体_4 [MeshPart]",
+      "Meshes/斧头_立方体_7 [MeshPart]"
+    ],
+    "parts": 10,
+    "attrs": [],
+    "meshes": 10,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.26,
+      4.55,
+      0.53
+    ],
+    "collidable": 9,
+    "meshIds": [
+      "rbxassetid://107862889390397",
+      "rbxassetid://116171386860619",
+      "rbxassetid://117378526401169",
+      "rbxassetid://120071310960236",
+      "rbxassetid://134951716640313",
+      "rbxassetid://139030402920763",
+      "rbxassetid://70853061986347",
+      "rbxassetid://87554678864310"
+    ],
+    "name": "Star Old axe",
+    "position": [
+      -1005.23,
+      -791.72,
+      -184.01
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "10:2245320292",
+    "descendants": 29
+  },
+  {
+    "path": "Workspace.Prefabs.皮肤.道具皮肤.Star Big bag",
+    "index": 430,
+    "parent": "Workspace.Prefabs.皮肤.道具皮肤",
+    "class": "Tool",
+    "locator": "W/2/8/3/6",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]",
+      "Meshes/袋子111_立方体 (1) [MeshPart]",
+      "Meshes/袋子111_Default (1) [MeshPart]",
+      "Meshes/袋子111_立方体_1 (1) [MeshPart]",
+      "Size [IntValue]",
+      "Meshes/袋子111_Default_1 (1) [MeshPart]",
+      "Meshes/袋子111_立方体_3 [MeshPart]",
+      "Meshes/袋子111_Default_2 (1) [MeshPart]",
+      "Meshes/袋子111_立方体_6 (1) [MeshPart]"
+    ],
+    "parts": 8,
+    "attrs": [],
+    "meshes": 7,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.49,
+      2.6,
+      2.62
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://111631352430312",
+      "rbxassetid://119950498093292",
+      "rbxassetid://137756715454207",
+      "rbxassetid://75086641259854",
+      "rbxassetid://79833254865905",
+      "rbxassetid://96510150851841",
+      "rbxassetid://98114084397881"
+    ],
+    "name": "Star Big bag",
+    "position": [
+      -1015.17,
+      -790.07,
+      -167.92
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "8:53034540",
+    "descendants": 26
+  },
+  {
+    "path": "Workspace.Prefabs.皮肤.道具皮肤.Star Large bag",
+    "index": 431,
+    "parent": "Workspace.Prefabs.皮肤.道具皮肤",
+    "class": "Tool",
+    "locator": "W/2/8/3/7",
+    "scripts": 0,
+    "children": [
+      "Meshes/袋子111_立方体_1 (1) [MeshPart]",
+      "Meshes/袋子111_Default_1 (1) [MeshPart]",
+      "Meshes/袋子111_立方体_3 [MeshPart]",
+      "Meshes/袋子111_Default_2 (1) [MeshPart]",
+      "Handle [Part]",
+      "Size [IntValue]",
+      "Meshes/袋子111_立方体_6 (1) [MeshPart]",
+      "Meshes/袋子111_立方体 (1) [MeshPart]",
+      "Meshes/袋子111_Default (1) [MeshPart]"
+    ],
+    "parts": 8,
+    "attrs": [],
+    "meshes": 7,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3.11,
+      3.25,
+      3.27
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://111631352430312",
+      "rbxassetid://119950498093292",
+      "rbxassetid://137756715454207",
+      "rbxassetid://75086641259854",
+      "rbxassetid://79833254865905",
+      "rbxassetid://96510150851841",
+      "rbxassetid://98114084397881"
+    ],
+    "name": "Star Large bag",
+    "position": [
+      -1010.88,
+      -789.71,
+      -167.92
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "8:2620772373",
+    "descendants": 26
+  },
+  {
+    "path": "Workspace.Prefabs.皮肤.道具皮肤.水枪1号",
+    "index": 432,
+    "parent": "Workspace.Prefabs.皮肤.道具皮肤",
+    "class": "Tool",
+    "locator": "W/2/8/3/8",
+    "scripts": 0,
+    "children": [
+      "配置 [Folder]",
+      "Handle [Part]"
+    ],
+    "parts": 11,
+    "attrs": [],
+    "meshes": 8,
+    "tags": [
+      "RegularBulletStyle",
+      "WaterGunSkinEffect"
+    ],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0.53,
+      1.47,
+      3.25
+    ],
+    "collidable": 10,
+    "meshIds": [
+      "rbxassetid://112983795518509",
+      "rbxassetid://126581389880058",
+      "rbxassetid://134316200954220",
+      "rbxassetid://138722967260719",
+      "rbxassetid://85263774776630",
+      "rbxassetid://87639498169872",
+      "rbxassetid://89225166316284",
+      "rbxassetid://93234949633753"
+    ],
+    "name": "水枪1号",
+    "position": [
+      -1003.88,
+      -792.13,
+      -178.98
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "11:3863720900",
+    "descendants": 37
+  },
+  {
+    "path": "Workspace.Prefabs.UI.UIStore",
+    "index": 433,
+    "parent": "Workspace.Prefabs.UI",
+    "class": "Model",
+    "locator": "W/2/9/1",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "BillboardGui [BillboardGui]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      1,
+      1
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "UIStore",
+    "position": [
+      -398.3,
+      -641.06,
+      398.12
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1035025089",
+    "descendants": 6
+  },
+  {
+    "path": "Workspace.Prefabs.UI.UIMuscleUP",
+    "index": 434,
+    "parent": "Workspace.Prefabs.UI",
+    "class": "Model",
+    "locator": "W/2/9/2",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "BillboardGui [BillboardGui]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      1,
+      1
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "UIMuscleUP",
+    "position": [
+      -434.1,
+      -641.06,
+      398.12
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1035025089",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.UI.UICD",
+    "index": 435,
+    "parent": "Workspace.Prefabs.UI",
+    "class": "Model",
+    "locator": "W/2/9/3",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "UICD",
+    "position": [
+      -410.32,
+      -641.06,
+      398.12
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1033838078",
+    "descendants": 4
+  },
+  {
+    "path": "Workspace.Prefabs.UI.Guide",
+    "index": 436,
+    "parent": "Workspace.Prefabs.UI",
+    "class": "Model",
+    "locator": "W/2/9/4",
+    "scripts": 0,
+    "children": [
+      "Campfire [Part]",
+      "RootPart [Part]",
+      "Wood [Part]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      7.61,
+      1,
+      2
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "Guide",
+    "position": [
+      -425.34,
+      -641.06,
+      398.12
+    ],
+    "anchored": 3,
+    "humanoids": 0,
+    "geometry": "3:3068824727",
+    "descendants": 9
+  },
+  {
+    "path": "Workspace.Prefabs.UI.UIHealth",
+    "index": 437,
+    "parent": "Workspace.Prefabs.UI",
+    "class": "Model",
+    "locator": "W/2/9/5",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "UIHealth",
+    "position": [
+      -404.5,
+      -641.06,
+      398.12
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1033838078",
+    "descendants": 7
+  },
+  {
+    "path": "Workspace.Prefabs.UI.UIPlayerDie",
+    "index": 438,
+    "parent": "Workspace.Prefabs.UI",
+    "class": "Model",
+    "locator": "W/2/9/6",
+    "scripts": 0,
+    "children": [
+      "BillboardGui [BillboardGui]",
+      "RootPart [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      1,
+      1
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "UIPlayerDie",
+    "position": [
+      -416.3,
+      -641.06,
+      398.12
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1035025089",
+    "descendants": 5
+  },
+  {
+    "path": "Workspace.Prefabs.UI.UIItemDesc",
+    "index": 439,
+    "parent": "Workspace.Prefabs.UI",
+    "class": "Model",
+    "locator": "W/2/9/7",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      1,
+      1
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "UIItemDesc",
+    "position": [
+      -411.75,
+      -641.06,
+      398.12
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1035025089",
+    "descendants": 6
+  },
+  {
+    "path": "Workspace.Prefabs.UI.驯服",
+    "index": 440,
+    "parent": "Workspace.Prefabs.UI",
+    "class": "Model",
+    "locator": "W/2/9/8",
+    "scripts": 0,
+    "children": [
+      "IntimacyGUIPrefab [BillboardGui]",
+      "RootPart [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      1,
+      1
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "驯服",
+    "position": [
+      -383.21,
+      -640.56,
+      398.12
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1035025089",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.UI.无名客",
+    "index": 441,
+    "parent": "Workspace.Prefabs.UI",
+    "class": "Model",
+    "locator": "W/2/9/9",
+    "scripts": 0,
+    "children": [
+      "readyAtt [Attachment]",
+      "TargetGUIPrefab [BillboardGui]",
+      "RootPart [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      1,
+      1
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "无名客",
+    "position": [
+      -390.17,
+      -640.56,
+      398.12
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1035025089",
+    "descendants": 8
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.1",
+    "index": 442,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/1",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      1,
+      1
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://15436094936"
+    ],
+    "name": "1",
+    "position": [
+      -243.93,
+      -791.86,
+      333.32
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:1764843557",
+    "descendants": 5
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.3",
+    "index": 443,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/2",
+    "scripts": 0,
+    "children": [
+      "Handle [MeshPart]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.79,
+      1.73,
+      1.76
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=96676779"
+    ],
+    "name": "3",
+    "position": [
+      -240.03,
+      -791.95,
+      333.21
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:2623006247",
+    "descendants": 4
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.2",
+    "index": 444,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/3",
+    "scripts": 0,
+    "children": [
+      "ThumbnailConfiguration [Configuration]",
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      1,
+      1
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://5990472156"
+    ],
+    "name": "2",
+    "position": [
+      -229.32,
+      -792.23,
+      332.45
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:2574290817",
+    "descendants": 8
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.4",
+    "index": 445,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/4",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.11,
+      1.11,
+      2.22
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=45915012"
+    ],
+    "name": "4",
+    "position": [
+      -232.75,
+      -792.26,
+      332.66
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:3914403603",
+    "descendants": 6
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.5",
+    "index": 446,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/5",
+    "scripts": 0,
+    "children": [
+      "Handle [MeshPart]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.67,
+      1.87,
+      1.88
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://15148807061"
+    ],
+    "name": "5",
+    "position": [
+      -251.42,
+      -791.88,
+      333.07
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:871524264",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.6",
+    "index": 447,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/6",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.4,
+      1.4,
+      1.8
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://90103261224162"
+    ],
+    "name": "6",
+    "position": [
+      -247.84,
+      -791.01,
+      333.13
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:2969953346",
+    "descendants": 6
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.7",
+    "index": 448,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/7",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.4,
+      1.4,
+      1.8
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://10501028785"
+    ],
+    "name": "7",
+    "position": [
+      -221.93,
+      -792.12,
+      332.91
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:2890346000",
+    "descendants": 6
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.8",
+    "index": 449,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/8",
+    "scripts": 0,
+    "children": [
+      "ThumbnailConfiguration [Configuration]",
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.96,
+      1.56,
+      2.81
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://7218568597"
+    ],
+    "name": "8",
+    "position": [
+      -217.6,
+      -792.12,
+      332.91
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:103026330",
+    "descendants": 8
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.9",
+    "index": 450,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/9",
+    "scripts": 0,
+    "children": [
+      "ThumbnailConfiguration [Configuration]",
+      "Handle [Part]"
+    ],
+    "parts": 7,
+    "attrs": [],
+    "meshes": 6,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      1,
+      1
+    ],
+    "collidable": 7,
+    "meshIds": [
+      "rbxassetid://13615521460",
+      "rbxassetid://13615521584",
+      "rbxassetid://13615521737",
+      "rbxassetid://13615521874",
+      "rbxassetid://13615521989",
+      "rbxassetid://13615522121"
+    ],
+    "name": "9",
+    "position": [
+      -213.43,
+      -792.12,
+      332.91
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "7:2873525088",
+    "descendants": 20
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.11",
+    "index": 451,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/10",
+    "scripts": 1,
+    "children": [
+      "医生帽子 [Script]",
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [
+      "医生帽子"
+    ],
+    "animations": 0,
+    "size": [
+      1.11,
+      1.11,
+      2.22
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=31506010"
+    ],
+    "name": "11",
+    "position": [
+      -236.45,
+      -792.32,
+      332.8
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:3809796771",
+    "descendants": 10
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.13",
+    "index": 452,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/11",
+    "scripts": 0,
+    "children": [
+      "ThumbnailConfiguration [Configuration]",
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.01,
+      1.01,
+      1.01
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://6701310739"
+    ],
+    "name": "13",
+    "position": [
+      -261.17,
+      -792.36,
+      333.34
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:557394544",
+    "descendants": 9
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.12",
+    "index": 453,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/12",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.15,
+      1.15,
+      1.15
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://14884118491"
+    ],
+    "name": "12",
+    "position": [
+      -264.79,
+      -792.36,
+      333.34
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:451403754",
+    "descendants": 6
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.10",
+    "index": 454,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/13",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]",
+      "Meshes/cloak_立方体 [MeshPart]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2,
+      1,
+      2
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://14691391831",
+      "rbxassetid://14691392115"
+    ],
+    "name": "10",
+    "position": [
+      -207.78,
+      -790.72,
+      331.71
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:4164561593",
+    "descendants": 13
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.15",
+    "index": 455,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/14",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      1,
+      2
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://178360939"
+    ],
+    "name": "15",
+    "position": [
+      -276.96,
+      -792.37,
+      333.72
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:3331496496",
+    "descendants": 4
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.14",
+    "index": 456,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/15",
+    "scripts": 0,
+    "children": [
+      "ThumbnailConfiguration [Configuration]",
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.01,
+      1.01,
+      1.01
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=139159802 "
+    ],
+    "name": "14",
+    "position": [
+      -272.95,
+      -792.36,
+      333.62
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:2887949371",
+    "descendants": 9
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.16",
+    "index": 457,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/16",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.2,
+      1.55,
+      2
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=14762356"
+    ],
+    "name": "16",
+    "position": [
+      -269.28,
+      -791.55,
+      339.19
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:3549266544",
+    "descendants": 4
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.17",
+    "index": 458,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/17",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      1,
+      2
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=78027990"
+    ],
+    "name": "17",
+    "position": [
+      -260.97,
+      -792.37,
+      341.32
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:4029370611",
+    "descendants": 4
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.9999",
+    "index": 459,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/18",
+    "scripts": 0,
+    "children": [
+      "ThumbnailConfiguration [Configuration]",
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      1,
+      1
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "9999",
+    "position": [
+      -195.61,
+      -792.12,
+      332.91
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:1035025089",
+    "descendants": 8
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.18",
+    "index": 460,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/19",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      2,
+      2
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=25684478"
+    ],
+    "name": "18",
+    "position": [
+      -285.94,
+      -791.87,
+      334.29
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:834849859",
+    "descendants": 4
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.19",
+    "index": 461,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/20",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.8,
+      1.6,
+      1.4
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=63688922"
+    ],
+    "name": "19",
+    "position": [
+      -289.2,
+      -791.61,
+      334.08
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:3461067853",
+    "descendants": 5
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.20",
+    "index": 462,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/21",
+    "scripts": 0,
+    "children": [
+      "军帽 [Folder]",
+      "Handle [Part]"
+    ],
+    "parts": 19,
+    "attrs": [],
+    "meshes": 8,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      1,
+      1
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://2297511188",
+      "rbxassetid://2297515890",
+      "rbxassetid://5847800666",
+      "rbxassetid://5847804199"
+    ],
+    "name": "20",
+    "position": [
+      -291.55,
+      -791.57,
+      333.72
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "19:2156354425",
+    "descendants": 43
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.21",
+    "index": 463,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/22",
+    "scripts": 0,
+    "children": [
+      "Handle [MeshPart]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.37,
+      2.39,
+      1.47
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://16016790117"
+    ],
+    "name": "21",
+    "position": [
+      -294.25,
+      -790.78,
+      333.75
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:2923808540",
+    "descendants": 4
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.24",
+    "index": 464,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/23",
+    "scripts": 1,
+    "children": [
+      "矿工帽_client [Script]",
+      "Handle [Part]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [
+      "矿工帽_client"
+    ],
+    "animations": 0,
+    "size": [
+      1.4,
+      1,
+      1.6
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=1609603"
+    ],
+    "name": "24",
+    "position": [
+      -270.16,
+      -792.33,
+      336.53
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:313120763",
+    "descendants": 7
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.22",
+    "index": 465,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/24",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      1,
+      1
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://7953842666"
+    ],
+    "name": "22",
+    "position": [
+      -244.27,
+      -791.77,
+      338.42
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:2136660649",
+    "descendants": 5
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.23",
+    "index": 466,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/25",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      2,
+      2
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=85131528"
+    ],
+    "name": "23",
+    "position": [
+      -240.51,
+      -791.52,
+      337.95
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:2596120373",
+    "descendants": 4
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.25",
+    "index": 467,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/26",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      1,
+      1
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://120998854736329"
+    ],
+    "name": "25",
+    "position": [
+      -276.84,
+      -792.37,
+      336.59
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:136790039",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterHat.26",
+    "index": 468,
+    "parent": "Workspace.Prefabs.CharacterHat",
+    "class": "Accessory",
+    "locator": "W/2/10/27",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.17,
+      0.84,
+      1.34
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=115362875 "
+    ],
+    "name": "26",
+    "position": [
+      -273.3,
+      -792.45,
+      336.62
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:1423761077",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.马匹.普通马.棕色普通马",
+    "index": 469,
+    "parent": "Workspace.Prefabs.马匹.普通马",
+    "class": "Model",
+    "locator": "W/2/11/1/1",
+    "scripts": 3,
+    "children": [
+      "Saddle [UnionOperation]",
+      "Left Leg [UnionOperation]",
+      "Left Arm [UnionOperation]",
+      "ForceField [ForceField]",
+      "Animations [Folder]",
+      "Tail [Part]",
+      "Scripts [Folder]",
+      "Humanoid [Humanoid]",
+      "Head [UnionOperation]",
+      "Values [Folder]",
+      "Torso [UnionOperation]",
+      "Right Arm [UnionOperation]",
+      "Bridle [UnionOperation]",
+      "HumanoidRootPart [UnionOperation]"
+    ],
+    "parts": 21,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [
+      "普通马",
+      "LocalControlScript",
+      "AnimateScript"
+    ],
+    "animations": 4,
+    "size": [
+      2.65,
+      6.75,
+      7.45
+    ],
+    "collidable": 11,
+    "meshIds": [],
+    "name": "棕色普通马",
+    "position": [
+      -966.59,
+      -789.49,
+      -81.86
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "21:41469342",
+    "descendants": 82
+  },
+  {
+    "path": "Workspace.Prefabs.马匹.马皮肤.黑色普通马",
+    "index": 470,
+    "parent": "Workspace.Prefabs.马匹.马皮肤",
+    "class": "Model",
+    "locator": "W/2/11/2/1",
+    "scripts": 0,
+    "children": [
+      "Tail [Part]",
+      "Head [UnionOperation]",
+      "Right Arm [UnionOperation]",
+      "Body [UnionOperation]",
+      "Left Arm [UnionOperation]",
+      "Right Leg [UnionOperation]",
+      "Humanoid [Humanoid]",
+      "HumanoidRootPart [UnionOperation]",
+      "Seat [Seat]",
+      "Torso [UnionOperation]",
+      "Saddle [UnionOperation]",
+      "Bridle [UnionOperation]",
+      "Left Leg [UnionOperation]"
+    ],
+    "parts": 21,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.65,
+      6.75,
+      7.45
+    ],
+    "collidable": 13,
+    "meshIds": [],
+    "name": "黑色普通马",
+    "position": [
+      -973.82,
+      -789.49,
+      -65.01
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "21:41469342",
+    "descendants": 51
+  },
+  {
+    "path": "Workspace.Prefabs.马匹.马皮肤.红色普通马",
+    "index": 471,
+    "parent": "Workspace.Prefabs.马匹.马皮肤",
+    "class": "Model",
+    "locator": "W/2/11/2/2",
+    "scripts": 0,
+    "children": [
+      "Head [UnionOperation]",
+      "Right Arm [UnionOperation]",
+      "Body [UnionOperation]",
+      "Tail [Part]",
+      "Seat [Seat]",
+      "Right Leg [UnionOperation]",
+      "HumanoidRootPart [UnionOperation]",
+      "Left Arm [UnionOperation]",
+      "Torso [UnionOperation]",
+      "Saddle [UnionOperation]",
+      "Bridle [UnionOperation]",
+      "Left Leg [UnionOperation]",
+      "Humanoid [Humanoid]"
+    ],
+    "parts": 21,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.65,
+      6.75,
+      7.45
+    ],
+    "collidable": 13,
+    "meshIds": [],
+    "name": "红色普通马",
+    "position": [
+      -961.15,
+      -789.68,
+      -72.16
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "21:41469342",
+    "descendants": 51
+  },
+  {
+    "path": "Workspace.Prefabs.马匹.马皮肤.白色普通马",
+    "index": 472,
+    "parent": "Workspace.Prefabs.马匹.马皮肤",
+    "class": "Model",
+    "locator": "W/2/11/2/3",
+    "scripts": 0,
+    "children": [
+      "Seat [Seat]",
+      "Tail [Part]",
+      "Head [UnionOperation]",
+      "Right Arm [UnionOperation]",
+      "Body [UnionOperation]",
+      "Bridle [UnionOperation]",
+      "Left Leg [UnionOperation]",
+      "Left Arm [UnionOperation]",
+      "Humanoid [Humanoid]",
+      "Torso [UnionOperation]",
+      "Saddle [UnionOperation]",
+      "Right Leg [UnionOperation]",
+      "HumanoidRootPart [UnionOperation]"
+    ],
+    "parts": 21,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.65,
+      6.75,
+      7.45
+    ],
+    "collidable": 13,
+    "meshIds": [],
+    "name": "白色普通马",
+    "position": [
+      -980.1,
+      -789.49,
+      -75.98
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "21:41469342",
+    "descendants": 51
+  },
+  {
+    "path": "Workspace.Prefabs.马匹.驯鹿(废弃)",
+    "index": 473,
+    "parent": "Workspace.Prefabs.马匹",
+    "class": "Model",
+    "locator": "W/2/11/3",
+    "scripts": 3,
+    "children": [
+      "Bridle [UnionOperation]",
+      "Saddle [UnionOperation]",
+      "Torso [UnionOperation]",
+      "Humanoid [Humanoid]",
+      "Right Leg [UnionOperation]",
+      "HumanoidRootPart [UnionOperation]",
+      "ForceField [ForceField]",
+      "Animations [Folder]",
+      "Right Arm [UnionOperation]",
+      "Body [UnionOperation]",
+      "Head [UnionOperation]",
+      "Left Leg [UnionOperation]",
+      "Left Arm [UnionOperation]",
+      "Tail [Part]"
+    ],
+    "parts": 21,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [
+      "AnimateScript",
+      "驯鹿",
+      "LocalControlScript"
+    ],
+    "animations": 4,
+    "size": [
+      4,
+      9.79,
+      8.19
+    ],
+    "collidable": 6,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=1271547"
+    ],
+    "name": "驯鹿(废弃)",
+    "position": [
+      -955.03,
+      -787.97,
+      -42.05
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "21:2437015649",
+    "descendants": 81
+  },
+  {
+    "path": "Workspace.Prefabs.马匹.驯鹿",
+    "index": 474,
+    "parent": "Workspace.Prefabs.马匹",
+    "class": "Model",
+    "locator": "W/2/11/4",
+    "scripts": 3,
+    "children": [
+      "Left Arm [UnionOperation]",
+      "Body [UnionOperation]",
+      "Humanoid [Humanoid]",
+      "Seat [Seat]",
+      "Bridle [UnionOperation]",
+      "Head [UnionOperation]",
+      "Left Leg [UnionOperation]",
+      "Tail [Part]",
+      "Right Arm [UnionOperation]",
+      "ForceField [ForceField]",
+      "Saddle [UnionOperation]",
+      "Animations [Folder]",
+      "Torso [UnionOperation]",
+      "马鞍 [Model]"
+    ],
+    "parts": 31,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [
+      "AnimateScript",
+      "驯鹿",
+      "LocalControlScript"
+    ],
+    "animations": 4,
+    "size": [
+      4.12,
+      8.79,
+      7.14
+    ],
+    "collidable": 17,
+    "meshIds": [],
+    "name": "驯鹿",
+    "position": [
+      -966.69,
+      -788.47,
+      -43.35
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "31:855539475",
+    "descendants": 117
+  },
+  {
+    "path": "Workspace.Prefabs.马匹.Model",
+    "index": 475,
+    "parent": "Workspace.Prefabs.马匹",
+    "class": "Model",
+    "locator": "W/2/11/5",
+    "scripts": 0,
+    "children": [],
+    "parts": 0,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0,
+      0,
+      0
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "Model",
+    "position": [
+      -966.69,
+      -788.65,
+      -43.35
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "0:5381",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.资源点.1x1,侧翻马车",
+    "index": 476,
+    "parent": "Workspace.Prefabs.沼泽Map.资源点",
+    "class": "Model",
+    "locator": "W/2/12/1/1",
+    "scripts": 0,
+    "children": [
+      "Side Boards [Part]",
+      "Front Woods [UnionOperation]",
+      "Side Boards [Part]",
+      "Side Boards [Part]",
+      "Union [UnionOperation]",
+      "Rear Bolster Wood [UnionOperation]",
+      "Side Boards [Part]",
+      "Union [UnionOperation]",
+      "Tongue [Part]",
+      "Tongue [Part]",
+      "Union [UnionOperation]",
+      "Side Boards [Part]",
+      "Side Boards [Part]",
+      "Rear Wood Axel [Part]"
+    ],
+    "parts": 31,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      21.82,
+      16.61,
+      16
+    ],
+    "collidable": 27,
+    "meshIds": [],
+    "name": "1x1,侧翻马车",
+    "position": [
+      -556.8,
+      -793.81,
+      -701.26
+    ],
+    "anchored": 31,
+    "humanoids": 0,
+    "geometry": "31:3062076657",
+    "descendants": 34
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.资源点.1x1,木桶",
+    "index": 477,
+    "parent": "Workspace.Prefabs.沼泽Map.资源点",
+    "class": "Model",
+    "locator": "W/2/12/1/2",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "Brackets [MeshPart]",
+      "Barrel [MeshPart]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      4.69,
+      4.52,
+      4.69
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://10357809137",
+      "rbxassetid://10357809659"
+    ],
+    "name": "1x1,木桶",
+    "position": [
+      -600.7,
+      -790.68,
+      -707.45
+    ],
+    "anchored": 3,
+    "humanoids": 0,
+    "geometry": "3:766585699",
+    "descendants": 5
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.资源点.1x1,石块",
+    "index": 478,
+    "parent": "Workspace.Prefabs.沼泽Map.资源点",
+    "class": "Model",
+    "locator": "W/2/12/1/3",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "Union [UnionOperation]",
+      "Union [UnionOperation]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      11.07,
+      9.04,
+      10.62
+    ],
+    "collidable": 2,
+    "meshIds": [],
+    "name": "1x1,石块",
+    "position": [
+      158.21,
+      -793.62,
+      -215.74
+    ],
+    "anchored": 3,
+    "humanoids": 0,
+    "geometry": "3:1266136882",
+    "descendants": 4
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.资源点.1x1,骨头",
+    "index": 479,
+    "parent": "Workspace.Prefabs.沼泽Map.资源点",
+    "class": "Model",
+    "locator": "W/2/12/1/4",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "Union [UnionOperation]",
+      "Part [Part]",
+      "Union [UnionOperation]"
+    ],
+    "parts": 4,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      6.87,
+      2.6,
+      8.24
+    ],
+    "collidable": 2,
+    "meshIds": [],
+    "name": "1x1,骨头",
+    "position": [
+      -617.43,
+      -791.52,
+      -707.09
+    ],
+    "anchored": 4,
+    "humanoids": 0,
+    "geometry": "4:4105508211",
+    "descendants": 5
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.资源点.1x1,围栏2",
+    "index": 480,
+    "parent": "Workspace.Prefabs.沼泽Map.资源点",
+    "class": "Model",
+    "locator": "W/2/12/1/5",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "Union [UnionOperation]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      8.48,
+      4.59,
+      12.92
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "1x1,围栏2",
+    "position": [
+      -582.35,
+      -791,
+      -705.96
+    ],
+    "anchored": 2,
+    "humanoids": 0,
+    "geometry": "2:1295742416",
+    "descendants": 3
+  }
+]

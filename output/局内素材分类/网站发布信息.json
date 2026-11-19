@@ -1,0 +1,38 @@
+{
+  "project_id": "appgprj_6afd6b95845c8191b98a36f4c5a3f3c5",
+  "deployment_id": "appgdep_6afd8894916c819197d73da7b85fe9fd",
+  "version_id": "appgprj_6afd6b95845c8191b98a36f4c5a3f3c5~appgver_6da1c1615a088191ad348c2e2938bb30",
+  "commit_sha": "557d163d3fa5cce26fd139a25c48665f46ab4321",
+  "status": "succeeded",
+  "audience": "owner-private",
+  "url": "https://afterfall-asset-catalog-20261118.neighborlynook32.chatgpt.site",
+  "records": 905,
+  "role_documents": 7,
+  "type_documents": 13,
+  "classification_review": {
+    "pending_before": 312,
+    "pending_after": 303,
+    "moved_to_system": 3,
+    "moved_to_development": 6,
+    "direct_pending": 1
+  },
+  "reference_audit": {
+    "script_instances": 879,
+    "unique_sources": 591,
+    "no_static_reference": 218,
+    "indirect": 521,
+    "direct": 105,
+    "ambiguous": 60,
+    "limited": 1
+  },
+  "checks": "数据完整性、分组不重不漏、搜索与组合筛选、分页、Markdown 下载、详情弹窗、深链接、移动端内容边界、无浏览器脚本错误；未拍摄截图。",
+  "preview_batch": {
+    "count": 100,
+    "first": "AF-0051",
+    "last": "AF-0150",
+    "total_previews": 150,
+    "additional_images": 2,
+    "list_url": "https://afterfall-asset-catalog-20261118.neighborlynook32.chatgpt.site/?review=150#page=2&size=50",
+    "review_url": "https://afterfall-asset-catalog-20261118.neighborlynook32.chatgpt.site/previews/index.html?batch=2"
+  }
+}

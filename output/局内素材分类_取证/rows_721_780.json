@@ -1,0 +1,2388 @@
+[
+  {
+    "path": "Workspace.Yggdrasil's Shadow",
+    "index": 721,
+    "parent": "Workspace",
+    "class": "Tool",
+    "locator": "W/89",
+    "scripts": 0,
+    "children": [
+      "Handle [MeshPart]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.64,
+      6.99,
+      1.73
+    ],
+    "collidable": 0,
+    "meshIds": [
+      "rbxassetid://129717158215406"
+    ],
+    "name": "Yggdrasil's Shadow",
+    "position": [
+      -883.31,
+      -791.46,
+      -179.24
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:3638600650",
+    "descendants": 7
+  },
+  {
+    "path": "Workspace.Watermelon",
+    "index": 722,
+    "parent": "Workspace",
+    "class": "MeshPart",
+    "locator": "W/90",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.51,
+      2.51,
+      3.6
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://6739384057"
+    ],
+    "name": "Watermelon",
+    "position": [
+      -173.84,
+      -781.81,
+      346.88
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1187511613",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.1x1,木屋",
+    "index": 723,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/91",
+    "scripts": 2,
+    "children": [
+      "Model [Model]",
+      "RootPart [Part]"
+    ],
+    "parts": 30,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "Sound Script",
+      "Script"
+    ],
+    "animations": 0,
+    "size": [
+      18.31,
+      25.79,
+      20.28
+    ],
+    "collidable": 28,
+    "meshIds": [],
+    "name": "1x1,木屋",
+    "position": [
+      67.21,
+      -779.31,
+      317.37
+    ],
+    "anchored": 27,
+    "humanoids": 0,
+    "geometry": "30:4041715965",
+    "descendants": 43
+  },
+  {
+    "path": "Workspace.Part",
+    "index": 724,
+    "parent": "Workspace",
+    "class": "Part",
+    "locator": "W/92",
+    "scripts": 0,
+    "children": [
+      "Texture [Texture]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.64,
+      2.64,
+      2.64
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "Part",
+    "position": [
+      -793.72,
+      -791.09,
+      -281.68
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:2022287308",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Model",
+    "index": 725,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/93",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]",
+      "Union [UnionOperation]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3.1,
+      4.32,
+      4.32
+    ],
+    "collidable": 2,
+    "meshIds": [],
+    "name": "Model",
+    "position": [
+      -109.07,
+      -780.35,
+      -447.12
+    ],
+    "anchored": 2,
+    "humanoids": 0,
+    "geometry": "2:194190329",
+    "descendants": 2
+  },
+  {
+    "path": "Workspace.Moonlight Blade",
+    "index": 726,
+    "parent": "Workspace",
+    "class": "Tool",
+    "locator": "W/94",
+    "scripts": 0,
+    "children": [
+      "Handle [MeshPart]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.44,
+      7.46,
+      0.91
+    ],
+    "collidable": 0,
+    "meshIds": [
+      "rbxassetid://131179142437920",
+      "rbxassetid://92299109939171"
+    ],
+    "name": "Moonlight Blade",
+    "position": [
+      -880.69,
+      -791.53,
+      -179.91
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:2044700421",
+    "descendants": 9
+  },
+  {
+    "path": "Workspace.Bear",
+    "index": 727,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/95",
+    "scripts": 0,
+    "children": [
+      "TailFur [Part]",
+      "HumanoidRootPart [Part]",
+      "Right Arm [Part]",
+      "Torso [Part]",
+      "LowerTorso [Part]",
+      "Left Leg [Part]",
+      "damage [Sound]",
+      "Animations [Folder]",
+      "Jaw [Part]",
+      "Humanoid [Humanoid]",
+      "Left Arm [Part]",
+      "Right Leg [Part]",
+      "Head [Part]",
+      "AnimSaves [ObjectValue]"
+    ],
+    "parts": 34,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 2,
+    "size": [
+      1.81,
+      2.64,
+      4.68
+    ],
+    "collidable": 26,
+    "meshIds": [],
+    "name": "Bear",
+    "position": [
+      -385.27,
+      -791.55,
+      290.63
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "34:1807853693",
+    "descendants": 151
+  },
+  {
+    "path": "Workspace.Baseplate",
+    "index": 728,
+    "parent": "Workspace",
+    "class": "Part",
+    "locator": "W/96",
+    "scripts": 0,
+    "children": [
+      "Attachment0 [Attachment]",
+      "Texture [Texture]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2048,
+      16,
+      2048
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "Baseplate",
+    "position": [
+      0,
+      -800.87,
+      0
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1016342577",
+    "descendants": 2
+  },
+  {
+    "path": "Workspace.Model",
+    "index": 729,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/97",
+    "scripts": 0,
+    "children": [
+      "Meshes/暖果_立方体_1 [MeshPart]",
+      "Meshes/暖果_立方体 [MeshPart]",
+      "Meshes/暖果_球体 [MeshPart]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.59,
+      2.78,
+      1.59
+    ],
+    "collidable": 3,
+    "meshIds": [
+      "rbxassetid://101516158556251",
+      "rbxassetid://106850421652991",
+      "rbxassetid://112412236491845"
+    ],
+    "name": "Model",
+    "position": [
+      -912.75,
+      -792.02,
+      -114.67
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:768339564",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.子弹盒",
+    "index": 730,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/98",
+    "scripts": 0,
+    "children": [
+      "Sign2 [MeshPart]",
+      "Sign2 [MeshPart]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "RootPart [Part]",
+      "Part [Part]",
+      "Part [Part]"
+    ],
+    "parts": 8,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.94,
+      0.88,
+      2.64
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "子弹盒",
+    "position": [
+      -352.1,
+      -792.43,
+      288.99
+    ],
+    "anchored": 8,
+    "humanoids": 0,
+    "geometry": "8:777466802",
+    "descendants": 26
+  },
+  {
+    "path": "Workspace.Demon Hunter",
+    "index": 731,
+    "parent": "Workspace",
+    "class": "Tool",
+    "locator": "W/99",
+    "scripts": 0,
+    "children": [
+      "Handle [MeshPart]"
+    ],
+    "parts": 4,
+    "attrs": [],
+    "meshes": 4,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3,
+      2.28,
+      3.66
+    ],
+    "collidable": 0,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=92189547",
+      "rbxassetid://100645235804763",
+      "rbxassetid://122179516064710"
+    ],
+    "name": "Demon Hunter",
+    "position": [
+      -906,
+      -791.34,
+      -138.23
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "4:1904413632",
+    "descendants": 16
+  },
+  {
+    "path": "Workspace.1x1,棺材",
+    "index": 732,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/100",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "Model [Model]"
+    ],
+    "parts": 5,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      11.13,
+      5.31,
+      15.13
+    ],
+    "collidable": 4,
+    "meshIds": [],
+    "name": "1x1,棺材",
+    "position": [
+      -616.5,
+      -790.21,
+      -164.09
+    ],
+    "anchored": 5,
+    "humanoids": 0,
+    "geometry": "5:3072141291",
+    "descendants": 7
+  },
+  {
+    "path": "Workspace.RootPart",
+    "index": 733,
+    "parent": "Workspace",
+    "class": "Part",
+    "locator": "W/101",
+    "scripts": 0,
+    "children": [
+      "Attachment [Attachment]",
+      "Attachment [Attachment]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0.47,
+      0.47,
+      0.47
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "RootPart",
+    "position": [
+      -435.8,
+      -792.54,
+      468.37
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:3024723689",
+    "descendants": 2
+  },
+  {
+    "path": "Workspace.猪侄子2",
+    "index": 734,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/102",
+    "scripts": 1,
+    "children": [
+      "AnimateScript [LocalScript]",
+      "HumanoidRootPart [Part]",
+      "LeftFoot [MeshPart]",
+      "RightLowerLeg [MeshPart]",
+      "LeftUpperLeg [MeshPart]",
+      "面部东西 [Accessory]",
+      "LeftLowerLeg [MeshPart]",
+      "RightUpperArm [MeshPart]",
+      "空武器 [Tool]",
+      "RightFoot [MeshPart]",
+      "RightUpperLeg [MeshPart]",
+      "Body Colors [BodyColors]",
+      "尾巴 [Accessory]",
+      "RightLowerArm [MeshPart]"
+    ],
+    "parts": 31,
+    "attrs": {
+      "RBX_AutoSetupInputAsset": "no model uploaded",
+      "RBX_ImportMethod": "0",
+      "RBX_AvatarPreviewer_shouldReimport": "false",
+      "RBX_AutoSetup_OriginalScale": "5.005108218661224",
+      "RBX_AutoSetupOriginalModelHash": "0d1067f65aef91bb550a3e928f66802e2c12105d3d409276490b37886ef54c85",
+      "RBX_AutoSetupped": "true",
+      "RBX_AutoSetup_ScaleErrorList": "[\"NoValidScaleError\"]",
+      "RBX_AvatarPreviewer_textured": "true",
+      "RBX_AvatarPreviewer_AutoSetupValidationResultReported": "true",
+      "RBX_AvatarPreviewer_stage": "CheckBody",
+      "RBX_AvatarPreviewer_initialImportComplete": "true",
+      "RBX_AvatarPreviewer_completedAutoSetupSurvey": "false",
+      "RBX_AvatarPreviewer_equippedItems": "[{\"palette\":\"Movement\",\"item\":{\"source\":\"builtin\",\"builtinItem\":16562317918}},{\"palette\":\"Waist\",\"item\":{\"source\":\"instance\",\"key\":\"{ad733e67-7a60-4edd-a644-de5f6c4496be}\"}}]"
+    },
+    "meshes": 25,
+    "tags": [],
+    "scriptNames": [
+      "AnimateScript"
+    ],
+    "animations": 30,
+    "size": [
+      10.67,
+      16.31,
+      11.03
+    ],
+    "collidable": 13,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=121910245 ",
+      "rbxassetid://101260973835030",
+      "rbxassetid://103075293739626",
+      "rbxassetid://105128488163754",
+      "rbxassetid://106839631759434",
+      "rbxassetid://107306092422217",
+      "rbxassetid://109760734891667",
+      "rbxassetid://113895250182512",
+      "rbxassetid://116648505006795",
+      "rbxassetid://126917520677816",
+      "rbxassetid://128299806632426",
+      "rbxassetid://129611662543301",
+      "rbxassetid://136172253529861",
+      "rbxassetid://139729017515877",
+      "rbxassetid://74185927563682",
+      "rbxassetid://76647061570659",
+      "rbxassetid://78712126311190",
+      "rbxassetid://79307678186540",
+      "rbxassetid://81417118144065",
+      "rbxassetid://82944802432233",
+      "rbxassetid://89396359765708",
+      "rbxassetid://91776535526478",
+      "rbxassetid://94504608609432",
+      "rbxassetid://95651512196367",
+      "rbxassetid://99383808960186"
+    ],
+    "name": "猪侄子2",
+    "position": [
+      -214.99,
+      -722.15,
+      754.11
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "31:3609847424",
+    "descendants": 355
+  },
+  {
+    "path": "Workspace.Star Power axe",
+    "index": 735,
+    "parent": "Workspace",
+    "class": "Tool",
+    "locator": "W/103",
+    "scripts": 0,
+    "children": [
+      "Meshes/斧头_立方体_3 [MeshPart]",
+      "Meshes/斧头_立方体_6 [MeshPart]",
+      "Handle [MeshPart]",
+      "Meshes/斧头_立方体_4 [MeshPart]",
+      "Meshes/斧头_立方体_6 [MeshPart]",
+      "Meshes/斧头_立方体_13 [MeshPart]",
+      "Meshes/斧头_立方体_5 [MeshPart]",
+      "Meshes/斧头_立方体_7 [MeshPart]",
+      "Meshes/斧头_立方体_2 [MeshPart]",
+      "Meshes/斧头_立方体_6 [MeshPart]",
+      "Meshes/斧头_立方体_8 [MeshPart]"
+    ],
+    "parts": 11,
+    "attrs": [],
+    "meshes": 11,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.96,
+      5.98,
+      0.58
+    ],
+    "collidable": 10,
+    "meshIds": [
+      "rbxassetid://107862889390397",
+      "rbxassetid://109394028565581",
+      "rbxassetid://116171386860619",
+      "rbxassetid://117378526401169",
+      "rbxassetid://120071310960236",
+      "rbxassetid://134951716640313",
+      "rbxassetid://70853061986347",
+      "rbxassetid://87554678864310"
+    ],
+    "name": "Star Power axe",
+    "position": [
+      -1010.78,
+      -789.37,
+      -178.59
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "11:207832064",
+    "descendants": 35
+  },
+  {
+    "path": "Workspace.Model",
+    "index": 736,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/104",
+    "scripts": 1,
+    "children": [
+      "Weapon [MeshPart]",
+      "Model [Model]",
+      "Model [Model]"
+    ],
+    "parts": 24,
+    "attrs": [],
+    "meshes": 8,
+    "tags": [],
+    "scriptNames": [
+      "Script"
+    ],
+    "animations": 0,
+    "size": [
+      37.44,
+      23.15,
+      25.93
+    ],
+    "collidable": 23,
+    "meshIds": [
+      "rbxassetid://108779813296074",
+      "rbxassetid://109435931005093",
+      "rbxassetid://114052604206402",
+      "rbxassetid://82325861091251",
+      "rbxassetid://85017567126175",
+      "rbxassetid://93288463759991",
+      "rbxassetid://94813284519101"
+    ],
+    "name": "Model",
+    "position": [
+      -124.25,
+      -781.15,
+      -278.8
+    ],
+    "anchored": 23,
+    "humanoids": 0,
+    "geometry": "24:1942572583",
+    "descendants": 34
+  },
+  {
+    "path": "Workspace.CowboyGunV1",
+    "index": 737,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/105",
+    "scripts": 1,
+    "children": [
+      "Shirt [Shirt]",
+      "Torso [Part]",
+      "Head [Part]",
+      "Mask [MeshPart]",
+      "Pants [Pants]",
+      "Animations [Folder]",
+      "Body Colors [BodyColors]",
+      "HumanoidRootPart [Part]",
+      "Left Leg [Part]",
+      "SurvivorCape [Accessory]",
+      "Mask2 [MeshPart]",
+      "601 [Tool]",
+      "Left Arm [Part]",
+      "Right Leg [Part]"
+    ],
+    "parts": 22,
+    "attrs": [],
+    "meshes": 15,
+    "tags": [],
+    "scriptNames": [
+      "Animate"
+    ],
+    "animations": 12,
+    "size": [
+      4,
+      5.88,
+      4.97
+    ],
+    "collidable": 4,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=9253927",
+      "rbxassetid://12622175901",
+      "rbxassetid://12794424999",
+      "rbxassetid://13938735233",
+      "rbxassetid://15006871346",
+      "rbxassetid://7248720970",
+      "rbxassetid://7248727215",
+      "rbxassetid://7248729762",
+      "rbxassetid://7248732553",
+      "rbxassetid://7248732974",
+      "rbxassetid://7248734140",
+      "rbxassetid://7248742078",
+      "rbxassetid://8415454627"
+    ],
+    "name": "CowboyGunV1",
+    "position": [
+      -625.1,
+      -785.74,
+      213.87
+    ],
+    "anchored": 22,
+    "humanoids": 1,
+    "geometry": "22:2679735699",
+    "descendants": 133
+  },
+  {
+    "path": "Workspace.雪覆盖",
+    "index": 738,
+    "parent": "Workspace",
+    "class": "MeshPart",
+    "locator": "W/106",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      8.48,
+      4.69,
+      8.78
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://133203178997458"
+    ],
+    "name": "雪覆盖",
+    "position": [
+      -43.33,
+      -787,
+      126.42
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:3311715476",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.草1",
+    "index": 739,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/107",
+    "scripts": 0,
+    "children": [
+      "SC [MeshPart]",
+      "SC [MeshPart]",
+      "SC [MeshPart]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      24.09,
+      9.34,
+      36.42
+    ],
+    "collidable": 0,
+    "meshIds": [
+      "rbxassetid://130635119283909"
+    ],
+    "name": "草1",
+    "position": [
+      41.61,
+      -779.03,
+      -161.69
+    ],
+    "anchored": 3,
+    "humanoids": 0,
+    "geometry": "3:2488358209",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Gem Trader",
+    "index": 740,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/108",
+    "scripts": 3,
+    "children": [
+      "ForceField [ForceField]",
+      "Torso [Part]",
+      "Script [Script]",
+      "Right Arm [Part]",
+      "Right Leg [Part]",
+      "印第安佬 [Script]",
+      "ChangeItem [Accessory]",
+      "Left Leg [Part]",
+      "Left Arm [Part]",
+      "Pants [Pants]",
+      "Humanoid [Humanoid]",
+      "Body Colors [BodyColors]",
+      "Head [Part]",
+      "Shirt [Shirt]"
+    ],
+    "parts": 10,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [
+      "Script",
+      "印第安佬",
+      "Script"
+    ],
+    "animations": 0,
+    "size": [
+      5,
+      6.24,
+      7.13
+    ],
+    "collidable": 4,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=13332444"
+    ],
+    "name": "Gem Trader",
+    "position": [
+      -419.45,
+      -790.68,
+      306.76
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "10:118392642",
+    "descendants": 42
+  },
+  {
+    "path": "Workspace.衣柜",
+    "index": 741,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/109",
+    "scripts": 0,
+    "children": [
+      "Model [Model]",
+      "RightDoor [Model]",
+      "leftDoor [Model]"
+    ],
+    "parts": 16,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      5.51,
+      9.47,
+      5.22
+    ],
+    "collidable": 12,
+    "meshIds": [],
+    "name": "衣柜",
+    "position": [
+      -663.38,
+      -788.13,
+      -498.71
+    ],
+    "anchored": 16,
+    "humanoids": 0,
+    "geometry": "16:1092334368",
+    "descendants": 25
+  },
+  {
+    "path": "Workspace.棕色普通马",
+    "index": 742,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/110",
+    "scripts": 3,
+    "children": [
+      "Scripts [Folder]",
+      "HumanoidRootPart [UnionOperation]",
+      "Seat [Seat]",
+      "Values [Folder]",
+      "Right Leg [UnionOperation]",
+      "Animations [Folder]",
+      "Events [Folder]",
+      "Left Leg [UnionOperation]",
+      "Torso [UnionOperation]",
+      "Body [UnionOperation]",
+      "Humanoid [Humanoid]",
+      "Tail [Part]",
+      "驯鹿头饰 [Accessory]",
+      "Saddle [UnionOperation]"
+    ],
+    "parts": 27,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [
+      "AnimateScript",
+      "普通马",
+      "LocalControlScript"
+    ],
+    "animations": 4,
+    "size": [
+      5,
+      7.9,
+      8.84
+    ],
+    "collidable": 16,
+    "meshIds": [],
+    "name": "棕色普通马",
+    "position": [
+      -992.93,
+      -788.92,
+      -16.54
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "27:3578590932",
+    "descendants": 98
+  },
+  {
+    "path": "Workspace.Part",
+    "index": 743,
+    "parent": "Workspace",
+    "class": "Part",
+    "locator": "W/111",
+    "scripts": 0,
+    "children": [
+      "Texture [Texture]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.64,
+      2.64,
+      2.64
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "Part",
+    "position": [
+      -793.72,
+      -791.09,
+      -278.16
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:2022287308",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.[名称含无效UTF-8字节]",
+    "index": 744,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/112",
+    "scripts": 0,
+    "children": [
+      "破帽子 [MeshPart]"
+    ],
+    "parts": 1,
+    "attrs": {
+      "RBX_ReimportId": "1e9da198-dcad-4500-b3b6-774725007215"
+    },
+    "meshes": 1,
+    "tags": [],
+    "rawNameHex": "E7 A0 B4 E5 B8 BD E5 AD 3F 66 62 78",
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      16.01,
+      6.4,
+      17
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://120998854736329"
+    ],
+    "name": "[名称含无效UTF-8字节]",
+    "position": [
+      -236.97,
+      -786.94,
+      358.56
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:913163416",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Model",
+    "index": 745,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/113",
+    "scripts": 0,
+    "children": [
+      "Model [Model]",
+      "螺丝 [UnionOperation]",
+      "螺丝 [UnionOperation]"
+    ],
+    "parts": 4,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      14.05,
+      7.23,
+      14.05
+    ],
+    "collidable": 4,
+    "meshIds": [
+      "rbxassetid://88937704005930"
+    ],
+    "name": "Model",
+    "position": [
+      -468.38,
+      -638.85,
+      -442.84
+    ],
+    "anchored": 4,
+    "humanoids": 0,
+    "geometry": "4:2979622092",
+    "descendants": 5
+  },
+  {
+    "path": "Workspace.Tree",
+    "index": 746,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/114",
+    "scripts": 0,
+    "children": [
+      "Tree Parts [Model]",
+      "Tree [Part]"
+    ],
+    "parts": 31,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      7.21,
+      9.97,
+      9.72
+    ],
+    "collidable": 31,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=9755716"
+    ],
+    "name": "Tree",
+    "position": [
+      -464.09,
+      -787.88,
+      275.6
+    ],
+    "anchored": 31,
+    "humanoids": 0,
+    "geometry": "31:3786483369",
+    "descendants": 36
+  },
+  {
+    "path": "Workspace.Handle",
+    "index": 747,
+    "parent": "Workspace",
+    "class": "Part",
+    "locator": "W/115",
+    "scripts": 0,
+    "children": [
+      "Mesh [SpecialMesh]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.2,
+      1.2,
+      1.2
+    ],
+    "collidable": 0,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=139159802 "
+    ],
+    "name": "Handle",
+    "position": [
+      -256.82,
+      -791.67,
+      337.3
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:1697705774",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Model",
+    "index": 748,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/116",
+    "scripts": 0,
+    "children": [
+      "Meshes/水枪（长）_body.006 (3) [MeshPart]",
+      "Meshes/水枪（长）_handle.003 (3) [MeshPart]",
+      "Meshes/水枪（长）_handle.001 (3) [MeshPart]",
+      "Meshes/水枪（长）_handle.002 (3) [MeshPart]",
+      "Meshes/水枪（长）_Sless.004 (5) [MeshPart]",
+      "Meshes/水枪（长）_body.005 (3) [MeshPart]",
+      "Meshes/水枪（长）_trigger.001 (5) [MeshPart]",
+      "Meshes/水枪（长）_body.001 (5) [MeshPart]",
+      "Meshes/水枪（长）_body.004 (3) [MeshPart]",
+      "Meshes/水枪（长）_Mag.001 (5) [MeshPart]"
+    ],
+    "parts": 10,
+    "attrs": [],
+    "meshes": 10,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0.78,
+      2.39,
+      10.1
+    ],
+    "collidable": 10,
+    "meshIds": [
+      "rbxassetid://105156309576023",
+      "rbxassetid://116590201846724",
+      "rbxassetid://117475263850017",
+      "rbxassetid://120497675096507",
+      "rbxassetid://122138868642068",
+      "rbxassetid://130349539516030",
+      "rbxassetid://131304717021221",
+      "rbxassetid://81613541839893",
+      "rbxassetid://90280792266959",
+      "rbxassetid://98568157124455"
+    ],
+    "name": "Model",
+    "position": [
+      -894.25,
+      -791.67,
+      -103.11
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "10:2837739871",
+    "descendants": 10
+  },
+  {
+    "path": "Workspace.Union",
+    "index": 749,
+    "parent": "Workspace",
+    "class": "UnionOperation",
+    "locator": "W/117",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0.24,
+      2.28,
+      2
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "Union",
+    "position": [
+      267.55,
+      -783.9,
+      -348.26
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:808209137",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.Model",
+    "index": 750,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/118",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.06,
+      1.31,
+      1.9
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "Model",
+    "position": [
+      -399.58,
+      -783.42,
+      443.61
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:4162345679",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.tommy gun",
+    "index": 751,
+    "parent": "Workspace",
+    "class": "Tool",
+    "locator": "W/119",
+    "scripts": 16,
+    "children": [
+      "BulletVisualizerScript [LocalScript]",
+      "Setting [ModuleScript]",
+      "qPerfectionWeld [Script]",
+      "nothing [LocalScript]",
+      "Unequip Event [Script]",
+      "Model [Model]",
+      "Equip Event [Script]",
+      "GunScript_Local [LocalScript]",
+      "VisualizeBulletScript [Script]",
+      "CHANGE LOG [Script]",
+      "VisualizeBullet [RemoteEvent]",
+      "GunScript_Server [Script]",
+      "Bolt [MeshPart]",
+      "Mag [Part]"
+    ],
+    "parts": 7,
+    "attrs": [],
+    "meshes": 5,
+    "tags": [],
+    "scriptNames": [
+      "BulletVisualizerScript",
+      "Setting",
+      "qPerfectionWeld",
+      "nothing",
+      "Unequip Event",
+      "daoler",
+      "gnisac",
+      "Equip Event",
+      "GunScript_Local",
+      "Script",
+      "Mouse Sensitivity",
+      "VisualizeBulletScript"
+    ],
+    "animations": 0,
+    "size": [
+      0.95,
+      1.58,
+      4.37
+    ],
+    "collidable": 5,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=116679805",
+      "http://www.roblox.com/asset/?id=116740155",
+      "rbxassetid://2911455309",
+      "rbxassetid://436644181"
+    ],
+    "name": "tommy gun",
+    "position": [
+      -134.69,
+      -792.07,
+      527.17
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "7:381942834",
+    "descendants": 68
+  },
+  {
+    "path": "Workspace.Union",
+    "index": 752,
+    "parent": "Workspace",
+    "class": "UnionOperation",
+    "locator": "W/120",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      9.98,
+      4.93,
+      15.2
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "Union",
+    "position": [
+      -518.56,
+      -790.45,
+      369.28
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:4081563133",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.Potato",
+    "index": 753,
+    "parent": "Workspace",
+    "class": "MeshPart",
+    "locator": "W/121",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.44,
+      1.02,
+      2.1
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://6739390210"
+    ],
+    "name": "Potato",
+    "position": [
+      -162.89,
+      -782.61,
+      346.82
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:40875783",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.245",
+    "index": 754,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/122",
+    "scripts": 0,
+    "children": [
+      "降低寒冷值 [IntValue]",
+      "Meshes/SM_Prop_Beetroot_01_L [MeshPart]",
+      "Meshes/SM_Prop_Pepper_01 [MeshPart]",
+      "RootPart [Part]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.86,
+      3.8,
+      2.68
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://6739339778",
+      "rbxassetid://6739414522"
+    ],
+    "name": "245",
+    "position": [
+      -912.26,
+      -790.97,
+      -121.35
+    ],
+    "anchored": 2,
+    "humanoids": 0,
+    "geometry": "3:2467148192",
+    "descendants": 6
+  },
+  {
+    "path": "Workspace.Union",
+    "index": 755,
+    "parent": "Workspace",
+    "class": "UnionOperation",
+    "locator": "W/123",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      7.31,
+      2.92,
+      0.83
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "Union",
+    "position": [
+      278.93,
+      -789.47,
+      -289.89
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:3325782574",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.Model",
+    "index": 756,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/124",
+    "scripts": 0,
+    "children": [
+      "Meshes/蒸汽枪（长）_柱体.008 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_立方体.006 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_立方体.008 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_body.012 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_柱体.010 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_立方体.014 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_柱体.005 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_立方体 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_mag.001 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_立方体.005 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_body.015 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_柱体.009 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_立方体.013 (2) [MeshPart]"
+    ],
+    "parts": 13,
+    "attrs": [],
+    "meshes": 13,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0.52,
+      1.26,
+      9.35
+    ],
+    "collidable": 13,
+    "meshIds": [
+      "rbxassetid://105325350879753",
+      "rbxassetid://113935952003766",
+      "rbxassetid://114866570541375",
+      "rbxassetid://119636711854875",
+      "rbxassetid://123566335887981",
+      "rbxassetid://127477035040484",
+      "rbxassetid://140638696583164",
+      "rbxassetid://72679901238793",
+      "rbxassetid://76519734145590",
+      "rbxassetid://79737187561433",
+      "rbxassetid://82291492021322",
+      "rbxassetid://82465940060167",
+      "rbxassetid://85948468760743"
+    ],
+    "name": "Model",
+    "position": [
+      -900.55,
+      -792.24,
+      -103.61
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "13:2167097593",
+    "descendants": 25
+  },
+  {
+    "path": "Workspace.Meshes/酿酒配件_圆柱体",
+    "index": 757,
+    "parent": "Workspace",
+    "class": "MeshPart",
+    "locator": "W/125",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.63,
+      3.13,
+      0.65
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://88937704005930"
+    ],
+    "name": "Meshes/酿酒配件_圆柱体",
+    "position": [
+      -76.41,
+      -783.21,
+      -597.35
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:2434116316",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.雪覆盖",
+    "index": 758,
+    "parent": "Workspace",
+    "class": "MeshPart",
+    "locator": "W/126",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      8.34,
+      5.1,
+      8.79
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://138706541488462"
+    ],
+    "name": "雪覆盖",
+    "position": [
+      -54.31,
+      -787.14,
+      126.41
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:2837698736",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.1x1,木屋",
+    "index": 759,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/127",
+    "scripts": 4,
+    "children": [
+      "RootPart [Part]",
+      "Model [Model]"
+    ],
+    "parts": 33,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "Sound Script",
+      "Script",
+      "Script",
+      "Sound Script"
+    ],
+    "animations": 0,
+    "size": [
+      24.94,
+      20.76,
+      20.66
+    ],
+    "collidable": 27,
+    "meshIds": [],
+    "name": "1x1,木屋",
+    "position": [
+      110.06,
+      -781.83,
+      317.37
+    ],
+    "anchored": 27,
+    "humanoids": 0,
+    "geometry": "33:3307289359",
+    "descendants": 59
+  },
+  {
+    "path": "Workspace.沼泽地块-毒沼泽",
+    "index": 760,
+    "parent": "Workspace",
+    "class": "Part",
+    "locator": "W/128",
+    "scripts": 1,
+    "children": [
+      "Union [UnionOperation]",
+      "SurfaceGui [SurfaceGui]",
+      "Union [UnionOperation]",
+      "WeldConstraint [WeldConstraint]",
+      "加长 [Part]",
+      "GasTouchPart [Part]",
+      "Union [UnionOperation]"
+    ],
+    "parts": 6,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "毒沼泽"
+    ],
+    "animations": 0,
+    "size": [
+      50,
+      10,
+      50
+    ],
+    "collidable": 5,
+    "meshIds": [],
+    "name": "沼泽地块-毒沼泽",
+    "position": [
+      36.76,
+      -787.92,
+      -469.99
+    ],
+    "anchored": 4,
+    "humanoids": 0,
+    "geometry": "6:2592283852",
+    "descendants": 15
+  },
+  {
+    "path": "Workspace.形象",
+    "index": 761,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/129",
+    "scripts": 1,
+    "children": [
+      "Head [Part]",
+      "Body Colors [BodyColors]",
+      "Right Arm [Part]",
+      "Right Leg [Part]",
+      "Torso [Part]",
+      "Left Arm [Part]",
+      "Left Leg [Part]",
+      "Humanoid [Humanoid]",
+      "Animate [LocalScript]",
+      "HumanoidRootPart [Part]"
+    ],
+    "parts": 7,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [
+      "Animate"
+    ],
+    "animations": 9,
+    "size": [
+      4,
+      5,
+      1
+    ],
+    "collidable": 2,
+    "meshIds": [],
+    "name": "形象",
+    "position": [
+      -867.14,
+      -790.37,
+      -171.44
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "7:3182846578",
+    "descendants": 67
+  },
+  {
+    "path": "Workspace.马鞍",
+    "index": 762,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/130",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]",
+      "Union [UnionOperation]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.22,
+      2.5,
+      2.35
+    ],
+    "collidable": 2,
+    "meshIds": [],
+    "name": "马鞍",
+    "position": [
+      -996.28,
+      -791.45,
+      -82.85
+    ],
+    "anchored": 2,
+    "humanoids": 0,
+    "geometry": "2:298240317",
+    "descendants": 2
+  },
+  {
+    "path": "Workspace.雪覆盖",
+    "index": 763,
+    "parent": "Workspace",
+    "class": "MeshPart",
+    "locator": "W/131",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      6.78,
+      4.46,
+      13.9
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://86640836574726"
+    ],
+    "name": "雪覆盖",
+    "position": [
+      -43.42,
+      -786.98,
+      144.48
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1592435288",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.Union",
+    "index": 764,
+    "parent": "Workspace",
+    "class": "UnionOperation",
+    "locator": "W/132",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      4.86,
+      4.86,
+      4.86
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "Union",
+    "position": [
+      -734.76,
+      -788.5,
+      -148.11
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1231066049",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.Model",
+    "index": 765,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/133",
+    "scripts": 0,
+    "children": [
+      "Beam Holder [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      39.58,
+      39.58,
+      43.46
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "Model",
+    "position": [
+      822.63,
+      -774.31,
+      545.95
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:3292000347",
+    "descendants": 4
+  },
+  {
+    "path": "Workspace.206",
+    "index": 766,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/134",
+    "scripts": 0,
+    "children": [
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]"
+    ],
+    "parts": 15,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      5.07,
+      2.61,
+      2.64
+    ],
+    "collidable": 15,
+    "meshIds": [],
+    "name": "206",
+    "position": [
+      -211.26,
+      -791.56,
+      -388.37
+    ],
+    "anchored": 15,
+    "humanoids": 0,
+    "geometry": "15:3087923754",
+    "descendants": 15
+  },
+  {
+    "path": "Workspace.Part",
+    "index": 767,
+    "parent": "Workspace",
+    "class": "Part",
+    "locator": "W/135",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0.37,
+      0.47,
+      0.34
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "Part",
+    "position": [
+      -969.08,
+      -788.29,
+      -26.32
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:2203468132",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.Meshes/酿酒配件_圆柱体_6",
+    "index": 768,
+    "parent": "Workspace",
+    "class": "MeshPart",
+    "locator": "W/136",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.56,
+      5.12,
+      2.56
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://76354149244653"
+    ],
+    "name": "Meshes/酿酒配件_圆柱体_6",
+    "position": [
+      -76.1,
+      -782.27,
+      -586.49
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:2137021089",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.Part",
+    "index": 769,
+    "parent": "Workspace",
+    "class": "Part",
+    "locator": "W/137",
+    "scripts": 0,
+    "children": [
+      "Texture [Texture]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.64,
+      2.64,
+      2.64
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "Part",
+    "position": [
+      -788.28,
+      -791.09,
+      -285.2
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:2022287308",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Union",
+    "index": 770,
+    "parent": "Workspace",
+    "class": "UnionOperation",
+    "locator": "W/138",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.03,
+      2.22,
+      1.78
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "Union",
+    "position": [
+      -77.1,
+      -772.68,
+      -574.47
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:3217180101",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.雪覆盖",
+    "index": 771,
+    "parent": "Workspace",
+    "class": "MeshPart",
+    "locator": "W/139",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      8.57,
+      3.53,
+      8.89
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://84437698433402"
+    ],
+    "name": "雪覆盖",
+    "position": [
+      -17.72,
+      -789.59,
+      126.23
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:173218745",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.Part",
+    "index": 772,
+    "parent": "Workspace",
+    "class": "Part",
+    "locator": "W/140",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.3,
+      0.78,
+      1.73
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "Part",
+    "position": [
+      -968.36,
+      -789.87,
+      -25.49
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:3719311574",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.Meat",
+    "index": 773,
+    "parent": "Workspace",
+    "class": "UnionOperation",
+    "locator": "W/141",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [
+      "RawMeat"
+    ],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.47,
+      1.03,
+      1.03
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "Meat",
+    "position": [
+      -180.4,
+      -783.37,
+      346.61
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:3358000928",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.雪覆盖",
+    "index": 774,
+    "parent": "Workspace",
+    "class": "MeshPart",
+    "locator": "W/142",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      8.6,
+      4.43,
+      20.01
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://102257241638285"
+    ],
+    "name": "雪覆盖",
+    "position": [
+      -29.04,
+      -790.18,
+      130.58
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1155608260",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.雪覆盖",
+    "index": 775,
+    "parent": "Workspace",
+    "class": "MeshPart",
+    "locator": "W/143",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      6.87,
+      4.65,
+      14.09
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://102976230876125"
+    ],
+    "name": "雪覆盖",
+    "position": [
+      -4.55,
+      -789.51,
+      144.79
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1745499885",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.Handle",
+    "index": 776,
+    "parent": "Workspace",
+    "class": "Part",
+    "locator": "W/144",
+    "scripts": 0,
+    "children": [
+      "Mesh [SpecialMesh]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      1,
+      2
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=24101267"
+    ],
+    "name": "Handle",
+    "position": [
+      -883.07,
+      -791.65,
+      -188.67
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1758840642",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.904",
+    "index": 777,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/145",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      8.25,
+      0.28,
+      5.5
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "904",
+    "position": [
+      -440.47,
+      -792.73,
+      310.52
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:2464813438",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.615",
+    "index": 778,
+    "parent": "Workspace",
+    "class": "Tool",
+    "locator": "W/146",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]",
+      "配置 [Folder]"
+    ],
+    "parts": 16,
+    "attrs": [],
+    "meshes": 13,
+    "tags": [
+      "RegularBulletStyle"
+    ],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0.52,
+      1.88,
+      9.38
+    ],
+    "collidable": 15,
+    "meshIds": [
+      "rbxassetid://105325350879753",
+      "rbxassetid://113935952003766",
+      "rbxassetid://114866570541375",
+      "rbxassetid://119636711854875",
+      "rbxassetid://123566335887981",
+      "rbxassetid://127477035040484",
+      "rbxassetid://140638696583164",
+      "rbxassetid://72679901238793",
+      "rbxassetid://76519734145590",
+      "rbxassetid://79737187561433",
+      "rbxassetid://82291492021322",
+      "rbxassetid://82465940060167",
+      "rbxassetid://85948468760743"
+    ],
+    "name": "615",
+    "position": [
+      -902.69,
+      -791.93,
+      -102.59
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "16:3357852598",
+    "descendants": 41
+  },
+  {
+    "path": "Workspace.雪覆盖",
+    "index": 779,
+    "parent": "Workspace",
+    "class": "MeshPart",
+    "locator": "W/147",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      11.15,
+      3.38,
+      14.04
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://86479096153011"
+    ],
+    "name": "雪覆盖",
+    "position": [
+      -17.9,
+      -789.65,
+      144.77
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:3467377531",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.Model",
+    "index": 780,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/148",
+    "scripts": 0,
+    "children": [
+      "Meshes/酿酒配件_圆柱体_3 [MeshPart]",
+      "Meshes/酿酒配件_圆柱体_3 [MeshPart]",
+      "Meshes/酿酒配件_圆柱体_3 [MeshPart]",
+      "Meshes/酿酒配件_圆柱体_3 [MeshPart]"
+    ],
+    "parts": 4,
+    "attrs": [],
+    "meshes": 4,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3,
+      1.57,
+      3
+    ],
+    "collidable": 4,
+    "meshIds": [
+      "rbxassetid://90063595916894"
+    ],
+    "name": "Model",
+    "position": [
+      -76.1,
+      -776.82,
+      -575.26
+    ],
+    "anchored": 4,
+    "humanoids": 0,
+    "geometry": "4:1944362971",
+    "descendants": 4
+  }
+]

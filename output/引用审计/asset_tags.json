@@ -1,0 +1,1189 @@
+[
+  {
+    "id": "AF-0002",
+    "tags": [
+      "GameDoor"
+    ]
+  },
+  {
+    "id": "AF-0003",
+    "tags": [
+      "GameDoor"
+    ]
+  },
+  {
+    "id": "AF-0015",
+    "tags": [
+      "DraggablePart"
+    ]
+  },
+  {
+    "id": "AF-0024",
+    "tags": [
+      "Door",
+      "GameDoor"
+    ]
+  },
+  {
+    "id": "AF-0025",
+    "tags": [
+      "Door"
+    ]
+  },
+  {
+    "id": "AF-0027",
+    "tags": [
+      "SpecialEvent"
+    ]
+  },
+  {
+    "id": "AF-0030",
+    "tags": [
+      "Water"
+    ]
+  },
+  {
+    "id": "AF-0031",
+    "tags": [
+      "SpecialEvent"
+    ]
+  },
+  {
+    "id": "AF-0033",
+    "tags": [
+      "Water"
+    ]
+  },
+  {
+    "id": "AF-0049",
+    "tags": [
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0053",
+    "tags": [
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0060",
+    "tags": [
+      "Door"
+    ]
+  },
+  {
+    "id": "AF-0064",
+    "tags": [
+      "Door"
+    ]
+  },
+  {
+    "id": "AF-0067",
+    "tags": [
+      "Door"
+    ]
+  },
+  {
+    "id": "AF-0068",
+    "tags": [
+      "Door"
+    ]
+  },
+  {
+    "id": "AF-0069",
+    "tags": [
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0070",
+    "tags": [
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0071",
+    "tags": [
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0072",
+    "tags": [
+      "Door",
+      "GameDoor",
+      "TreasurePoint",
+      "UIBuilding"
+    ]
+  },
+  {
+    "id": "AF-0073",
+    "tags": [
+      "GameDoor"
+    ]
+  },
+  {
+    "id": "AF-0074",
+    "tags": [
+      "Door",
+      "GameDoor",
+      "NatureResItem",
+      "TreasurePoint",
+      "UIBuilding"
+    ]
+  },
+  {
+    "id": "AF-0075",
+    "tags": [
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0076",
+    "tags": [
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0077",
+    "tags": [
+      "PickaxeTarget"
+    ]
+  },
+  {
+    "id": "AF-0081",
+    "tags": [
+      "PickaxeTarget"
+    ]
+  },
+  {
+    "id": "AF-0085",
+    "tags": [
+      "Door",
+      "GameDoor"
+    ]
+  },
+  {
+    "id": "AF-0086",
+    "tags": [
+      "Door",
+      "GameDoor"
+    ]
+  },
+  {
+    "id": "AF-0087",
+    "tags": [
+      "Door",
+      "GameDoor"
+    ]
+  },
+  {
+    "id": "AF-0088",
+    "tags": [
+      "Door",
+      "GameDoor"
+    ]
+  },
+  {
+    "id": "AF-0089",
+    "tags": [
+      "DeerNoEntryZone",
+      "GearMechanismDoor",
+      "WeaponWorkshop"
+    ]
+  },
+  {
+    "id": "AF-0090",
+    "tags": [
+      "SpecialEvent"
+    ]
+  },
+  {
+    "id": "AF-0091",
+    "tags": [
+      "SpecialEvent",
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0092",
+    "tags": [
+      "Door"
+    ]
+  },
+  {
+    "id": "AF-0093",
+    "tags": [
+      "Door",
+      "GameDoor",
+      "NatureResItem"
+    ]
+  },
+  {
+    "id": "AF-0094",
+    "tags": [
+      "SpecialEvent",
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0096",
+    "tags": [
+      "Door",
+      "GameDoor",
+      "NatureResItem",
+      "TreasurePoint",
+      "Water"
+    ]
+  },
+  {
+    "id": "AF-0097",
+    "tags": [
+      "SpecialEvent"
+    ]
+  },
+  {
+    "id": "AF-0098",
+    "tags": [
+      "NatureResItem",
+      "Senior"
+    ]
+  },
+  {
+    "id": "AF-0099",
+    "tags": [
+      "NatureResItem",
+      "Senior"
+    ]
+  },
+  {
+    "id": "AF-0100",
+    "tags": [
+      "NatureResItem",
+      "Senior"
+    ]
+  },
+  {
+    "id": "AF-0101",
+    "tags": [
+      "SpecialEvent",
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0102",
+    "tags": [
+      "NatureResItem",
+      "Senior"
+    ]
+  },
+  {
+    "id": "AF-0103",
+    "tags": [
+      "NatureResItem",
+      "SpecialEvent",
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0104",
+    "tags": [
+      "NatureResItem",
+      "Senior"
+    ]
+  },
+  {
+    "id": "AF-0105",
+    "tags": [
+      "NatureResItem",
+      "Senior"
+    ]
+  },
+  {
+    "id": "AF-0106",
+    "tags": [
+      "NatureResItem",
+      "Senior"
+    ]
+  },
+  {
+    "id": "AF-0108",
+    "tags": [
+      "UITreasure"
+    ]
+  },
+  {
+    "id": "AF-0110",
+    "tags": [
+      "UITreasure"
+    ]
+  },
+  {
+    "id": "AF-0116",
+    "tags": [
+      "UITreasure"
+    ]
+  },
+  {
+    "id": "AF-0117",
+    "tags": [
+      "UITreasure"
+    ]
+  },
+  {
+    "id": "AF-0118",
+    "tags": [
+      "UITreasure"
+    ]
+  },
+  {
+    "id": "AF-0124",
+    "tags": [
+      "UITreasure"
+    ]
+  },
+  {
+    "id": "AF-0135",
+    "tags": [
+      "NPCprompt",
+      "NatureResItem"
+    ]
+  },
+  {
+    "id": "AF-0136",
+    "tags": [
+      "NatureResItem"
+    ]
+  },
+  {
+    "id": "AF-0144",
+    "tags": [
+      "NatureResItem"
+    ]
+  },
+  {
+    "id": "AF-0145",
+    "tags": [
+      "NatureResItem"
+    ]
+  },
+  {
+    "id": "AF-0146",
+    "tags": [
+      "NatureResItem"
+    ]
+  },
+  {
+    "id": "AF-0149",
+    "tags": [
+      "NPCprompt",
+      "RegularBulletStyle"
+    ]
+  },
+  {
+    "id": "AF-0158",
+    "tags": [
+      "RegularBulletStyle"
+    ]
+  },
+  {
+    "id": "AF-0179",
+    "tags": [
+      "RegularBulletStyle"
+    ]
+  },
+  {
+    "id": "AF-0208",
+    "tags": [
+      "DraggablePart"
+    ]
+  },
+  {
+    "id": "AF-0214",
+    "tags": [
+      "RegularBulletStyle"
+    ]
+  },
+  {
+    "id": "AF-0224",
+    "tags": [
+      "DraggablePart"
+    ]
+  },
+  {
+    "id": "AF-0242",
+    "tags": [
+      "RegularBulletStyle",
+      "VFX"
+    ]
+  },
+  {
+    "id": "AF-0261",
+    "tags": [
+      "RegularBulletStyle"
+    ]
+  },
+  {
+    "id": "AF-0263",
+    "tags": [
+      "RawMeat"
+    ]
+  },
+  {
+    "id": "AF-0273",
+    "tags": [
+      "RegularBulletStyle"
+    ]
+  },
+  {
+    "id": "AF-0274",
+    "tags": [
+      "NatureResItem"
+    ]
+  },
+  {
+    "id": "AF-0278",
+    "tags": [
+      "ButtonAnimation"
+    ]
+  },
+  {
+    "id": "AF-0281",
+    "tags": [
+      "ShotGunBulletStyle"
+    ]
+  },
+  {
+    "id": "AF-0287",
+    "tags": [
+      "RegularBulletStyle"
+    ]
+  },
+  {
+    "id": "AF-0293",
+    "tags": [
+      "RegularBulletStyle"
+    ]
+  },
+  {
+    "id": "AF-0308",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0309",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0374",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0386",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0387",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0390",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0394",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0396",
+    "tags": [
+      "1760886572",
+      "1760890627"
+    ]
+  },
+  {
+    "id": "AF-0398",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0399",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0402",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0404",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0405",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0406",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0408",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0409",
+    "tags": [
+      "1760886572",
+      "1760890627"
+    ]
+  },
+  {
+    "id": "AF-0413",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0414",
+    "tags": [
+      "DeerNoEntryZone",
+      "Door",
+      "NatureResItem",
+      "OldMineTown",
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0423",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0424",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0428",
+    "tags": [
+      "RegularBulletStyle",
+      "VFX",
+      "WaterGunSkinEffect"
+    ]
+  },
+  {
+    "id": "AF-0432",
+    "tags": [
+      "RegularBulletStyle",
+      "VFX",
+      "WaterGunSkinEffect"
+    ]
+  },
+  {
+    "id": "AF-0433",
+    "tags": [
+      "ButtonAnimation"
+    ]
+  },
+  {
+    "id": "AF-0483",
+    "tags": [
+      "Door"
+    ]
+  },
+  {
+    "id": "AF-0484",
+    "tags": [
+      "Door"
+    ]
+  },
+  {
+    "id": "AF-0485",
+    "tags": [
+      "Door",
+      "GameDoor",
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0486",
+    "tags": [
+      "GameDoor",
+      "TreasurePoint",
+      "UIBuilding"
+    ]
+  },
+  {
+    "id": "AF-0496",
+    "tags": [
+      "SeedlessTree"
+    ]
+  },
+  {
+    "id": "AF-0500",
+    "tags": [
+      "NatureResItem",
+      "Senior"
+    ]
+  },
+  {
+    "id": "AF-0501",
+    "tags": [
+      "NatureResItem",
+      "Senior"
+    ]
+  },
+  {
+    "id": "AF-0502",
+    "tags": [
+      "NPCprompt"
+    ]
+  },
+  {
+    "id": "AF-0503",
+    "tags": [
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0504",
+    "tags": [
+      "Door",
+      "DraggablePart",
+      "GameDoor",
+      "NatureResItem",
+      "SpecialEvent",
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0505",
+    "tags": [
+      "NatureResItem"
+    ]
+  },
+  {
+    "id": "AF-0506",
+    "tags": [
+      "NatureResItem",
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0507",
+    "tags": [
+      "NatureResItem",
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0508",
+    "tags": [
+      "SpecialEvent",
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0509",
+    "tags": [
+      "NatureResItem",
+      "Senior"
+    ]
+  },
+  {
+    "id": "AF-0510",
+    "tags": [
+      "NatureResItem"
+    ]
+  },
+  {
+    "id": "AF-0511",
+    "tags": [
+      "Locomotive"
+    ]
+  },
+  {
+    "id": "AF-0514",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0515",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0516",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0517",
+    "tags": [
+      "1760886572",
+      "1760890627"
+    ]
+  },
+  {
+    "id": "AF-0518",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0519",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0520",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0521",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0522",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0523",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0524",
+    "tags": [
+      "1760886572",
+      "1760890627"
+    ]
+  },
+  {
+    "id": "AF-0525",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0526",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0527",
+    "tags": [
+      "GameDoor",
+      "TreasurePoint",
+      "UIBuilding"
+    ]
+  },
+  {
+    "id": "AF-0528",
+    "tags": [
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0529",
+    "tags": [
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0530",
+    "tags": [
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0531",
+    "tags": [
+      "Door"
+    ]
+  },
+  {
+    "id": "AF-0538",
+    "tags": [
+      "Door"
+    ]
+  },
+  {
+    "id": "AF-0551",
+    "tags": [
+      "NatureResItem",
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0552",
+    "tags": [
+      "NatureResItem",
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0553",
+    "tags": [
+      "Door",
+      "NatureResItem",
+      "SpecialEvent",
+      "TreasurePoint",
+      "UIBuilding"
+    ]
+  },
+  {
+    "id": "AF-0554",
+    "tags": [
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0557",
+    "tags": [
+      "SceneRankList"
+    ]
+  },
+  {
+    "id": "AF-0561",
+    "tags": [
+      "NPCprompt"
+    ]
+  },
+  {
+    "id": "AF-0563",
+    "tags": [
+      "NatureResItem",
+      "TreasurePoint",
+      "UISnowMountain"
+    ]
+  },
+  {
+    "id": "AF-0564",
+    "tags": [
+      "NatureResItem"
+    ]
+  },
+  {
+    "id": "AF-0565",
+    "tags": [
+      "NatureResItem"
+    ]
+  },
+  {
+    "id": "AF-0568",
+    "tags": [
+      "DraggablePart",
+      "NPCprompt",
+      "NatureResItem"
+    ]
+  },
+  {
+    "id": "AF-0569",
+    "tags": [
+      "NPCprompt"
+    ]
+  },
+  {
+    "id": "AF-0570",
+    "tags": [
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0571",
+    "tags": [
+      "NPCprompt"
+    ]
+  },
+  {
+    "id": "AF-0572",
+    "tags": [
+      "UISantaClaus"
+    ]
+  },
+  {
+    "id": "AF-0573",
+    "tags": [
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0574",
+    "tags": [
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0579",
+    "tags": [
+      "NPCprompt"
+    ]
+  },
+  {
+    "id": "AF-0581",
+    "tags": [
+      "NPCprompt"
+    ]
+  },
+  {
+    "id": "AF-0583",
+    "tags": [
+      "NPCprompt"
+    ]
+  },
+  {
+    "id": "AF-0584",
+    "tags": [
+      "NPCprompt"
+    ]
+  },
+  {
+    "id": "AF-0586",
+    "tags": [
+      "NPCprompt"
+    ]
+  },
+  {
+    "id": "AF-0587",
+    "tags": [
+      "NPCprompt"
+    ]
+  },
+  {
+    "id": "AF-0589",
+    "tags": [
+      "NPCprompt"
+    ]
+  },
+  {
+    "id": "AF-0591",
+    "tags": [
+      "NPCprompt"
+    ]
+  },
+  {
+    "id": "AF-0592",
+    "tags": [
+      "NatureResItem"
+    ]
+  },
+  {
+    "id": "AF-0594",
+    "tags": [
+      "Door",
+      "GameDoor"
+    ]
+  },
+  {
+    "id": "AF-0598",
+    "tags": [
+      "VFX"
+    ]
+  },
+  {
+    "id": "AF-0603",
+    "tags": [
+      "SceneRankList"
+    ]
+  },
+  {
+    "id": "AF-0604",
+    "tags": [
+      "DraggablePart"
+    ]
+  },
+  {
+    "id": "AF-0613",
+    "tags": [
+      "Door",
+      "GameDoor",
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0616",
+    "tags": [
+      "Door",
+      "GameDoor",
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0618",
+    "tags": [
+      "Door",
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0623",
+    "tags": [
+      "GameDoor"
+    ]
+  },
+  {
+    "id": "AF-0638",
+    "tags": [
+      "NatureResItem",
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0667",
+    "tags": [
+      "Water"
+    ]
+  },
+  {
+    "id": "AF-0686",
+    "tags": [
+      "TreasurePoint"
+    ]
+  },
+  {
+    "id": "AF-0688",
+    "tags": [
+      "NoFace"
+    ]
+  },
+  {
+    "id": "AF-0715",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0723",
+    "tags": [
+      "Door"
+    ]
+  },
+  {
+    "id": "AF-0727",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0741",
+    "tags": [
+      "GameDoor"
+    ]
+  },
+  {
+    "id": "AF-0759",
+    "tags": [
+      "Door"
+    ]
+  },
+  {
+    "id": "AF-0773",
+    "tags": [
+      "RawMeat"
+    ]
+  },
+  {
+    "id": "AF-0778",
+    "tags": [
+      "RegularBulletStyle",
+      "VFX"
+    ]
+  },
+  {
+    "id": "AF-0786",
+    "tags": [
+      "RegularBulletStyle"
+    ]
+  },
+  {
+    "id": "AF-0787",
+    "tags": [
+      "1763453464"
+    ]
+  },
+  {
+    "id": "AF-0848",
+    "tags": [
+      "Door"
+    ]
+  },
+  {
+    "id": "AF-0862",
+    "tags": [
+      "RegularBulletStyle"
+    ]
+  },
+  {
+    "id": "AF-0869",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0887",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0891",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0896",
+    "tags": [
+      "1755745508"
+    ]
+  },
+  {
+    "id": "AF-0899",
+    "tags": [
+      "Locomotive",
+      "TrainDoor"
+    ]
+  }
+]

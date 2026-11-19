@@ -1,0 +1,12 @@
+.reskin-overview{padding:14px 0 18px;border-bottom:1px solid var(--line);font-size:14px;color:#4c6256;line-height:1.8}
+.reskin-overview>div{display:flex;gap:12px;align-items:baseline;flex-wrap:wrap}.reskin-overview strong{font-size:16px;color:#2c4738}
+.reskin-overview details{margin-top:6px}.reskin-overview summary{cursor:pointer}.reskin-overview p{margin:7px 0 0;max-width:950px}
+.reskin-flag{display:inline-block;padding:4px 7px;border-radius:4px;border:1px solid #d0d9d3;font-size:14px;line-height:1.4;font-weight:500;white-space:nowrap}
+.reskin-flag.direct{background:#e1efe5;color:#28593c}.reskin-flag.prepare{background:#e9edf5;color:#354e78}.reskin-flag.verify{background:#fff0ce;color:#765620}.reskin-flag.none{background:#eeefef;color:#5f6664}
+.reskin-workflow{display:block;font-size:14px;line-height:1.6;margin-top:5px;color:#4c6258}.reskin-plan-link{font-size:14px;border:0;background:none;padding:0;margin-top:3px;color:#45635e;text-decoration:underline;text-underline-offset:3px}
+.reskin-cell{min-width:165px}.reskin-detail h4{font-size:16px;font-weight:600;margin:17px 0 8px;color:#2c4738}.reskin-detail p,.reskin-detail li,.reskin-detail summary{font-size:14px;line-height:1.9;color:#4b6055}.reskin-detail ol,.reskin-detail ul{padding-left:22px}.reskin-detail li{margin:8px 0}.reskin-detail details{margin-top:16px}.reskin-detail summary{cursor:pointer}.reskin-companions button{font-size:14px;padding:0;border:0;background:none;color:#345d56;text-align:left;text-decoration:underline;text-underline-offset:3px}.reskin-companions small{display:block;font-size:13px;color:#6b796d}.reskin-boundary{padding:10px 12px;background:#eff3f0;border-radius:5px;margin-top:16px!important}
+.table-wrap{max-width:100%;contain:inline-size paint}
+.reskin-detail .reskin-plan-link{display:none}.reskin-detail .reskin-workflow{display:inline-block;margin:0 0 0 10px}
+.asset-table{min-width:1120px}.asset-table th:first-child{width:29%}.asset-table th:nth-child(2){width:16%}.asset-table th:nth-child(3){width:11%}.asset-table th:nth-child(4){width:11%}.asset-table th:nth-child(5){width:17%}.asset-table th:nth-child(6){width:7%}.asset-table th:nth-child(7){width:6%}.asset-table th:last-child{width:3%}
+.filters{flex-wrap:wrap}.filter{min-width:140px}
+@media(max-width:760px){.filter{min-width:0}.reskin-overview{font-size:14px}.reskin-overview>div{gap:3px}.reskin-overview strong{display:block}.reskin-detail .reskin-workflow{display:block;margin:5px 0 0}.asset-table{min-width:1120px}}

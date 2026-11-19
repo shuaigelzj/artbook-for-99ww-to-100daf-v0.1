@@ -1,0 +1,422 @@
+{
+  "campfire": "local ConfigVo = {\n\tname = \"CampfireSetting\",\n\tdata = {\t\n\t\t{id=1,baseRange=30,expendHeat=0.04,startHeat=0,maxHeat=5,reward=0},\n\t\t{id=2,baseRange=40,expendHeat=0.036,startHeat=4,maxHeat=11,reward=0},\n\t\t{id=3,baseRange=45,expendHeat=0.028,startHeat=13,maxHeat=49,reward=0},\n\t\t{id=4,baseRange=50,expendHeat=0.024,startHeat=23,maxHeat=91,reward=1},\n\t\t{id=5,baseRange=55,expendHeat=0.02,startHeat=27,maxHeat=119,reward=1},\n\t\t{id=6,baseRange=60,expendHeat=0.016,startHeat=121,maxHeat=121,reward=1}\n\t},\n\tcacheMap = {},\n\n\tk = {\n\t\tid=\"id\",\n\t\tbaseRange=\"baseRange\",\n\t\texpendHeat=\"expendHeat\",\n\t\tstartHeat=\"startHeat\",\n\t\tmaxHeat=\"maxHeat\",\n\t\treward=\"reward\",\n\t\t\n\t},\n}\n\nexport type Type = {\n\tid:number,-- 主键\n\tbaseRange:number,-- 安全范围\n\texpendHeat:number,-- 热量消耗/秒\n\tstartHeat:number,-- 起始热能\n\tmaxHeat:number,-- 最大热能\n\treward:number,-- 奖励\n\t\n}\n\nfunction getKey(tableStr,all)\n\tif not all then\n\t\tall = false\n\tend\n\treturn tableStr..\"_\"..tostring(all)\nend\n\nfunction ConfigVo:getCache(mapKey)\t\n\tlocal suc = false\n\tlocal vo = nil\n\tlocal rw = rawget(ConfigVo.cacheMap, mapKey) or nil\n\tif rw then\n\t\tsuc = true\n\t\tif typeof(rw) ~= \"table\" then\n\t\t\tvo = nil\n\t\telse\n\t\t\tvo = ConfigVo.cacheMap[mapKey]\n\t\tend\n\tend\n\t\n\treturn suc,vo\nend\n\nfunction ConfigVo:Get(key,value,all)\n\tlocal map = rawset({},key,value)\n\treturn ConfigVo:GetMulti(map,all)\nend\n\nfunction ConfigVo:GetById(value,all)\n\treturn ConfigVo:Get(\"id\",value,all)\nend\n\nfunction ConfigVo:GetMulti(map,all)\t\t\n\tif not all then\n\t\tall = false\n\tend\n\n\tlocal mapKey = getKey(game.HttpService:JSONEncode(map),all)\n\tlocal suc,ret = ConfigVo:getCache(mapKey)\n\tif suc then\n\t\treturn ret\n\tend\n\n\tlocal allTable = {}\t\n\tfor i,vo in ipairs(ConfigVo.data) do\n\t\tlocal match = true\n\t\tfor k,v in pairs(map) do\n\t\t\tif rawget(vo,k) ~= v then\n\t\t\t\tmatch = false\n\t\t\tend\n\t\tend\n\n\t\tif match then\n\t\t\ttable.insert(allTable,vo)\n\t\t\tif not all then\n\t\t\t\tbreak\n\t\t\tend\n\t\tend\n\tend\n\n\tif all then\n\t\trawset(ConfigVo.cacheMap, mapKey, allTable)\n\t\treturn allTable\t\t\n\tend\n\n\tif #allTable > 0 then\n\t\tlocal ret = allTable[1]\n\t\trawset(ConfigVo.cacheMap, mapKey, ret)\n\t\treturn ret\n\tend\n\n\trawset(ConfigVo.cacheMap, mapKey, -1)\n\treturn nil\nend\n\nreturn ConfigVo\n",
+  "config": [
+    {
+      "text": "GameHelper.TurkeyMul = game.ReplicatedStorage:FindFirstChild(\"DefaultSetting\"):FindFirstChild(\"Turkey倍率\").Value::number",
+      "line": 79
+    },
+    {
+      "text": "GameHelper.GingerBreadMul = game.ReplicatedStorage:FindFirstChild(\"DefaultSetting\"):FindFirstChild(\"姜饼倍率\").Value::number",
+      "line": 80
+    },
+    {
+      "text": "GameHelper.SwordAtkDistance = 5",
+      "line": 81
+    },
+    {
+      "text": "GameHelper.SwordAtkCD = 0.5",
+      "line": 82
+    },
+    {
+      "text": "GameHelper.MarshWidth = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"沼泽\"):FindFirstChild(\"半径\").Value::number",
+      "line": 83
+    },
+    {
+      "text": "GameHelper.MarshSize = GameHelper.MarshWidth * GameHelper.MarshWidth",
+      "line": 84
+    },
+    {
+      "text": "GameHelper.SnowfieldWidth = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"雪地\"):FindFirstChild(\"直径\").Value::number",
+      "line": 85
+    },
+    {
+      "text": "GameHelper.SnowfieldRadius = math.ceil(GameHelper.SnowfieldWidth / 2)",
+      "line": 86
+    },
+    {
+      "text": "GameHelper.SnowfieldSize = GameHelper.SnowfieldWidth * GameHelper.SnowfieldWidth",
+      "line": 87
+    },
+    {
+      "text": "GameHelper.SnowfieldColdAdd = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"雪地\"):FindFirstChild(\"冷冻增加\").Value::number",
+      "line": 88
+    },
+    {
+      "text": "GameHelper.ReconnectionGraceSeconds = 600",
+      "line": 89
+    },
+    {
+      "text": "",
+      "line": 90
+    },
+    {
+      "text": "GameHelper.playerDataCaches = {}::{PlayerGameData}",
+      "line": 91
+    },
+    {
+      "text": "",
+      "line": 92
+    },
+    {
+      "text": "GameHelper.Switch = {",
+      "line": 93
+    },
+    {
+      "text": "    Marsh = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"沼泽\").Value::boolean,",
+      "line": 94
+    },
+    {
+      "text": "    Rain = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"雨天\").Value::boolean,",
+      "line": 95
+    },
+    {
+      "text": "    Hallowmas = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"万圣节\")::BoolValue,",
+      "line": 96
+    },
+    {
+      "text": "    Train = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"火车大劫案\").Value::boolean,",
+      "line": 97
+    },
+    {
+      "text": "    Thanksgiving = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"感恩节\").Value::boolean,",
+      "line": 98
+    },
+    {
+      "text": "    BigTurkey = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"火鸡王\").Value::boolean,",
+      "line": 99
+    },
+    {
+      "text": "    KingMoose = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"驼鹿王\").Value::boolean,",
+      "line": 100
+    },
+    {
+      "text": "    Quake = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"雷神锤\").Value::boolean,",
+      "line": 101
+    },
+    {
+      "text": "    OldMineTown = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"老矿镇\").Value::boolean,",
+      "line": 102
+    },
+    {
+      "text": "    Snowfield = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"雪地\").Value::boolean,",
+      "line": 103
+    },
+    {
+      "text": "    BellCave = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"铃铛洞穴\").Value::boolean,",
+      "line": 104
+    },
+    {
+      "text": "    WeaponWorkshop = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"武器工坊\").Value::boolean,",
+      "line": 105
+    },
+    {
+      "text": "    Christmas = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"圣诞节\").Value::boolean,",
+      "line": 106
+    },
+    {
+      "text": "    Snow = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"雪块\").Value::boolean,",
+      "line": 107
+    },
+    {
+      "text": "    BullChallenge = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"雪地\"):WaitForChild(\"牛牛Boss挑战\").Value::boolean,",
+      "line": 108
+    },
+    {
+      "text": "    v_fullMoonNight = game.ReplicatedStorage:WaitForChild(\"玩法开关\"):WaitForChild(\"满月\")::BoolValue,",
+      "line": 109
+    },
+    {
+      "text": "}",
+      "line": 110
+    },
+    {
+      "text": "",
+      "line": 111
+    },
+    {
+      "text": "-- 测试相关",
+      "line": 112
+    },
+    {
+      "text": "GameHelper.GridInfoEnable = game.ReplicatedStorage:WaitForChild(\"DebugSetting\"):WaitForChild(\"显示网格信息\").Value::boolean",
+      "line": 113
+    },
+    {
+      "text": "GameHelper.FogEnable = game.ReplicatedStorage:WaitForChild(\"DebugSetting\"):WaitForChild(\"迷雾开关\").Value::boolean",
+      "line": 114
+    },
+    {
+      "text": "GameHelper.DebugGameMode = game.ReplicatedStorage:WaitForChild(\"DebugSetting\"):WaitForChild(\"测试游戏模式\").Value::number",
+      "line": 115
+    },
+    {
+      "text": "",
+      "line": 116
+    },
+    {
+      "text": "GameHelper.onOpenTreasure = CommonFunc:InitBindableEvent(script,\"onOpenTreasure\")",
+      "line": 117
+    },
+    {
+      "text": "GameHelper.TeleportAsync = CommonFunc:InitBindableEvent(script,\"TeleportAsync\")",
+      "line": 118
+    },
+    {
+      "text": "GameHelper.onPlayerEatMarkChanged = CommonFunc:InitBindableEvent(script,\"onPlayerEatMarkChanged\")",
+      "line": 119
+    },
+    {
+      "text": "            ValueHelper:WaitValue(wantedBoard,WantedValue.WantedMan3),",
+      "line": 1189
+    },
+    {
+      "text": "            ValueHelper:WaitValue(wantedBoard,WantedValue.WantedMan4),",
+      "line": 1190
+    },
+    {
+      "text": "        }",
+      "line": 1191
+    },
+    {
+      "text": "",
+      "line": 1192
+    },
+    {
+      "text": "        if GameHelper.Switch.Christmas then",
+      "line": 1193
+    },
+    {
+      "text": "            local cc = GameHelper:GetChristmasController()",
+      "line": 1194
+    },
+    {
+      "text": "            local ChristmasValue = ValueHelper.ValueModel.ChristmasValue",
+      "line": 1195
+    },
+    {
+      "text": "            _v_wantedKills[5] = ValueHelper:WaitValue(cc,ChristmasValue.WantedMan5)",
+      "line": 1196
+    },
+    {
+      "text": "            _v_wantedKills[6] = ValueHelper:WaitValue(cc,ChristmasValue.WantedMan6)",
+      "line": 1197
+    },
+    {
+      "text": "            _v_wantedKills[7] = ValueHelper:WaitValue(cc,ChristmasValue.WantedMan7)",
+      "line": 1198
+    },
+    {
+      "text": "        end",
+      "line": 1199
+    },
+    {
+      "text": "    end",
+      "line": 1200
+    },
+    {
+      "text": "",
+      "line": 1201
+    },
+    {
+      "text": "    return _v_wantedKills::{BoolValue}",
+      "line": 1202
+    },
+    {
+      "text": "end",
+      "line": 1203
+    },
+    {
+      "text": "",
+      "line": 1204
+    },
+    {
+      "text": "function GameHelper:GetDayMultiplier()",
+      "line": 1205
+    },
+    {
+      "text": "    local mul = 1",
+      "line": 1206
+    },
+    {
+      "text": "    local beds:{Model} = CollectionService:GetTagged(GameEnum.Tag.Bed)",
+      "line": 1207
+    },
+    {
+      "text": "    for _,bed in ipairs(beds) do",
+      "line": 1208
+    },
+    {
+      "text": "        local craftLo = CraftItemHelper:GetLoByCraft(bed)",
+      "line": 1209
+    },
+    {
+      "text": "        if craftLo.param then",
+      "line": 1210
+    },
+    {
+      "text": "            mul += tonumber(craftLo.param)",
+      "line": 1211
+    },
+    {
+      "text": "        end",
+      "line": 1212
+    },
+    {
+      "text": "    end",
+      "line": 1213
+    },
+    {
+      "text": "",
+      "line": 1214
+    },
+    {
+      "text": "    local v_dones:{BoolValue} = GameHelper:GetWantedKillList()",
+      "line": 1215
+    },
+    {
+      "text": "    for _,v_done in ipairs(v_dones) do",
+      "line": 1216
+    },
+    {
+      "text": "        if v_done.Value then",
+      "line": 1217
+    },
+    {
+      "text": "            mul += 1",
+      "line": 1218
+    },
+    {
+      "text": "        end",
+      "line": 1219
+    },
+    {
+      "text": "\tTorso.AssemblyAngularVelocity = Vector3.new(a,math.random(-a,a),math.random(-a,a))",
+      "line": 2787
+    },
+    {
+      "text": "end",
+      "line": 2788
+    },
+    {
+      "text": "",
+      "line": 2789
+    },
+    {
+      "text": "function GameHelper:SpawnSnow(ground:Part)",
+      "line": 2790
+    },
+    {
+      "text": "    if not GameHelper.Switch.Snow then return end",
+      "line": 2791
+    },
+    {
+      "text": "    MapHelper:SpawnSnow(ground)",
+      "line": 2792
+    },
+    {
+      "text": "end",
+      "line": 2793
+    },
+    {
+      "text": "",
+      "line": 2794
+    },
+    {
+      "text": "function GameHelper:PlaySnowSmash(pos:Vector3,num:number?,force:number?)",
+      "line": 2795
+    },
+    {
+      "text": "\tlocal color = Color3.new(1,1,1)",
+      "line": 2796
+    },
+    {
+      "text": "\t-- local force = 50",
+      "line": 2797
+    },
+    {
+      "text": "    if not force then force = 50 end",
+      "line": 2798
+    },
+    {
+      "text": "",
+      "line": 2799
+    },
+    {
+      "text": "\tlocal lifeTime = 3",
+      "line": 2800
+    },
+    {
+      "text": "\tlocal tweenInfo = TweenInfo.new(lifeTime * 0.5,Enum.EasingStyle.Linear,Enum.EasingDirection.Out,0,false,lifeTime * 0.5)",
+      "line": 2801
+    },
+    {
+      "text": "    if not num then num = 20 end",
+      "line": 2802
+    },
+    {
+      "text": "\tfor i = 1,num do",
+      "line": 2803
+    },
+    {
+      "text": "\t\tlocal part = Instance.new(\"Part\")",
+      "line": 2804
+    },
+    {
+      "text": "\t\tpart.Color = color",
+      "line": 2805
+    },
+    {
+      "text": "\t\tpart.CanTouch = false",
+      "line": 2806
+    },
+    {
+      "text": "\t\tpart.Massless = true",
+      "line": 2807
+    },
+    {
+      "text": "\t\tpart.Material = Enum.Material.Snow",
+      "line": 2808
+    },
+    {
+      "text": "\t\tpart.Shape = Enum.PartType.Ball",
+      "line": 2809
+    },
+    {
+      "text": "\t\tpart:AddTag(\"SnowballDebris\")",
+      "line": 2810
+    },
+    {
+      "text": "",
+      "line": 2811
+    },
+    {
+      "text": "\t\tlocal offset = Vector3.new(math.random(-5,5),math.random(-5,5),math.random(-5,5))",
+      "line": 2812
+    },
+    {
+      "text": "\t\tpart.Size = Vector3.one * (1 + math.random() * 2)",
+      "line": 2813
+    },
+    {
+      "text": "\t\tpart.CFrame = CFrame.new(pos + offset)",
+      "line": 2814
+    },
+    {
+      "text": "\t\tpart.Parent = workspace",
+      "line": 2815
+    },
+    {
+      "text": "",
+      "line": 2816
+    },
+    {
+      "text": "\t\tlocal force3 = Vector3.new(math.random(-force,force),force,math.random(-force,force)) ",
+      "line": 2817
+    }
+  ],
+  "settings": {
+    "地图大小": 11,
+    "格子大小1": 50,
+    "格子大小2": 5
+  }
+}

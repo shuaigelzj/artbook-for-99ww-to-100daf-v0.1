@@ -1,0 +1,207 @@
+[
+  {
+    "parts": 1,
+    "visibleParts": 0,
+    "method": "界面演示",
+    "guiWidgets": 2,
+    "id": "AF-0433",
+    "note": "从原界面容器提取控件到临时展示面，启用根层默认布局；没有填写虚构运行数据，也未运行交互脚本。",
+    "scriptsRemoved": 0,
+    "guiRoots": 1,
+    "captureMode": "Studio scripted preview",
+    "camera": [
+      20000,
+      10000,
+      -20056.685546875,
+      -1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      -1
+    ],
+    "name": "UIStore",
+    "focus": [
+      20000,
+      10000,
+      -20000
+    ],
+    "viewport": [
+      788,
+      392
+    ],
+    "path": "Workspace.Prefabs.UI.UIStore",
+    "fieldOfView": 35,
+    "size": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "visibleParts": 0,
+    "method": "说明卡",
+    "id": "AF-0475",
+    "parts": 0,
+    "scriptsRemoved": 0,
+    "note": "当前未含 BasePart，无法拍摄模型外观。\n\n本图保留对象结构信息，不表示该对象没有用途。",
+    "captureMode": "Studio scripted preview",
+    "camera": [
+      28000,
+      10000,
+      -20022.00390625,
+      -1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      -1
+    ],
+    "name": "Model",
+    "focus": [
+      28000,
+      10000,
+      -20000
+    ],
+    "viewport": [
+      788,
+      392
+    ],
+    "path": "Workspace.Prefabs.马匹.Model",
+    "fieldOfView": 35,
+    "size": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "visibleParts": 0,
+    "method": "效果演示",
+    "id": "AF-0648",
+    "parts": 0,
+    "scriptsRemoved": 0,
+    "note": "使用临时木块承载原 Highlight，启用克隆效果，保留其颜色及透明度参数；木块是演示载体，不属于原资产。",
+    "captureMode": "Studio scripted preview",
+    "camera": [
+      36009,
+      10007,
+      -19991,
+      0.7071067690849304,
+      -0.3407546877861023,
+      0.6195855736732483,
+      0,
+      0.8762263059616089,
+      0.4818999171257019,
+      -0.7071067690849304,
+      -0.3407546877861023,
+      0.6195855736732483
+    ],
+    "name": "WetModel",
+    "focus": [
+      36000,
+      10000,
+      -20000
+    ],
+    "viewport": [
+      788,
+      392
+    ],
+    "path": "Workspace.Wet.WetModel",
+    "fieldOfView": 35,
+    "size": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "visibleParts": 0,
+    "method": "说明卡",
+    "captureMode": "Studio scripted preview",
+    "id": "AF-0663",
+    "note": "全局 Terrain 容器\n编辑态体素单元：0\n当前没有体素地形可拍摄，保留容器说明。",
+    "scriptsRemoved": 0,
+    "parts": 1,
+    "terrainCellCount": 0,
+    "camera": [
+      20000,
+      10000,
+      -12022.0029296875,
+      -1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      -1
+    ],
+    "name": "Terrain",
+    "focus": [
+      20000,
+      10000,
+      -12000
+    ],
+    "viewport": [
+      788,
+      392
+    ],
+    "path": "Workspace.Terrain",
+    "fieldOfView": 35,
+    "size": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "parts": 0,
+    "visibleParts": 0,
+    "method": "界面演示",
+    "guiWidgets": 1,
+    "id": "AF-0905",
+    "note": "从原界面容器提取控件到临时展示面，启用根层默认布局；没有填写虚构运行数据，也未运行交互脚本。",
+    "scriptsRemoved": 0,
+    "guiRoots": 1,
+    "captureMode": "Studio scripted preview",
+    "camera": [
+      28000,
+      10000,
+      -12040.4345703125,
+      -1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      -1
+    ],
+    "name": "Model",
+    "focus": [
+      28000,
+      10000,
+      -12000
+    ],
+    "viewport": [
+      788,
+      392
+    ],
+    "path": "Workspace.Model",
+    "fieldOfView": 35,
+    "size": [
+      0,
+      0,
+      0
+    ]
+  }
+]

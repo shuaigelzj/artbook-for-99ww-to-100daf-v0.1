@@ -1,0 +1,2300 @@
+{
+  "title": "After Fall · 副本与据点图鉴",
+  "snapshot": "2026-11-19",
+  "placeId": "108983613755535",
+  "categories": [
+    {
+      "id": "arena",
+      "name": "独立战场"
+    },
+    {
+      "id": "complex",
+      "name": "复合据点"
+    },
+    {
+      "id": "wanted",
+      "name": "悬赏据点"
+    },
+    {
+      "id": "faction",
+      "name": "群系据点"
+    },
+    {
+      "id": "quest",
+      "name": "NPC 任务"
+    },
+    {
+      "id": "event",
+      "name": "探索事件"
+    }
+  ],
+  "entries": [
+    {
+      "status": "enabled",
+      "size": "3×3",
+      "zones": [
+        3,
+        4
+      ],
+      "materials": [],
+      "hazards": [],
+      "notes": [],
+      "relations": [],
+      "id": "gem-tower",
+      "name": "宝石塔",
+      "alias": "Gem Tower",
+      "category": "arena",
+      "zone": "3 或 4 区",
+      "trigger": "20 分钟冷却后开放；进入检测区开战",
+      "encounter": "首轮 9 波 / 45 名敌人",
+      "reward": "神器、宝石、铁与黄金保险箱",
+      "reset": "结算 180 秒后进入 20 分钟冷却",
+      "summary": "用连续清敌和逐轮升级检验队伍的弹药、治疗与持续输出能力。",
+      "flow": [
+        [
+          "寻找与等候",
+          "地图在 3、4 区选择位置。塔初始化即进入冷却，常规 1200 秒后开放；玩家触碰塔内检测区，战斗才开始。"
+        ],
+        [
+          "逐波推进",
+          "首轮按三层配置，每层三波；每波 3 名近战、2 名枪手，共 45 名。当前敌人容器清空才进入下一波，没有独立的末尾 Boss。"
+        ],
+        [
+          "结算与再战",
+          "最后一波结束后启用奖励。180 秒后进入冷却；下次就绪会清理旧奖励、重新布置奖励，并尝试提高挑战配置等级。"
+        ]
+      ],
+      "combat": [
+        [
+          "首轮",
+          "9 波，每波 203 近战×3、204 枪手×2。"
+        ],
+        [
+          "后续轮次",
+          "配置表有 6 档阵容，逐步加入 V2、V3 等敌人，不能套用首轮人数。"
+        ]
+      ],
+      "rewards": [
+        "神器宝箱、宝石宝箱、铁保险箱、黄金保险箱；内容由各箱掉落池决定。"
+      ],
+      "repeat": "主要推进条件是敌人清空。已读状态机没有离塔立即重置的分支。",
+      "design": "首轮建立稳定清波节奏，后续通过阵容升级增加持续消耗，提供可反复回访的装备目标。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.GemTowerService",
+          "lines": "53–234"
+        },
+        {
+          "path": "ReplicatedStorage.src.ExcelConfig.GemTowerSetting",
+          "lines": "4–57"
+        },
+        {
+          "path": "ServerScriptService.MapService",
+          "lines": "296–305"
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "独立场景",
+      "zones": [
+        3
+      ],
+      "materials": [
+        "截停与破门所需武器、弹药"
+      ],
+      "hazards": [],
+      "notes": [],
+      "relations": [],
+      "id": "train",
+      "name": "火车大劫案",
+      "alias": "The Great Train Robbery",
+      "category": "arena",
+      "zone": "贯穿铁路 / 显示日 ≥3",
+      "trigger": "截停车头、破坏车门后进入",
+      "encounter": "3 节守卫车厢 + 拳击狗 Boss",
+      "reward": "分段宝箱、弹药与 Boss 金子",
+      "reset": "通关后 25 分钟重置",
+      "summary": "从野外截车、破门到逐节车厢攻坚，阶段结构最完整的线性战斗路线。",
+      "flow": [
+        [
+          "截停并破门",
+          "显示日达到 3 后触发发车。车头 HP 归零使列车停车；车门 HP 归零后创建车厢战场并开放传送交互。铁路若未成功生成，本局会移除火车玩法。"
+        ],
+        [
+          "推进三节车厢",
+          "前 3 节分别有 5、6、5 名敌人，合计 16 名。清空敌人后推进后续车厢、生成对应阶段宝箱并开放门交互。"
+        ],
+        [
+          "末节决战",
+          "第 4 节是 Mr.Doge 拳击狗。开门交互触发 Boss，击败后完成整条路线并开始重置倒计时。"
+        ]
+      ],
+      "combat": [
+        [
+          "车厢 1",
+          "210×1、201×2、204×1、209×1，共 5 名。"
+        ],
+        [
+          "车厢 2",
+          "209×1、204×1、216×2、211×1、215×1，共 6 名。"
+        ],
+        [
+          "车厢 3",
+          "209×3、215×1、216×1，共 5 名。"
+        ],
+        [
+          "Mr.Doge",
+          "预设 1500 HP；3 次普攻接 1 次踹击。普攻 30 伤害、范围参数 10；踹击 50 伤害、范围参数 15，约 1 秒预备。"
+        ]
+      ],
+      "rewards": [
+        "车厢 2：2 个仓库车厢宝箱；车厢 3：武器车厢宝箱。",
+        "车厢 4：宝石x3宝箱、炸药车厢宝箱、弹药车厢宝箱。",
+        "拳击狗死亡额外按 RandomId 15 生成 3 件 Gold。"
+      ],
+      "repeat": "通关后 25 分钟重新发车；重置前先把仍在车厢战场的玩家传出。Boss 每次按累计通关数追加 1000 最大生命。",
+      "design": "先用野外追逐与破坏建立仪式感，再切换到有限空间的连续攻坚；分段战利品构成推进反馈。",
+      "sources": [
+        {
+          "path": "Workspace.火车大劫案.火车大劫案_server",
+          "lines": "28–159"
+        },
+        {
+          "path": "Workspace.Prefabs.火车大劫案.车厢战场.车厢战场.车厢战场",
+          "lines": "52–205"
+        },
+        {
+          "path": "Workspace.Prefabs.敌人.Mr.Doge.拳击狗_server",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "1×1 入口 + 地下战场",
+      "zones": [
+        4
+      ],
+      "materials": [
+        "6 颗 703 黄色宝石"
+      ],
+      "hazards": [],
+      "notes": [
+        "黄色、绿色宝石是实物资源，不等于营地宝石货币。",
+        "V2 的额外可驯化对象不能仅凭名称断言。"
+      ],
+      "relations": [
+        "bell-2"
+      ],
+      "id": "bell-1",
+      "name": "1 级铃铛洞穴",
+      "alias": "Big Wolf Cave",
+      "category": "arena",
+      "zone": "4 区",
+      "trigger": "填满 6 个宝石槽后传送进入",
+      "encounter": "大狼 + 3 只幼狼",
+      "reward": "驯兽铃铛 V1、洞穴宝箱",
+      "reset": "击败后 30 分钟",
+      "summary": "把宝石收集、搬运和 Boss 战连接到动物伙伴系统。",
+      "flow": [
+        [
+          "收集并开门",
+          "入口尝试放在 4 区普通陆地。6 个槽各消耗 1 颗对应宝石，全部镶嵌完成后开启传送交互。"
+        ],
+        [
+          "击败守关 Boss",
+          "战场生成 112 大狼与 3 只 102 幼狼。铃铛已生成，但 Boss 存活时不可领取。"
+        ],
+        [
+          "领取铃铛",
+          "Boss 死亡后解锁铃铛、创建奖励箱并清理小怪。铃铛能将符合驯化路径的动物转为伙伴，归属随铃铛持有人更新。"
+        ]
+      ],
+      "combat": [
+        [
+          "Boss",
+          "800 基础 HP、25 伤害、移速 30、攻击冷却 2 秒。"
+        ],
+        [
+          "小怪",
+          "3 只幼狼：各 100 HP、10 基础伤害。"
+        ]
+      ],
+      "rewards": [
+        "Taming Bell V1（128）。",
+        "铃铛洞穴宝箱、铃铛洞穴小宝石宝箱。"
+      ],
+      "repeat": "Boss 死亡后约 30 分钟刷新；每次累计击败为下轮追加 1000 最大生命。已读刷新流程未重置入口的宝石槽。",
+      "design": "以可见的槽位目标引导收集，Boss 胜利奖励新的伙伴能力，而不只是一组消耗品。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.BellCaveService",
+          "lines": "18、44–248"
+        },
+        {
+          "path": "ServerScriptService.MapService",
+          "lines": "718–783"
+        },
+        {
+          "path": "Workspace.Prefabs.Map.铃铛洞穴.1级铃铛洞穴战场",
+          "lines": ""
+        },
+        {
+          "path": "ReplicatedStorage.src.ExcelConfig.EnemySetting",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "1×1 入口 + 地下战场",
+      "zones": [
+        5
+      ],
+      "materials": [
+        "6 颗 704 绿色宝石"
+      ],
+      "hazards": [
+        "两处毒沼触发区，接触施加 InMarshGas 状态"
+      ],
+      "notes": [
+        "黄色、绿色宝石是实物资源，不等于营地宝石货币。",
+        "V2 的额外可驯化对象不能仅凭名称断言。"
+      ],
+      "relations": [
+        "bell-1"
+      ],
+      "id": "bell-2",
+      "name": "2 级铃铛洞穴",
+      "alias": "Big Alligator Cave",
+      "category": "arena",
+      "zone": "5 区",
+      "trigger": "填满 6 个宝石槽后传送进入",
+      "encounter": "大鳄鱼 + 3 只鳄鱼",
+      "reward": "驯兽铃铛 V2、洞穴宝箱",
+      "reset": "击败后 30 分钟",
+      "summary": "以更强小怪和环境状态提高入门洞穴的承伤与走位压力。",
+      "flow": [
+        [
+          "收集并开门",
+          "入口尝试放在 5 区普通陆地。6 个槽各消耗 1 颗对应宝石，全部镶嵌完成后开启传送交互。"
+        ],
+        [
+          "击败守关 Boss",
+          "112 大狼被替换为 113 大鳄鱼，另外生成 3 只 108 鳄鱼。战场还有毒沼状态区。"
+        ],
+        [
+          "领取铃铛",
+          "Boss 死亡后解锁铃铛、创建奖励箱并清理小怪。铃铛能将符合驯化路径的动物转为伙伴，归属随铃铛持有人更新。"
+        ]
+      ],
+      "combat": [
+        [
+          "Boss",
+          "800 基础 HP、35 伤害、移速 25、攻击冷却 2 秒。"
+        ],
+        [
+          "小怪",
+          "3 只鳄鱼：各 250 HP、25 基础伤害。"
+        ]
+      ],
+      "rewards": [
+        "Taming Bell V2（129）。",
+        "铃铛洞穴宝箱、铃铛洞穴小宝石宝箱。"
+      ],
+      "repeat": "Boss 死亡后约 30 分钟刷新；每次累计击败为下轮追加 1000 最大生命。已读刷新流程未重置入口的宝石槽。",
+      "design": "沿用同一入场模板，通过材料、敌人和环境变化形成进阶路线；奖励继续回到野外伙伴系统。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.BellCaveService",
+          "lines": "18、44–248"
+        },
+        {
+          "path": "ServerScriptService.MapService",
+          "lines": "718–783"
+        },
+        {
+          "path": "Workspace.Prefabs.Map.铃铛洞穴.2级铃铛洞穴战场",
+          "lines": ""
+        },
+        {
+          "path": "ReplicatedStorage.src.ExcelConfig.EnemySetting",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "2×1 入口 + 地下战场",
+      "zones": [
+        3
+      ],
+      "materials": [
+        "9 具带 DeadBody 标签的尸体资源"
+      ],
+      "hazards": [
+        "入口毒箭手与长矛兵",
+        "砸地击飞、半血狂暴增援"
+      ],
+      "notes": [],
+      "relations": [],
+      "id": "boar",
+      "name": "野猪王洞穴",
+      "alias": "Wild Boar King",
+      "category": "arena",
+      "zone": "3 区沼泽",
+      "trigger": "献祭 9 具尸体点燃火炬",
+      "encounter": "3000 HP 野猪王 + 小猪",
+      "reward": "Quartz、野猪王与宝石宝箱",
+      "reset": "击败后 25 分钟",
+      "summary": "通过尸体献祭解封，再以睡眠唤醒和半血增援组织一场阶段 Boss 战。",
+      "flow": [
+        [
+          "攻入祭坛",
+          "3 区沼泽尝试放入口。入口还配置 213 毒箭手、214 长矛兵各一名。向祭坛投入 9 具尸体，依次点亮 9 支火炬，完成后开放洞穴传送。"
+        ],
+        [
+          "唤醒野猪王",
+          "进入战场后生成 Boss 和小猪。Boss 初始睡眠；清空对应小猪会唤醒它，直接受伤也会苏醒。"
+        ],
+        [
+          "应对狂暴",
+          "Boss 按 3 次普攻、1 次砸地循环。低于半血后加速、扩大攻击范围并使伤害翻倍，战场再生成一批小猪。"
+        ]
+      ],
+      "combat": [
+        [
+          "Boss",
+          "使用 King of Wild Boars 独立预设，基础 3000 HP。不能套用敌人表里 450 HP 的另一个 Wild Boar King 条目。"
+        ],
+        [
+          "攻击",
+          "普攻约 1.5 秒预备、20 伤害；砸地约 4 秒预备、30 伤害并击飞。狂暴后分别为 40、60，受模式倍率影响。"
+        ]
+      ],
+      "rewards": [
+        "死亡脚本生成 1 个 Quartz（244）。",
+        "野猪王宝箱、宝石宝箱；Boss 死亡后清理小猪。"
+      ],
+      "repeat": "25 分钟冷却结束且战场有人时可再次生成；重复击败每次追加 1000 最大生命。",
+      "design": "先消耗并搬运尸体，后管理唤醒时机；半血强化与增援将压力集中到后半场。",
+      "sources": [
+        {
+          "path": "Workspace.Prefabs.沼泽Map.特殊房子.2x1,野猪王入口.疯猪祭坛.疯猪祭坛",
+          "lines": "52–123"
+        },
+        {
+          "path": "Workspace.沼泽.野猪王战场.野猪王战场.野猪王战场",
+          "lines": ""
+        },
+        {
+          "path": "Workspace.Prefabs.敌人.King of Wild Boars.野猪王_server",
+          "lines": ""
+        },
+        {
+          "path": "ServerScriptService.Game.沼泽",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "独立场景",
+      "zones": [
+        3,
+        4,
+        5
+      ],
+      "materials": [
+        "每座祭坛 5 具尸体；三座齐全时共 15 具"
+      ],
+      "hazards": [
+        "暴雪前置",
+        "冻结积累",
+        "半血后直线冲撞"
+      ],
+      "notes": [
+        "15 具是三个祭坛都生成成功时的总量，不是所有地图都保证的固定消耗。"
+      ],
+      "relations": [],
+      "id": "bull",
+      "name": "雪山牛牛战场",
+      "alias": "Snow Mountain Bull",
+      "category": "arena",
+      "zone": "雪原 / 祭坛分布于 3–5 区",
+      "trigger": "重燃实际生成的全部暴风雪祭坛",
+      "encounter": "5000 HP 双阶段牛牛",
+      "reward": "Quartz、牛王与宝石宝箱",
+      "reset": "击败后 25 分钟",
+      "summary": "先完成整个雪原的祭坛目标，再进入包含冻结与冲撞窗口的双阶段 Boss 战。",
+      "flow": [
+        [
+          "重燃祭坛",
+          "雪原在 3、4、5 区各尝试一个祭坛，每座阈值 5 具尸体。控制器按实际带祭坛标签的对象数量统计，全部重燃后解除暴雪。"
+        ],
+        [
+          "进入正常雪山",
+          "当前牛牛挑战开关为开，雪山切换正常 V2 预设，开放前往独立战场的传送。牛牛初始在雪堆中睡眠，受伤后苏醒。"
+        ],
+        [
+          "读招并输出",
+          "半血前循环为普攻、放屁、普攻、雪球；半血后改为普攻、放屁、普攻、冲撞，并提高移速、切换冰化表现。"
+        ]
+      ],
+      "combat": [
+        [
+          "基础",
+          "预设 5000 HP；普攻基础 15 伤害，狂暴后 25 并附冻结值。"
+        ],
+        [
+          "雪球与冲撞",
+          "雪球增加冻结值。冲撞基础 30 伤害并增加 10 冻结值；2 秒准备、1.5 秒冲刺，结束后约 3 秒眩晕停顿。"
+        ]
+      ],
+      "rewards": [
+        "死亡生成 1 个 Quartz（244）。",
+        "牛王宝箱、宝石宝箱。"
+      ],
+      "repeat": "25 分钟后重生；每次累计击败追加 1000 最大生命。",
+      "design": "把前置准备铺到多个圈层，让探索、尸体运输和天气改变共同服务最终 Boss；冲撞后的停顿提供清楚的输出窗口。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.雪原",
+          "lines": ""
+        },
+        {
+          "path": "Workspace.Prefabs.雪原Map.雪山.雪山控制器.雪山控制器_server",
+          "lines": "24–64"
+        },
+        {
+          "path": "Workspace.Prefabs.雪原Map.雪山.牛牛战场.战场.牛牛战场_server",
+          "lines": ""
+        },
+        {
+          "path": "Workspace.Prefabs.敌人.小牛.小牛_server",
+          "lines": "104–105、161–301、330–446"
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "5×5",
+      "zones": [
+        4
+      ],
+      "materials": [
+        "应对幽灵的灯、圣水或圣剑",
+        "食物与采矿工具"
+      ],
+      "hazards": [
+        "幽灵攻击消耗饥饿",
+        "普通伤害无法伤害幽灵",
+        "自爆僵尸",
+        "拔剑改变整局昼夜倒计时"
+      ],
+      "notes": [
+        "不能写成每晚必刷 12 只幽灵。",
+        "通用建筑幽灵与拔剑事件使用不同容器，不能直接套用同一套清理、刷新规则。"
+      ],
+      "relations": [],
+      "id": "old-mine",
+      "name": "老矿镇 · 幽灵城堡",
+      "alias": "Old Mine Town",
+      "category": "complex",
+      "zone": "4 区沉坑随机分支",
+      "trigger": "夜间城堡 / 满月登记 / 拔剑事件",
+      "encounter": "镇根 12 幽灵点；拔剑另触发 14 名敌人",
+      "reward": "圣剑、矿脉与场景搜刮",
+      "reset": "矿脉与满月点位刷新；拔剑一次性",
+      "summary": "采矿、夜间场景和圣剑遭遇叠加的开放式复合挑战。三套触发条件必须分开理解。",
+      "flow": [
+        [
+          "白天采矿，夜晚现堡",
+          "矿镇是沉坑在普通坑、雷神锤、老矿镇之间的随机分支。矿脉初始化生成，并在满月入夜重建。幽灵城堡则每逢夜间显示并升起，白天隐藏；显示不要求满月。"
+        ],
+        [
+          "辨认满月幽灵",
+          "镇根有 12 个 701 幽灵点。满月入夜为已登记建筑点位设置可刷许可；实际生成还要求夜间、建筑活跃、现有幽灵容器为空。击杀消耗该点本轮许可，白天或建筑失活清理此分支。"
+        ],
+        [
+          "拔剑迎战",
+          "圣剑交互只触发一次：先生成 147 号圣剑，再触发敌群。夜间将整局夜晚倒计时重置为完整夜长；代码也有白天把当前倒计时设为 1 的分支。约 2 秒后生成专用敌群，无必须满月的检查。"
+        ]
+      ],
+      "combat": [
+        [
+          "拔剑敌群",
+          "5 个 701 幽灵、5 个 601 镐子僵尸、4 个 603 自爆僵尸，共 14 名。"
+        ],
+        [
+          "幽灵",
+          "基础 160 HP、普通生命伤害 0、饥饿伤害 10、攻击间隔 2 秒；只接受 Light、HolyWater、HolySword 三类伤害来源。"
+        ],
+        [
+          "子建筑",
+          "教堂、棺材另存点位，但缺少单独初始化证据的子点位不与镇根和拔剑敌群相加。"
+        ]
+      ],
+      "rewards": [
+        "圣剑先到手、敌群随后出现；圣剑可伤害幽灵，对范围内幽灵产生圣光伤害，命中僵尸可施加燃烧。",
+        "矿脉与场景资源；未读到拔剑清敌后额外结算新宝箱的逻辑。"
+      ],
+      "repeat": "满月入夜补矿并重置相应幽灵点位许可；拔剑使用一次性回调，事件脚本未按夜晚重置圣剑。",
+      "design": "用昼夜差异鼓励回访，特殊伤害规则改变配装；先给圣剑再引出敌群，让奖励立刻进入使用场景。",
+      "sources": [
+        {
+          "path": "Workspace.Prefabs.老矿镇.5x5,老矿镇.幽灵城堡_server",
+          "lines": "15–110"
+        },
+        {
+          "path": "Workspace.Prefabs.老矿镇.5x5,老矿镇.矿脉生成_server",
+          "lines": "24–52"
+        },
+        {
+          "path": "ServerScriptService.Game.月圆之夜",
+          "lines": "53–138"
+        },
+        {
+          "path": "ReplicatedStorage.src.GameEnum",
+          "lines": "292–308"
+        },
+        {
+          "path": "ReplicatedStorage.src.Helpers.GameHelper",
+          "lines": "828–831、934–949"
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "3×3",
+      "zones": [
+        4
+      ],
+      "materials": [
+        "带 Iron 标签的材料，累计参数 8 点产出一份弹药"
+      ],
+      "hazards": [],
+      "notes": [
+        "生产脚本没有把清空全部守卫设为投料前置。"
+      ],
+      "relations": [],
+      "id": "gatling",
+      "name": "加特林工坊 · 大酒坊",
+      "alias": "Gatling Workshop",
+      "category": "complex",
+      "zone": "4 区沼泽",
+      "trigger": "群系生成后，由通用建筑服务刷守卫",
+      "encounter": "14 名高阶混编守卫",
+      "reward": "加特林、燃烧瓶、弹药生产",
+      "reset": "未见独立周期重刷；可反复投料",
+      "summary": "大型攻占据点与弹药生产设施的组合，不能按普通资源房处理。",
+      "flow": [
+        [
+          "找到并接战",
+          "沼泽初始化在 4 区合格地块尝试落地。通用建筑服务读取敌人生成点，形成 14 名高阶守卫的混合阵容。"
+        ],
+        [
+          "搜刮固定装备",
+          "预设直接放有 1 把 607 加特林和 4 个 606 燃烧瓶，并可走通用建筑搜刮流程。"
+        ],
+        [
+          "建立补给点",
+          "弹药制作台消耗铁材料的参数值，达到 8 后扣除阈值并生成 504 号弹药。UI 与生产分别由两份同名脚本负责。"
+        ]
+      ],
+      "combat": [
+        [
+          "远程",
+          "7 名 208 枪手 V3。"
+        ],
+        [
+          "近战",
+          "6 名 207 近战 V3、1 名 205 近战 V2。"
+        ]
+      ],
+      "rewards": [
+        "预设加特林、燃烧瓶与场景搜刮内容。",
+        "制作台将铁材料转成 504 弹药。",
+        "敌人标签的整体消失事件挂接与朋友攻略大酒坊统计。"
+      ],
+      "repeat": "通用建筑刷怪主要是首次登记的初始化逻辑；没有独立 20/25/30 分钟副本计时。生产脚本可在后续继续处理材料。",
+      "design": "把高密度守卫与重武器补给放在同一地点，形成攻占后回访生产的据点价值。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.沼泽",
+          "lines": "458–498、561–570"
+        },
+        {
+          "path": "ServerScriptService.Game.BuildingServer",
+          "lines": "78–108"
+        },
+        {
+          "path": "ServerScriptService.StatsService",
+          "lines": "282–298"
+        },
+        {
+          "path": "Workspace.Prefabs.沼泽Map.特殊房子.3x3,加特林工坊LV2",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "2×1",
+      "zones": [
+        3
+      ],
+      "materials": [
+        "isLightFire 燃料累计参数 8 点"
+      ],
+      "hazards": [],
+      "notes": [],
+      "relations": [],
+      "id": "wine",
+      "name": "私酒工坊",
+      "alias": "Moonshine Workshop",
+      "category": "complex",
+      "zone": "3 区沼泽",
+      "trigger": "群系初始化尝试生成",
+      "encounter": "5 名混编守卫",
+      "reward": "燃烧瓶生产、场景搜刮",
+      "reset": "制作台可重复投料",
+      "summary": "以一场中型守卫战连接燃料运输和燃烧瓶加工。",
+      "flow": [
+        [
+          "接近工坊",
+          "沼泽生成器在 3 区合格沼泽落点尝试放置 2×1 工坊；落点失败可能缺席。"
+        ],
+        [
+          "处理混编守卫",
+          "通用建筑服务按预设生成 203、205、206、207、208 各一名，兼有远程与近战压力。"
+        ],
+        [
+          "投入燃料加工",
+          "制作台识别 isLightFire 配置，消耗材料并按参数累计；每达到 8 点生成一个 606 燃烧瓶。"
+        ]
+      ],
+      "combat": [
+        [
+          "守卫",
+          "203 近战 V1、205 近战 V2、207 近战 V3、206 枪手 V2、208 枪手 V3，各 1 名。"
+        ]
+      ],
+      "rewards": [
+        "燃烧瓶（606）；额外搜刮走建筑配置。"
+      ],
+      "repeat": "未发现独立通关冷却计时；可回访制作台继续加工。",
+      "design": "让燃料除了营火用途外获得一条战斗消耗品转化路径，增强运输和回访理由。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.沼泽",
+          "lines": "430–455、489–492"
+        },
+        {
+          "path": "ServerScriptService.Game.BuildingServer",
+          "lines": "78–108"
+        },
+        {
+          "path": "Workspace.Prefabs.沼泽Map.特殊房子.2x1,私酒工坊LV1.燃烧瓶制作台.燃烧瓶制作台",
+          "lines": "12–43"
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "2×2",
+      "zones": [
+        3,
+        4,
+        5
+      ],
+      "materials": [
+        "3 个 Gear（248）",
+        "1 根火鸡王羽毛（250）",
+        "3 件 Gold（222）",
+        "木类累计参数 20"
+      ],
+      "hazards": [],
+      "notes": [],
+      "relations": [
+        "turkey",
+        "gatling"
+      ],
+      "id": "weapon-workshop",
+      "name": "齿轮武器工坊",
+      "alias": "Iron Verdict Workshop",
+      "category": "complex",
+      "zone": "4 区工坊 / 3–5 区齿轮",
+      "trigger": "收集 3 个齿轮、开门并通电",
+      "encounter": "3 名骑乘守卫 + 跨区材料路线",
+      "reward": "Iron Verdict Rifle（615）",
+      "reset": "机器按投入材料循环制作",
+      "summary": "把骑兵据点、跨圈齿轮、火鸡王羽毛和机器加工串成一条制枪路线。",
+      "flow": [
+        [
+          "发现与收集",
+          "4 区尝试放工坊，接近真实工坊后揭示齿轮来源。三处齿轮点分别在 3、4、5 区并有守卫。门上已有一枚齿轮，还需提交三枚。"
+        ],
+        [
+          "开门与通电",
+          "实物齿轮入槽时被消耗，安装动画完成后开门。内部开关控制共享 Powered 状态，机器有电后处理投入与产出。"
+        ],
+        [
+          "制作并装配",
+          "羽毛、Gold、木料分别生产 616 枪管、617 枪身、618 枪托。三件进入对应槽位后消耗并合成 615。成枪未被移出时保留待取状态。"
+        ]
+      ],
+      "combat": [
+        [
+          "工坊守卫",
+          "2 名 225 骑乘近战 V2，1 名 226 骑乘枪手 V2。"
+        ],
+        [
+          "沿线战斗",
+          "齿轮点有各自守卫；羽毛来自独立火鸡王路线。"
+        ]
+      ],
+      "rewards": [
+        "Iron Verdict Rifle（615）；机器消耗对应材料，不是免费领取。"
+      ],
+      "repeat": "门、通电与制造是不同状态。制枪不采用统一副本通关计时，后续产出由投料和成枪取走状态推进。",
+      "design": "让装备目标明确指向多个探索圈层；材料准备、Boss 狩猎、运输和加工都成为进度的一部分。",
+      "sources": [
+        {
+          "path": "ServerScriptService.MapService",
+          "lines": "329–381"
+        },
+        {
+          "path": "ServerScriptService.Game.GearSourceService",
+          "lines": "275–329"
+        },
+        {
+          "path": "ServerScriptService.Game.GearMechanismDoorService",
+          "lines": "408、515–574、671–696"
+        },
+        {
+          "path": "ReplicatedStorage.src.ExcelConfig.WeaponWorkshopSetting",
+          "lines": "12–42、75–90"
+        },
+        {
+          "path": "Workspace.Prefabs.Map.特殊房子.2x2,武器工坊",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "3×3",
+      "zones": [
+        3
+      ],
+      "materials": [
+        "可运输悬赏目标的搬运工具与返程补给"
+      ],
+      "hazards": [],
+      "notes": [
+        "悬赏按显示日推进产生收益，不会直接缩短其他副本的秒级冷却。"
+      ],
+      "relations": [
+        "maya",
+        "sam",
+        "carlos"
+      ],
+      "id": "jack",
+      "name": "Jack 悬赏据点",
+      "alias": "Wanted · Jack",
+      "category": "wanted",
+      "zone": "3 区 / 营火 3",
+      "trigger": "地图生成据点；对应营火等级开放悬赏牌",
+      "encounter": "800 HP Boss + 9 名守卫",
+      "reward": "交付后每次天亮显示日增量 +1",
+      "reset": "本局长期完成项",
+      "summary": "击倒只是战斗阶段，还要把目标搬回营地，才能获得长期推进收益。",
+      "flow": [
+        [
+          "攻入据点",
+          "据点在 3 区生成。Boss 初始化创建，守卫按专用服务的首次地块登记逻辑生成；有宝箱点时创建对应区域等级宝箱。"
+        ],
+        [
+          "击倒并搬运",
+          "Boss 的死亡对象会初始化为可交互资源，保留时间配置为 999999 秒。把对应目标运回营地，而不是仅完成原地击杀。"
+        ],
+        [
+          "营地交付",
+          "交付脚本约每 0.5 秒扫描，目标进入营火当前范围后展示囚犯、标记全队完成、销毁交付对象。此完成项为每次天亮增量增加 1。"
+        ]
+      ],
+      "combat": [
+        [
+          "Boss",
+          "800 基础 HP；枪，15 伤害，攻击距离 15，冷却 1 秒。"
+        ],
+        [
+          "守卫",
+          "6 名 201 近战 V1 + 3 名 202 枪手 V1。"
+        ]
+      ],
+      "rewards": [
+        "预设有宝箱点时生成区域等级宝箱。",
+        "交付后获得本局长期显示日推进收益；四项全部完成共 +4，可与帐篷叠加。"
+      ],
+      "repeat": "普通据点没有采用洞穴式周期 Boss 重生。梦魇、赏金猎人模式另有营救已收押目标的支线，释放后可在营地重建 Boss。",
+      "design": "较多基础兵形成围攻，建立悬赏攻坚的入门节奏。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.WantedStrongholdService",
+          "lines": "11–66"
+        },
+        {
+          "path": "ReplicatedStorage.src.ExcelConfig.WantedSetting",
+          "lines": "4–7"
+        },
+        {
+          "path": "Workspace.Prefabs.Map.WantedBoard.Wanted.WantedBoardScript",
+          "lines": "40–108"
+        },
+        {
+          "path": "ReplicatedStorage.src.Helpers.GameHelper",
+          "lines": "1205–1223"
+        },
+        {
+          "path": "ReplicatedStorage.src.ExcelConfig.EnemySetting",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "3×3",
+      "zones": [
+        4
+      ],
+      "materials": [
+        "可运输悬赏目标的搬运工具与返程补给"
+      ],
+      "hazards": [
+        "夹陷阱：30 HP、固定约 3 秒"
+      ],
+      "notes": [
+        "悬赏按显示日推进产生收益，不会直接缩短其他副本的秒级冷却。"
+      ],
+      "relations": [
+        "jack",
+        "sam",
+        "carlos"
+      ],
+      "id": "maya",
+      "name": "Maya 悬赏据点",
+      "alias": "Wanted · Maya",
+      "category": "wanted",
+      "zone": "4 区 / 营火 4",
+      "trigger": "地图生成据点；对应营火等级开放悬赏牌",
+      "encounter": "800 HP Boss + 5 名守卫",
+      "reward": "交付后每次天亮显示日增量 +1",
+      "reset": "本局长期完成项",
+      "summary": "击倒只是战斗阶段，还要把目标搬回营地，才能获得长期推进收益。",
+      "flow": [
+        [
+          "攻入据点",
+          "据点在 4 区生成。Boss 初始化创建，守卫按专用服务的首次地块登记逻辑生成；有宝箱点时创建对应区域等级宝箱。"
+        ],
+        [
+          "击倒并搬运",
+          "Boss 的死亡对象会初始化为可交互资源，保留时间配置为 999999 秒。把对应目标运回营地，而不是仅完成原地击杀。"
+        ],
+        [
+          "营地交付",
+          "交付脚本约每 0.5 秒扫描，目标进入营火当前范围后展示囚犯、标记全队完成、销毁交付对象。此完成项为每次天亮增量增加 1。"
+        ]
+      ],
+      "combat": [
+        [
+          "Boss",
+          "800 基础 HP；近战，25 伤害，攻击距离 11，冷却 1 秒。"
+        ],
+        [
+          "守卫",
+          "2 名 205 近战 V2 + 3 名 201 近战 V1。"
+        ]
+      ],
+      "rewards": [
+        "预设有宝箱点时生成区域等级宝箱。",
+        "交付后获得本局长期显示日推进收益；四项全部完成共 +4，可与帐篷叠加。"
+      ],
+      "repeat": "普通据点没有采用洞穴式周期 Boss 重生。梦魇、赏金猎人模式另有营救已收押目标的支线，释放后可在营地重建 Boss。",
+      "design": "高伤近战与夹陷阱组合，对接近路线和被控制后的承伤提出要求。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.WantedStrongholdService",
+          "lines": "11–66"
+        },
+        {
+          "path": "ReplicatedStorage.src.ExcelConfig.WantedSetting",
+          "lines": "4–7"
+        },
+        {
+          "path": "Workspace.Prefabs.Map.WantedBoard.Wanted.WantedBoardScript",
+          "lines": "40–108"
+        },
+        {
+          "path": "ReplicatedStorage.src.Helpers.GameHelper",
+          "lines": "1205–1223"
+        },
+        {
+          "path": "ReplicatedStorage.src.ExcelConfig.EnemySetting",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "3×3",
+      "zones": [
+        5
+      ],
+      "materials": [
+        "可运输悬赏目标的搬运工具与返程补给"
+      ],
+      "hazards": [],
+      "notes": [
+        "悬赏按显示日推进产生收益，不会直接缩短其他副本的秒级冷却。"
+      ],
+      "relations": [
+        "jack",
+        "maya",
+        "carlos"
+      ],
+      "id": "sam",
+      "name": "Sam 悬赏据点",
+      "alias": "Wanted · Sam",
+      "category": "wanted",
+      "zone": "5 区 / 营火 5",
+      "trigger": "地图生成据点；对应营火等级开放悬赏牌",
+      "encounter": "800 HP Boss + 6 名守卫",
+      "reward": "交付后每次天亮显示日增量 +1",
+      "reset": "本局长期完成项",
+      "summary": "击倒只是战斗阶段，还要把目标搬回营地，才能获得长期推进收益。",
+      "flow": [
+        [
+          "攻入据点",
+          "据点在 5 区生成。Boss 初始化创建，守卫按专用服务的首次地块登记逻辑生成；有宝箱点时创建对应区域等级宝箱。"
+        ],
+        [
+          "击倒并搬运",
+          "Boss 的死亡对象会初始化为可交互资源，保留时间配置为 999999 秒。把对应目标运回营地，而不是仅完成原地击杀。"
+        ],
+        [
+          "营地交付",
+          "交付脚本约每 0.5 秒扫描，目标进入营火当前范围后展示囚犯、标记全队完成、销毁交付对象。此完成项为每次天亮增量增加 1。"
+        ]
+      ],
+      "combat": [
+        [
+          "Boss",
+          "800 基础 HP；枪，20 伤害，攻击距离 25，冷却 0.6 秒。"
+        ],
+        [
+          "守卫",
+          "205×1、202×3、206×1、208×1。"
+        ]
+      ],
+      "rewards": [
+        "预设有宝箱点时生成区域等级宝箱。",
+        "交付后获得本局长期显示日推进收益；四项全部完成共 +4，可与帐篷叠加。"
+      ],
+      "repeat": "普通据点没有采用洞穴式周期 Boss 重生。梦魇、赏金猎人模式另有营救已收押目标的支线，释放后可在营地重建 Boss。",
+      "design": "长射程、高射击频率 Boss 与混编守卫形成远程压制。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.WantedStrongholdService",
+          "lines": "11–66"
+        },
+        {
+          "path": "ReplicatedStorage.src.ExcelConfig.WantedSetting",
+          "lines": "4–7"
+        },
+        {
+          "path": "Workspace.Prefabs.Map.WantedBoard.Wanted.WantedBoardScript",
+          "lines": "40–108"
+        },
+        {
+          "path": "ReplicatedStorage.src.Helpers.GameHelper",
+          "lines": "1205–1223"
+        },
+        {
+          "path": "ReplicatedStorage.src.ExcelConfig.EnemySetting",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "3×3",
+      "zones": [
+        6
+      ],
+      "materials": [
+        "可运输悬赏目标的搬运工具与返程补给"
+      ],
+      "hazards": [
+        "蝎子夹：30 HP、20 饥饿、固定约 3 秒"
+      ],
+      "notes": [
+        "悬赏按显示日推进产生收益，不会直接缩短其他副本的秒级冷却。"
+      ],
+      "relations": [
+        "jack",
+        "maya",
+        "sam"
+      ],
+      "id": "carlos",
+      "name": "Carlos 悬赏据点",
+      "alias": "Wanted · Carlos",
+      "category": "wanted",
+      "zone": "6 区 / 营火 6",
+      "trigger": "地图生成据点；对应营火等级开放悬赏牌",
+      "encounter": "800 HP Boss + 7 名守卫",
+      "reward": "交付后每次天亮显示日增量 +1",
+      "reset": "本局长期完成项",
+      "summary": "击倒只是战斗阶段，还要把目标搬回营地，才能获得长期推进收益。",
+      "flow": [
+        [
+          "攻入据点",
+          "据点在 6 区生成。Boss 初始化创建，守卫按专用服务的首次地块登记逻辑生成；有宝箱点时创建对应区域等级宝箱。"
+        ],
+        [
+          "击倒并搬运",
+          "Boss 的死亡对象会初始化为可交互资源，保留时间配置为 999999 秒。把对应目标运回营地，而不是仅完成原地击杀。"
+        ],
+        [
+          "营地交付",
+          "交付脚本约每 0.5 秒扫描，目标进入营火当前范围后展示囚犯、标记全队完成、销毁交付对象。此完成项为每次天亮增量增加 1。"
+        ]
+      ],
+      "combat": [
+        [
+          "Boss",
+          "800 基础 HP；枪，18 伤害，攻击距离 15，冷却 0.8 秒。"
+        ],
+        [
+          "守卫",
+          "208×1、205×1、201×2、202×1、206×1、207×1。"
+        ]
+      ],
+      "rewards": [
+        "预设有宝箱点时生成区域等级宝箱。",
+        "交付后获得本局长期显示日推进收益；四项全部完成共 +4，可与帐篷叠加。"
+      ],
+      "repeat": "普通据点没有采用洞穴式周期 Boss 重生。梦魇、赏金猎人模式另有营救已收押目标的支线，释放后可在营地重建 Boss。",
+      "design": "多阶远近程和扣饥饿陷阱共同增加攻入与返程成本。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.WantedStrongholdService",
+          "lines": "11–66"
+        },
+        {
+          "path": "ReplicatedStorage.src.ExcelConfig.WantedSetting",
+          "lines": "4–7"
+        },
+        {
+          "path": "Workspace.Prefabs.Map.WantedBoard.Wanted.WantedBoardScript",
+          "lines": "40–108"
+        },
+        {
+          "path": "ReplicatedStorage.src.Helpers.GameHelper",
+          "lines": "1205–1223"
+        },
+        {
+          "path": "ReplicatedStorage.src.ExcelConfig.EnemySetting",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "2×1",
+      "zones": [
+        3
+      ],
+      "materials": [],
+      "hazards": [],
+      "notes": [],
+      "relations": [
+        "railway-v2"
+      ],
+      "id": "railway",
+      "name": "西部铁道公司 V1",
+      "alias": "Western Railway Company",
+      "category": "faction",
+      "zone": "3 区雪原",
+      "trigger": "雪原初始化尝试生成",
+      "encounter": "6 名混编守卫",
+      "reward": "建筑搜刮",
+      "reset": "首次建筑登记",
+      "summary": "雪原中的中型攻占据点，具有明确的远近程守卫配置。",
+      "spawn": "雪原生成器当前调用 V1，并限定 3 区。需要合格雪原矩形落点，因此不保证每局落地。",
+      "battle": "2 名近战 V2、3 名枪手 V2、1 名近战 V3。阵容同时要求处理前排接近与远程火力。",
+      "guards": "205×2、206×3、207×1，共 6 名。",
+      "prefab": "Workspace.Prefabs.雪原Map.铁道公司.2x1,西部铁道公司V1",
+      "flow": [
+        [
+          "生成与接近",
+          "雪原生成器当前调用 V1，并限定 3 区。需要合格雪原矩形落点，因此不保证每局落地。"
+        ],
+        [
+          "据点战斗",
+          "2 名近战 V2、3 名枪手 V2、1 名近战 V3。阵容同时要求处理前排接近与远程火力。"
+        ],
+        [
+          "搜刮与离开",
+          "通用建筑服务根据预设点位和区域等级生成箱子、散落物与守卫。战斗本身未使用独立通关结算服务。"
+        ]
+      ],
+      "combat": [
+        [
+          "守卫配置",
+          "205×2、206×3、207×1，共 6 名。"
+        ]
+      ],
+      "rewards": [
+        "区域等级对应的通用建筑宝箱、散落物；额外固定物品以预设为准。"
+      ],
+      "repeat": "已读通用建筑服务主要按首次登记初始化；未见专用周期复刷计时。",
+      "design": "以群系兵种与固定守卫阵容构成开放式探索中的战斗节点。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.BuildingServer",
+          "lines": "78–108"
+        },
+        {
+          "path": "ServerScriptService.Game.雪原",
+          "lines": ""
+        },
+        {
+          "path": "Workspace.Prefabs.雪原Map.铁道公司.2x1,西部铁道公司V1",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "2×1",
+      "zones": [
+        4,
+        5
+      ],
+      "materials": [],
+      "hazards": [],
+      "notes": [],
+      "relations": [],
+      "id": "marsh-village",
+      "name": "沼泽土著村落",
+      "zone": "4–5 区沼泽",
+      "n": 4,
+      "guards": "213 毒箭手×2、214 长矛兵×2，共 4 名。",
+      "prefab": "Workspace.Prefabs.沼泽Map.土著村落.2x1,土著村落",
+      "alias": "Marsh Settlement",
+      "category": "faction",
+      "trigger": "群系生成 + 通用建筑刷怪",
+      "encounter": "4 名弓手与长矛兵",
+      "reward": "据点搜刮",
+      "reset": "首次建筑登记",
+      "summary": "沼泽中的毒箭与近战混合遭遇，较大营地提高集中接敌压力。",
+      "spawn": "沼泽在 4–5 区候选中无放回选择村落模板，当前模板池只有两项。循环上限虽为 5，但不能视为必有 5 处。",
+      "battle": "213 毒箭手×2、214 长矛兵×2。守卫由通用建筑服务消费点位生成，没有独立 Boss 阶段。",
+      "flow": [
+        [
+          "生成与接近",
+          "沼泽在 4–5 区候选中无放回选择村落模板，当前模板池只有两项。循环上限虽为 5，但不能视为必有 5 处。"
+        ],
+        [
+          "据点战斗",
+          "213 毒箭手×2、214 长矛兵×2。守卫由通用建筑服务消费点位生成，没有独立 Boss 阶段。"
+        ],
+        [
+          "搜刮与离开",
+          "通用建筑服务根据预设点位和区域等级生成箱子、散落物与守卫。战斗本身未使用独立通关结算服务。"
+        ]
+      ],
+      "combat": [
+        [
+          "守卫配置",
+          "213 毒箭手×2、214 长矛兵×2，共 4 名。"
+        ]
+      ],
+      "rewards": [
+        "区域等级对应的通用建筑宝箱、散落物；额外固定物品以预设为准。"
+      ],
+      "repeat": "已读通用建筑服务主要按首次登记初始化；未见专用周期复刷计时。",
+      "design": "以群系兵种与固定守卫阵容构成开放式探索中的战斗节点。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.BuildingServer",
+          "lines": "78–108"
+        },
+        {
+          "path": "ServerScriptService.Game.沼泽",
+          "lines": ""
+        },
+        {
+          "path": "Workspace.Prefabs.沼泽Map.土著村落.2x1,土著村落",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "2×2",
+      "zones": [
+        4,
+        5
+      ],
+      "materials": [],
+      "hazards": [],
+      "notes": [],
+      "relations": [],
+      "id": "marsh-camp",
+      "name": "沼泽土著营地",
+      "zone": "4–5 区沼泽",
+      "n": 7,
+      "guards": "213 毒箭手×4、214 长矛兵×3，共 7 名。",
+      "prefab": "Workspace.Prefabs.沼泽Map.土著村落.2x2,土著营地",
+      "alias": "Marsh Settlement",
+      "category": "faction",
+      "trigger": "群系生成 + 通用建筑刷怪",
+      "encounter": "7 名弓手与长矛兵",
+      "reward": "据点搜刮",
+      "reset": "首次建筑登记",
+      "summary": "沼泽中的毒箭与近战混合遭遇，较大营地提高集中接敌压力。",
+      "spawn": "沼泽在 4–5 区候选中无放回选择村落模板，当前模板池只有两项。循环上限虽为 5，但不能视为必有 5 处。",
+      "battle": "213 毒箭手×4、214 长矛兵×3。守卫由通用建筑服务消费点位生成，没有独立 Boss 阶段。",
+      "flow": [
+        [
+          "生成与接近",
+          "沼泽在 4–5 区候选中无放回选择村落模板，当前模板池只有两项。循环上限虽为 5，但不能视为必有 5 处。"
+        ],
+        [
+          "据点战斗",
+          "213 毒箭手×4、214 长矛兵×3。守卫由通用建筑服务消费点位生成，没有独立 Boss 阶段。"
+        ],
+        [
+          "搜刮与离开",
+          "通用建筑服务根据预设点位和区域等级生成箱子、散落物与守卫。战斗本身未使用独立通关结算服务。"
+        ]
+      ],
+      "combat": [
+        [
+          "守卫配置",
+          "213 毒箭手×4、214 长矛兵×3，共 7 名。"
+        ]
+      ],
+      "rewards": [
+        "区域等级对应的通用建筑宝箱、散落物；额外固定物品以预设为准。"
+      ],
+      "repeat": "已读通用建筑服务主要按首次登记初始化；未见专用周期复刷计时。",
+      "design": "以群系兵种与固定守卫阵容构成开放式探索中的战斗节点。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.BuildingServer",
+          "lines": "78–108"
+        },
+        {
+          "path": "ServerScriptService.Game.沼泽",
+          "lines": ""
+        },
+        {
+          "path": "Workspace.Prefabs.沼泽Map.土著村落.2x2,土著营地",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "2×1",
+      "zones": [
+        4
+      ],
+      "materials": [],
+      "hazards": [],
+      "notes": [],
+      "relations": [],
+      "id": "snow-village",
+      "name": "雪原土著村落 V1",
+      "zone": "4 区雪原",
+      "n": 4,
+      "guards": "219 雪原弓手×2、220 长矛兵×2，共 4 名。",
+      "prefab": "Workspace.Prefabs.雪原Map.土著村落.2x1,土著村落V1",
+      "alias": "Snowfield Settlement",
+      "category": "faction",
+      "trigger": "群系生成 + 通用建筑刷怪",
+      "encounter": "4 名弓手与长矛兵",
+      "reward": "据点搜刮",
+      "reset": "首次建筑登记",
+      "summary": "以雪原弓手和长矛兵构成群系战斗节点，V2 增加占地与敌人规模。",
+      "spawn": "雪原分别在 4 区尝试村落 V1、5 区尝试营地 V2，均要通过群系占地校验。",
+      "battle": "219 雪原弓手×2、220 长矛兵×2。守卫由通用建筑服务消费点位生成，没有独立 Boss 阶段。",
+      "flow": [
+        [
+          "生成与接近",
+          "雪原分别在 4 区尝试村落 V1、5 区尝试营地 V2，均要通过群系占地校验。"
+        ],
+        [
+          "据点战斗",
+          "219 雪原弓手×2、220 长矛兵×2。守卫由通用建筑服务消费点位生成，没有独立 Boss 阶段。"
+        ],
+        [
+          "搜刮与离开",
+          "通用建筑服务根据预设点位和区域等级生成箱子、散落物与守卫。战斗本身未使用独立通关结算服务。"
+        ]
+      ],
+      "combat": [
+        [
+          "守卫配置",
+          "219 雪原弓手×2、220 长矛兵×2，共 4 名。"
+        ]
+      ],
+      "rewards": [
+        "区域等级对应的通用建筑宝箱、散落物；额外固定物品以预设为准。"
+      ],
+      "repeat": "已读通用建筑服务主要按首次登记初始化；未见专用周期复刷计时。",
+      "design": "以群系兵种与固定守卫阵容构成开放式探索中的战斗节点。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.BuildingServer",
+          "lines": "78–108"
+        },
+        {
+          "path": "ServerScriptService.Game.雪原",
+          "lines": ""
+        },
+        {
+          "path": "Workspace.Prefabs.雪原Map.土著村落.2x1,土著村落V1",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "2×2",
+      "zones": [
+        5
+      ],
+      "materials": [],
+      "hazards": [],
+      "notes": [],
+      "relations": [],
+      "id": "snow-camp",
+      "name": "雪原土著营地 V2",
+      "zone": "5 区雪原",
+      "n": 8,
+      "guards": "219 雪原弓手×4、220 长矛兵×4，共 8 名。",
+      "prefab": "Workspace.Prefabs.雪原Map.土著村落.2x2,土著营地V2",
+      "alias": "Snowfield Settlement",
+      "category": "faction",
+      "trigger": "群系生成 + 通用建筑刷怪",
+      "encounter": "8 名弓手与长矛兵",
+      "reward": "据点搜刮",
+      "reset": "首次建筑登记",
+      "summary": "以雪原弓手和长矛兵构成群系战斗节点，V2 增加占地与敌人规模。",
+      "spawn": "雪原分别在 4 区尝试村落 V1、5 区尝试营地 V2，均要通过群系占地校验。",
+      "battle": "219 雪原弓手×4、220 长矛兵×4。守卫由通用建筑服务消费点位生成，没有独立 Boss 阶段。",
+      "flow": [
+        [
+          "生成与接近",
+          "雪原分别在 4 区尝试村落 V1、5 区尝试营地 V2，均要通过群系占地校验。"
+        ],
+        [
+          "据点战斗",
+          "219 雪原弓手×4、220 长矛兵×4。守卫由通用建筑服务消费点位生成，没有独立 Boss 阶段。"
+        ],
+        [
+          "搜刮与离开",
+          "通用建筑服务根据预设点位和区域等级生成箱子、散落物与守卫。战斗本身未使用独立通关结算服务。"
+        ]
+      ],
+      "combat": [
+        [
+          "守卫配置",
+          "219 雪原弓手×4、220 长矛兵×4，共 8 名。"
+        ]
+      ],
+      "rewards": [
+        "区域等级对应的通用建筑宝箱、散落物；额外固定物品以预设为准。"
+      ],
+      "repeat": "已读通用建筑服务主要按首次登记初始化；未见专用周期复刷计时。",
+      "design": "以群系兵种与固定守卫阵容构成开放式探索中的战斗节点。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.BuildingServer",
+          "lines": "78–108"
+        },
+        {
+          "path": "ServerScriptService.Game.雪原",
+          "lines": ""
+        },
+        {
+          "path": "Workspace.Prefabs.雪原Map.土著村落.2x2,土著营地V2",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "连续场景与护送路线",
+      "zones": [
+        3,
+        4,
+        5
+      ],
+      "materials": [
+        "熟肉可用于治疗护送 NPC，每次恢复 50"
+      ],
+      "hazards": [],
+      "notes": [],
+      "relations": [
+        "cowboy-help",
+        "young-helper"
+      ],
+      "id": "old-cowboy",
+      "name": "暮年牛仔",
+      "alias": "Old Cowboy",
+      "category": "quest",
+      "zone": "3 区起点 / 4–5 区墓地",
+      "trigger": "NPC 事件池选中并成功初始化",
+      "encounter": "救援 + 骑兵伏击 + 墓地后续",
+      "reward": "后续宝石宝箱、剧情与信件",
+      "reset": "本局任务状态机",
+      "summary": "一条有救援、可治疗护送、动态伏击、墓地剧情及隔日后续的完整 NPC 路线。",
+      "flow": [
+        [
+          "救援与接受护送",
+          "3 区事件池在暮年牛仔、拯救小伙 3 之间按 70:30 安排首选顺序。救援阶段有 2 名 201、2 名 202，完成后可接受护送；墓地尝试生成在 4–5 区。"
+        ],
+        [
+          "沿路保护牛仔",
+          "NPC 可参与战斗，熟肉投喂恢复 50。护送阶段约 60–90 秒间隔尝试骑兵伏击，并有附近玩家人数、落点和生命周期检查。"
+        ],
+        [
+          "墓地与隔日后续",
+          "完成墓地对话记录显示日；至少推进一天后在墓地生成后续场景、敌人与奖励。护送失败会停止伏击并进入独立清理及信件处理。"
+        ]
+      ],
+      "combat": [
+        [
+          "救援",
+          "201×2、202×2。"
+        ],
+        [
+          "伏击",
+          "配置使用 223/224 与 225/226 等骑兵阶级，不是固定原地守卫波。"
+        ],
+        [
+          "后续",
+          "阶段 3 点位为 205×2、206×2，由任务服务克隆到墓地后消费。"
+        ]
+      ],
+      "rewards": [
+        "后续宝石宝箱设置 RandomId 8，为 5 次宝石抽取。",
+        "信件与场景变化跟随成功／失败路径，不能把各分支奖励合并保证。"
+      ],
+      "repeat": "状态机包含救援、护送、墓地、等待下一天、后续和失败；没有独立周期重开计时。",
+      "design": "让玩家在移动中分配战斗与治疗资源，并用跨日回访完成叙事节奏。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.NPC事件",
+          "lines": "29–68、148–238"
+        },
+        {
+          "path": "ServerScriptService.Game.OldCowboyQuestService",
+          "lines": "47–83、938–1089、1216–1438"
+        },
+        {
+          "path": "ReplicatedStorage.src.ExcelConfig.RandomItemsSetting",
+          "lines": "17"
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "三个 1×1 据点",
+      "zones": [
+        4,
+        5,
+        6
+      ],
+      "materials": [],
+      "hazards": [],
+      "notes": [],
+      "relations": [
+        "old-cowboy",
+        "iron-trader"
+      ],
+      "id": "cowboy-help",
+      "name": "牛仔呼救 · 三阶段",
+      "alias": "Cowboy Calls for Help",
+      "category": "quest",
+      "zone": "4 区起点，推进至 5、6 区",
+      "trigger": "对话触发战斗，完成后生成下一阶段",
+      "encounter": "前两阶段各 5 人；末阶段 4 只动物",
+      "reward": "两次 Gold；末阶段 3 个宝石",
+      "reset": "末阶段存在跨日失败",
+      "summary": "以重复求救和逐圈推进构成连续任务，末阶段加入跨日救援时限。",
+      "flow": [
+        [
+          "阶段 1 / 4 区",
+          "4 区事件池在铁商人和牛仔呼救之间按 50:50 安排首选。对话触发 2 名 201、3 名 202；清空后掉 Gold，并尝试在 5 区生成下一据点。"
+        ],
+        [
+          "阶段 2 / 5 区",
+          "再次对话、处理同样 5 名守卫，完成后再掉 Gold，尝试在 6 区生成末阶段。"
+        ],
+        [
+          "阶段 3 / 6 区",
+          "对话触发 2 个 108、1 个 105、1 个 106 动物敌人。成功清空奖励 3 个宝石；下一次显示日变化时仍未救出，NPC 转为死亡场景并掉 308 牛仔鞋。"
+        ]
+      ],
+      "combat": [
+        [
+          "前两阶段",
+          "每阶段 201 近战 V1×2、202 枪手 V1×3。"
+        ],
+        [
+          "末阶段",
+          "108×2、105×1、106×1；不是同一组枪手的第三次复用。"
+        ]
+      ],
+      "rewards": [
+        "阶段 1、2 各一件 Gold。",
+        "阶段 3 成功：3 个宝石；未及时救出分支：308 牛仔鞋。"
+      ],
+      "repeat": "建筑失活会清理剩余敌人；击杀对应点位会销毁，重新激活可从剩余点位补刷。阶段生成仍可能因落点失败中断。",
+      "design": "用类似结构建立熟悉感，再通过最终敌种变化与跨日失败制造任务升级。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.NPC事件",
+          "lines": "29–68、148–238"
+        },
+        {
+          "path": "Workspace.Prefabs.NPC事件.牛仔呼救.1x1,牛仔呼救阶段1据点.牛仔呼救阶段1据点_server",
+          "lines": ""
+        },
+        {
+          "path": "Workspace.Prefabs.NPC事件.牛仔呼救.1x1,牛仔呼救阶段2据点.牛仔呼救阶段2据点_server",
+          "lines": ""
+        },
+        {
+          "path": "Workspace.Prefabs.NPC事件.牛仔呼救.1x1,牛仔呼救阶段3据点.牛仔呼救阶段3据点_server",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "1×1",
+      "zones": [
+        4
+      ],
+      "materials": [],
+      "hazards": [],
+      "notes": [],
+      "relations": [
+        "cowboy-help"
+      ],
+      "id": "iron-trader",
+      "name": "铁商人救援",
+      "alias": "Iron Trader Rescue",
+      "category": "quest",
+      "zone": "4 区 NPC 事件池",
+      "trigger": "事件选中，建筑登记后生成敌人",
+      "encounter": "2 名近战 + 3 名枪手",
+      "reward": "后续营地商人服务",
+      "reset": "完成后按白天概率出现商人",
+      "summary": "把一次据点救援转化为后续营地服务，而非即时清敌宝箱。",
+      "flow": [
+        [
+          "找到被困商人",
+          "与牛仔呼救共享 4 区池，权重 50:50 是首选排序权重；首选落地失败可补试另一项。"
+        ],
+        [
+          "清理守卫",
+          "未完成且敌人容器为空时，专用脚本按铁商人敌人生成点创建 5 人。每次击杀销毁对应点位，全部清空标记完成。"
+        ],
+        [
+          "等待营地回访",
+          "完成后，每次天亮按预设概率创建营地铁商人。入夜会移除营地商人。"
+        ]
+      ],
+      "combat": [
+        [
+          "守卫",
+          "201 近战 V1×2、202 枪手 V1×3。"
+        ]
+      ],
+      "rewards": [
+        "解锁后续按白天概率出现的营地商人；具体商品由商人配置负责。"
+      ],
+      "repeat": "未完成时建筑失活清理仍存敌人，再激活可补刷剩余点位。完成后不走固定副本冷却。",
+      "design": "让救援战斗影响营地日常服务，形成长期收益。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.NPC事件",
+          "lines": "29–68、148–238"
+        },
+        {
+          "path": "Workspace.Prefabs.NPC事件.铁商人.1x1,铁商人据点.铁商人据点_server",
+          "lines": "25–91"
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "1×1 + 返回营地路线",
+      "zones": [
+        3
+      ],
+      "materials": [],
+      "hazards": [],
+      "notes": [],
+      "relations": [
+        "old-cowboy"
+      ],
+      "id": "young-helper",
+      "name": "拯救小伙 3",
+      "alias": "Camp Helper Rescue",
+      "category": "quest",
+      "zone": "3 区 NPC 事件池",
+      "trigger": "清空据点守卫后带回 NPC",
+      "encounter": "2 名近战 + 3 名枪手",
+      "reward": "自动砍树的营地帮手",
+      "reset": "本局救援完成项",
+      "summary": "从攻占据点到带人返营，将战斗成果转化为营地产能。",
+      "flow": [
+        [
+          "清空据点",
+          "与暮年牛仔共享 3 区池，权重 30:70 是首选排序权重。专用脚本按点位生成 2 名近战、3 名枪手。"
+        ],
+        [
+          "带人返回",
+          "敌人清空后标记已救助。跟随交互使 NPC 跟随玩家，脚本持续检查与营火距离。"
+        ],
+        [
+          "转换为帮手",
+          "已完成、正在跟随且进入营火距离 50 内时，移除原 NPC 并创建营地帮手。帮手脚本可寻找营火范围内树木并砍树。"
+        ]
+      ],
+      "combat": [
+        [
+          "守卫",
+          "201×2、202×3，共 5 名。"
+        ]
+      ],
+      "rewards": [
+        "营地自动砍树帮手；收益是后续营地产能。"
+      ],
+      "repeat": "据点失活清理剩余敌人；击杀点位销毁。完成返营转换后，救援据点脚本结束。",
+      "design": "返程本身是任务的一部分，让运输路线和护送能力直接影响产能解锁。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.NPC事件",
+          "lines": "29–68、148–238"
+        },
+        {
+          "path": "Workspace.Prefabs.NPC事件.拯救小伙3.1x1,拯救小伙3据点.小伙据点3_server",
+          "lines": "24–97"
+        },
+        {
+          "path": "Workspace.Prefabs.NPC事件.拯救小伙3.小伙3.营地帮手_server",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "1×1",
+      "zones": [
+        4,
+        5,
+        6
+      ],
+      "materials": [],
+      "hazards": [],
+      "notes": [],
+      "relations": [],
+      "id": "fossil",
+      "name": "化石守卫点",
+      "alias": "Fossil Encounter",
+      "category": "event",
+      "zone": "4–6 区随机选圈",
+      "trigger": "主地图额外随机事件尝试",
+      "encounter": "5 个 106 动物守卫点",
+      "reward": "场景资源与搜刮",
+      "reset": "首次建筑登记",
+      "summary": "有明确动物守卫的资源事件，规模较小，不应与大型战场混算。",
+      "spawn": "主地图小事件完成后，额外从 4–6 区选择一圈尝试化石落点；仍受矩形合法位置影响。",
+      "battle": "预设提供 5 个 106 数字命名的动物点，由通用建筑服务创建。",
+      "guards": "106×5。",
+      "prefab": "Workspace.Prefabs.Map.特殊房子.1x1,化石",
+      "sources": [
+        {
+          "path": "ServerScriptService.MapService",
+          "lines": "480–515"
+        },
+        {
+          "path": "ServerScriptService.Game.BuildingServer",
+          "lines": "78–108"
+        },
+        {
+          "path": "Workspace.Prefabs.Map.特殊房子.1x1,化石",
+          "lines": ""
+        }
+      ],
+      "flow": [
+        [
+          "生成与接近",
+          "主地图小事件完成后，额外从 4–6 区选择一圈尝试化石落点；仍受矩形合法位置影响。"
+        ],
+        [
+          "据点战斗",
+          "预设提供 5 个 106 数字命名的动物点，由通用建筑服务创建。"
+        ],
+        [
+          "搜刮与离开",
+          "通用建筑服务根据预设点位和区域等级生成箱子、散落物与守卫。战斗本身未使用独立通关结算服务。"
+        ]
+      ],
+      "combat": [
+        [
+          "守卫配置",
+          "106×5。"
+        ]
+      ],
+      "rewards": [
+        "区域等级对应的通用建筑宝箱、散落物；额外固定物品以预设为准。"
+      ],
+      "repeat": "已读通用建筑服务主要按首次登记初始化；未见专用周期复刷计时。",
+      "design": "以群系兵种与固定守卫阵容构成开放式探索中的战斗节点。"
+    },
+    {
+      "status": "enabled",
+      "size": "2×1",
+      "zones": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "materials": [],
+      "hazards": [],
+      "notes": [],
+      "relations": [],
+      "id": "church",
+      "name": "随机教堂",
+      "alias": "Church Encounter",
+      "category": "event",
+      "zone": "2–6 区随机事件池",
+      "trigger": "随机事件池抽中并落地",
+      "encounter": "2 名近战 + 2 名枪手",
+      "reward": "建筑宝箱与散落物",
+      "reset": "首次建筑登记",
+      "summary": "普通地图随机事件中的小型远近程混合遭遇。",
+      "spawn": "主地图对 2–6 区各尝试一个随机事件预设，预设按无放回方式抽取。教堂是候选之一，不保证出现。",
+      "battle": "敌人生成点配置为 2 个 203、2 个 204，使用通用建筑刷怪。",
+      "guards": "203×2、204×2。",
+      "prefab": "Workspace.Prefabs.Map.随机事件.2x1,教堂",
+      "sources": [
+        {
+          "path": "ServerScriptService.MapService",
+          "lines": "480–515"
+        },
+        {
+          "path": "ServerScriptService.Game.BuildingServer",
+          "lines": "78–108"
+        }
+      ],
+      "flow": [
+        [
+          "生成与接近",
+          "主地图对 2–6 区各尝试一个随机事件预设，预设按无放回方式抽取。教堂是候选之一，不保证出现。"
+        ],
+        [
+          "据点战斗",
+          "敌人生成点配置为 2 个 203、2 个 204，使用通用建筑刷怪。"
+        ],
+        [
+          "搜刮与离开",
+          "通用建筑服务根据预设点位和区域等级生成箱子、散落物与守卫。战斗本身未使用独立通关结算服务。"
+        ]
+      ],
+      "combat": [
+        [
+          "守卫配置",
+          "203×2、204×2。"
+        ]
+      ],
+      "rewards": [
+        "区域等级对应的通用建筑宝箱、散落物；额外固定物品以预设为准。"
+      ],
+      "repeat": "已读通用建筑服务主要按首次登记初始化；未见专用周期复刷计时。",
+      "design": "以群系兵种与固定守卫阵容构成开放式探索中的战斗节点。"
+    },
+    {
+      "status": "enabled",
+      "size": "2×1",
+      "zones": [],
+      "materials": [],
+      "hazards": [],
+      "notes": [],
+      "relations": [],
+      "id": "broken-house",
+      "name": "沼泽破房子",
+      "alias": "Marsh Ruins",
+      "category": "event",
+      "zone": "合格沼泽地块",
+      "trigger": "带敌人资源点生成",
+      "encounter": "3 名近战 V2 + 2 名枪手 V2",
+      "reward": "场景搜刮",
+      "reset": "首次建筑登记",
+      "summary": "沼泽带敌人资源点池中的战斗节点，补充常规探索中的中等兵力遭遇。",
+      "spawn": "沼泽初始化对带敌人资源点尝试两次，从现有预设池选择并校验沼泽占地；此处没有单独固定圈级条件。",
+      "battle": "5 名 V2 远近程敌人由通用建筑服务生成。",
+      "guards": "205×3、206×2。",
+      "prefab": "Workspace.Prefabs.沼泽Map.带敌人资源点.2x1,破房子",
+      "flow": [
+        [
+          "生成与接近",
+          "沼泽初始化对带敌人资源点尝试两次，从现有预设池选择并校验沼泽占地；此处没有单独固定圈级条件。"
+        ],
+        [
+          "据点战斗",
+          "5 名 V2 远近程敌人由通用建筑服务生成。"
+        ],
+        [
+          "搜刮与离开",
+          "通用建筑服务根据预设点位和区域等级生成箱子、散落物与守卫。战斗本身未使用独立通关结算服务。"
+        ]
+      ],
+      "combat": [
+        [
+          "守卫配置",
+          "205×3、206×2。"
+        ]
+      ],
+      "rewards": [
+        "区域等级对应的通用建筑宝箱、散落物；额外固定物品以预设为准。"
+      ],
+      "repeat": "已读通用建筑服务主要按首次登记初始化；未见专用周期复刷计时。",
+      "design": "以群系兵种与固定守卫阵容构成开放式探索中的战斗节点。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.BuildingServer",
+          "lines": "78–108"
+        },
+        {
+          "path": "ServerScriptService.Game.沼泽",
+          "lines": ""
+        },
+        {
+          "path": "Workspace.Prefabs.沼泽Map.带敌人资源点.2x1,破房子",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "沉坑 / 中心专属地块",
+      "zones": [
+        4
+      ],
+      "materials": [],
+      "hazards": [],
+      "notes": [],
+      "relations": [
+        "old-mine"
+      ],
+      "id": "hammer",
+      "name": "雷神锤坑",
+      "alias": "Thor Hammer Crater",
+      "category": "event",
+      "zone": "4 区沉坑随机分支",
+      "trigger": "随机显示日 2–5 触发降落",
+      "encounter": "天降事件与接近解锁",
+      "reward": "雷神锤（113）",
+      "reset": "一次性事件",
+      "summary": "通过全局提示和武器降落表现，引导玩家前往一个一次性探索目标。",
+      "flow": [
+        [
+          "沉坑抽签",
+          "主地图只在 4 区尝试沉坑。当前相关开关开启时，从普通坑、雷神锤、老矿镇中选一个分支；不是同一局三个都生成。"
+        ],
+        [
+          "等待锤子降落",
+          "脚本抽取第 2–5 显示日作为出现日，达到门槛后发全局提示，并播放从高处降落的表现。"
+        ],
+        [
+          "接近并解锁",
+          "降落后，存活玩家触碰指定 LockPart，开启武器拾取状态并销毁一次性锁定逻辑。"
+        ]
+      ],
+      "combat": [
+        [
+          "战斗性质",
+          "已读事件脚本没有独立清敌、Boss 或通关结算；它的核心是发现与取得武器。"
+        ]
+      ],
+      "rewards": [
+        "113 号雷神锤。"
+      ],
+      "repeat": "一次性解锁，未见该事件周期重置。",
+      "design": "以可见的天空事件建立全局目标，提供与常规刷箱不同的武器获取体验。",
+      "sources": [
+        {
+          "path": "ServerScriptService.MapService",
+          "lines": "1223–1269"
+        },
+        {
+          "path": "Workspace.Prefabs.Map.地块.雷神锤子专属地块.雷神锤事件",
+          "lines": "20–99"
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "1×1 巢穴",
+      "zones": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "materials": [],
+      "hazards": [],
+      "notes": [],
+      "relations": [],
+      "id": "moose",
+      "name": "驼鹿王巢穴",
+      "alias": "King Moose Nest",
+      "category": "event",
+      "zone": "3–6 区合格陆地择一",
+      "trigger": "巢穴成功生成后创建 Boss",
+      "encounter": "800 HP 驼鹿王 + 3 个 106 守卫点",
+      "reward": "鹿角相关掉落与场景资源",
+      "reset": "Boss 死亡后 20 分钟重试重生",
+      "summary": "在大地图固定巢穴进行的可回访 Boss 狩猎，区别于独立地下战场。",
+      "flow": [
+        [
+          "寻找巢穴",
+          "地图把 3–6 区合法陆地候选洗牌，取第一个成功落地的巢穴。"
+        ],
+        [
+          "应对巢穴敌人",
+          "成功生成后按 Boss 出生点创建 116 驼鹿王；预设还有 3 个 106 动物守卫点。非数字 Attachment 不会被通用刷怪服务解析。"
+        ],
+        [
+          "狩猎与回访",
+          "Boss 死亡开启重生冷却。原巢穴仍存在时，到期尝试再生成。"
+        ]
+      ],
+      "combat": [
+        [
+          "Boss",
+          "116 King Moose：基础 800 HP、35 伤害、移速 27、攻击冷却 2 秒。"
+        ],
+        [
+          "守卫",
+          "106×3，由通用建筑点位生成。"
+        ]
+      ],
+      "rewards": [
+        "敌人配置皮料 251 为鹿角，通用皮料掉落有随机分支；不能写成每次必掉。"
+      ],
+      "repeat": "20 分钟 Boss 重生；守卫不是同一个独立重生循环的保证产物。",
+      "design": "提供固定位置的野外狩猎目标，将材料获取嵌入大地图回访。",
+      "sources": [
+        {
+          "path": "ServerScriptService.MapService",
+          "lines": "1132–1186"
+        },
+        {
+          "path": "ServerScriptService.Game.AnimalBossSpawnService",
+          "lines": "127–185"
+        },
+        {
+          "path": "ReplicatedStorage.src.ExcelConfig.EnemySetting",
+          "lines": ""
+        },
+        {
+          "path": "Workspace.Prefabs.Map.特殊房子.1x1,驼鹿巢穴",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "enabled",
+      "size": "野外刷新",
+      "zones": [],
+      "materials": [],
+      "hazards": [],
+      "notes": [],
+      "relations": [
+        "weapon-workshop"
+      ],
+      "id": "turkey",
+      "name": "火鸡王狩猎",
+      "alias": "Big Turkey",
+      "category": "event",
+      "zone": "合格沼泽或毒沼泽地块",
+      "trigger": "合格接近请求触发 1/3 抽签",
+      "encounter": "500 HP 火鸡王",
+      "reward": "武器工坊所需专用羽毛",
+      "reset": "死亡后 20 分钟禁止再刷",
+      "summary": "用野外 Boss 专用材料，把生物群系探索连接到高级制枪路线。",
+      "flow": [
+        [
+          "触发合格请求",
+          "玩家在合格沼泽或毒沼泽地块附近发出请求；服务以 1/3 抽签继续，并检查距离、现有 Boss 和冷却。"
+        ],
+        [
+          "击败火鸡王",
+          "111 Big Turkey 使用基础 500 HP、32 伤害、移速 27、攻击冷却 2 秒的配置。"
+        ],
+        [
+          "取得羽毛并回访工坊",
+          "击败后产出专用羽毛，用于齿轮武器工坊制作枪管。Gold 和木材可先行准备。"
+        ]
+      ],
+      "combat": [
+        [
+          "Boss",
+          "111 Big Turkey，基础 500 HP、32 伤害。"
+        ]
+      ],
+      "rewards": [
+        "专用火鸡王羽毛（250），用于 616 枪管路线；其余掉落按对应死亡逻辑处理。"
+      ],
+      "repeat": "死亡后 20 分钟内禁止再刷；冷却结束不代表自动刷出，仍需新的合格请求。",
+      "design": "用特定材料建立跨系统目标，避免高级武器只靠普通资源堆积获取。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.AnimalBossSpawnService",
+          "lines": "9–106"
+        },
+        {
+          "path": "Workspace.Prefabs.敌人.Big Turkey.大火鸡_server",
+          "lines": ""
+        },
+        {
+          "path": "ReplicatedStorage.src.ExcelConfig.EnemySetting",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "inactive",
+      "size": "2×1",
+      "zones": [
+        4
+      ],
+      "materials": [],
+      "hazards": [],
+      "notes": [],
+      "relations": [
+        "railway"
+      ],
+      "id": "railway-v2",
+      "name": "西部铁道公司 V2",
+      "alias": "Unused Railway Variant",
+      "category": "faction",
+      "zone": "原定 4 区雪原",
+      "trigger": "生成调用被注释",
+      "encounter": "预设 5 名守卫",
+      "reward": "预设建筑内容",
+      "reset": "当前不生成",
+      "summary": "保留的第二档铁路公司预设，当前生成流程未调用。",
+      "spawn": "雪原服务第 410 行的 V2 生成调用被注释；不能根据预设存在就计入本局。",
+      "battle": "保留 203、205、206、207、208 各一名的守卫点位，只有实际初始化才会被消费。",
+      "guards": "203、205、206、207、208 各 1。",
+      "prefab": "Workspace.Prefabs.雪原Map.铁道公司.2x1,西部铁道公司V2",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.雪原",
+          "lines": "405–412"
+        },
+        {
+          "path": "ServerScriptService.Game.BuildingServer",
+          "lines": "78–108"
+        }
+      ],
+      "flow": [
+        [
+          "生成与接近",
+          "雪原服务第 410 行的 V2 生成调用被注释；不能根据预设存在就计入本局。"
+        ],
+        [
+          "据点战斗",
+          "保留 203、205、206、207、208 各一名的守卫点位，只有实际初始化才会被消费。"
+        ],
+        [
+          "搜刮与离开",
+          "通用建筑服务根据预设点位和区域等级生成箱子、散落物与守卫。战斗本身未使用独立通关结算服务。"
+        ]
+      ],
+      "combat": [
+        [
+          "守卫配置",
+          "203、205、206、207、208 各 1。"
+        ]
+      ],
+      "rewards": [
+        "区域等级对应的通用建筑宝箱、散落物；额外固定物品以预设为准。"
+      ],
+      "repeat": "已读通用建筑服务主要按首次登记初始化；未见专用周期复刷计时。",
+      "design": "以群系兵种与固定守卫阵容构成开放式探索中的战斗节点。"
+    },
+    {
+      "status": "inactive",
+      "size": "1×1",
+      "zones": [
+        3
+      ],
+      "materials": [],
+      "hazards": [],
+      "notes": [],
+      "relations": [],
+      "id": "scarf",
+      "name": "围脖制造建筑",
+      "alias": "Unused Scarf Workshop",
+      "category": "complex",
+      "zone": "原定 3 区雪原",
+      "trigger": "生成调用被注释",
+      "encounter": "未确认独立战斗流程",
+      "reward": "围脖兑换相关预设",
+      "reset": "当前不生成",
+      "summary": "制造预设仍在，但当前地图调用的是另一处围脖彩蛋。",
+      "flow": [
+        [
+          "保留预设",
+          "雪原特殊房子目录内保留 1x1,围脖制造 与兑换脚本。"
+        ],
+        [
+          "核对入口",
+          "生成器第 420 行该建筑调用被注释；第 419 行实际调用 4 区的围脖彩蛋 V1。"
+        ],
+        [
+          "记录边界",
+          "不把这一未启用制造建筑或其兑换配置写成当前每局可用设施。"
+        ]
+      ],
+      "combat": [
+        [
+          "范围",
+          "当前证据不足以将其列为启用的战斗副本。"
+        ]
+      ],
+      "rewards": [
+        "保留围脖兑换相关内容，当前不保证能在地图使用。"
+      ],
+      "repeat": "不适用；当前没有启用生成入口。",
+      "design": "用于保留版本与当前可玩内容之间的对照。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.雪原",
+          "lines": "415–422"
+        },
+        {
+          "path": "Workspace.Prefabs.雪原Map.特殊房子.1x1,围脖制造",
+          "lines": ""
+        }
+      ]
+    },
+    {
+      "status": "inactive",
+      "size": "主据点 + 三座活动据点",
+      "zones": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "materials": [],
+      "hazards": [],
+      "notes": [],
+      "relations": [],
+      "id": "christmas",
+      "name": "圣诞据点任务组",
+      "alias": "Christmas Event",
+      "category": "quest",
+      "zone": "2 区主据点 / 3–5 区活动悬赏",
+      "trigger": "圣诞开关开启且活动未截止",
+      "encounter": "修复据点与 3 名活动 Outlaw",
+      "reward": "活动悬赏与节日内容",
+      "reset": "受活动阶段与时限控制",
+      "summary": "完整预设与阶段脚本仍保留，但当前圣诞开关为关闭。",
+      "flow": [
+        [
+          "坠机与修复",
+          "主控制器尝试放在 2 区，根据阶段切换坠机前、未修复、已修复据点。修复阶段有 2 名 201、3 名 202 配置。"
+        ],
+        [
+          "活动悬赏",
+          "三座活动据点分布在 3 区荒野、4 区沼泽候选、5 区雪原候选。阶段 2 才生成 Outlaw Boss 并登记建筑。"
+        ],
+        [
+          "当前状态",
+          "当前圣诞开关 false。服务还会读取 XMASEndTime 截止配置；本次没有请求云端活动配置或启用活动。"
+        ]
+      ],
+      "combat": [
+        [
+          "据点 1",
+          "Pine（2001）与 3 个 217、2 个 218 守卫。"
+        ],
+        [
+          "据点 2",
+          "Snowy（2002）与 4 个 218 守卫。"
+        ],
+        [
+          "据点 3",
+          "Gabe（2003）与 3 个 217、4 个 218 守卫。"
+        ]
+      ],
+      "rewards": [
+        "活动悬赏、礼物与节日路线；当前不计作启用常规副本。"
+      ],
+      "repeat": "由活动阶段和截止条件控制，不套用普通悬赏生成器。",
+      "design": "以阶段场景替换与跨群系悬赏形成限时任务组。",
+      "sources": [
+        {
+          "path": "ServerScriptService.Game.圣诞节",
+          "lines": "14–18、88–217"
+        },
+        {
+          "path": "ServerScriptService.Game.圣诞老人据点",
+          "lines": ""
+        },
+        {
+          "path": "ServerScriptService.Game.圣诞Outlaw据点",
+          "lines": ""
+        },
+        {
+          "path": "ReplicatedStorage.src.ExcelConfig.EnemySetting",
+          "lines": ""
+        }
+      ]
+    }
+  ],
+  "method": {
+    "scope": "基于编辑态脚本、配置与预设的静态分析。网页记录的是生成规则与玩法结构，不代表同一局必定出现所有地点。",
+    "counts": "两档铃铛洞穴分开记；四座悬赏分开记；三阶段牛仔呼救和圣诞任务组各作为一条路线。条目数不是地图实际生成数量。",
+    "evidence": "交叉核对场景内脚本、主地图／群系生成器、通用建筑刷怪、满月服务、NPC 状态机与开关。预设点位、脚本实际执行分支和调用入口一起判断。",
+    "limits": "未运行游戏或检查 Studio 视口。HP、伤害按基础配置展示，模式倍率可改变实际数值；落点、串流登记和具体掉落仍依赖当局状态。",
+    "corrections": [
+      "老矿镇补齐矿脉、满月幽灵、夜间城堡和一次性拔剑事件。",
+      "加特林、私酒工坊补入攻占与生产据点。",
+      "武器工坊骑兵、悬赏夹陷阱、洞穴毒沼补入战斗说明。",
+      "牛仔呼救补为连续任务，铁路公司与土著营地补入群系据点。",
+      "停用预设、注释入口和限时条件单独标注。"
+    ]
+  }
+}

@@ -1,0 +1,2871 @@
+{
+  "map": {
+    "unmarked": [
+      {
+        "path": "Workspace.Map.CampfireTouchPart",
+        "class": "Part",
+        "size": "6, 5, 6"
+      }
+    ],
+    "unmarkedParts": 1,
+    "outside": [],
+    "sources": {
+      "P:AF-0274": 12,
+      "P:AF-0028": 216,
+      "P:AF-0059": 60,
+      "P:AF-0073": 324,
+      "P:AF-0039": 212,
+      "P:AF-0032": 4,
+      "P:AF-0076": 144,
+      "P:AF-0136": 48,
+      "P:AF-0043": 376,
+      "P:AF-0131": 14,
+      "P:AF-0074": 668,
+      "P:AF-0071": 140,
+      "P:AF-0075": 152,
+      "P:AF-0062": 46,
+      "P:AF-0056": 48,
+      "P:AF-0137": 81,
+      "P:AF-0025": 65,
+      "P:AF-0089": 618,
+      "P:AF-0038": 14,
+      "P:AF-0072": 642,
+      "P:AF-0190": 3,
+      "P:AF-0065": 44,
+      "P:AF-0035": 908,
+      "P:AF-0118": 28,
+      "P:AF-0095": 72,
+      "P:AF-0054": 651,
+      "P:AF-0069": 412,
+      "P:AF-0037": 51,
+      "P:AF-0040": 896,
+      "P:AF-0135": 63,
+      "P:AF-0047": 800,
+      "P:AF-0042": 162,
+      "P:AF-0045": 928,
+      "P:AF-0108": 9,
+      "P:AF-0134": 36,
+      "P:AF-0107": 14,
+      "P:AF-0033": 210,
+      "P:AF-0023": 588,
+      "P:AF-0055": 38,
+      "P:AF-0092": 114,
+      "P:AF-0018": 1314,
+      "P:AF-0195": 3,
+      "P:AF-0112": 28,
+      "P:AF-0024": 410,
+      "P:AF-0034": 315,
+      "P:AF-0048": 1142,
+      "P:AF-0068": 528,
+      "P:AF-0130": 14,
+      "P:AF-0584": 10,
+      "P:AF-0149": 321,
+      "P:AF-0067": 594,
+      "P:AF-0589": 26,
+      "P:AF-0004": 17,
+      "P:AF-0116": 9,
+      "P:AF-0060": 860,
+      "P:AF-0030": 116,
+      "P:AF-0117": 9,
+      "P:AF-0129": 28,
+      "P:AF-0094": 79,
+      "P:AF-0066": 85,
+      "P:AF-0063": 228,
+      "P:AF-0044": 204,
+      "P:AF-0061": 40,
+      "P:AF-0029": 4068,
+      "P:AF-0046": 36,
+      "P:AF-0133": 88,
+      "P:AF-0064": 420,
+      "P:AF-0058": 273,
+      "P:AF-0057": 189,
+      "P:AF-0070": 84,
+      "P:AF-0096": 307,
+      "P:AF-0017": 2,
+      "P:AF-0110": 40,
+      "P:AF-0011": 5
+    },
+    "looseParts": 0,
+    "signature": "3876736028",
+    "externalParts": 0,
+    "prefabParts": 21803,
+    "parts": 21804
+  },
+  "time": 41.90416885539889,
+  "runtimeRoots": [
+    {
+      "name": "沼泽",
+      "summary": {
+        "unmarked": [],
+        "unmarkedParts": 0,
+        "outside": [
+          {
+            "path": "Workspace.沼泽.野猪王战场.Part",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.石块.Union",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.Part",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.Part",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.火把.火5",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.火把.火5",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.火把.火5",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.Part",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.Part",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.Part",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.Part",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.Model.Part",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.Model.Part",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.Model.Part",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.Model.Part",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.Model.Part",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.石块.Union",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.底座",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.洞口.Model.Meshes/map kit-2_rock_1",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.洞口.Model.Union",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.洞口.DoorPart",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.洞口.Union",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.洞口.Model.Meshes/map kit-2_rock_4",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.洞口.Model.Union",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.洞口.Model.Union",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.洞口.Model.Meshes/map kit-2_rock_3",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.洞口.Union",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.洞口.Model.Union",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.洞口.Model.Meshes/map kit-2_rock_1",
+            "origin": "L:AF-0603"
+          },
+          {
+            "path": "Workspace.沼泽.野猪王战场.洞口.Model.Union",
+            "origin": "L:AF-0603"
+          }
+        ],
+        "sources": {
+          "P:AF-0479": 44,
+          "P:AF-0500": 7,
+          "P:AF-0483": 319,
+          "P:AF-0480": 18,
+          "P:AF-0485": 1620,
+          "P:AF-0482": 24,
+          "P:AF-0507": 212,
+          "P:AF-0478": 27,
+          "P:AF-0477": 42,
+          "P:AF-0486": 1005,
+          "P:AF-0504": 488,
+          "P:AF-0484": 400,
+          "P:AF-0505": 206,
+          "L:AF-0603": 142,
+          "P:AF-0506": 243,
+          "P:AF-0508": 140,
+          "P:AF-0501": 8,
+          "P:AF-0503": 246,
+          "P:AF-0481": 24,
+          "P:AF-0476": 279
+        },
+        "looseParts": 142,
+        "signature": "1280773681",
+        "externalParts": 0,
+        "prefabParts": 5352,
+        "parts": 5494
+      }
+    },
+    {
+      "name": "GemPack",
+      "summary": {
+        "unmarked": [],
+        "unmarkedParts": 0,
+        "outside": [
+          {
+            "path": "Workspace.GemPack.222.RootPart",
+            "origin": "L:AF-0604"
+          },
+          {
+            "path": "Workspace.GemPack.210.Union",
+            "origin": "L:AF-0605"
+          },
+          {
+            "path": "Workspace.GemPack.705.15",
+            "origin": "L:AF-0606"
+          },
+          {
+            "path": "Workspace.GemPack.703.6",
+            "origin": "L:AF-0607"
+          },
+          {
+            "path": "Workspace.GemPack.701.1",
+            "origin": "L:AF-0608"
+          },
+          {
+            "path": "Workspace.GemPack.211.Union",
+            "origin": "L:AF-0609"
+          },
+          {
+            "path": "Workspace.GemPack.702.2",
+            "origin": "L:AF-0610"
+          },
+          {
+            "path": "Workspace.GemPack.223.223",
+            "origin": "L:AF-0611"
+          },
+          {
+            "path": "Workspace.GemPack.704.11",
+            "origin": "L:AF-0612"
+          }
+        ],
+        "sources": {
+          "L:AF-0612": 1,
+          "L:AF-0605": 1,
+          "L:AF-0604": 1,
+          "L:AF-0611": 1,
+          "L:AF-0606": 1,
+          "L:AF-0609": 1,
+          "L:AF-0607": 1,
+          "L:AF-0610": 1,
+          "L:AF-0608": 1
+        },
+        "looseParts": 9,
+        "signature": "1135997594",
+        "externalParts": 0,
+        "prefabParts": 0,
+        "parts": 9
+      }
+    },
+    {
+      "name": "美术其他",
+      "summary": {
+        "unmarked": [],
+        "unmarkedParts": 0,
+        "outside": [
+          {
+            "path": "Workspace.美术其他.Model.Part",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Model.Meshes/巨人的家工具模型_圆柱体_2_6",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Model.Meshes/巨人的家工具模型_圆柱体_2_6",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Model.Meshes/巨人的家工具模型_圆柱体_2_6",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Model.Part",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Model.Meshes/巨人的家工具模型_圆柱体_2_6",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.RightDoor.DoorPart",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.RightDoor.DoorPart.Union",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.RightDoor.DoorPart.Part",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.RightDoor.RootPart",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.RightDoor.Doorframe.Hinge",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.PrimaryPart",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Model.Model.Part",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Model.Model.Union",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Model.Model.Part",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Model.Model.Part",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Model.Model.Part",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Model.Model.Part",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Model.Model.Union",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Model.Model.Union",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Model.Model.Part",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Model.Model.Part",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Model.Model.Part",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Model.Union",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Model.Part",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Union",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.淘金屋子.Part",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.Part",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.Part",
+            "origin": "L:AF-0613"
+          },
+          {
+            "path": "Workspace.美术其他.Model.Part",
+            "origin": "L:AF-0613"
+          }
+        ],
+        "sources": {
+          "L:AF-0634": 1,
+          "L:AF-0629": 1,
+          "L:AF-0625": 1,
+          "L:AF-0642": 1,
+          "L:AF-0635": 1,
+          "L:AF-0615": 9,
+          "L:AF-0622": 9,
+          "L:AF-0640": 1,
+          "L:AF-0637": 1,
+          "L:AF-0638": 99,
+          "L:AF-0613": 95,
+          "L:AF-0639": 1,
+          "L:AF-0617": 27,
+          "L:AF-0620": 37,
+          "L:AF-0618": 201,
+          "L:AF-0636": 1,
+          "L:AF-0641": 1,
+          "L:AF-0621": 26,
+          "L:AF-0614": 25,
+          "L:AF-0632": 1,
+          "L:AF-0619": 29,
+          "L:AF-0616": 107,
+          "L:AF-0623": 15,
+          "L:AF-0633": 1,
+          "L:AF-0643": 1,
+          "L:AF-0631": 1,
+          "L:AF-0628": 13,
+          "L:AF-0624": 11,
+          "L:AF-0630": 1,
+          "L:AF-0626": 8
+        },
+        "looseParts": 726,
+        "signature": "3696917638",
+        "externalParts": 0,
+        "prefabParts": 0,
+        "parts": 726
+      }
+    },
+    {
+      "name": "BagStore",
+      "summary": {
+        "unmarked": [],
+        "unmarkedParts": 0,
+        "outside": [
+          {
+            "path": "Workspace.BagStore.Plate",
+            "origin": "L:AF-0645"
+          },
+          {
+            "path": "Workspace.BagStore.Plate.Part",
+            "origin": "L:AF-0645"
+          },
+          {
+            "path": "Workspace.BagStore.Plate.Top",
+            "origin": "L:AF-0645"
+          },
+          {
+            "path": "Workspace.BagStore.Plate.Part",
+            "origin": "L:AF-0645"
+          },
+          {
+            "path": "Workspace.BagStore.Plate.Part",
+            "origin": "L:AF-0645"
+          },
+          {
+            "path": "Workspace.BagStore.Plate.Part",
+            "origin": "L:AF-0645"
+          }
+        ],
+        "sources": {
+          "L:AF-0645": 6
+        },
+        "looseParts": 6,
+        "signature": "4157927930",
+        "externalParts": 0,
+        "prefabParts": 0,
+        "parts": 6
+      }
+    },
+    {
+      "name": "火车大劫案",
+      "summary": {
+        "unmarked": [],
+        "unmarkedParts": 0,
+        "outside": [
+          {
+            "path": "Workspace.火车大劫案.CowboyGunV2.Accessory (MeshPartAccessory).Handle",
+            "origin": "L:AF-0650"
+          },
+          {
+            "path": "Workspace.火车大劫案.CowboyGunV2.Styled Beard Black.Handle",
+            "origin": "L:AF-0650"
+          },
+          {
+            "path": "Workspace.火车大劫案.CowboyGunV2.MeshPartAccessory.Handle",
+            "origin": "L:AF-0650"
+          },
+          {
+            "path": "Workspace.火车大劫案.CowboyGunV2.SniperMask.Handle",
+            "origin": "L:AF-0650"
+          },
+          {
+            "path": "Workspace.火车大劫案.CowboyGunV2.Kent.Handle",
+            "origin": "L:AF-0650"
+          },
+          {
+            "path": "Workspace.火车大劫案.CowboyGunV2.Torso",
+            "origin": "L:AF-0650"
+          },
+          {
+            "path": "Workspace.火车大劫案.CowboyGunV2.Right Arm",
+            "origin": "L:AF-0650"
+          },
+          {
+            "path": "Workspace.火车大劫案.CowboyGunV2.Left Arm",
+            "origin": "L:AF-0650"
+          },
+          {
+            "path": "Workspace.火车大劫案.CowboyGunV2.Head",
+            "origin": "L:AF-0650"
+          },
+          {
+            "path": "Workspace.火车大劫案.CowboyGunV2.Left Leg",
+            "origin": "L:AF-0650"
+          },
+          {
+            "path": "Workspace.火车大劫案.CowboyGunV2.Right Leg",
+            "origin": "L:AF-0650"
+          },
+          {
+            "path": "Workspace.火车大劫案.CowboyGunV2.HumanoidRootPart",
+            "origin": "L:AF-0650"
+          }
+        ],
+        "sources": {
+          "L:AF-0650": 12
+        },
+        "looseParts": 12,
+        "signature": "2949660890",
+        "externalParts": 0,
+        "prefabParts": 0,
+        "parts": 12
+      }
+    },
+    {
+      "name": "雪原",
+      "summary": {
+        "unmarked": [],
+        "unmarkedParts": 0,
+        "outside": [],
+        "sources": {
+          "P:AF-0563": 271,
+          "P:AF-0559": 1,
+          "P:AF-0551": 268,
+          "P:AF-0535": 290,
+          "P:AF-0529": 171,
+          "P:AF-0530": 66,
+          "P:AF-0528": 96,
+          "P:AF-0538": 451,
+          "P:AF-0527": 522,
+          "P:AF-0533": 112,
+          "P:AF-0564": 75,
+          "P:AF-0553": 216,
+          "P:AF-0532": 88,
+          "P:AF-0562": 167,
+          "P:AF-0552": 168,
+          "P:AF-0565": 55,
+          "P:AF-0536": 88,
+          "P:AF-0534": 208,
+          "P:AF-0537": 288,
+          "P:AF-0531": 473
+        },
+        "looseParts": 0,
+        "signature": "3999262537",
+        "externalParts": 0,
+        "prefabParts": 4074,
+        "parts": 4074
+      }
+    },
+    {
+      "name": "齿轮资源点",
+      "summary": {
+        "unmarked": [],
+        "unmarkedParts": 0,
+        "outside": [],
+        "sources": {
+          "P:AF-0145": 17,
+          "P:AF-0146": 32,
+          "P:AF-0144": 40
+        },
+        "looseParts": 0,
+        "signature": "3837841079",
+        "externalParts": 0,
+        "prefabParts": 89,
+        "parts": 89
+      }
+    },
+    {
+      "name": "Folder",
+      "summary": {
+        "unmarked": [],
+        "unmarkedParts": 0,
+        "outside": [
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Model.Union",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Model.Union",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Union",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Union",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Union",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          },
+          {
+            "path": "Workspace.Folder.Model.Part",
+            "origin": "L:AF-0662"
+          }
+        ],
+        "sources": {
+          "L:AF-0662": 36
+        },
+        "looseParts": 36,
+        "signature": "4031420048",
+        "externalParts": 0,
+        "prefabParts": 0,
+        "parts": 36
+      }
+    },
+    {
+      "name": "神枪手据点",
+      "summary": {
+        "unmarked": [],
+        "unmarkedParts": 0,
+        "outside": [],
+        "sources": {
+          "P:AF-0380": 19,
+          "P:AF-0400": 14,
+          "P:AF-0384": 16,
+          "P:AF-0087": 134,
+          "P:AF-0085": 152,
+          "P:AF-0373": 16,
+          "P:AF-0088": 150,
+          "P:AF-0086": 135
+        },
+        "looseParts": 0,
+        "signature": "917964881",
+        "externalParts": 0,
+        "prefabParts": 636,
+        "parts": 636
+      }
+    },
+    {
+      "name": "医院",
+      "summary": {
+        "unmarked": [],
+        "unmarkedParts": 0,
+        "outside": [],
+        "sources": {
+          "P:AF-0093": 408
+        },
+        "looseParts": 0,
+        "signature": "2026986263",
+        "externalParts": 0,
+        "prefabParts": 408,
+        "parts": 408
+      }
+    },
+    {
+      "name": "随机事件",
+      "summary": {
+        "unmarked": [],
+        "unmarkedParts": 0,
+        "outside": [],
+        "sources": {
+          "P:AF-0097": 13,
+          "P:AF-0102": 8,
+          "P:AF-0104": 8,
+          "P:AF-0100": 8,
+          "P:AF-0106": 8
+        },
+        "looseParts": 0,
+        "signature": "4227774680",
+        "externalParts": 0,
+        "prefabParts": 45,
+        "parts": 45
+      }
+    },
+    {
+      "name": "边界",
+      "summary": {
+        "unmarked": [
+          {
+            "path": "Workspace.边界.空气墙1",
+            "class": "Part",
+            "size": "1, 1, 1"
+          },
+          {
+            "path": "Workspace.边界.空气墙2",
+            "class": "Part",
+            "size": "1, 1, 1"
+          },
+          {
+            "path": "Workspace.边界.空气墙3",
+            "class": "Part",
+            "size": "1, 1, 1"
+          },
+          {
+            "path": "Workspace.边界.空气墙4",
+            "class": "Part",
+            "size": "1, 1, 1"
+          }
+        ],
+        "unmarkedParts": 4,
+        "outside": [],
+        "sources": {
+          "P:AF-0147": 56
+        },
+        "looseParts": 0,
+        "signature": "3651474885",
+        "externalParts": 0,
+        "prefabParts": 56,
+        "parts": 60
+      }
+    },
+    {
+      "name": "Enemys",
+      "summary": {
+        "unmarked": [],
+        "unmarkedParts": 0,
+        "outside": [],
+        "sources": {
+          "P:AF-0405": 35,
+          "P:AF-0409": 48,
+          "P:AF-0413": 48,
+          "P:AF-0399": 90,
+          "P:AF-0396": 132
+        },
+        "looseParts": 0,
+        "signature": "2488927563",
+        "externalParts": 0,
+        "prefabParts": 353,
+        "parts": 353
+      }
+    },
+    {
+      "name": "空气墙",
+      "summary": {
+        "unmarked": [
+          {
+            "path": "Workspace.空气墙.空气墙1",
+            "class": "Part",
+            "size": "1, 1, 1"
+          },
+          {
+            "path": "Workspace.空气墙.空气墙2",
+            "class": "Part",
+            "size": "1, 1, 1"
+          },
+          {
+            "path": "Workspace.空气墙.空气墙3",
+            "class": "Part",
+            "size": "1, 1, 1"
+          },
+          {
+            "path": "Workspace.空气墙.空气墙4",
+            "class": "Part",
+            "size": "1, 1, 1"
+          }
+        ],
+        "unmarkedParts": 4,
+        "outside": [],
+        "sources": {
+          "P:AF-0147": 56
+        },
+        "looseParts": 0,
+        "signature": "4286210421",
+        "externalParts": 0,
+        "prefabParts": 56,
+        "parts": 60
+      }
+    },
+    {
+      "name": "GearSourceMarkers",
+      "summary": {
+        "unmarked": [
+          {
+            "path": "Workspace.GearSourceMarkers.GearSourceMarker_1.Root",
+            "class": "Part",
+            "size": "0.5, 0.5, 0.5"
+          },
+          {
+            "path": "Workspace.GearSourceMarkers.GearSourceMarker_2.Root",
+            "class": "Part",
+            "size": "0.5, 0.5, 0.5"
+          },
+          {
+            "path": "Workspace.GearSourceMarkers.GearSourceMarker_3.Root",
+            "class": "Part",
+            "size": "0.5, 0.5, 0.5"
+          }
+        ],
+        "unmarkedParts": 3,
+        "outside": [],
+        "sources": [],
+        "looseParts": 0,
+        "signature": "1398468328",
+        "externalParts": 0,
+        "prefabParts": 0,
+        "parts": 3
+      }
+    },
+    {
+      "name": "Dead body",
+      "summary": {
+        "unmarked": [],
+        "unmarkedParts": 0,
+        "outside": [],
+        "sources": {
+          "P:AF-0564": 12
+        },
+        "looseParts": 0,
+        "signature": "1394896007",
+        "externalParts": 0,
+        "prefabParts": 12,
+        "parts": 12
+      }
+    },
+    {
+      "name": "Dead body",
+      "summary": {
+        "unmarked": [],
+        "unmarkedParts": 0,
+        "outside": [],
+        "sources": {
+          "P:AF-0564": 12
+        },
+        "looseParts": 0,
+        "signature": "2252099968",
+        "externalParts": 0,
+        "prefabParts": 12,
+        "parts": 12
+      }
+    },
+    {
+      "name": "Dead body",
+      "summary": {
+        "unmarked": [],
+        "unmarkedParts": 0,
+        "outside": [],
+        "sources": {
+          "P:AF-0564": 12
+        },
+        "looseParts": 0,
+        "signature": "890356935",
+        "externalParts": 0,
+        "prefabParts": 12,
+        "parts": 12
+      }
+    },
+    {
+      "name": "Dead body",
+      "summary": {
+        "unmarked": [],
+        "unmarkedParts": 0,
+        "outside": [],
+        "sources": {
+          "P:AF-0505": 12
+        },
+        "looseParts": 0,
+        "signature": "1941435459",
+        "externalParts": 0,
+        "prefabParts": 12,
+        "parts": 12
+      }
+    },
+    {
+      "name": "daijackho",
+      "summary": {
+        "unmarked": [
+          {
+            "path": "Workspace.daijackho.HumanoidRootPart",
+            "class": "Part",
+            "size": "2, 2, 1"
+          },
+          {
+            "path": "Workspace.daijackho.LeftLowerArm",
+            "class": "MeshPart",
+            "size": "0.811855137348175, 1.1605454683303833, 0.9022700786590576"
+          },
+          {
+            "path": "Workspace.daijackho.RightLowerArm",
+            "class": "MeshPart",
+            "size": "0.8118550777435303, 1.1605454683303833, 0.9022700786590576"
+          },
+          {
+            "path": "Workspace.daijackho.LeftUpperArm",
+            "class": "MeshPart",
+            "size": "0.9424356818199158, 1.2126445770263672, 0.7589428424835205"
+          },
+          {
+            "path": "Workspace.daijackho.RightUpperArm",
+            "class": "MeshPart",
+            "size": "0.942632257938385, 1.2126444578170776, 0.7589428424835205"
+          },
+          {
+            "path": "Workspace.daijackho.Head",
+            "class": "MeshPart",
+            "size": "1.1978399753570557, 1.2024002075195312, 1.2091310024261475"
+          },
+          {
+            "path": "Workspace.daijackho.LeftLowerLeg",
+            "class": "MeshPart",
+            "size": "0.7213889956474304, 1.2634233236312866, 0.8535963296890259"
+          },
+          {
+            "path": "Workspace.daijackho.LeftUpperLeg",
+            "class": "MeshPart",
+            "size": "0.7807660102844238, 1.7423360347747803, 0.8535981178283691"
+          },
+          {
+            "path": "Workspace.daijackho.LeftHand",
+            "class": "MeshPart",
+            "size": "0.7531499862670898, 0.8905297517776489, 0.7729460000991821"
+          },
+          {
+            "path": "Workspace.daijackho.RightLowerLeg",
+            "class": "MeshPart",
+            "size": "0.7213890552520752, 1.2634086608886719, 0.8536258935928345"
+          },
+          {
+            "path": "Workspace.daijackho.RightUpperLeg",
+            "class": "MeshPart",
+            "size": "0.7807660102844238, 1.742316484451294, 0.8536513447761536"
+          },
+          {
+            "path": "Workspace.daijackho.UpperTorso",
+            "class": "MeshPart",
+            "size": "1.8390778303146362, 1.9012384414672852, 1.0733120441436768"
+          },
+          {
+            "path": "Workspace.daijackho.LeftFoot",
+            "class": "MeshPart",
+            "size": "0.7213894128799438, 0.820060670375824, 1.2430022954940796"
+          },
+          {
+            "path": "Workspace.daijackho.LowerTorso",
+            "class": "MeshPart",
+            "size": "1.6722400188446045, 0.6320915222167969, 1.0374350547790527"
+          },
+          {
+            "path": "Workspace.daijackho.RightHand",
+            "class": "MeshPart",
+            "size": "0.7531499862670898, 0.8905297517776489, 0.7729461193084717"
+          },
+          {
+            "path": "Workspace.daijackho.RightFoot",
+            "class": "MeshPart",
+            "size": "0.7213894724845886, 0.8200726509094238, 1.2430260181427002"
+          },
+          {
+            "path": "Workspace.daijackho.Hat1.Handle",
+            "class": "MeshPart",
+            "size": "1.4947700500488281, 1.3610409498214722, 1.6491899490356445"
+          },
+          {
+            "path": "Workspace.daijackho.Brows.Handle",
+            "class": "MeshPart",
+            "size": "0.9677679538726807, 0.11864995956420898, 0.28645044565200806"
+          }
+        ],
+        "unmarkedParts": 18,
+        "outside": [],
+        "sources": [],
+        "looseParts": 0,
+        "signature": "980824988",
+        "externalParts": 0,
+        "prefabParts": 0,
+        "parts": 18
+      }
+    }
+  ],
+  "retainedLoose": [
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "马鞍",
+      "origin": "L:AF-0001"
+    },
+    {
+      "parent": "Workspace.沼泽",
+      "class": "Model",
+      "name": "野猪王战场",
+      "origin": "L:AF-0603"
+    },
+    {
+      "parent": "Workspace.GemPack",
+      "class": "Model",
+      "name": "222",
+      "origin": "L:AF-0604"
+    },
+    {
+      "parent": "Workspace.GemPack",
+      "class": "Model",
+      "name": "210",
+      "origin": "L:AF-0605"
+    },
+    {
+      "parent": "Workspace.GemPack",
+      "class": "Model",
+      "name": "705",
+      "origin": "L:AF-0606"
+    },
+    {
+      "parent": "Workspace.GemPack",
+      "class": "Model",
+      "name": "703",
+      "origin": "L:AF-0607"
+    },
+    {
+      "parent": "Workspace.GemPack",
+      "class": "Model",
+      "name": "701",
+      "origin": "L:AF-0608"
+    },
+    {
+      "parent": "Workspace.GemPack",
+      "class": "Model",
+      "name": "211",
+      "origin": "L:AF-0609"
+    },
+    {
+      "parent": "Workspace.GemPack",
+      "class": "Model",
+      "name": "702",
+      "origin": "L:AF-0610"
+    },
+    {
+      "parent": "Workspace.GemPack",
+      "class": "Model",
+      "name": "223",
+      "origin": "L:AF-0611"
+    },
+    {
+      "parent": "Workspace.GemPack",
+      "class": "Model",
+      "name": "704",
+      "origin": "L:AF-0612"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0613"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0614"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0615"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0616"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0617"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Model",
+      "name": "1x1,糖饼屋",
+      "origin": "L:AF-0618"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Model",
+      "name": "节日方旗",
+      "origin": "L:AF-0619"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Model",
+      "name": "Light belt",
+      "origin": "L:AF-0620"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0621"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Model",
+      "name": "1x1,水井",
+      "origin": "L:AF-0622"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Model",
+      "name": "衣柜",
+      "origin": "L:AF-0623"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Model",
+      "name": "Rocking chair\n",
+      "origin": "L:AF-0624"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0625"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0626"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0644"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0628"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0629"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0630"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0631"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0632"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0633"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0634"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0635"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0636"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0637"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Model",
+      "name": "1x1,圣诞树",
+      "origin": "L:AF-0638"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0639"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0640"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0641"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0642"
+    },
+    {
+      "parent": "Workspace.美术其他",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0643"
+    },
+    {
+      "parent": "Workspace.BagStore",
+      "class": "Part",
+      "name": "Plate",
+      "origin": "L:AF-0645"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Accessory",
+      "name": "12",
+      "origin": "L:AF-0647"
+    },
+    {
+      "parent": "Workspace.Wet",
+      "class": "Model",
+      "name": "WetModel",
+      "origin": "L:AF-0648"
+    },
+    {
+      "parent": "Workspace.火车大劫案",
+      "class": "Model",
+      "name": "CowboyGunV2",
+      "origin": "L:AF-0650"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Accessory",
+      "name": "12",
+      "origin": "L:AF-0651"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Accessory",
+      "name": "Accessory (Neck Fur Collar)",
+      "origin": "L:AF-0653"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Accessory",
+      "name": "Right",
+      "origin": "L:AF-0656"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Accessory",
+      "name": "Left",
+      "origin": "L:AF-0657"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Accessory",
+      "name": "4",
+      "origin": "L:AF-0658"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Accessory",
+      "name": "DevAwardsBombastic",
+      "origin": "L:AF-0659"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Accessory",
+      "name": "Accessory (Beige Vintage Protopoly Y2K Cap)",
+      "origin": "L:AF-0661"
+    },
+    {
+      "parent": "Workspace.Folder",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0662"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Terrain",
+      "name": "Terrain",
+      "origin": "L:AF-0663"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0664"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0665"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "墓地",
+      "origin": "L:AF-0666"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0667"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Rig",
+      "origin": "L:AF-0668"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0669"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0670"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0671"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0673"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0674"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0675"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0676"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Zombie",
+      "origin": "L:AF-0677"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0678"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0679"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Tool",
+      "name": "Jingle Stick",
+      "origin": "L:AF-0680"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0681"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Rig",
+      "origin": "L:AF-0682"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "CowboyMeleeVC",
+      "origin": "L:AF-0683"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "遮雨棚",
+      "origin": "L:AF-0684"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0685"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "1x1,大叔",
+      "origin": "L:AF-0686"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "山羊人",
+      "origin": "L:AF-0687"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Rig",
+      "origin": "L:AF-0688"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "SC",
+      "origin": "L:AF-0689"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "小牛",
+      "origin": "L:AF-0690"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0691"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Rig",
+      "origin": "L:AF-0692"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "1x1,侧翻马车",
+      "origin": "L:AF-0693"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0694"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "铁轨",
+      "origin": "L:AF-0695"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0696"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Meshes/酿酒配件_圆柱体_3",
+      "origin": "L:AF-0697"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Clockwork Frog",
+      "origin": "L:AF-0698"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "4 Sided Cone",
+      "origin": "L:AF-0699"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0700"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "雪覆盖",
+      "origin": "L:AF-0701"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "山羊人",
+      "origin": "L:AF-0702"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": ".22 Revolver",
+      "origin": "L:AF-0703"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0704"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Pan",
+      "origin": "L:AF-0705"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0706"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0707"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Handle",
+      "origin": "L:AF-0708"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0709"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "洞口",
+      "origin": "L:AF-0710"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0711"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0712"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "311",
+      "origin": "L:AF-0713"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0714"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Bear",
+      "origin": "L:AF-0715"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Cloud",
+      "origin": "L:AF-0716"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "CowboyGunVC",
+      "origin": "L:AF-0717"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "小猪",
+      "origin": "L:AF-0718"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "902",
+      "origin": "L:AF-0719"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Watermelon",
+      "origin": "L:AF-0722"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "1x1,木屋",
+      "origin": "L:AF-0723"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0724"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0725"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Bear",
+      "origin": "L:AF-0727"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Baseplate",
+      "origin": "L:AF-0728"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0729"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "子弹盒",
+      "origin": "L:AF-0730"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Tool",
+      "name": "Demon Hunter",
+      "origin": "L:AF-0731"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "1x1,棺材",
+      "origin": "L:AF-0732"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "RootPart",
+      "origin": "L:AF-0733"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "猪侄子2",
+      "origin": "L:AF-0734"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Tool",
+      "name": "Star Power axe",
+      "origin": "L:AF-0735"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0736"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "CowboyGunV1",
+      "origin": "L:AF-0737"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "雪覆盖",
+      "origin": "L:AF-0738"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "草1",
+      "origin": "L:AF-0739"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Gem Trader",
+      "origin": "L:AF-0740"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "衣柜",
+      "origin": "L:AF-0741"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "棕色普通马",
+      "origin": "L:AF-0742"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0743"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "[invalid UTF-8 name]",
+      "origin": "L:AF-0744"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0745"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Tree",
+      "origin": "L:AF-0746"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0748"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0749"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0750"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Tool",
+      "name": "tommy gun",
+      "origin": "L:AF-0751"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0752"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Potato",
+      "origin": "L:AF-0753"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "245",
+      "origin": "L:AF-0754"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0755"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0756"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Meshes/酿酒配件_圆柱体",
+      "origin": "L:AF-0757"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "雪覆盖",
+      "origin": "L:AF-0758"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "1x1,木屋",
+      "origin": "L:AF-0759"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "沼泽地块-毒沼泽",
+      "origin": "L:AF-0760"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "形象",
+      "origin": "L:AF-0761"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "马鞍",
+      "origin": "L:AF-0762"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "雪覆盖",
+      "origin": "L:AF-0763"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0764"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0765"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "206",
+      "origin": "L:AF-0766"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0767"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Meshes/酿酒配件_圆柱体_6",
+      "origin": "L:AF-0768"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0769"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0770"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "雪覆盖",
+      "origin": "L:AF-0771"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0772"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Meat",
+      "origin": "L:AF-0773"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "雪覆盖",
+      "origin": "L:AF-0774"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "雪覆盖",
+      "origin": "L:AF-0775"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Handle",
+      "origin": "L:AF-0776"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "904",
+      "origin": "L:AF-0777"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Tool",
+      "name": "615",
+      "origin": "L:AF-0778"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "雪覆盖",
+      "origin": "L:AF-0779"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0780"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0781"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0782"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "MeshPart",
+      "origin": "L:AF-0783"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0784"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Handle",
+      "origin": "L:AF-0785"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0786"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Big Turkey",
+      "origin": "L:AF-0787"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0788"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0789"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0790"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0792"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0793"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "4 Sided Cone",
+      "origin": "L:AF-0794"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Meshes/酿酒配件_圆柱体_7",
+      "origin": "L:AF-0795"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "206",
+      "origin": "L:AF-0796"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0797"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "4 Sided Cone",
+      "origin": "L:AF-0798"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0799"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Tommy",
+      "origin": "L:AF-0800"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0801"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0802"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0803"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Handle",
+      "origin": "L:AF-0804"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0805"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "雪覆盖",
+      "origin": "L:AF-0806"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Tool",
+      "name": "Chilli Pepper",
+      "origin": "L:AF-0807"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0808"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "野猪人1",
+      "origin": "L:AF-0809"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0810"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0811"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0812"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0813"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0814"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0815"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "1x1,木屋",
+      "origin": "L:AF-0816"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0817"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "6级地块",
+      "origin": "L:AF-0818"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Tool",
+      "name": "Minigun",
+      "origin": "L:AF-0819"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0820"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0821"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Spikes",
+      "origin": "L:AF-0822"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0824"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0825"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0826"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Onion",
+      "origin": "L:AF-0827"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0828"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0829"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "4 Sided Cone",
+      "origin": "L:AF-0830"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0831"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0832"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Meshes/管道转角_圆柱体",
+      "origin": "L:AF-0833"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0834"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "DENG",
+      "origin": "L:AF-0835"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "SteampunkFedora",
+      "origin": "L:AF-0836"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0837"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Meshes/酿酒配件_圆柱体_8",
+      "origin": "L:AF-0838"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "雪覆盖",
+      "origin": "L:AF-0839"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Meshes/酿酒配件_圆柱体_3",
+      "origin": "L:AF-0840"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0841"
+    },
+    {
+      "parent": "Workspace",
+      "class": "SpawnLocation",
+      "name": "SpawnLocation",
+      "origin": "L:AF-0842"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "4 Sided Cone",
+      "origin": "L:AF-0843"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0844"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "EnemyUse Bear Trap ",
+      "origin": "L:AF-0845"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Meshes/SM_Prop_Tomato_01_L",
+      "origin": "L:AF-0846"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Meshes/SM_Prop_Beetroot_01_M",
+      "origin": "L:AF-0847"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "1x1,木屋",
+      "origin": "L:AF-0848"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "DENG",
+      "origin": "L:AF-0849"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0850"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "4 Sided Cone",
+      "origin": "L:AF-0851"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0852"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Meshes/SM_Prop_Pepper_01",
+      "origin": "L:AF-0853"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0854"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Meshes/酿酒配件2_圆柱体_8",
+      "origin": "L:AF-0855"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "BlobbyblobBuild_Player",
+      "origin": "L:AF-0856"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Tool",
+      "name": "Star Good axe",
+      "origin": "L:AF-0857"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "MeshPart",
+      "origin": "L:AF-0858"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0859"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Pilgrim Hat",
+      "origin": "L:AF-0860"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0861"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Tool",
+      "name": "614",
+      "origin": "L:AF-0862"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0863"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0864"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0865"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0866"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Meshes/酿酒配件_圆柱体_2",
+      "origin": "L:AF-0867"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Pumpkin",
+      "origin": "L:AF-0868"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Big Wolf",
+      "origin": "L:AF-0869"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Flamethrower",
+      "origin": "L:AF-0870"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0871"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0872"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "草1",
+      "origin": "L:AF-0873"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Meshes/管道转角_圆柱体_1",
+      "origin": "L:AF-0874"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Meshes/酿酒配件_圆柱体_5",
+      "origin": "L:AF-0875"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "草1",
+      "origin": "L:AF-0876"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Tool",
+      "name": "Star Old axe",
+      "origin": "L:AF-0877"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Carrot",
+      "origin": "L:AF-0878"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0879"
+    },
+    {
+      "parent": "Workspace",
+      "class": "MeshPart",
+      "name": "Meshes/酿酒配件_圆柱体_1",
+      "origin": "L:AF-0880"
+    },
+    {
+      "parent": "Workspace",
+      "class": "UnionOperation",
+      "name": "Union",
+      "origin": "L:AF-0881"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Part",
+      "name": "Part",
+      "origin": "L:AF-0882"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0883"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "401",
+      "origin": "L:AF-0884"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "SaloonDoorR",
+      "origin": "L:AF-0885"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Lion",
+      "origin": "L:AF-0886"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Goat",
+      "origin": "L:AF-0887"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Buffalo",
+      "origin": "L:AF-0888"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "101",
+      "origin": "L:AF-0889"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "205",
+      "origin": "L:AF-0890"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Moose",
+      "origin": "L:AF-0891"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "巨型猪",
+      "origin": "L:AF-0892"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0893"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0894"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "蘑菇猪",
+      "origin": "L:AF-0895"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Goat",
+      "origin": "L:AF-0896"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "502",
+      "origin": "L:AF-0897"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "蘑菇猪",
+      "origin": "L:AF-0898"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "CamSetting",
+      "origin": "L:AF-0899"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "God",
+      "origin": "L:AF-0900"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0901"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "鱿鱼",
+      "origin": "L:AF-0902"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "902",
+      "origin": "L:AF-0903"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "301",
+      "origin": "L:AF-0904"
+    },
+    {
+      "parent": "Workspace",
+      "class": "Model",
+      "name": "Model",
+      "origin": "L:AF-0905"
+    }
+  ],
+  "ready": true
+}

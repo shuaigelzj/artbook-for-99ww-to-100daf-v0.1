@@ -1,0 +1,15 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs/promises';
+import {analyze,tokenize} from './analyzer.mjs';
+const assets=[{id:'A',segments:['Workspace','Prefabs','Things','A']},{id:'OLD',segments:['Workspace','Prefabs','Things','暂存','Old']},{id:'ARENA',segments:['Workspace','Arena']},{id:'LOOSE',segments:['Workspace','Loose']},{id:'SELF',segments:['Workspace','Self']},{id:'NUMBER',segments:['Workspace','502']}];
+const catalog=assets.map(a=>({id:a.id,name:a.segments.at(-1),display:a.segments.at(-1)}));
+const sources=[{id:1,text:`-- workspace:WaitForChild("Loose")\nlocal folder: Folder = workspace:WaitForChild("Prefabs"):WaitForChild("Things")\nlocal choices = folder:GetChildren()\nlocal item = folder:FindFirstChild(tostring(id))\nlocal arena:Model = workspace:WaitForChild("Arena")\nlocal looseName="Loose"\nlocal rawId=502\nlocal all=workspace:GetDescendants()`},{id:2,text:'local self=script.Parent\nlocal p=script.Parent:FindFirstChild("Handle")'}];
+const scripts=[{path:'ServerScriptService.Test',segments:['ServerScriptService','Test'],sourceId:1,enabled:true},{path:'Workspace.Self.LocalScript',segments:['Workspace','Self','LocalScript'],sourceId:2,owner:'SELF'}];
+const result=analyze({assets,sources,scripts,properties:[],version:60,unreadable:[],sourceEncodingErrors:[]},catalog);
+const by=new Map(result.results.map(r=>[r.id,r]));
+assert.equal(by.get('A').key,'indirect');assert.equal(by.get('OLD').key,'none','GetChildren should not cover nested temporary folders');assert.equal(by.get('ARENA').key,'direct');assert.equal(by.get('LOOSE').key,'none','Comments and same-name literals are not resolved references');assert.ok(by.get('LOOSE').nameCandidateCount>0);assert.equal(by.get('SELF').key,'none','Internal self references do not establish external use');assert.ok(by.get('SELF').internalCount>0);assert.equal(by.get('NUMBER').key,'none','Unqualified numeric IDs must not match unrelated assets');
+assert.equal(tokenize('--[[ comment ]]\nlocal x="ok" -- ignored').filter(t=>t.kind==='str').length,1);
+const real=JSON.parse(await fs.readFile(new URL('./reference_audit.json',import.meta.url),'utf8'));
+assert.equal(real.results.length,905);assert.equal(new Set(real.results.map(r=>r.id)).size,905);
+assert.equal(real.results.find(r=>r.id==='AF-0603').key,'direct');assert.equal(real.results.find(r=>r.id==='AF-0899').key,'direct');assert.equal(real.results.find(r=>r.id==='AF-0744').key,'limited');
+console.log('PASS: comments excluded; scoped directory coverage; temporary folders excluded; exact path and typed aliases; internal references excluded; numeric namespace isolation; known live assets; 905 complete results.');

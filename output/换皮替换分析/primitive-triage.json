@@ -1,0 +1,566 @@
+[
+  {
+    "id": "AF-0151",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0152",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0153",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0154",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0156",
+    "display": "134（废弃）",
+    "parts": 6,
+    "class": "Tool"
+  },
+  {
+    "id": "AF-0625",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0629",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0630",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0631",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0632",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0633",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0634",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0635",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0636",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0637",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0639",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0640",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0641",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0642",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0643",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0681",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0685",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0689",
+    "display": "SC",
+    "parts": 1,
+    "class": "MeshPart"
+  },
+  {
+    "id": "AF-0699",
+    "display": "4 Sided Cone",
+    "parts": 1,
+    "class": "MeshPart"
+  },
+  {
+    "id": "AF-0700",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0708",
+    "display": "Handle",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0709",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0714",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0724",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0733",
+    "display": "RootPart",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0743",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0747",
+    "display": "Handle",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0749",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0752",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0755",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0764",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0767",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0769",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0770",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0772",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0776",
+    "display": "Handle",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0778",
+    "display": "615",
+    "parts": 16,
+    "class": "Tool"
+  },
+  {
+    "id": "AF-0781",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0783",
+    "display": "MeshPart",
+    "parts": 1,
+    "class": "MeshPart"
+  },
+  {
+    "id": "AF-0784",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0785",
+    "display": "Handle",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0788",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0789",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0790",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0792",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0793",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0794",
+    "display": "4 Sided Cone",
+    "parts": 1,
+    "class": "MeshPart"
+  },
+  {
+    "id": "AF-0797",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0798",
+    "display": "4 Sided Cone",
+    "parts": 1,
+    "class": "MeshPart"
+  },
+  {
+    "id": "AF-0799",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0801",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0802",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0803",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0804",
+    "display": "Handle",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0811",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0815",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0817",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0820",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0824",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0825",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0826",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0828",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0829",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0830",
+    "display": "4 Sided Cone",
+    "parts": 1,
+    "class": "MeshPart"
+  },
+  {
+    "id": "AF-0831",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0832",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0834",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0835",
+    "display": "DENG",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0837",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0843",
+    "display": "4 Sided Cone",
+    "parts": 1,
+    "class": "MeshPart"
+  },
+  {
+    "id": "AF-0844",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0849",
+    "display": "DENG",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0850",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0851",
+    "display": "4 Sided Cone",
+    "parts": 1,
+    "class": "MeshPart"
+  },
+  {
+    "id": "AF-0852",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0854",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0856",
+    "display": "BlobbyblobBuild_Player",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0858",
+    "display": "MeshPart",
+    "parts": 1,
+    "class": "MeshPart"
+  },
+  {
+    "id": "AF-0859",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0862",
+    "display": "614",
+    "parts": 15,
+    "class": "Tool"
+  },
+  {
+    "id": "AF-0863",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0864",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0865",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0866",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0871",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0872",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0879",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  },
+  {
+    "id": "AF-0881",
+    "display": "Union",
+    "parts": 1,
+    "class": "UnionOperation"
+  },
+  {
+    "id": "AF-0882",
+    "display": "Part",
+    "parts": 1,
+    "class": "Part"
+  }
+]

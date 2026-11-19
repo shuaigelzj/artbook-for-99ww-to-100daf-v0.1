@@ -1,0 +1,17 @@
+{
+  "version": 60,
+  "scriptInstances": 879,
+  "uniqueSources": 591,
+  "unreadable": [],
+  "sourceEncodingErrors": [],
+  "propertyReferences": 40,
+  "skippedBroadTraversals": 25,
+  "unresolvedGlobalLookups": 20,
+  "counts": {
+    "未检出静态引用": 218,
+    "目录/标签间接引用": 521,
+    "检出静态引用": 105,
+    "重名或解析候选": 60,
+    "匹配受限": 1
+  }
+}

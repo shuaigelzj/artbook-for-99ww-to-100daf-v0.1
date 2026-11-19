@@ -1,0 +1,20 @@
+{
+  "playRuns": 1,
+  "subjects": 14,
+  "screenshots": 21,
+  "tableAndLinks": [],
+  "conceptGenerated": false,
+  "conceptBlocker": "HTTP 401 Unauthorized: IP not authorized",
+  "cleanup": {
+    "observerRemoved": true,
+    "cameraRestored": true,
+    "temporaryViewportRemoved": true,
+    "temporaryGeometryRemoved": true,
+    "geometryPartsRestored": 2712,
+    "playRuns": 1,
+    "savedOrPublished": false,
+    "mode": "Edit",
+    "unmatchedParts": 0,
+    "guiRestored": true
+  }
+}

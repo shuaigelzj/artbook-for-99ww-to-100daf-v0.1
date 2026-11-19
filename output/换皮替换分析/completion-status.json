@@ -1,0 +1,33 @@
+{
+  "total": 905,
+  "counts": {
+    "direct": 607,
+    "prepare": 222,
+    "verify": 46,
+    "none": 30
+  },
+  "liveStructures": 905,
+  "visualReviews": 159,
+  "withCompanions": 536,
+  "completePlans": 905,
+  "originalSnapshotUnmodified": true,
+  "websitePublishPending": false,
+  "websitePublished": true,
+  "deployment": {
+    "status": "succeeded",
+    "url": "https://afterfall-asset-catalog-20261118.neighborlynook32.chatgpt.site",
+    "id": "appgdep_6afe924c572881918eb8566615a5c4e4",
+    "versionId": "appgprj_6afd6b95845c8191b98a36f4c5a3f3c5~appgver_6deb102f31e08191b0b52f33a66674a5",
+    "commit": "2e519b188b40ae036bae9b40a1a3bc1099bae9eb"
+  },
+  "validation": {
+    "assessmentCoverage": true,
+    "originalClassificationsUnchanged": true,
+    "plansAndCompanions": true,
+    "websiteNewColumnAndFilter": true,
+    "exactIdAndCompanionSearch": true,
+    "markdownDownloadFields": true,
+    "mobileContainment": true,
+    "allOriginalImageBytesUnchanged": true
+  }
+}

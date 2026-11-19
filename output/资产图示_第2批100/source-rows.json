@@ -1,0 +1,702 @@
+[
+  {
+    "id": "AF-0051",
+    "name": "Building1x1",
+    "path": "Workspace.Prefabs.Map.房子尺寸样板.Building1x1",
+    "locator": "W/2/1/8/3",
+    "parts": 1
+  },
+  {
+    "id": "AF-0052",
+    "name": "Building3x2",
+    "path": "Workspace.Prefabs.Map.房子尺寸样板.Building3x2",
+    "locator": "W/2/1/8/4",
+    "parts": 1
+  },
+  {
+    "id": "AF-0053",
+    "name": "Building4x4",
+    "path": "Workspace.Prefabs.Map.房子尺寸样板.Building4x4",
+    "locator": "W/2/1/8/5",
+    "parts": 2
+  },
+  {
+    "id": "AF-0054",
+    "name": "1x1,侧翻马车",
+    "path": "Workspace.Prefabs.Map.资源点.1x1,侧翻马车",
+    "locator": "W/2/1/9/1",
+    "parts": 31
+  },
+  {
+    "id": "AF-0055",
+    "name": "1x1,骨头",
+    "path": "Workspace.Prefabs.Map.资源点.1x1,骨头",
+    "locator": "W/2/1/9/2",
+    "parts": 2
+  },
+  {
+    "id": "AF-0056",
+    "name": "1x1,围栏2",
+    "path": "Workspace.Prefabs.Map.资源点.1x1,围栏2",
+    "locator": "W/2/1/9/3",
+    "parts": 2
+  },
+  {
+    "id": "AF-0057",
+    "name": "1x1,围栏1",
+    "path": "Workspace.Prefabs.Map.资源点.1x1,围栏1",
+    "locator": "W/2/1/9/4",
+    "parts": 7
+  },
+  {
+    "id": "AF-0058",
+    "name": "1x1,风车",
+    "path": "Workspace.Prefabs.Map.资源点.1x1,风车",
+    "locator": "W/2/1/9/5",
+    "parts": 13
+  },
+  {
+    "id": "AF-0059",
+    "name": "1x1,坟墓",
+    "path": "Workspace.Prefabs.Map.资源点.1x1,坟墓",
+    "locator": "W/2/1/9/6",
+    "parts": 3
+  },
+  {
+    "id": "AF-0060",
+    "name": "1x1,木屋",
+    "path": "Workspace.Prefabs.Map.资源点.1x1,木屋",
+    "locator": "W/2/1/9/7",
+    "parts": 43
+  },
+  {
+    "id": "AF-0061",
+    "name": "1x1,围栏3",
+    "path": "Workspace.Prefabs.Map.资源点.1x1,围栏3",
+    "locator": "W/2/1/9/8",
+    "parts": 2
+  },
+  {
+    "id": "AF-0062",
+    "name": "1x1,石块",
+    "path": "Workspace.Prefabs.Map.资源点.1x1,石块",
+    "locator": "W/2/1/9/9",
+    "parts": 2
+  },
+  {
+    "id": "AF-0063",
+    "name": "1x1,水井",
+    "path": "Workspace.Prefabs.Map.资源点.1x1,水井",
+    "locator": "W/2/1/9/10",
+    "parts": 12
+  },
+  {
+    "id": "AF-0064",
+    "name": "1x1,木屋",
+    "path": "Workspace.Prefabs.Map.资源点.1x1,木屋",
+    "locator": "W/2/1/9/11",
+    "parts": 30
+  },
+  {
+    "id": "AF-0065",
+    "name": "1x1,树桩",
+    "path": "Workspace.Prefabs.Map.资源点.1x1,树桩",
+    "locator": "W/2/1/9/12",
+    "parts": 2
+  },
+  {
+    "id": "AF-0066",
+    "name": "1x1,棺材",
+    "path": "Workspace.Prefabs.Map.资源点.1x1,棺材",
+    "locator": "W/2/1/9/13",
+    "parts": 5
+  },
+  {
+    "id": "AF-0067",
+    "name": "1x1,木屋",
+    "path": "Workspace.Prefabs.Map.资源点.1x1,木屋",
+    "locator": "W/2/1/9/14",
+    "parts": 22
+  },
+  {
+    "id": "AF-0068",
+    "name": "1x1,木屋",
+    "path": "Workspace.Prefabs.Map.资源点.1x1,木屋",
+    "locator": "W/2/1/9/15",
+    "parts": 33
+  },
+  {
+    "id": "AF-0069",
+    "name": "2x1,谷仓",
+    "path": "Workspace.Prefabs.Map.宝箱资源点.2x1,谷仓",
+    "locator": "W/2/1/10/1",
+    "parts": 103
+  },
+  {
+    "id": "AF-0070",
+    "name": "2x1,火车头",
+    "path": "Workspace.Prefabs.Map.宝箱资源点.2x1,火车头",
+    "locator": "W/2/1/10/2",
+    "parts": 21
+  },
+  {
+    "id": "AF-0071",
+    "name": "1x1,绞刑台",
+    "path": "Workspace.Prefabs.Map.宝箱资源点.1x1,绞刑台",
+    "locator": "W/2/1/10/3",
+    "parts": 28
+  },
+  {
+    "id": "AF-0072",
+    "name": "2x1,木屋",
+    "path": "Workspace.Prefabs.Map.宝箱资源点.2x1,木屋",
+    "locator": "W/2/1/10/4",
+    "parts": 108
+  },
+  {
+    "id": "AF-0073",
+    "name": "1x1,露天废墟",
+    "path": "Workspace.Prefabs.Map.宝箱资源点.1x1,露天废墟",
+    "locator": "W/2/1/10/5",
+    "parts": 36
+  },
+  {
+    "id": "AF-0074",
+    "name": "2x1,木屋",
+    "path": "Workspace.Prefabs.Map.宝箱资源点.2x1,木屋",
+    "locator": "W/2/1/10/6",
+    "parts": 176
+  },
+  {
+    "id": "AF-0075",
+    "name": "1x1,大叔",
+    "path": "Workspace.Prefabs.Map.宝箱资源点.1x1,大叔",
+    "locator": "W/2/1/10/7",
+    "parts": 38
+  },
+  {
+    "id": "AF-0076",
+    "name": "1x1,瞭望塔",
+    "path": "Workspace.Prefabs.Map.宝箱资源点.1x1,瞭望塔",
+    "locator": "W/2/1/10/8",
+    "parts": 72
+  },
+  {
+    "id": "AF-0077",
+    "name": "石块1",
+    "path": "Workspace.Prefabs.Map.石头.石块1",
+    "locator": "W/2/1/11/1",
+    "parts": 5
+  },
+  {
+    "id": "AF-0078",
+    "name": "草1",
+    "path": "Workspace.Prefabs.Map.石头.草1",
+    "locator": "W/2/1/11/2",
+    "parts": 1
+  },
+  {
+    "id": "AF-0079",
+    "name": "草2",
+    "path": "Workspace.Prefabs.Map.石头.草2",
+    "locator": "W/2/1/11/3",
+    "parts": 1
+  },
+  {
+    "id": "AF-0080",
+    "name": "灌木丛1",
+    "path": "Workspace.Prefabs.Map.石头.灌木丛1",
+    "locator": "W/2/1/11/4",
+    "parts": 1
+  },
+  {
+    "id": "AF-0081",
+    "name": "石块2",
+    "path": "Workspace.Prefabs.Map.石头.石块2",
+    "locator": "W/2/1/11/5",
+    "parts": 3
+  },
+  {
+    "id": "AF-0082",
+    "name": "灌木丛2",
+    "path": "Workspace.Prefabs.Map.石头.灌木丛2",
+    "locator": "W/2/1/11/6",
+    "parts": 1
+  },
+  {
+    "id": "AF-0083",
+    "name": "电线杆",
+    "path": "Workspace.Prefabs.Map.石头.电线杆",
+    "locator": "W/2/1/11/7",
+    "parts": 1
+  },
+  {
+    "id": "AF-0084",
+    "name": "仙人掌",
+    "path": "Workspace.Prefabs.Map.石头.仙人掌",
+    "locator": "W/2/1/11/8",
+    "parts": 1
+  },
+  {
+    "id": "AF-0085",
+    "name": "2",
+    "path": "Workspace.Prefabs.Map.神枪手据点.2",
+    "locator": "W/2/1/12/1",
+    "parts": 152
+  },
+  {
+    "id": "AF-0086",
+    "name": "3",
+    "path": "Workspace.Prefabs.Map.神枪手据点.3",
+    "locator": "W/2/1/12/2",
+    "parts": 135
+  },
+  {
+    "id": "AF-0087",
+    "name": "1",
+    "path": "Workspace.Prefabs.Map.神枪手据点.1",
+    "locator": "W/2/1/12/3",
+    "parts": 134
+  },
+  {
+    "id": "AF-0088",
+    "name": "4",
+    "path": "Workspace.Prefabs.Map.神枪手据点.4",
+    "locator": "W/2/1/12/4",
+    "parts": 150
+  },
+  {
+    "id": "AF-0089",
+    "name": "2x2,武器工坊",
+    "path": "Workspace.Prefabs.Map.特殊房子.2x2,武器工坊",
+    "locator": "W/2/1/13/1",
+    "parts": 618
+  },
+  {
+    "id": "AF-0090",
+    "name": "1x1,传送马车",
+    "path": "Workspace.Prefabs.Map.特殊房子.1x1,传送马车",
+    "locator": "W/2/1/13/2",
+    "parts": 77
+  },
+  {
+    "id": "AF-0091",
+    "name": "1x1,化石",
+    "path": "Workspace.Prefabs.Map.特殊房子.1x1,化石",
+    "locator": "W/2/1/13/3",
+    "parts": 11
+  },
+  {
+    "id": "AF-0092",
+    "name": "武器库",
+    "path": "Workspace.Prefabs.Map.特殊房子.武器库",
+    "locator": "W/2/1/13/4",
+    "parts": 114
+  },
+  {
+    "id": "AF-0093",
+    "name": "医院",
+    "path": "Workspace.Prefabs.Map.特殊房子.医院",
+    "locator": "W/2/1/13/5",
+    "parts": 144
+  },
+  {
+    "id": "AF-0094",
+    "name": "1x1,驼鹿巢穴",
+    "path": "Workspace.Prefabs.Map.特殊房子.1x1,驼鹿巢穴",
+    "locator": "W/2/1/13/6",
+    "parts": 111
+  },
+  {
+    "id": "AF-0095",
+    "name": "灯库",
+    "path": "Workspace.Prefabs.Map.特殊房子.灯库",
+    "locator": "W/2/1/13/7",
+    "parts": 72
+  },
+  {
+    "id": "AF-0096",
+    "name": "淘金屋",
+    "path": "Workspace.Prefabs.Map.特殊房子.淘金屋",
+    "locator": "W/2/1/13/8",
+    "parts": 361
+  },
+  {
+    "id": "AF-0097",
+    "name": "1x1,煤矿车",
+    "path": "Workspace.Prefabs.Map.随机事件.1x1,煤矿车",
+    "locator": "W/2/1/14/1",
+    "parts": 13
+  },
+  {
+    "id": "AF-0098",
+    "name": "1x1,皮肤前辈",
+    "path": "Workspace.Prefabs.Map.随机事件.1x1,皮肤前辈",
+    "locator": "W/2/1/14/2",
+    "parts": 12
+  },
+  {
+    "id": "AF-0099",
+    "name": "1x1,宝石前辈",
+    "path": "Workspace.Prefabs.Map.随机事件.1x1,宝石前辈",
+    "locator": "W/2/1/14/3",
+    "parts": 23
+  },
+  {
+    "id": "AF-0100",
+    "name": "1x1,霰弹枪前辈",
+    "path": "Workspace.Prefabs.Map.随机事件.1x1,霰弹枪前辈",
+    "locator": "W/2/1/14/4",
+    "parts": 84
+  },
+  {
+    "id": "AF-0101",
+    "name": "1x1,陨石坑",
+    "path": "Workspace.Prefabs.Map.随机事件.1x1,陨石坑",
+    "locator": "W/2/1/14/5",
+    "parts": 119
+  },
+  {
+    "id": "AF-0102",
+    "name": "1x1,巨袋前辈",
+    "path": "Workspace.Prefabs.Map.随机事件.1x1,巨袋前辈",
+    "locator": "W/2/1/14/6",
+    "parts": 19
+  },
+  {
+    "id": "AF-0103",
+    "name": "2x1,教堂",
+    "path": "Workspace.Prefabs.Map.随机事件.2x1,教堂",
+    "locator": "W/2/1/14/7",
+    "parts": 84
+  },
+  {
+    "id": "AF-0104",
+    "name": "1x1,加特林前辈",
+    "path": "Workspace.Prefabs.Map.随机事件.1x1,加特林前辈",
+    "locator": "W/2/1/14/8",
+    "parts": 92
+  },
+  {
+    "id": "AF-0105",
+    "name": "1x1,答辩前辈",
+    "path": "Workspace.Prefabs.Map.随机事件.1x1,答辩前辈",
+    "locator": "W/2/1/14/9",
+    "parts": 10
+  },
+  {
+    "id": "AF-0106",
+    "name": "1x1,斧头前辈",
+    "path": "Workspace.Prefabs.Map.随机事件.1x1,斧头前辈",
+    "locator": "W/2/1/14/10",
+    "parts": 34
+  },
+  {
+    "id": "AF-0107",
+    "name": "神器宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.神器宝箱",
+    "locator": "W/2/1/15/2",
+    "parts": 14
+  },
+  {
+    "id": "AF-0108",
+    "name": "4级宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.4级宝箱",
+    "locator": "W/2/1/15/3",
+    "parts": 9
+  },
+  {
+    "id": "AF-0109",
+    "name": "私酒作坊宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.私酒作坊宝箱",
+    "locator": "W/2/1/15/4",
+    "parts": 14
+  },
+  {
+    "id": "AF-0110",
+    "name": "2级宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.2级宝箱",
+    "locator": "W/2/1/15/5",
+    "parts": 8
+  },
+  {
+    "id": "AF-0111",
+    "name": "铃铛洞穴宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.铃铛洞穴宝箱",
+    "locator": "W/2/1/15/6",
+    "parts": 8
+  },
+  {
+    "id": "AF-0112",
+    "name": "土著村落宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.土著村落宝箱",
+    "locator": "W/2/1/15/7",
+    "parts": 14
+  },
+  {
+    "id": "AF-0113",
+    "name": "武器车厢宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.武器车厢宝箱",
+    "locator": "W/2/1/15/8",
+    "parts": 9
+  },
+  {
+    "id": "AF-0114",
+    "name": "宝石x3宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.宝石x3宝箱",
+    "locator": "W/2/1/15/9",
+    "parts": 14
+  },
+  {
+    "id": "AF-0115",
+    "name": "西部铁道公司宝箱V2",
+    "path": "Workspace.Prefabs.Map.宝箱.西部铁道公司宝箱V2",
+    "locator": "W/2/1/15/10",
+    "parts": 14
+  },
+  {
+    "id": "AF-0116",
+    "name": "3级宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.3级宝箱",
+    "locator": "W/2/1/15/11",
+    "parts": 9
+  },
+  {
+    "id": "AF-0117",
+    "name": "5级宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.5级宝箱",
+    "locator": "W/2/1/15/12",
+    "parts": 9
+  },
+  {
+    "id": "AF-0118",
+    "name": "6级宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.6级宝箱",
+    "locator": "W/2/1/15/13",
+    "parts": 14
+  },
+  {
+    "id": "AF-0119",
+    "name": "牛王宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.牛王宝箱",
+    "locator": "W/2/1/15/14",
+    "parts": 16
+  },
+  {
+    "id": "AF-0120",
+    "name": "野猪王宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.野猪王宝箱",
+    "locator": "W/2/1/15/15",
+    "parts": 16
+  },
+  {
+    "id": "AF-0121",
+    "name": "圣诞Outlaw宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.圣诞Outlaw宝箱",
+    "locator": "W/2/1/15/16",
+    "parts": 34
+  },
+  {
+    "id": "AF-0122",
+    "name": "加特林宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.加特林宝箱",
+    "locator": "W/2/1/15/17",
+    "parts": 14
+  },
+  {
+    "id": "AF-0123",
+    "name": "炸药车厢宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.炸药车厢宝箱",
+    "locator": "W/2/1/15/18",
+    "parts": 9
+  },
+  {
+    "id": "AF-0124",
+    "name": "1级宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.1级宝箱",
+    "locator": "W/2/1/15/19",
+    "parts": 8
+  },
+  {
+    "id": "AF-0125",
+    "name": "雪地村落宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.雪地村落宝箱",
+    "locator": "W/2/1/15/20",
+    "parts": 14
+  },
+  {
+    "id": "AF-0126",
+    "name": "仓库车厢宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.仓库车厢宝箱",
+    "locator": "W/2/1/15/21",
+    "parts": 8
+  },
+  {
+    "id": "AF-0127",
+    "name": "弹药车厢宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.弹药车厢宝箱",
+    "locator": "W/2/1/15/22",
+    "parts": 9
+  },
+  {
+    "id": "AF-0128",
+    "name": "铃铛洞穴小宝石宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.铃铛洞穴小宝石宝箱",
+    "locator": "W/2/1/15/23",
+    "parts": 14
+  },
+  {
+    "id": "AF-0129",
+    "name": "小宝石宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.小宝石宝箱",
+    "locator": "W/2/1/15/24",
+    "parts": 14
+  },
+  {
+    "id": "AF-0130",
+    "name": "宝石宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.宝石宝箱",
+    "locator": "W/2/1/15/25",
+    "parts": 14
+  },
+  {
+    "id": "AF-0131",
+    "name": "小黄金宝箱",
+    "path": "Workspace.Prefabs.Map.宝箱.小黄金宝箱",
+    "locator": "W/2/1/15/26",
+    "parts": 14
+  },
+  {
+    "id": "AF-0132",
+    "name": "西部铁道公司宝箱V1",
+    "path": "Workspace.Prefabs.Map.宝箱.西部铁道公司宝箱V1",
+    "locator": "W/2/1/15/27",
+    "parts": 9
+  },
+  {
+    "id": "AF-0133",
+    "name": "2级铃铛洞穴战场",
+    "path": "Workspace.Prefabs.Map.铃铛洞穴.2级铃铛洞穴战场",
+    "locator": "W/2/1/16/1",
+    "parts": 94
+  },
+  {
+    "id": "AF-0134",
+    "name": "空宝石",
+    "path": "Workspace.Prefabs.Map.铃铛洞穴.空宝石",
+    "locator": "W/2/1/16/2",
+    "parts": 3
+  },
+  {
+    "id": "AF-0135",
+    "name": "1x1,1级铃铛洞穴",
+    "path": "Workspace.Prefabs.Map.铃铛洞穴.1x1,1级铃铛洞穴",
+    "locator": "W/2/1/16/3",
+    "parts": 80
+  },
+  {
+    "id": "AF-0136",
+    "name": "1x1,2级铃铛洞穴",
+    "path": "Workspace.Prefabs.Map.铃铛洞穴.1x1,2级铃铛洞穴",
+    "locator": "W/2/1/16/4",
+    "parts": 65
+  },
+  {
+    "id": "AF-0137",
+    "name": "1级铃铛洞穴战场",
+    "path": "Workspace.Prefabs.Map.铃铛洞穴.1级铃铛洞穴战场",
+    "locator": "W/2/1/16/5",
+    "parts": 86
+  },
+  {
+    "id": "AF-0138",
+    "name": "雪3",
+    "path": "Workspace.Prefabs.Map.雪块.雪3",
+    "locator": "W/2/1/17/1",
+    "parts": 3
+  },
+  {
+    "id": "AF-0139",
+    "name": "雪1",
+    "path": "Workspace.Prefabs.Map.雪块.雪1",
+    "locator": "W/2/1/17/2",
+    "parts": 2
+  },
+  {
+    "id": "AF-0140",
+    "name": "雪2",
+    "path": "Workspace.Prefabs.Map.雪块.雪2",
+    "locator": "W/2/1/17/3",
+    "parts": 2
+  },
+  {
+    "id": "AF-0141",
+    "name": "金矿",
+    "path": "Workspace.Prefabs.Map.矿脉.金矿",
+    "locator": "W/2/1/18/1",
+    "parts": 9
+  },
+  {
+    "id": "AF-0142",
+    "name": "大铁矿",
+    "path": "Workspace.Prefabs.Map.矿脉.大铁矿",
+    "locator": "W/2/1/18/2",
+    "parts": 9
+  },
+  {
+    "id": "AF-0143",
+    "name": "小铁矿",
+    "path": "Workspace.Prefabs.Map.矿脉.小铁矿",
+    "locator": "W/2/1/18/3",
+    "parts": 9
+  },
+  {
+    "id": "AF-0144",
+    "name": "1x1,gear1",
+    "path": "Workspace.Prefabs.Map.齿轮资源点.1x1,gear1",
+    "locator": "W/2/1/19/1",
+    "parts": 44
+  },
+  {
+    "id": "AF-0145",
+    "name": "1x1,gear3",
+    "path": "Workspace.Prefabs.Map.齿轮资源点.1x1,gear3",
+    "locator": "W/2/1/19/2",
+    "parts": 21
+  },
+  {
+    "id": "AF-0146",
+    "name": "1x1,gear2",
+    "path": "Workspace.Prefabs.Map.齿轮资源点.1x1,gear2",
+    "locator": "W/2/1/19/3",
+    "parts": 36
+  },
+  {
+    "id": "AF-0147",
+    "name": "区域格挡空气墙",
+    "path": "Workspace.Prefabs.Map.区域格挡空气墙",
+    "locator": "W/2/1/20",
+    "parts": 7
+  },
+  {
+    "id": "AF-0148",
+    "name": "Model",
+    "path": "Workspace.Prefabs.Map.Model",
+    "locator": "W/2/1/21",
+    "parts": 20
+  },
+  {
+    "id": "AF-0149",
+    "name": "WantedBoard",
+    "path": "Workspace.Prefabs.Map.WantedBoard",
+    "locator": "W/2/1/22",
+    "parts": 328
+  },
+  {
+    "id": "AF-0150",
+    "name": "MapMarker",
+    "path": "Workspace.Prefabs.Map.MapMarker",
+    "locator": "W/2/1/23",
+    "parts": 4
+  }
+]

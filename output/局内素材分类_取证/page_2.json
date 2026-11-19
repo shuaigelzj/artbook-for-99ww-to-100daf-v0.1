@@ -1,0 +1,4965 @@
+[
+  {
+    "path": "Workspace.Prefabs.Map.宝箱.圣诞Outlaw宝箱",
+    "index": 121,
+    "parent": "Workspace.Prefabs.Map.宝箱",
+    "class": "Model",
+    "locator": "W/2/1/15/16",
+    "scripts": 0,
+    "children": [
+      "lib [Model]",
+      "铃铛 [Model]",
+      "铃铛 [Model]",
+      "TouchPart [Part]",
+      "箱子底 [Model]"
+    ],
+    "parts": 34,
+    "attrs": {
+      "RandomId": "21"
+    },
+    "meshes": 11,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3.27,
+      4.87,
+      6.06
+    ],
+    "collidable": 22,
+    "meshIds": [
+      "rbxassetid://8617759392",
+      "rbxassetid://8617759754",
+      "rbxassetid://86734736138924",
+      "rbxassetid://89458711719158",
+      "rbxassetid://91728146547196",
+      "rbxassetid://96612728708820"
+    ],
+    "name": "圣诞Outlaw宝箱",
+    "position": [
+      -925.83,
+      -792.1,
+      -305.91
+    ],
+    "anchored": 29,
+    "humanoids": 0,
+    "geometry": "34:3657350925",
+    "descendants": 53
+  },
+  {
+    "path": "Workspace.Prefabs.Map.宝箱.加特林宝箱",
+    "index": 122,
+    "parent": "Workspace.Prefabs.Map.宝箱",
+    "class": "Model",
+    "locator": "W/2/1/15/17",
+    "scripts": 0,
+    "children": [
+      "TouchPart [Part]",
+      "lib [Model]",
+      "箱子底 [Model]"
+    ],
+    "parts": 14,
+    "attrs": {
+      "RandomId": "13"
+    },
+    "meshes": 11,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3.27,
+      4.87,
+      4.54
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://8617759392",
+      "rbxassetid://8617759754",
+      "rbxassetid://86734736138924",
+      "rbxassetid://89458711719158",
+      "rbxassetid://91728146547196",
+      "rbxassetid://96612728708820"
+    ],
+    "name": "加特林宝箱",
+    "position": [
+      -926.6,
+      -791.9,
+      -324.35
+    ],
+    "anchored": 9,
+    "humanoids": 0,
+    "geometry": "14:4048094421",
+    "descendants": 31
+  },
+  {
+    "path": "Workspace.Prefabs.Map.宝箱.炸药车厢宝箱",
+    "index": 123,
+    "parent": "Workspace.Prefabs.Map.宝箱",
+    "class": "Model",
+    "locator": "W/2/1/15/18",
+    "scripts": 0,
+    "children": [
+      "箱子底 [Model]",
+      "lib [Model]",
+      "TouchPart [Part]"
+    ],
+    "parts": 9,
+    "attrs": {
+      "RandomId": "19"
+    },
+    "meshes": 6,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.98,
+      4.5,
+      4.19
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://117384748057399",
+      "rbxassetid://83607457648245",
+      "rbxassetid://8617759754",
+      "rbxassetid://88452313346817",
+      "rbxassetid://89458711719158"
+    ],
+    "name": "炸药车厢宝箱",
+    "position": [
+      -917.1,
+      -791.96,
+      -315.74
+    ],
+    "anchored": 7,
+    "humanoids": 0,
+    "geometry": "9:1463376478",
+    "descendants": 16
+  },
+  {
+    "path": "Workspace.Prefabs.Map.宝箱.1级宝箱",
+    "index": 124,
+    "parent": "Workspace.Prefabs.Map.宝箱",
+    "class": "Model",
+    "locator": "W/2/1/15/19",
+    "scripts": 0,
+    "children": [
+      "箱子底 [Model]",
+      "lib [Model]",
+      "TouchPart [Part]"
+    ],
+    "parts": 8,
+    "attrs": {
+      "RandomId": "1"
+    },
+    "meshes": 5,
+    "tags": [
+      "UITreasure"
+    ],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.8,
+      4.4,
+      3.78
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://71309004972165",
+      "rbxassetid://8617759146",
+      "rbxassetid://8617759392",
+      "rbxassetid://8617759563",
+      "rbxassetid://8617759754"
+    ],
+    "name": "1级宝箱",
+    "position": [
+      -901.99,
+      -792.01,
+      -337.28
+    ],
+    "anchored": 6,
+    "humanoids": 0,
+    "geometry": "8:3201181154",
+    "descendants": 15
+  },
+  {
+    "path": "Workspace.Prefabs.Map.宝箱.雪地村落宝箱",
+    "index": 125,
+    "parent": "Workspace.Prefabs.Map.宝箱",
+    "class": "Model",
+    "locator": "W/2/1/15/20",
+    "scripts": 0,
+    "children": [
+      "lib [Model]",
+      "箱子底 [Model]",
+      "TouchPart [Part]"
+    ],
+    "parts": 14,
+    "attrs": {
+      "RandomId": "22"
+    },
+    "meshes": 11,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3.04,
+      4.5,
+      4.19
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://117384748057399",
+      "rbxassetid://135135219868706",
+      "rbxassetid://8617759392",
+      "rbxassetid://8617759754",
+      "rbxassetid://89458711719158",
+      "rbxassetid://90173693265378"
+    ],
+    "name": "雪地村落宝箱",
+    "position": [
+      -932.6,
+      -791.96,
+      -297.56
+    ],
+    "anchored": 9,
+    "humanoids": 0,
+    "geometry": "14:2771656209",
+    "descendants": 31
+  },
+  {
+    "path": "Workspace.Prefabs.Map.宝箱.仓库车厢宝箱",
+    "index": 126,
+    "parent": "Workspace.Prefabs.Map.宝箱",
+    "class": "Model",
+    "locator": "W/2/1/15/21",
+    "scripts": 0,
+    "children": [
+      "lib [Model]",
+      "箱子底 [Model]",
+      "TouchPart [Part]"
+    ],
+    "parts": 8,
+    "attrs": {
+      "RandomId": "18"
+    },
+    "meshes": 5,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.8,
+      4.4,
+      3.78
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://71309004972165",
+      "rbxassetid://8617759146",
+      "rbxassetid://8617759392",
+      "rbxassetid://8617759563",
+      "rbxassetid://8617759754"
+    ],
+    "name": "仓库车厢宝箱",
+    "position": [
+      -900.17,
+      -792.01,
+      -315.97
+    ],
+    "anchored": 6,
+    "humanoids": 0,
+    "geometry": "8:3201181154",
+    "descendants": 15
+  },
+  {
+    "path": "Workspace.Prefabs.Map.宝箱.弹药车厢宝箱",
+    "index": 127,
+    "parent": "Workspace.Prefabs.Map.宝箱",
+    "class": "Model",
+    "locator": "W/2/1/15/22",
+    "scripts": 0,
+    "children": [
+      "lib [Model]",
+      "TouchPart [Part]",
+      "箱子底 [Model]"
+    ],
+    "parts": 9,
+    "attrs": {
+      "RandomId": "20"
+    },
+    "meshes": 6,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.98,
+      4.5,
+      4.19
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://117384748057399",
+      "rbxassetid://83607457648245",
+      "rbxassetid://8617759754",
+      "rbxassetid://88452313346817",
+      "rbxassetid://89458711719158"
+    ],
+    "name": "弹药车厢宝箱",
+    "position": [
+      -911.12,
+      -791.96,
+      -315.74
+    ],
+    "anchored": 7,
+    "humanoids": 0,
+    "geometry": "9:1463376478",
+    "descendants": 16
+  },
+  {
+    "path": "Workspace.Prefabs.Map.宝箱.铃铛洞穴小宝石宝箱",
+    "index": 128,
+    "parent": "Workspace.Prefabs.Map.宝箱",
+    "class": "Model",
+    "locator": "W/2/1/15/23",
+    "scripts": 0,
+    "children": [
+      "箱子底 [Model]",
+      "TouchPart [Part]",
+      "lib [Model]"
+    ],
+    "parts": 14,
+    "attrs": {
+      "RandomId": "9"
+    },
+    "meshes": 11,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.98,
+      4.57,
+      4.19
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://83607457648245",
+      "rbxassetid://8617759392",
+      "rbxassetid://8617759754",
+      "rbxassetid://88452313346817",
+      "rbxassetid://91728146547196",
+      "rbxassetid://96029614381955"
+    ],
+    "name": "铃铛洞穴小宝石宝箱",
+    "position": [
+      -932.03,
+      -791.93,
+      -312.5
+    ],
+    "anchored": 9,
+    "humanoids": 0,
+    "geometry": "14:1923824136",
+    "descendants": 31
+  },
+  {
+    "path": "Workspace.Prefabs.Map.宝箱.小宝石宝箱",
+    "index": 129,
+    "parent": "Workspace.Prefabs.Map.宝箱",
+    "class": "Model",
+    "locator": "W/2/1/15/24",
+    "scripts": 0,
+    "children": [
+      "lib [Model]",
+      "TouchPart [Part]",
+      "箱子底 [Model]"
+    ],
+    "parts": 14,
+    "attrs": {
+      "RandomId": "9"
+    },
+    "meshes": 11,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.98,
+      4.57,
+      4.19
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://83607457648245",
+      "rbxassetid://8617759392",
+      "rbxassetid://8617759754",
+      "rbxassetid://88452313346817",
+      "rbxassetid://91728146547196",
+      "rbxassetid://96029614381955"
+    ],
+    "name": "小宝石宝箱",
+    "position": [
+      -938.42,
+      -791.93,
+      -330.16
+    ],
+    "anchored": 9,
+    "humanoids": 0,
+    "geometry": "14:1923824136",
+    "descendants": 31
+  },
+  {
+    "path": "Workspace.Prefabs.Map.宝箱.宝石宝箱",
+    "index": 130,
+    "parent": "Workspace.Prefabs.Map.宝箱",
+    "class": "Model",
+    "locator": "W/2/1/15/25",
+    "scripts": 0,
+    "children": [
+      "箱子底 [Model]",
+      "lib [Model]",
+      "TouchPart [Part]"
+    ],
+    "parts": 14,
+    "attrs": {
+      "RandomId": "8"
+    },
+    "meshes": 11,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3.26,
+      4.87,
+      4.54
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://8617759392",
+      "rbxassetid://8617759754",
+      "rbxassetid://86734736138924",
+      "rbxassetid://89458711719158",
+      "rbxassetid://91728146547196",
+      "rbxassetid://96612728708820"
+    ],
+    "name": "宝石宝箱",
+    "position": [
+      -938.42,
+      -791.9,
+      -337.26
+    ],
+    "anchored": 9,
+    "humanoids": 0,
+    "geometry": "14:474573014",
+    "descendants": 31
+  },
+  {
+    "path": "Workspace.Prefabs.Map.宝箱.小黄金宝箱",
+    "index": 131,
+    "parent": "Workspace.Prefabs.Map.宝箱",
+    "class": "Model",
+    "locator": "W/2/1/15/26",
+    "scripts": 0,
+    "children": [
+      "箱子底 [Model]",
+      "TouchPart [Part]",
+      "lib [Model]"
+    ],
+    "parts": 14,
+    "attrs": {
+      "RandomId": "14"
+    },
+    "meshes": 11,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.98,
+      4.57,
+      4.19
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://83607457648245",
+      "rbxassetid://8617759392",
+      "rbxassetid://8617759754",
+      "rbxassetid://88452313346817",
+      "rbxassetid://91728146547196",
+      "rbxassetid://96029614381955"
+    ],
+    "name": "小黄金宝箱",
+    "position": [
+      -943.46,
+      -791.93,
+      -330.16
+    ],
+    "anchored": 9,
+    "humanoids": 0,
+    "geometry": "14:1923824136",
+    "descendants": 31
+  },
+  {
+    "path": "Workspace.Prefabs.Map.宝箱.西部铁道公司宝箱V1",
+    "index": 132,
+    "parent": "Workspace.Prefabs.Map.宝箱",
+    "class": "Model",
+    "locator": "W/2/1/15/27",
+    "scripts": 0,
+    "children": [
+      "lib [Model]",
+      "TouchPart [Part]",
+      "箱子底 [Model]"
+    ],
+    "parts": 9,
+    "attrs": {
+      "RandomId": "23"
+    },
+    "meshes": 6,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3.02,
+      4.5,
+      4.19
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://117384748057399",
+      "rbxassetid://83607457648245",
+      "rbxassetid://8617759754",
+      "rbxassetid://88452313346817",
+      "rbxassetid://89458711719158"
+    ],
+    "name": "西部铁道公司宝箱V1",
+    "position": [
+      -926.99,
+      -791.96,
+      -297.57
+    ],
+    "anchored": 7,
+    "humanoids": 0,
+    "geometry": "9:1463376478",
+    "descendants": 20
+  },
+  {
+    "path": "Workspace.Prefabs.Map.铃铛洞穴.2级铃铛洞穴战场",
+    "index": 133,
+    "parent": "Workspace.Prefabs.Map.铃铛洞穴",
+    "class": "Model",
+    "locator": "W/2/1/16/1",
+    "scripts": 2,
+    "children": [
+      "Part [Part]",
+      "草 [Model]",
+      "RootPart [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "石块 [Model]",
+      "Part [Part]",
+      "Part [Part]",
+      "灯 [Part]",
+      "Part [Part]",
+      "毒沼泽 [Model]"
+    ],
+    "parts": 94,
+    "attrs": [],
+    "meshes": 14,
+    "tags": [],
+    "scriptNames": [
+      "毒沼泽",
+      "毒沼泽"
+    ],
+    "animations": 0,
+    "size": [
+      199.84,
+      102.16,
+      158.14
+    ],
+    "collidable": 80,
+    "meshIds": [
+      "rbxassetid://116971278289154",
+      "rbxassetid://119557085424998",
+      "rbxassetid://130635119283909",
+      "rbxassetid://131216200104697",
+      "rbxassetid://133810958324159",
+      "rbxassetid://8187885023",
+      "rbxassetid://82195427479850"
+    ],
+    "name": "2级铃铛洞穴战场",
+    "position": [
+      -370.01,
+      -767.27,
+      782.9
+    ],
+    "anchored": 89,
+    "humanoids": 0,
+    "geometry": "94:1459980943",
+    "descendants": 165
+  },
+  {
+    "path": "Workspace.Prefabs.Map.铃铛洞穴.空宝石",
+    "index": 134,
+    "parent": "Workspace.Prefabs.Map.铃铛洞穴",
+    "class": "Tool",
+    "locator": "W/2/1/16/2",
+    "scripts": 0,
+    "children": [
+      "15 [UnionOperation]",
+      "Handle [Part]",
+      "TouchPart [Part]"
+    ],
+    "parts": 3,
+    "attrs": {
+      "type": ""
+    },
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      5,
+      12.18,
+      2.91
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "空宝石",
+    "position": [
+      -581.83,
+      -784.6,
+      125.61
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "3:1575979501",
+    "descendants": 5
+  },
+  {
+    "path": "Workspace.Prefabs.Map.铃铛洞穴.1x1,1级铃铛洞穴",
+    "index": 135,
+    "parent": "Workspace.Prefabs.Map.铃铛洞穴",
+    "class": "Model",
+    "locator": "W/2/1/16/3",
+    "scripts": 1,
+    "children": [
+      "703 [Tool]",
+      "铃铛洞穴 [Folder]",
+      "洞口 [Model]",
+      "traveler1 [Model]",
+      "RootPart [Part]"
+    ],
+    "parts": 80,
+    "attrs": [],
+    "meshes": 14,
+    "tags": [],
+    "scriptNames": [
+      "旅行者"
+    ],
+    "animations": 0,
+    "size": [
+      50,
+      39.01,
+      58.77
+    ],
+    "collidable": 50,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=78027990",
+      "rbxassetid://116219721302780",
+      "rbxassetid://121114308752448",
+      "rbxassetid://128028745628656",
+      "rbxassetid://4382285860",
+      "rbxassetid://4755296547",
+      "rbxassetid://7902502197",
+      "rbxassetid://8187885023"
+    ],
+    "name": "1x1,1级铃铛洞穴",
+    "position": [
+      -602.37,
+      -778.47,
+      148.44
+    ],
+    "anchored": 61,
+    "humanoids": 1,
+    "geometry": "80:120243427",
+    "descendants": 216
+  },
+  {
+    "path": "Workspace.Prefabs.Map.铃铛洞穴.1x1,2级铃铛洞穴",
+    "index": 136,
+    "parent": "Workspace.Prefabs.Map.铃铛洞穴",
+    "class": "Model",
+    "locator": "W/2/1/16/4",
+    "scripts": 0,
+    "children": [
+      "洞口 [Model]",
+      "铃铛洞穴 [Folder]",
+      "石块2 [Model]",
+      "704 [Tool]",
+      "RootPart [Part]"
+    ],
+    "parts": 65,
+    "attrs": [],
+    "meshes": 9,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      50,
+      39.01,
+      58.77
+    ],
+    "collidable": 44,
+    "meshIds": [
+      "rbxassetid://116219721302780",
+      "rbxassetid://121114308752448",
+      "rbxassetid://128028745628656",
+      "rbxassetid://8187885023"
+    ],
+    "name": "1x1,2级铃铛洞穴",
+    "position": [
+      -602.7,
+      -778.47,
+      76.52
+    ],
+    "anchored": 62,
+    "humanoids": 0,
+    "geometry": "65:2060872182",
+    "descendants": 122
+  },
+  {
+    "path": "Workspace.Prefabs.Map.铃铛洞穴.1级铃铛洞穴战场",
+    "index": 137,
+    "parent": "Workspace.Prefabs.Map.铃铛洞穴",
+    "class": "Model",
+    "locator": "W/2/1/16/5",
+    "scripts": 0,
+    "children": [
+      "战场 [Folder]",
+      "Part [Part]",
+      "草 [Model]",
+      "Part [Part]",
+      "Part [Part]",
+      "洞口 [Model]",
+      "Part [Part]",
+      "Union [UnionOperation]",
+      "Union [UnionOperation]",
+      "Part [Part]",
+      "SC [MeshPart]",
+      "Part [Part]",
+      "RootPart [Part]",
+      "光源 [Attachment]"
+    ],
+    "parts": 86,
+    "attrs": [],
+    "meshes": 12,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      199.84,
+      68.06,
+      158.14
+    ],
+    "collidable": 75,
+    "meshIds": [
+      "rbxassetid://119557085424998",
+      "rbxassetid://131216200104697",
+      "rbxassetid://133810958324159",
+      "rbxassetid://6201037728",
+      "rbxassetid://8187885023",
+      "rbxassetid://82195427479850"
+    ],
+    "name": "1级铃铛洞穴战场",
+    "position": [
+      -370.01,
+      -750.22,
+      590.6
+    ],
+    "anchored": 82,
+    "humanoids": 0,
+    "geometry": "86:1739017961",
+    "descendants": 142
+  },
+  {
+    "path": "Workspace.Prefabs.Map.雪块.雪3",
+    "index": 138,
+    "parent": "Workspace.Prefabs.Map.雪块",
+    "class": "Model",
+    "locator": "W/2/1/17/1",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "Part [Part]",
+      "Part [Part]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      8.96,
+      4.27,
+      12.18
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "雪3",
+    "position": [
+      -109,
+      -793.66,
+      101.56
+    ],
+    "anchored": 3,
+    "humanoids": 0,
+    "geometry": "3:3204485618",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.Map.雪块.雪1",
+    "index": 139,
+    "parent": "Workspace.Prefabs.Map.雪块",
+    "class": "Model",
+    "locator": "W/2/1/17/2",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]",
+      "RootPart [Part]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      21.54,
+      7.72,
+      18.5
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "雪1",
+    "position": [
+      -68.9,
+      -795.93,
+      105.47
+    ],
+    "anchored": 2,
+    "humanoids": 0,
+    "geometry": "2:244718976",
+    "descendants": 2
+  },
+  {
+    "path": "Workspace.Prefabs.Map.雪块.雪2",
+    "index": 140,
+    "parent": "Workspace.Prefabs.Map.雪块",
+    "class": "Model",
+    "locator": "W/2/1/17/3",
+    "scripts": 0,
+    "children": [
+      "Part [Part]",
+      "RootPart [Part]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      12.27,
+      4.37,
+      13.22
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "雪2",
+    "position": [
+      -90.49,
+      -793.71,
+      101.23
+    ],
+    "anchored": 2,
+    "humanoids": 0,
+    "geometry": "2:2335424414",
+    "descendants": 2
+  },
+  {
+    "path": "Workspace.Prefabs.Map.矿脉.金矿",
+    "index": 141,
+    "parent": "Workspace.Prefabs.Map.矿脉",
+    "class": "Model",
+    "locator": "W/2/1/18/1",
+    "scripts": 0,
+    "children": [
+      "Rock6 [MeshPart]",
+      "RootPart [Part]",
+      "矿 [Folder]",
+      "Rock7 [MeshPart]",
+      "HP [NumberValue]"
+    ],
+    "parts": 9,
+    "attrs": {
+      "dropRandomId": "210"
+    },
+    "meshes": 8,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      11.18,
+      8.29,
+      9.42
+    ],
+    "collidable": 8,
+    "meshIds": [
+      "rbxassetid://2128760908",
+      "rbxassetid://2128761993"
+    ],
+    "name": "金矿",
+    "position": [
+      -210.67,
+      -788.72,
+      208.32
+    ],
+    "anchored": 9,
+    "humanoids": 0,
+    "geometry": "9:3129330135",
+    "descendants": 13
+  },
+  {
+    "path": "Workspace.Prefabs.Map.矿脉.大铁矿",
+    "index": 142,
+    "parent": "Workspace.Prefabs.Map.矿脉",
+    "class": "Model",
+    "locator": "W/2/1/18/2",
+    "scripts": 0,
+    "children": [
+      "Rock7 [MeshPart]",
+      "RootPart [Part]",
+      "矿 [Folder]",
+      "Rock6 [MeshPart]",
+      "HP [NumberValue]"
+    ],
+    "parts": 9,
+    "attrs": {
+      "dropRandomId": "209"
+    },
+    "meshes": 8,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      10.26,
+      7.67,
+      8.42
+    ],
+    "collidable": 8,
+    "meshIds": [
+      "rbxassetid://2128760908",
+      "rbxassetid://2128761993"
+    ],
+    "name": "大铁矿",
+    "position": [
+      -193.92,
+      -789.03,
+      209.01
+    ],
+    "anchored": 9,
+    "humanoids": 0,
+    "geometry": "9:2939460458",
+    "descendants": 13
+  },
+  {
+    "path": "Workspace.Prefabs.Map.矿脉.小铁矿",
+    "index": 143,
+    "parent": "Workspace.Prefabs.Map.矿脉",
+    "class": "Model",
+    "locator": "W/2/1/18/3",
+    "scripts": 0,
+    "children": [
+      "HP [NumberValue]",
+      "Rock6 [MeshPart]",
+      "Rock7 [MeshPart]",
+      "RootPart [Part]",
+      "矿 [Folder]"
+    ],
+    "parts": 9,
+    "attrs": {
+      "dropRandomId": "208"
+    },
+    "meshes": 8,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      7.3,
+      5.46,
+      5.99
+    ],
+    "collidable": 8,
+    "meshIds": [
+      "rbxassetid://2128760908",
+      "rbxassetid://2128761993"
+    ],
+    "name": "小铁矿",
+    "position": [
+      -178.3,
+      -790.14,
+      209.56
+    ],
+    "anchored": 9,
+    "humanoids": 0,
+    "geometry": "9:2734650032",
+    "descendants": 13
+  },
+  {
+    "path": "Workspace.Prefabs.Map.齿轮资源点.1x1,gear1",
+    "index": 144,
+    "parent": "Workspace.Prefabs.Map.齿轮资源点",
+    "class": "Model",
+    "locator": "W/2/1/19/1",
+    "scripts": 0,
+    "children": [
+      "1x1,风车 [Model]",
+      "248 [Model]",
+      "RootPart [Part]",
+      "Union [UnionOperation]"
+    ],
+    "parts": 44,
+    "attrs": [],
+    "meshes": 4,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      18.7,
+      54.42,
+      18.7
+    ],
+    "collidable": 43,
+    "meshIds": [
+      "rbxassetid://127580423068482",
+      "rbxassetid://76528577692812",
+      "rbxassetid://86515141716975",
+      "rbxassetid://87346658663960"
+    ],
+    "name": "1x1,gear1",
+    "position": [
+      -598.77,
+      -772.93,
+      -746.06
+    ],
+    "anchored": 39,
+    "humanoids": 0,
+    "geometry": "44:2835319143",
+    "descendants": 57
+  },
+  {
+    "path": "Workspace.Prefabs.Map.齿轮资源点.1x1,gear3",
+    "index": 145,
+    "parent": "Workspace.Prefabs.Map.齿轮资源点",
+    "class": "Model",
+    "locator": "W/2/1/19/2",
+    "scripts": 0,
+    "children": [
+      "Model [Model]",
+      "RootPart [Part]",
+      "248 [Model]"
+    ],
+    "parts": 21,
+    "attrs": [],
+    "meshes": 4,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      13.5,
+      21.19,
+      13.79
+    ],
+    "collidable": 19,
+    "meshIds": [
+      "rbxassetid://127580423068482",
+      "rbxassetid://76528577692812",
+      "rbxassetid://86515141716975",
+      "rbxassetid://87346658663960"
+    ],
+    "name": "1x1,gear3",
+    "position": [
+      -570.81,
+      -782.67,
+      -746.04
+    ],
+    "anchored": 17,
+    "humanoids": 0,
+    "geometry": "21:555719814",
+    "descendants": 31
+  },
+  {
+    "path": "Workspace.Prefabs.Map.齿轮资源点.1x1,gear2",
+    "index": 146,
+    "parent": "Workspace.Prefabs.Map.齿轮资源点",
+    "class": "Model",
+    "locator": "W/2/1/19/3",
+    "scripts": 0,
+    "children": [
+      "Model [Model]",
+      "RootPart [Part]",
+      "248 [Model]"
+    ],
+    "parts": 36,
+    "attrs": [],
+    "meshes": 8,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      22.33,
+      11.02,
+      17.9
+    ],
+    "collidable": 35,
+    "meshIds": [
+      "rbxassetid://10357809137",
+      "rbxassetid://10357809659",
+      "rbxassetid://127580423068482",
+      "rbxassetid://76528577692812",
+      "rbxassetid://86515141716975",
+      "rbxassetid://87346658663960"
+    ],
+    "name": "1x1,gear2",
+    "position": [
+      -540.27,
+      -787.74,
+      -746.44
+    ],
+    "anchored": 32,
+    "humanoids": 0,
+    "geometry": "36:1128662117",
+    "descendants": 49
+  },
+  {
+    "path": "Workspace.Prefabs.Map.区域格挡空气墙",
+    "index": 147,
+    "parent": "Workspace.Prefabs.Map",
+    "class": "Part",
+    "locator": "W/2/1/20",
+    "scripts": 0,
+    "children": [
+      "Meshes/Environment2_SM_Env_GroundMound_01 [MeshPart]",
+      "空气墙 [Part]",
+      "Union [UnionOperation]",
+      "Meshes/Environment2_SM_Env_GroundMound_01 [MeshPart]",
+      "Meshes/Environment2_SM_Env_GroundMound_01 [MeshPart]",
+      "Meshes/Environment2_SM_Env_GroundMound_01 [MeshPart]"
+    ],
+    "parts": 7,
+    "attrs": [],
+    "meshes": 4,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2048,
+      150,
+      10
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://3226465884"
+    ],
+    "name": "区域格挡空气墙",
+    "position": [
+      0,
+      -996.33,
+      -1997.36
+    ],
+    "anchored": 7,
+    "humanoids": 0,
+    "geometry": "7:1252189087",
+    "descendants": 10
+  },
+  {
+    "path": "Workspace.Prefabs.Map.Model",
+    "index": 148,
+    "parent": "Workspace.Prefabs.Map",
+    "class": "Model",
+    "locator": "W/2/1/21",
+    "scripts": 1,
+    "children": [
+      "池塘 [Part]",
+      "SurfaceGui [SurfaceGui]"
+    ],
+    "parts": 20,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "Script"
+    ],
+    "animations": 0,
+    "size": [
+      50,
+      84.24,
+      50.05
+    ],
+    "collidable": 19,
+    "meshIds": [],
+    "name": "Model",
+    "position": [
+      -128.75,
+      -824.93,
+      -56.21
+    ],
+    "anchored": 18,
+    "humanoids": 0,
+    "geometry": "20:3272942495",
+    "descendants": 32
+  },
+  {
+    "path": "Workspace.Prefabs.Map.WantedBoard",
+    "index": 149,
+    "parent": "Workspace.Prefabs.Map",
+    "class": "Model",
+    "locator": "W/2/1/22",
+    "scripts": 13,
+    "children": [
+      "Core [Part]",
+      "Wanted [Folder]",
+      "Part [Part]",
+      "Knife (Model) [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "碰撞 [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]"
+    ],
+    "parts": 328,
+    "attrs": [],
+    "meshes": 102,
+    "tags": [],
+    "scriptNames": [
+      "WantedBoardScript",
+      "AnimateScript",
+      "InvincibleScript",
+      "InvincibleScript",
+      "AnimateScript",
+      "警官马车_server",
+      "Animate",
+      "囚犯_client",
+      "囚犯_server",
+      "dialogScript",
+      "警官_client",
+      "警官_server"
+    ],
+    "animations": 22,
+    "size": [
+      70.57,
+      12.24,
+      28.74
+    ],
+    "collidable": 260,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=13072452",
+      "rbxassetid://10501028785",
+      "rbxassetid://106524561575918",
+      "rbxassetid://10715556800",
+      "rbxassetid://10715557001",
+      "rbxassetid://10715557121",
+      "rbxassetid://10715557468",
+      "rbxassetid://10715557598",
+      "rbxassetid://10715557757",
+      "rbxassetid://10715558540",
+      "rbxassetid://13615530461",
+      "rbxassetid://3665044375",
+      "rbxassetid://3665044545",
+      "rbxassetid://3665044634",
+      "rbxassetid://3665082242",
+      "rbxassetid://3665083061",
+      "rbxassetid://3683787312",
+      "rbxassetid://4295970104",
+      "rbxassetid://4470297637",
+      "rbxassetid://4659756377",
+      "rbxassetid://4976411793",
+      "rbxassetid://5699656852",
+      "rbxassetid://8187885023",
+      "rbxassetid://92126595435552"
+    ],
+    "name": "WantedBoard",
+    "position": [
+      21.07,
+      -437.14,
+      -26.21
+    ],
+    "anchored": 297,
+    "humanoids": 8,
+    "geometry": "328:379847712",
+    "descendants": 752
+  },
+  {
+    "path": "Workspace.Prefabs.Map.MapMarker",
+    "index": 150,
+    "parent": "Workspace.Prefabs.Map",
+    "class": "Model",
+    "locator": "W/2/1/23",
+    "scripts": 0,
+    "children": [
+      "Point [Part]",
+      "Root [Part]",
+      "Pole [Part]",
+      "Flag [Part]"
+    ],
+    "parts": 4,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.27,
+      2.75,
+      0.8
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "MapMarker",
+    "position": [
+      -480.67,
+      -791.74,
+      197.15
+    ],
+    "anchored": 4,
+    "humanoids": 0,
+    "geometry": "4:720175822",
+    "descendants": 7
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.礼物盒.Union",
+    "index": 151,
+    "parent": "Workspace.Prefabs.Resources.礼物盒",
+    "class": "UnionOperation",
+    "locator": "W/2/2/1/1",
+    "scripts": 0,
+    "children": [
+      "Glow [ParticleEmitter]",
+      "Sparkles [ParticleEmitter]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.38,
+      2.09,
+      2.27
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "Union",
+    "position": [
+      -829.61,
+      -791.82,
+      -152.03
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:2668384366",
+    "descendants": 2
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.礼物盒.Union",
+    "index": 152,
+    "parent": "Workspace.Prefabs.Resources.礼物盒",
+    "class": "UnionOperation",
+    "locator": "W/2/2/1/2",
+    "scripts": 0,
+    "children": [
+      "Glow [ParticleEmitter]",
+      "Sparkles [ParticleEmitter]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.38,
+      2.09,
+      2.27
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "Union",
+    "position": [
+      -829.61,
+      -791.82,
+      -148.16
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:2668384366",
+    "descendants": 2
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.礼物盒.Union",
+    "index": 153,
+    "parent": "Workspace.Prefabs.Resources.礼物盒",
+    "class": "UnionOperation",
+    "locator": "W/2/2/1/3",
+    "scripts": 0,
+    "children": [
+      "Sparkles [ParticleEmitter]",
+      "Glow [ParticleEmitter]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.38,
+      2.09,
+      2.27
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "Union",
+    "position": [
+      -829.61,
+      -791.82,
+      -144.16
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:2668384366",
+    "descendants": 2
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.礼物盒.Union",
+    "index": 154,
+    "parent": "Workspace.Prefabs.Resources.礼物盒",
+    "class": "UnionOperation",
+    "locator": "W/2/2/1/4",
+    "scripts": 0,
+    "children": [
+      "Glow [ParticleEmitter]",
+      "Sparkles [ParticleEmitter]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.38,
+      2.09,
+      2.27
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "Union",
+    "position": [
+      -829.61,
+      -791.82,
+      -155.89
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:2668384366",
+    "descendants": 2
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.暂存.144",
+    "index": 155,
+    "parent": "Workspace.Prefabs.Resources.暂存",
+    "class": "Tool",
+    "locator": "W/2/2/2/1",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]",
+      "配置 [Folder]",
+      "TouchPart [Part]",
+      "Attachment [Attachment]"
+    ],
+    "parts": 4,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.7,
+      2.16,
+      1
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://13690437158",
+      "rbxassetid://13690437160"
+    ],
+    "name": "144",
+    "position": [
+      -933.77,
+      -791.79,
+      -180.61
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "4:30069081",
+    "descendants": 13
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.暂存.134（废弃）",
+    "index": 156,
+    "parent": "Workspace.Prefabs.Resources.暂存",
+    "class": "Tool",
+    "locator": "W/2/2/2/2",
+    "scripts": 2,
+    "children": [
+      "Cube.004 [MeshPart]",
+      "每秒降低寒冷值 [NumberValue]",
+      "光线效果 [Part]",
+      "OilMax [NumberValue]",
+      "暖暖灯 [Script]",
+      "Times [NumberValue]",
+      "碰撞 [Part]",
+      "Oil [NumberValue]",
+      "isLight [BoolValue]",
+      "LIGHT [Part]",
+      "Handle [Part]",
+      "暖暖灯 [Script]"
+    ],
+    "parts": 6,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [
+      "暖暖灯",
+      "暖暖灯"
+    ],
+    "animations": 0,
+    "size": [
+      1.04,
+      2.92,
+      1.37
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://9989512747",
+      "rbxassetid://9989512792"
+    ],
+    "name": "134（废弃）",
+    "position": [
+      -994.69,
+      -791.41,
+      -203.6
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "6:3725332431",
+    "descendants": 42
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.暂存.137",
+    "index": 157,
+    "parent": "Workspace.Prefabs.Resources.暂存",
+    "class": "Tool",
+    "locator": "W/2/2/2/3",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2,
+      2,
+      2
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "137",
+    "position": [
+      -891.13,
+      -791.87,
+      -176.17
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:1036212100",
+    "descendants": 2
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.142",
+    "index": 158,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/3",
+    "scripts": 2,
+    "children": [
+      "lastAddBulletTime [NumberValue]",
+      "配置 [Folder]",
+      "nextFireTime [NumberValue]",
+      "Sounds [Folder]",
+      "枪口火 [Attachment]",
+      "Handle [Part]",
+      "FireS2C [RemoteEvent]",
+      "bulletNum [IntValue]",
+      "电击枪_server [Script]",
+      "LaserPistolBulletFrame [Frame]",
+      "FireC2S [RemoteEvent]",
+      "电击枪_client [Script]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [
+      "RegularBulletStyle"
+    ],
+    "scriptNames": [
+      "电击枪_server",
+      "电击枪_client"
+    ],
+    "animations": 0,
+    "size": [
+      1,
+      1.42,
+      3.37
+    ],
+    "collidable": 3,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=18265627"
+    ],
+    "name": "142",
+    "position": [
+      -912.49,
+      -792.16,
+      -189.6
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:1622041300",
+    "descendants": 29
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.315",
+    "index": 159,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/4",
+    "scripts": 1,
+    "children": [
+      "冰护甲 [Accessory]",
+      "冰护甲 [Accessory]",
+      "Animations [Folder]",
+      "冰护甲 [Accessory]",
+      "RootPart [Part]"
+    ],
+    "parts": 22,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "冰护甲"
+    ],
+    "animations": 3,
+    "size": [
+      4.08,
+      3.23,
+      2.4
+    ],
+    "collidable": 18,
+    "meshIds": [],
+    "name": "315",
+    "position": [
+      -903.74,
+      -791.25,
+      -166.01
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "22:2588376616",
+    "descendants": 73
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.212",
+    "index": 160,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/5",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "Union [UnionOperation]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.67,
+      2.5,
+      2.68
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "212",
+    "position": [
+      -947.21,
+      -791.56,
+      -148.85
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:3516687351",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.502",
+    "index": 161,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/6",
+    "scripts": 0,
+    "children": [
+      "Sign2 [MeshPart]",
+      "Part [Part]",
+      "Sign2 [MeshPart]",
+      "Part [Part]",
+      "RootPart [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]"
+    ],
+    "parts": 8,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.94,
+      0.88,
+      2.64
+    ],
+    "collidable": 6,
+    "meshIds": [],
+    "name": "502",
+    "position": [
+      -864.28,
+      -792.38,
+      -148.68
+    ],
+    "anchored": 7,
+    "humanoids": 0,
+    "geometry": "8:4165797790",
+    "descendants": 40
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.606",
+    "index": 162,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/7",
+    "scripts": 3,
+    "children": [
+      "燃烧瓶投掷 [Script]",
+      "ThrowC2S [RemoteEvent]",
+      "Touch [Part]",
+      "燃烧瓶投掷 [LocalScript]",
+      "Config [Folder]",
+      "Handle [MeshPart]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [
+      "燃烧瓶投掷",
+      "燃烧瓶投掷",
+      "DamageScript"
+    ],
+    "animations": 0,
+    "size": [
+      1.63,
+      2.78,
+      1.3
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://441590120"
+    ],
+    "name": "606",
+    "position": [
+      -896.57,
+      -791.48,
+      -171.8
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:3773581375",
+    "descendants": 21
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.313",
+    "index": 163,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/8",
+    "scripts": 0,
+    "children": [
+      "2级围巾 [Accessory]",
+      "RootPart [Part]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.06,
+      2.35,
+      2.16
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=99856331 "
+    ],
+    "name": "313",
+    "position": [
+      -943.72,
+      -791.69,
+      -171.78
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:847701628",
+    "descendants": 5
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.305",
+    "index": 164,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/9",
+    "scripts": 0,
+    "children": [
+      "水晶甲 [Accessory]",
+      "水晶甲 [Accessory]",
+      "水晶甲 [Accessory]",
+      "RootPart [Part]"
+    ],
+    "parts": 12,
+    "attrs": {
+      "RBX_AutoSetup_AssetConfiguration": "Body"
+    },
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      4.28,
+      3.22,
+      1.42
+    ],
+    "collidable": 7,
+    "meshIds": [],
+    "name": "305",
+    "position": [
+      -978.39,
+      -791.08,
+      -172.56
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "12:3812102282",
+    "descendants": 38
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.503",
+    "index": 165,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/10",
+    "scripts": 0,
+    "children": [
+      "Part [Part]",
+      "Sign2 [MeshPart]",
+      "Sign2 [MeshPart]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "RootPart [Part]"
+    ],
+    "parts": 8,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.94,
+      0.88,
+      2.64
+    ],
+    "collidable": 6,
+    "meshIds": [],
+    "name": "503",
+    "position": [
+      -858.68,
+      -792.38,
+      -148.85
+    ],
+    "anchored": 7,
+    "humanoids": 0,
+    "geometry": "8:4165797790",
+    "descendants": 40
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.302",
+    "index": 166,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/11",
+    "scripts": 0,
+    "children": [
+      "铁甲 [Accessory]",
+      "RootPart [Part]",
+      "铁甲 [Accessory]",
+      "铁甲 [Accessory]"
+    ],
+    "parts": 10,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      4.08,
+      3.24,
+      1.32
+    ],
+    "collidable": 6,
+    "meshIds": [],
+    "name": "302",
+    "position": [
+      -995.7,
+      -791.2,
+      -173.09
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "10:3020652517",
+    "descendants": 27
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.208",
+    "index": 167,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/12",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]",
+      "RootPart [Part]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.55,
+      1.88,
+      3.85
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "208",
+    "position": [
+      -965.14,
+      -791.87,
+      -148.85
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:3419978232",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.705",
+    "index": 168,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/13",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]",
+      "Touch [Part]",
+      "15 [UnionOperation]"
+    ],
+    "parts": 3,
+    "attrs": {
+      "type": ""
+    },
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.42,
+      1.41,
+      1.07
+    ],
+    "collidable": 2,
+    "meshIds": [],
+    "name": "705",
+    "position": [
+      -886.93,
+      -792.28,
+      -194.08
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:970674461",
+    "descendants": 7
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.143",
+    "index": 169,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/14",
+    "scripts": 2,
+    "children": [
+      "SummonC2S [RemoteEvent]",
+      "WeldConstraint [WeldConstraint]",
+      "Values [Configuration]",
+      "WeldConstraint [WeldConstraint]",
+      "暗黑法典_client [Script]",
+      "WeldConstraint [WeldConstraint]",
+      "MeshPart [MeshPart]",
+      "Part [Part]",
+      "MeshPart [MeshPart]",
+      "Handle [MeshPart]",
+      "暗黑法典_server [Script]",
+      "图 [Part]",
+      "WeldConstraint [WeldConstraint]"
+    ],
+    "parts": 5,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [
+      "暗黑法典_client",
+      "暗黑法典_server"
+    ],
+    "animations": 0,
+    "size": [
+      1.91,
+      0.68,
+      2.79
+    ],
+    "collidable": 4,
+    "meshIds": [
+      "rbxassetid://89919526205524"
+    ],
+    "name": "143",
+    "position": [
+      -860.2,
+      -792.64,
+      -192.33
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "5:2278631373",
+    "descendants": 18
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.613",
+    "index": 170,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/15",
+    "scripts": 3,
+    "children": [
+      "Config [Folder]",
+      "bulletNumMax [IntValue]",
+      "bulletNum [IntValue]",
+      "复用燃烧瓶_client [Script]",
+      "ThrowC2S [RemoteEvent]",
+      "nextFireTime [NumberValue]",
+      "ReusableMolotovBulletFrame [Frame]",
+      "addBulletCD [NumberValue]",
+      "复用燃烧瓶_server [Script]",
+      "lastAddBulletTime [NumberValue]",
+      "Handle [Part]",
+      "复用燃烧瓶 [MeshPart]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [
+      "复用燃烧瓶_client",
+      "复用燃烧瓶_server",
+      "复用燃烧瓶伤害_server"
+    ],
+    "animations": 0,
+    "size": [
+      1.12,
+      3.69,
+      1.12
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://16744703429"
+    ],
+    "name": "613",
+    "position": [
+      -894.3,
+      -791.03,
+      -175.91
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:1962677069",
+    "descendants": 42
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.231",
+    "index": 171,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/16",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "南瓜 [MeshPart]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3.4,
+      2.88,
+      3.41
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://115591702525060"
+    ],
+    "name": "231",
+    "position": [
+      -926.43,
+      -791.71,
+      -140.93
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "2:1168574689",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.247",
+    "index": 172,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/17",
+    "scripts": 0,
+    "children": [
+      "硝石 [Part]",
+      "RootPart [Part]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2,
+      1,
+      2
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=80258628"
+    ],
+    "name": "247",
+    "position": [
+      -834.06,
+      -792.37,
+      -152.47
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:667990685",
+    "descendants": 4
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.308",
+    "index": 173,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/18",
+    "scripts": 0,
+    "children": [
+      "Right [Accessory]",
+      "RootPart [Part]",
+      "Left [Accessory]"
+    ],
+    "parts": 7,
+    "attrs": [],
+    "meshes": 4,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.06,
+      1.49,
+      2.3
+    ],
+    "collidable": 5,
+    "meshIds": [
+      "rbxassetid://75295377339971"
+    ],
+    "name": "308",
+    "position": [
+      -964.68,
+      -792.12,
+      -173.96
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "7:3396137799",
+    "descendants": 17
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.311",
+    "index": 174,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/19",
+    "scripts": 0,
+    "children": [
+      "魔法披风 [Accessory]",
+      "铁甲 [Accessory]",
+      "铁甲 [Accessory]",
+      "RootPart [Part]",
+      "铁甲 [Accessory]"
+    ],
+    "parts": 17,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      4.73,
+      4.79,
+      3.59
+    ],
+    "collidable": 10,
+    "meshIds": [
+      "rbxassetid://137825212621993",
+      "rbxassetid://138268157016572"
+    ],
+    "name": "311",
+    "position": [
+      -953.11,
+      -790.4,
+      -171.66
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "17:2489021114",
+    "descendants": 50
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.209",
+    "index": 175,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/20",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]",
+      "Sign2 [MeshPart]",
+      "MeshPart [MeshPart]",
+      "RootPart [Part]",
+      "MeshPart [MeshPart]",
+      "MeshPart [MeshPart]"
+    ],
+    "parts": 6,
+    "attrs": [],
+    "meshes": 4,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.32,
+      4.36,
+      3.58
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://133680613957548"
+    ],
+    "name": "209",
+    "position": [
+      -960.99,
+      -790.64,
+      -148.85
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "6:413536489",
+    "descendants": 18
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.127",
+    "index": 176,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/21",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]",
+      "獠牙 [MeshPart]",
+      "獠牙 [MeshPart]",
+      "Size [IntValue]",
+      "3 [MeshPart]",
+      "3 [MeshPart]"
+    ],
+    "parts": 5,
+    "attrs": [],
+    "meshes": 4,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3.09,
+      3.17,
+      3.24
+    ],
+    "collidable": 5,
+    "meshIds": [
+      "rbxassetid://111103121990367",
+      "rbxassetid://117182646522452",
+      "rbxassetid://89829701929757",
+      "rbxassetid://99353166265721"
+    ],
+    "name": "127",
+    "position": [
+      -1011.25,
+      -791.64,
+      -193.63
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "5:4182530180",
+    "descendants": 14
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.309",
+    "index": 177,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/22",
+    "scripts": 1,
+    "children": [
+      "水晶甲 [Accessory]",
+      "水晶甲 [Accessory]",
+      "RootPart [Part]",
+      "水晶甲 [Accessory]"
+    ],
+    "parts": 7,
+    "attrs": {
+      "RBX_AutoSetup_AssetConfiguration": "Body"
+    },
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "反伤"
+    ],
+    "animations": 0,
+    "size": [
+      4.35,
+      3.22,
+      1.63
+    ],
+    "collidable": 3,
+    "meshIds": [],
+    "name": "309",
+    "position": [
+      -959.33,
+      -791.2,
+      -173.08
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "7:1347839799",
+    "descendants": 22
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.303",
+    "index": 178,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/23",
+    "scripts": 0,
+    "children": [
+      "黄金甲 [Accessory]",
+      "RootPart [Part]",
+      "黄金甲 [Accessory]",
+      "黄金甲 [Accessory]"
+    ],
+    "parts": 10,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      4.08,
+      3.24,
+      1.32
+    ],
+    "collidable": 6,
+    "meshIds": [],
+    "name": "303",
+    "position": [
+      -989.16,
+      -791.2,
+      -172.56
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "10:3020652517",
+    "descendants": 28
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.611",
+    "index": 179,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/24",
+    "scripts": 2,
+    "children": [
+      "TryFireC2S [RemoteEvent]",
+      "FirePoints [Folder]",
+      "Values [Folder]",
+      "ReloadC2S [RemoteEvent]",
+      "配置 [Folder]",
+      "开火特效 [Attachment]",
+      "四管手枪_server [Script]",
+      "四管手枪_client [Script]",
+      "FireS2C [RemoteEvent]",
+      "Handle [Part]",
+      "物理碰撞Part [Part]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [
+      "RegularBulletStyle"
+    ],
+    "scriptNames": [
+      "四管手枪_server",
+      "四管手枪_client"
+    ],
+    "animations": 0,
+    "size": [
+      1.09,
+      0.85,
+      2.25
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "http://www.roblox.com/asset?id=161268826"
+    ],
+    "name": "611",
+    "position": [
+      -919.75,
+      -792.44,
+      -189.58
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:649385644",
+    "descendants": 24
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.99999",
+    "index": 180,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/25",
+    "scripts": 0,
+    "children": [
+      "9999 [Model]",
+      "罐头树 [Model]"
+    ],
+    "parts": 13,
+    "attrs": [],
+    "meshes": 6,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.66,
+      6.07,
+      2.8
+    ],
+    "collidable": 12,
+    "meshIds": [
+      "rbxassetid://140060244813995"
+    ],
+    "name": "99999",
+    "position": [
+      -926.94,
+      -789.83,
+      -131.42
+    ],
+    "anchored": 6,
+    "humanoids": 0,
+    "geometry": "13:2875426209",
+    "descendants": 43
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.116",
+    "index": 181,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/26",
+    "scripts": 2,
+    "children": [
+      "吉他 [Folder]",
+      "Handle [Part]"
+    ],
+    "parts": 14,
+    "attrs": [],
+    "meshes": 12,
+    "tags": [],
+    "scriptNames": [
+      "吉他1级_Client",
+      "吉他1级_Server"
+    ],
+    "animations": 0,
+    "size": [
+      1.51,
+      5.75,
+      4.46
+    ],
+    "collidable": 6,
+    "meshIds": [
+      "rbxassetid://13615523028",
+      "rbxassetid://13615523184",
+      "rbxassetid://13615523320",
+      "rbxassetid://13615523543",
+      "rbxassetid://13615523875",
+      "rbxassetid://13615524012",
+      "rbxassetid://13615524276",
+      "rbxassetid://13615524441",
+      "rbxassetid://13615524599",
+      "rbxassetid://13615524773",
+      "rbxassetid://13615524963"
+    ],
+    "name": "116",
+    "position": [
+      -937.24,
+      -790.58,
+      -193.97
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "14:3399442502",
+    "descendants": 44
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.118",
+    "index": 182,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/27",
+    "scripts": 2,
+    "children": [
+      "Handle [Part]",
+      "吉他 [Folder]"
+    ],
+    "parts": 14,
+    "attrs": [],
+    "meshes": 12,
+    "tags": [],
+    "scriptNames": [
+      "吉他3级_Client",
+      "吉他3级_Server"
+    ],
+    "animations": 0,
+    "size": [
+      1.51,
+      5.75,
+      4.46
+    ],
+    "collidable": 6,
+    "meshIds": [
+      "rbxassetid://13615523028",
+      "rbxassetid://13615523184",
+      "rbxassetid://13615523320",
+      "rbxassetid://13615523543",
+      "rbxassetid://13615523875",
+      "rbxassetid://13615524012",
+      "rbxassetid://13615524276",
+      "rbxassetid://13615524441",
+      "rbxassetid://13615524599",
+      "rbxassetid://13615524773",
+      "rbxassetid://13615524963"
+    ],
+    "name": "118",
+    "position": [
+      -929.24,
+      -790.58,
+      -193.97
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "14:3399442502",
+    "descendants": 44
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.233",
+    "index": 183,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/28",
+    "scripts": 0,
+    "children": [
+      "candy3 [MeshPart]",
+      "RootPart [Part]",
+      "Light [Part]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.36,
+      2.36,
+      2.36
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://7623153195"
+    ],
+    "name": "233",
+    "position": [
+      -919.77,
+      -791.64,
+      -141.29
+    ],
+    "anchored": 3,
+    "humanoids": 0,
+    "geometry": "3:569632900",
+    "descendants": 7
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.605",
+    "index": 184,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/29",
+    "scripts": 2,
+    "children": [
+      "Arrow [Part]",
+      "毒弓 [Script]",
+      "Model [Part]",
+      "毒弓 [Script]",
+      "Attack [RemoteEvent]",
+      "ArrowHitC2S [RemoteEvent]",
+      "Handle [Part]",
+      "配置 [Folder]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [
+      "毒弓",
+      "毒弓"
+    ],
+    "animations": 0,
+    "size": [
+      0.73,
+      5.92,
+      2.78
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=283706818",
+      "http://www.roblox.com/asset/?id=92189547"
+    ],
+    "name": "605",
+    "position": [
+      -899.54,
+      -791.09,
+      -189.52
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "3:676220351",
+    "descendants": 22
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.312",
+    "index": 185,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/30",
+    "scripts": 0,
+    "children": [
+      "1级围巾 [Accessory]",
+      "RootPart [Part]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.06,
+      2.35,
+      2.16
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=99856331 "
+    ],
+    "name": "312",
+    "position": [
+      -946.75,
+      -791.69,
+      -171.55
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:847701628",
+    "descendants": 6
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.618",
+    "index": 186,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/31",
+    "scripts": 0,
+    "children": [
+      "Meshes/蒸汽枪（长）_立方体 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_立方体.006 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_柱体.008 (2) [MeshPart]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0.52,
+      1.06,
+      1.78
+    ],
+    "collidable": 3,
+    "meshIds": [
+      "rbxassetid://127477035040484",
+      "rbxassetid://140638696583164",
+      "rbxassetid://72679901238793"
+    ],
+    "name": "618",
+    "position": [
+      -894.45,
+      -791.96,
+      -205.74
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:3110112122",
+    "descendants": 6
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.210",
+    "index": 187,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/32",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "Union [UnionOperation]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.14,
+      1.93,
+      1.13
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "210",
+    "position": [
+      -956.61,
+      -791.85,
+      -148.85
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "2:2326184131",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.235",
+    "index": 188,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/33",
+    "scripts": 0,
+    "children": [
+      "生 [MeshPart]",
+      "1 [MeshPart]",
+      "生 [MeshPart]",
+      "熟 [MeshPart]",
+      "熟 [MeshPart]",
+      "熟 [MeshPart]",
+      "生 [MeshPart]",
+      "RootPart [Part]"
+    ],
+    "parts": 8,
+    "attrs": [],
+    "meshes": 7,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.99,
+      1.82,
+      2
+    ],
+    "collidable": 8,
+    "meshIds": [
+      "rbxassetid://121889986233487",
+      "rbxassetid://6521832176",
+      "rbxassetid://6521832212",
+      "rbxassetid://6521832251"
+    ],
+    "name": "235",
+    "position": [
+      -911.74,
+      -791.33,
+      -137.93
+    ],
+    "anchored": 8,
+    "humanoids": 0,
+    "geometry": "8:705684066",
+    "descendants": 19
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.206",
+    "index": 189,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/34",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]",
+      "RootPart [Part]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.45,
+      2.37,
+      2.46
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "206",
+    "position": [
+      -972.77,
+      -791.63,
+      -148.85
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:2681035188",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.704",
+    "index": 190,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/35",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]",
+      "15 [UnionOperation]",
+      "Touch [Part]"
+    ],
+    "parts": 3,
+    "attrs": {
+      "type": ""
+    },
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.42,
+      1.41,
+      1.07
+    ],
+    "collidable": 2,
+    "meshIds": [],
+    "name": "704",
+    "position": [
+      -887.17,
+      -792.28,
+      -201.63
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:970674461",
+    "descendants": 7
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.211",
+    "index": 191,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/36",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "Union [UnionOperation]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3.46,
+      0.33,
+      3.41
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "211",
+    "position": [
+      -952.94,
+      -792.65,
+      -148.85
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:1504668907",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.501",
+    "index": 192,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/37",
+    "scripts": 0,
+    "children": [
+      "Sign2 [MeshPart]",
+      "Sign2 [MeshPart]",
+      "Part [Part]",
+      "Part [Part]",
+      "RootPart [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]"
+    ],
+    "parts": 8,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.94,
+      0.88,
+      2.64
+    ],
+    "collidable": 6,
+    "meshIds": [],
+    "name": "501",
+    "position": [
+      -869.32,
+      -792.38,
+      -148.85
+    ],
+    "anchored": 7,
+    "humanoids": 0,
+    "geometry": "8:4165797790",
+    "descendants": 40
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.145",
+    "index": 193,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/38",
+    "scripts": 0,
+    "children": [
+      "配置 [Folder]",
+      "Attachment [Attachment]",
+      "Handle [Part]",
+      "TouchPart [Part]"
+    ],
+    "parts": 5,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3.64,
+      4.9,
+      1
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://6343977208",
+      "rbxassetid://6343977320",
+      "rbxassetid://6343977523"
+    ],
+    "name": "145",
+    "position": [
+      -939.46,
+      -790.42,
+      -180.69
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "5:3252392669",
+    "descendants": 15
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.504",
+    "index": 194,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/39",
+    "scripts": 0,
+    "children": [
+      "Sign2 [MeshPart]",
+      "Part [Part]",
+      "Part [Part]",
+      "Sign2 [MeshPart]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "RootPart [Part]"
+    ],
+    "parts": 8,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.94,
+      0.88,
+      2.64
+    ],
+    "collidable": 6,
+    "meshIds": [],
+    "name": "504",
+    "position": [
+      -902.3,
+      -792.43,
+      -183.87
+    ],
+    "anchored": 7,
+    "humanoids": 0,
+    "geometry": "8:4165797790",
+    "descendants": 40
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.703",
+    "index": 195,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/40",
+    "scripts": 0,
+    "children": [
+      "Touch [Part]",
+      "Handle [Part]",
+      "15 [UnionOperation]"
+    ],
+    "parts": 3,
+    "attrs": {
+      "type": ""
+    },
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.42,
+      1.41,
+      1.07
+    ],
+    "collidable": 2,
+    "meshIds": [],
+    "name": "703",
+    "position": [
+      -887.09,
+      -792.28,
+      -195.81
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:970674461",
+    "descendants": 7
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.99999",
+    "index": 196,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/41",
+    "scripts": 0,
+    "children": [
+      "罐头树 [Model]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.66,
+      3.81,
+      2.8
+    ],
+    "collidable": 3,
+    "meshIds": [],
+    "name": "99999",
+    "position": [
+      -926.9,
+      -790.96,
+      -125.93
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:2130491331",
+    "descendants": 5
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.702",
+    "index": 197,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/42",
+    "scripts": 0,
+    "children": [
+      "15 [UnionOperation]",
+      "Handle [Part]",
+      "Touch [Part]"
+    ],
+    "parts": 3,
+    "attrs": {
+      "type": ""
+    },
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.42,
+      1.41,
+      1.07
+    ],
+    "collidable": 2,
+    "meshIds": [],
+    "name": "702",
+    "position": [
+      -887.19,
+      -792.28,
+      -199.54
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:970674461",
+    "descendants": 7
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.234",
+    "index": 198,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/43",
+    "scripts": 0,
+    "children": [
+      "Model [Model]",
+      "生 [MeshPart]",
+      "熟 [MeshPart]",
+      "RootPart [Part]",
+      "1 [MeshPart]",
+      "生 [MeshPart]",
+      "生 [MeshPart]",
+      "熟 [MeshPart]",
+      "熟 [MeshPart]"
+    ],
+    "parts": 8,
+    "attrs": [],
+    "meshes": 7,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.99,
+      1.82,
+      2
+    ],
+    "collidable": 8,
+    "meshIds": [
+      "rbxassetid://121889986233487",
+      "rbxassetid://6521832176",
+      "rbxassetid://6521832212",
+      "rbxassetid://6521832251"
+    ],
+    "name": "234",
+    "position": [
+      -911.74,
+      -791.33,
+      -140.44
+    ],
+    "anchored": 8,
+    "humanoids": 0,
+    "geometry": "8:705684066",
+    "descendants": 20
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.205",
+    "index": 199,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/44",
+    "scripts": 0,
+    "children": [
+      "Brackets [MeshPart]",
+      "RootPart [Part]",
+      "Barrel [MeshPart]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3.48,
+      3.08,
+      3.48
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://10357809137",
+      "rbxassetid://10357809659"
+    ],
+    "name": "205",
+    "position": [
+      -977.63,
+      -791.27,
+      -148.85
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:1782748420",
+    "descendants": 5
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.617",
+    "index": 200,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/45",
+    "scripts": 0,
+    "children": [
+      "Meshes/蒸汽枪（长）_立方体.005 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_mag.001 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_立方体.008 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_柱体.005 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_立方体.013 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_柱体.009 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_立方体.014 (2) [MeshPart]",
+      "Meshes/蒸汽枪（长）_柱体.010 (2) [MeshPart]"
+    ],
+    "parts": 8,
+    "attrs": [],
+    "meshes": 8,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0.45,
+      0.94,
+      3.35
+    ],
+    "collidable": 8,
+    "meshIds": [
+      "rbxassetid://105325350879753",
+      "rbxassetid://113935952003766",
+      "rbxassetid://114866570541375",
+      "rbxassetid://119636711854875",
+      "rbxassetid://79737187561433",
+      "rbxassetid://82291492021322",
+      "rbxassetid://82465940060167",
+      "rbxassetid://85948468760743"
+    ],
+    "name": "617",
+    "position": [
+      -895.84,
+      -791.7,
+      -205.34
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "8:592399003",
+    "descendants": 16
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.1",
+    "index": 201,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/46",
+    "scripts": 0,
+    "children": [
+      "Left [Accessory]",
+      "RootPart [Part]",
+      "Right [Accessory]"
+    ],
+    "parts": 7,
+    "attrs": [],
+    "meshes": 4,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.06,
+      1.49,
+      2.3
+    ],
+    "collidable": 5,
+    "meshIds": [
+      "rbxassetid://75295377339971"
+    ],
+    "name": "1",
+    "position": [
+      -916.99,
+      -792.12,
+      -178.28
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "7:3396137799",
+    "descendants": 17
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.301",
+    "index": 202,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/47",
+    "scripts": 0,
+    "children": [
+      "皮甲 [Accessory]",
+      "皮甲 [Accessory]",
+      "皮甲 [Accessory]",
+      "RootPart [Part]"
+    ],
+    "parts": 7,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      4.08,
+      3.24,
+      1.32
+    ],
+    "collidable": 3,
+    "meshIds": [],
+    "name": "301",
+    "position": [
+      -1002.04,
+      -791.2,
+      -172.56
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "7:2682221185",
+    "descendants": 22
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.701",
+    "index": 203,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/48",
+    "scripts": 0,
+    "children": [
+      "Touch [Part]",
+      "Handle [Part]",
+      "15 [UnionOperation]"
+    ],
+    "parts": 3,
+    "attrs": {
+      "type": ""
+    },
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.42,
+      1.41,
+      1.07
+    ],
+    "collidable": 2,
+    "meshIds": [],
+    "name": "701",
+    "position": [
+      -887.12,
+      -792.28,
+      -197.59
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:970674461",
+    "descendants": 7
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.403",
+    "index": 204,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/49",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "Meshes/粑粑1_扫描_1_2 [MeshPart]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.29,
+      1.02,
+      2.32
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://102982171310926"
+    ],
+    "name": "403",
+    "position": [
+      -875.15,
+      -792.31,
+      -148.85
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:29525712",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.113",
+    "index": 205,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/50",
+    "scripts": 1,
+    "children": [
+      "Range [NumberValue]",
+      "雷神锤 [Script]",
+      "Handle [MeshPart]"
+    ],
+    "parts": 4,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [
+      "雷神锤"
+    ],
+    "animations": 0,
+    "size": [
+      4,
+      5.87,
+      2.11
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://134584455481723",
+      "rbxassetid://137222402274420"
+    ],
+    "name": "113",
+    "position": [
+      -948.79,
+      -790.43,
+      -194
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "4:2972739728",
+    "descendants": 21
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.130",
+    "index": 206,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/51",
+    "scripts": 0,
+    "children": [
+      "Handle [MeshPart]",
+      "蓝 [MeshPart]",
+      "Values [Configuration]"
+    ],
+    "parts": 7,
+    "attrs": [],
+    "meshes": 7,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.25,
+      2.18,
+      1.25
+    ],
+    "collidable": 6,
+    "meshIds": [
+      "rbxassetid://119557085424998",
+      "rbxassetid://131216200104697",
+      "rbxassetid://133810958324159",
+      "rbxassetid://82195427479850"
+    ],
+    "name": "130",
+    "position": [
+      -866.88,
+      -788.72,
+      -192.63
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "7:1937318090",
+    "descendants": 18
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.101",
+    "index": 207,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/52",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]",
+      "1 [MeshPart]",
+      "Size [IntValue]",
+      "1 [MeshPart]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.15,
+      2.21,
+      2.14
+    ],
+    "collidable": 3,
+    "meshIds": [
+      "rbxassetid://117182646522452",
+      "rbxassetid://99353166265721"
+    ],
+    "name": "101",
+    "position": [
+      -1002.93,
+      -791.71,
+      -193.97
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:2572141112",
+    "descendants": 10
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.214",
+    "index": 208,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/53",
+    "scripts": 0,
+    "children": [
+      "Prop_GoldBar [MeshPart]",
+      "RootPart [Part]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3.82,
+      1.02,
+      1.61
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://88175366748093"
+    ],
+    "name": "214",
+    "position": [
+      -935.91,
+      -792.31,
+      -148.85
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:3972052857",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.102",
+    "index": 209,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/54",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]",
+      "Size [IntValue]",
+      "2 [MeshPart]",
+      "2 [MeshPart]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.43,
+      2.51,
+      2.43
+    ],
+    "collidable": 3,
+    "meshIds": [
+      "rbxassetid://117182646522452",
+      "rbxassetid://99353166265721"
+    ],
+    "name": "102",
+    "position": [
+      -998.78,
+      -791.56,
+      -193.97
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:808842019",
+    "descendants": 10
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.999",
+    "index": 210,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/55",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "玉米棒 [UnionOperation]",
+      "玉米树 [Model]"
+    ],
+    "parts": 6,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.66,
+      6.06,
+      2.8
+    ],
+    "collidable": 6,
+    "meshIds": [],
+    "name": "999",
+    "position": [
+      -926.39,
+      -789.79,
+      -145.31
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "6:2058077282",
+    "descendants": 10
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.132",
+    "index": 211,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/56",
+    "scripts": 0,
+    "children": [
+      "Handle [MeshPart]",
+      "Range [NumberValue]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.33,
+      5.14,
+      0.84
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://121615690596438",
+      "rbxassetid://84090644723210"
+    ],
+    "name": "132",
+    "position": [
+      -889.44,
+      -791.05,
+      -128.02
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:3969741605",
+    "descendants": 10
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.249",
+    "index": 212,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/57",
+    "scripts": 1,
+    "children": [
+      "Red Arrow (pointing down) [Decal]",
+      "MeshPart [MeshPart]",
+      "MeshPart [MeshPart]",
+      "Part [Part]",
+      "OldCowboyLetter_client [Script]",
+      "Part [Part]",
+      "Handle [MeshPart]"
+    ],
+    "parts": 5,
+    "attrs": {
+      "OldCowboyLetterItemId": "249"
+    },
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [
+      "OldCowboyLetter_client"
+    ],
+    "animations": 0,
+    "size": [
+      1.91,
+      1.91,
+      2.79
+    ],
+    "collidable": 4,
+    "meshIds": [
+      "rbxassetid://89919526205524"
+    ],
+    "name": "249",
+    "position": [
+      409.7,
+      -791.15,
+      -403.84
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "5:2630254270",
+    "descendants": 15
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.404",
+    "index": 213,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/58",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "Meshes/粑粑1_扫描_1_2 [MeshPart]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      17.54,
+      7.79,
+      17.73
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://102982171310926"
+    ],
+    "name": "404",
+    "position": [
+      -1006.77,
+      -788.92,
+      -114.08
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:2056334706",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.614",
+    "index": 214,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/59",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]",
+      "Model [Model]",
+      "配置 [Folder]"
+    ],
+    "parts": 15,
+    "attrs": [],
+    "meshes": 12,
+    "tags": [
+      "RegularBulletStyle"
+    ],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0.56,
+      3.01,
+      1.7
+    ],
+    "collidable": 13,
+    "meshIds": [
+      "rbxassetid://101655965984584",
+      "rbxassetid://101799961984205",
+      "rbxassetid://109697585286634",
+      "rbxassetid://113261122272721",
+      "rbxassetid://118850484637268",
+      "rbxassetid://121836182093416",
+      "rbxassetid://123063758083669",
+      "rbxassetid://127198025733411",
+      "rbxassetid://134168622427001",
+      "rbxassetid://140423854243588",
+      "rbxassetid://88007591495395",
+      "rbxassetid://99240765320190"
+    ],
+    "name": "614",
+    "position": [
+      -904.42,
+      -792.02,
+      -204.74
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "15:441495117",
+    "descendants": 78
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.213",
+    "index": 215,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/60",
+    "scripts": 0,
+    "children": [
+      "Rock6 [MeshPart]",
+      "Rock6 [MeshPart]",
+      "Rock6 [MeshPart]",
+      "Rock7 [MeshPart]",
+      "Rock6 [MeshPart]",
+      "Rock6 [MeshPart]",
+      "Rock6 [MeshPart]",
+      "Rock6 [MeshPart]",
+      "RootPart [Part]"
+    ],
+    "parts": 9,
+    "attrs": [],
+    "meshes": 8,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      4.12,
+      2.43,
+      3.43
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://2128760908",
+      "rbxassetid://2128761993"
+    ],
+    "name": "213",
+    "position": [
+      -942.09,
+      -791.6,
+      -148.85
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "9:1967770686",
+    "descendants": 18
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.215",
+    "index": 216,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/61",
+    "scripts": 0,
+    "children": [
+      "2 [UnionOperation]",
+      "RootPart [Part]",
+      "1 [UnionOperation]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3.34,
+      2.93,
+      4.51
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "215",
+    "position": [
+      -930.33,
+      -791.35,
+      -148.85
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:2795821819",
+    "descendants": 5
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.108",
+    "index": 217,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/62",
+    "scripts": 0,
+    "children": [
+      "MeshPart [MeshPart]",
+      "MeshPart [MeshPart]",
+      "Handle [MeshPart]",
+      "Part [Part]",
+      "Part [Part]"
+    ],
+    "parts": 5,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.96,
+      2.15,
+      2.79
+    ],
+    "collidable": 4,
+    "meshIds": [
+      "rbxassetid://89919526205524"
+    ],
+    "name": "108",
+    "position": [
+      -973.4,
+      -791.83,
+      -193.97
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "5:730635271",
+    "descendants": 11
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.401",
+    "index": 218,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/63",
+    "scripts": 0,
+    "children": [
+      "绷带 [Part]",
+      "Handle [Part]",
+      "绷带 [MeshPart]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0.98,
+      2.42,
+      0.93
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://101501200965372"
+    ],
+    "name": "401",
+    "position": [
+      -913.97,
+      -792.33,
+      -193.97
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:3338064757",
+    "descendants": 5
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.124",
+    "index": 219,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/64",
+    "scripts": 2,
+    "children": [
+      "哑铃_client [LocalScript]",
+      "Handle [MeshPart]",
+      "哑铃_server [Script]",
+      "Events [Folder]"
+    ],
+    "parts": 7,
+    "attrs": [],
+    "meshes": 7,
+    "tags": [],
+    "scriptNames": [
+      "哑铃_client",
+      "哑铃_server"
+    ],
+    "animations": 1,
+    "size": [
+      5.25,
+      2.55,
+      2.69
+    ],
+    "collidable": 7,
+    "meshIds": [
+      "rbxassetid://13615521460",
+      "rbxassetid://13615521584",
+      "rbxassetid://13615521737",
+      "rbxassetid://13615521874",
+      "rbxassetid://13615521989",
+      "rbxassetid://13615522121"
+    ],
+    "name": "124",
+    "position": [
+      -879.41,
+      -791.59,
+      -196.27
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "7:1014202155",
+    "descendants": 20
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.107",
+    "index": 220,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/65",
+    "scripts": 0,
+    "children": [
+      "Part [Part]",
+      "Handle [MeshPart]",
+      "Part [Part]",
+      "MeshPart [MeshPart]",
+      "MeshPart [MeshPart]"
+    ],
+    "parts": 5,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.91,
+      1.91,
+      2.79
+    ],
+    "collidable": 4,
+    "meshIds": [
+      "rbxassetid://89919526205524"
+    ],
+    "name": "107",
+    "position": [
+      -977.28,
+      -791.86,
+      -193.97
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "5:2630254270",
+    "descendants": 11
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.201",
+    "index": 221,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/66",
+    "scripts": 0,
+    "children": [
+      "MeshPart [MeshPart]",
+      "MeshPart [MeshPart]",
+      "RootPart [Part]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      4.18,
+      1.25,
+      1.56
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://79349628460184"
+    ],
+    "name": "201",
+    "position": [
+      -1002.09,
+      -792.19,
+      -148.85
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:731328417",
+    "descendants": 5
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.612",
+    "index": 222,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/67",
+    "scripts": 3,
+    "children": [
+      "bulletNumMax [IntValue]",
+      "HolyWaterBulletFrame [Frame]",
+      "ThrowC2S [RemoteEvent]",
+      "圣水_client [Script]",
+      "bulletNum [IntValue]",
+      "nextFireTime [NumberValue]",
+      "addBulletCD [NumberValue]",
+      "圣水_server [Script]",
+      "lastAddBulletTime [NumberValue]",
+      "Config [Folder]",
+      "圣水 [UnionOperation]",
+      "Handle [Part]"
+    ],
+    "parts": 5,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "圣水_client",
+      "圣水_server",
+      "圣水伤害_server"
+    ],
+    "animations": 0,
+    "size": [
+      0.77,
+      1.15,
+      0.77
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "612",
+    "position": [
+      -896.42,
+      -792.29,
+      -175.9
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "5:1745854945",
+    "descendants": 47
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.216",
+    "index": 223,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/68",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "MeshPart [MeshPart]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0.86,
+      2.21,
+      1.04
+    ],
+    "collidable": 3,
+    "meshIds": [
+      "rbxassetid://112437161439106",
+      "rbxassetid://134778725539458"
+    ],
+    "name": "216",
+    "position": [
+      -926.43,
+      -791.71,
+      -148.85
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "3:1318998225",
+    "descendants": 5
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.222",
+    "index": 224,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/69",
+    "scripts": 0,
+    "children": [
+      "RootPart [MeshPart]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3.57,
+      0.95,
+      1.5
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://88175366748093"
+    ],
+    "name": "222",
+    "position": [
+      -901.78,
+      -792.34,
+      -148.85
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:2204431614",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.103",
+    "index": 225,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/70",
+    "scripts": 0,
+    "children": [
+      "3 [MeshPart]",
+      "3 [MeshPart]",
+      "Handle [Part]",
+      "Size [IntValue]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3.08,
+      3.17,
+      3.07
+    ],
+    "collidable": 3,
+    "meshIds": [
+      "rbxassetid://117182646522452",
+      "rbxassetid://99353166265721"
+    ],
+    "name": "103",
+    "position": [
+      -994.46,
+      -791.23,
+      -193.97
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:4146523834",
+    "descendants": 10
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.219",
+    "index": 226,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/71",
+    "scripts": 1,
+    "children": [
+      "Part [Part]",
+      "Part [Part]",
+      "Union [UnionOperation]",
+      "Core [Part]"
+    ],
+    "parts": 4,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "Script"
+    ],
+    "animations": 0,
+    "size": [
+      1.32,
+      3.61,
+      2.15
+    ],
+    "collidable": 3,
+    "meshIds": [],
+    "name": "219",
+    "position": [
+      -917.34,
+      -791.01,
+      -148.85
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "4:3197160476",
+    "descendants": 10
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.141",
+    "index": 227,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/72",
+    "scripts": 1,
+    "children": [
+      "Meshes/99夜-斧头_Weapon07_4 [MeshPart]",
+      "长按劈树 [LocalScript]",
+      "Meshes/99夜-斧头_Weapon07_2 [MeshPart]",
+      "Range [NumberValue]",
+      "Handle [MeshPart]",
+      "Meshes/99夜-斧头_Weapon07_6 [MeshPart]",
+      "Meshes/99夜-斧头_Weapon07_5 [MeshPart]"
+    ],
+    "parts": 5,
+    "attrs": [],
+    "meshes": 5,
+    "tags": [],
+    "scriptNames": [
+      "长按劈树"
+    ],
+    "animations": 0,
+    "size": [
+      3.92,
+      5.3,
+      0.86
+    ],
+    "collidable": 4,
+    "meshIds": [
+      "rbxassetid://134351025683131",
+      "rbxassetid://140412923754556",
+      "rbxassetid://73380070209986",
+      "rbxassetid://90510165483563"
+    ],
+    "name": "141",
+    "position": [
+      -929.06,
+      -790.9,
+      -178.25
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "5:1819223194",
+    "descendants": 17
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.610",
+    "index": 228,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/73",
+    "scripts": 2,
+    "children": [
+      "Arrow [Part]",
+      "配置 [Folder]",
+      "Model [Part]",
+      "冰弓 [Script]",
+      "ArrowHitC2S [RemoteEvent]",
+      "冰弓 [Script]",
+      "Handle [Part]",
+      "Attack [RemoteEvent]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [
+      "冰弓",
+      "冰弓"
+    ],
+    "animations": 0,
+    "size": [
+      0.73,
+      4.84,
+      2.7
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=55709693 ",
+      "http://www.roblox.com/asset/?id=92189547"
+    ],
+    "name": "610",
+    "position": [
+      -910.45,
+      -791.5,
+      -183.09
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "3:3127343074",
+    "descendants": 19
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.306",
+    "index": 229,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/74",
+    "scripts": 0,
+    "children": [
+      "306 [Accessory]",
+      "RootPart [Part]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.46,
+      0.94,
+      1.48
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=93050267"
+    ],
+    "name": "306",
+    "position": [
+      -968.68,
+      -791.86,
+      -172.92
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:1233473887",
+    "descendants": 8
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.137",
+    "index": 230,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/75",
+    "scripts": 2,
+    "children": [
+      "虫洞制造器_client [Script]",
+      "SpawnWormholeC2S [RemoteEvent]",
+      "物理碰撞Part [Part]",
+      "Handle [Part]",
+      "虫洞制造器_server [Script]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "虫洞制造器_client",
+      "虫洞制造器_server"
+    ],
+    "animations": 0,
+    "size": [
+      2,
+      2,
+      2
+    ],
+    "collidable": 2,
+    "meshIds": [],
+    "name": "137",
+    "position": [
+      -875.87,
+      -791.87,
+      -163.25
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:4102970174",
+    "descendants": 7
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.136",
+    "index": 231,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/76",
+    "scripts": 0,
+    "children": [
+      "3 [MeshPart]",
+      "3 [MeshPart]",
+      "Size [IntValue]",
+      "Handle [Part]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      3.29,
+      3.61,
+      3.57
+    ],
+    "collidable": 3,
+    "meshIds": [
+      "rbxassetid://117182646522452",
+      "rbxassetid://5991345067",
+      "rbxassetid://99353166265721"
+    ],
+    "name": "136",
+    "position": [
+      -1014.81,
+      -790.29,
+      -194.66
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "3:2475220827",
+    "descendants": 11
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.139",
+    "index": 232,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/77",
+    "scripts": 0,
+    "children": [
+      "Range [NumberValue]",
+      "Handle [MeshPart]"
+    ],
+    "parts": 4,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.42,
+      8.81,
+      1.42
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://126923097643567",
+      "rbxassetid://133768311124935"
+    ],
+    "name": "139",
+    "position": [
+      -917.35,
+      -791.74,
+      -166.55
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "4:1160524309",
+    "descendants": 12
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.135",
+    "index": 233,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/78",
+    "scripts": 0,
+    "children": [
+      "Handle [MeshPart]",
+      "Range [NumberValue]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1.86,
+      5.24,
+      0.41
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=187852667"
+    ],
+    "name": "135",
+    "position": [
+      -899.08,
+      -791.93,
+      -165.55
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:1761953037",
+    "descendants": 10
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.902",
+    "index": 234,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/79",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      8.49,
+      0.2,
+      3.78
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "902",
+    "position": [
+      -1009.06,
+      -792.72,
+      -126.75
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:2901955716",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.905",
+    "index": 235,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/80",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      11.07,
+      0.2,
+      7.7
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "905",
+    "position": [
+      -972.35,
+      -792.72,
+      -126.75
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:2970095732",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.903",
+    "index": 236,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/81",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      11.5,
+      0.2,
+      5.5
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "903",
+    "position": [
+      -997.75,
+      -792.72,
+      -126.75
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:3239471774",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.220",
+    "index": 237,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/82",
+    "scripts": 0,
+    "children": [
+      "RootPart [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.08,
+      0.62,
+      0.6
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "220",
+    "position": [
+      -912.82,
+      -792.34,
+      -148.89
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:3237878675",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.310",
+    "index": 238,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/83",
+    "scripts": 0,
+    "children": [
+      "310 [Accessory]",
+      "RootPart [Part]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.36,
+      2.59,
+      2.39
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://12189866522"
+    ],
+    "name": "310",
+    "position": [
+      -973.7,
+      -791.57,
+      -172.03
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "2:1803876280",
+    "descendants": 8
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.104",
+    "index": 239,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Tool",
+    "locator": "W/2/2/84",
+    "scripts": 0,
+    "children": [
+      "Meshes/99夜-斧头_Weapon07_1 [MeshPart]",
+      "Meshes/99夜-斧头_Weapon07 [MeshPart]",
+      "Handle [MeshPart]",
+      "Meshes/99夜-斧头_Weapon07_3 [MeshPart]",
+      "Meshes/99夜-斧头_Weapon07_2 [MeshPart]",
+      "Range [NumberValue]"
+    ],
+    "parts": 5,
+    "attrs": [],
+    "meshes": 5,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.58,
+      4.48,
+      0.72
+    ],
+    "collidable": 4,
+    "meshIds": [
+      "rbxassetid://102583119625003",
+      "rbxassetid://120134928694251",
+      "rbxassetid://134351025683131",
+      "rbxassetid://87153725846056"
+    ],
+    "name": "104",
+    "position": [
+      -988.15,
+      -791.42,
+      -193.97
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "5:2512425735",
+    "descendants": 14
+  },
+  {
+    "path": "Workspace.Prefabs.Resources.246",
+    "index": 240,
+    "parent": "Workspace.Prefabs.Resources",
+    "class": "Model",
+    "locator": "W/2/2/85",
+    "scripts": 1,
+    "children": [
+      "礼物盒_server [Script]",
+      "RootPart [Part]",
+      "1 [Part]",
+      "礼物盒焊接 [WeldConstraint]",
+      "礼物盒 [UnionOperation]"
+    ],
+    "parts": 4,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [
+      "礼物盒_server"
+    ],
+    "animations": 0,
+    "size": [
+      2.38,
+      2.19,
+      2.27
+    ],
+    "collidable": 4,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=16593970"
+    ],
+    "name": "246",
+    "position": [
+      -835.19,
+      -791.77,
+      -149.14
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "4:1236300077",
+    "descendants": 12
+  }
+]

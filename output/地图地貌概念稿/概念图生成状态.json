@@ -1,0 +1,10 @@
+{
+  "status": "blocked",
+  "tool": "image_gen.imagegen",
+  "success": false,
+  "error": "HTTP 401 Unauthorized: Your IP is not authorized to make this request.",
+  "generatedImageExists": false,
+  "promptFile": "新世界观地貌_最终生图提示词.txt",
+  "fallbackExecuted": false,
+  "fallbackRequirement": "CLI fallback requires explicit user authorization and OPENAI_API_KEY. No automatic fallback or substitute image was produced."
+}

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "AF-0151",
+    "name": "Union",
+    "path": "Workspace.Prefabs.Resources.礼物盒.Union",
+    "locator": "W/2/2/1/1",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0152",
+    "name": "Union",
+    "path": "Workspace.Prefabs.Resources.礼物盒.Union",
+    "locator": "W/2/2/1/2",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0153",
+    "name": "Union",
+    "path": "Workspace.Prefabs.Resources.礼物盒.Union",
+    "locator": "W/2/2/1/3",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0154",
+    "name": "Union",
+    "path": "Workspace.Prefabs.Resources.礼物盒.Union",
+    "locator": "W/2/2/1/4",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0155",
+    "name": "144",
+    "path": "Workspace.Prefabs.Resources.暂存.144",
+    "locator": "W/2/2/2/1",
+    "parts": 4,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0156",
+    "name": "134（废弃）",
+    "path": "Workspace.Prefabs.Resources.暂存.134（废弃）",
+    "locator": "W/2/2/2/2",
+    "parts": 6,
+    "class": "Tool",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0157",
+    "name": "137",
+    "path": "Workspace.Prefabs.Resources.暂存.137",
+    "locator": "W/2/2/2/3",
+    "parts": 1,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0158",
+    "name": "142",
+    "path": "Workspace.Prefabs.Resources.142",
+    "locator": "W/2/2/3",
+    "parts": 3,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0159",
+    "name": "315",
+    "path": "Workspace.Prefabs.Resources.315",
+    "locator": "W/2/2/4",
+    "parts": 22,
+    "class": "Model",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0160",
+    "name": "212",
+    "path": "Workspace.Prefabs.Resources.212",
+    "locator": "W/2/2/5",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0161",
+    "name": "502",
+    "path": "Workspace.Prefabs.Resources.502",
+    "locator": "W/2/2/6",
+    "parts": 8,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0162",
+    "name": "606",
+    "path": "Workspace.Prefabs.Resources.606",
+    "locator": "W/2/2/7",
+    "parts": 2,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0163",
+    "name": "313",
+    "path": "Workspace.Prefabs.Resources.313",
+    "locator": "W/2/2/8",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0164",
+    "name": "305",
+    "path": "Workspace.Prefabs.Resources.305",
+    "locator": "W/2/2/9",
+    "parts": 12,
+    "class": "Model",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0165",
+    "name": "503",
+    "path": "Workspace.Prefabs.Resources.503",
+    "locator": "W/2/2/10",
+    "parts": 8,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0166",
+    "name": "302",
+    "path": "Workspace.Prefabs.Resources.302",
+    "locator": "W/2/2/11",
+    "parts": 10,
+    "class": "Model",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0167",
+    "name": "208",
+    "path": "Workspace.Prefabs.Resources.208",
+    "locator": "W/2/2/12",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0168",
+    "name": "705",
+    "path": "Workspace.Prefabs.Resources.705",
+    "locator": "W/2/2/13",
+    "parts": 3,
+    "class": "Tool",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0169",
+    "name": "143",
+    "path": "Workspace.Prefabs.Resources.143",
+    "locator": "W/2/2/14",
+    "parts": 5,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0170",
+    "name": "613",
+    "path": "Workspace.Prefabs.Resources.613",
+    "locator": "W/2/2/15",
+    "parts": 2,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0171",
+    "name": "231",
+    "path": "Workspace.Prefabs.Resources.231",
+    "locator": "W/2/2/16",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0172",
+    "name": "247",
+    "path": "Workspace.Prefabs.Resources.247",
+    "locator": "W/2/2/17",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0173",
+    "name": "308",
+    "path": "Workspace.Prefabs.Resources.308",
+    "locator": "W/2/2/18",
+    "parts": 7,
+    "class": "Model",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0174",
+    "name": "311",
+    "path": "Workspace.Prefabs.Resources.311",
+    "locator": "W/2/2/19",
+    "parts": 17,
+    "class": "Model",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0175",
+    "name": "209",
+    "path": "Workspace.Prefabs.Resources.209",
+    "locator": "W/2/2/20",
+    "parts": 6,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0176",
+    "name": "127",
+    "path": "Workspace.Prefabs.Resources.127",
+    "locator": "W/2/2/21",
+    "parts": 5,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0177",
+    "name": "309",
+    "path": "Workspace.Prefabs.Resources.309",
+    "locator": "W/2/2/22",
+    "parts": 7,
+    "class": "Model",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0178",
+    "name": "303",
+    "path": "Workspace.Prefabs.Resources.303",
+    "locator": "W/2/2/23",
+    "parts": 10,
+    "class": "Model",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0179",
+    "name": "611",
+    "path": "Workspace.Prefabs.Resources.611",
+    "locator": "W/2/2/24",
+    "parts": 2,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0180",
+    "name": "99999",
+    "path": "Workspace.Prefabs.Resources.99999",
+    "locator": "W/2/2/25",
+    "parts": 13,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0181",
+    "name": "116",
+    "path": "Workspace.Prefabs.Resources.116",
+    "locator": "W/2/2/26",
+    "parts": 14,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0182",
+    "name": "118",
+    "path": "Workspace.Prefabs.Resources.118",
+    "locator": "W/2/2/27",
+    "parts": 14,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0183",
+    "name": "233",
+    "path": "Workspace.Prefabs.Resources.233",
+    "locator": "W/2/2/28",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0184",
+    "name": "605",
+    "path": "Workspace.Prefabs.Resources.605",
+    "locator": "W/2/2/29",
+    "parts": 3,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0185",
+    "name": "312",
+    "path": "Workspace.Prefabs.Resources.312",
+    "locator": "W/2/2/30",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0186",
+    "name": "618",
+    "path": "Workspace.Prefabs.Resources.618",
+    "locator": "W/2/2/31",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0187",
+    "name": "210",
+    "path": "Workspace.Prefabs.Resources.210",
+    "locator": "W/2/2/32",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0188",
+    "name": "235",
+    "path": "Workspace.Prefabs.Resources.235",
+    "locator": "W/2/2/33",
+    "parts": 8,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0189",
+    "name": "206",
+    "path": "Workspace.Prefabs.Resources.206",
+    "locator": "W/2/2/34",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0190",
+    "name": "704",
+    "path": "Workspace.Prefabs.Resources.704",
+    "locator": "W/2/2/35",
+    "parts": 3,
+    "class": "Tool",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0191",
+    "name": "211",
+    "path": "Workspace.Prefabs.Resources.211",
+    "locator": "W/2/2/36",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0192",
+    "name": "501",
+    "path": "Workspace.Prefabs.Resources.501",
+    "locator": "W/2/2/37",
+    "parts": 8,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0193",
+    "name": "145",
+    "path": "Workspace.Prefabs.Resources.145",
+    "locator": "W/2/2/38",
+    "parts": 5,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0194",
+    "name": "504",
+    "path": "Workspace.Prefabs.Resources.504",
+    "locator": "W/2/2/39",
+    "parts": 8,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0195",
+    "name": "703",
+    "path": "Workspace.Prefabs.Resources.703",
+    "locator": "W/2/2/40",
+    "parts": 3,
+    "class": "Tool",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0196",
+    "name": "99999",
+    "path": "Workspace.Prefabs.Resources.99999",
+    "locator": "W/2/2/41",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0197",
+    "name": "702",
+    "path": "Workspace.Prefabs.Resources.702",
+    "locator": "W/2/2/42",
+    "parts": 3,
+    "class": "Tool",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0198",
+    "name": "234",
+    "path": "Workspace.Prefabs.Resources.234",
+    "locator": "W/2/2/43",
+    "parts": 8,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0199",
+    "name": "205",
+    "path": "Workspace.Prefabs.Resources.205",
+    "locator": "W/2/2/44",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0200",
+    "name": "617",
+    "path": "Workspace.Prefabs.Resources.617",
+    "locator": "W/2/2/45",
+    "parts": 8,
+    "class": "Model",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0201",
+    "name": "1",
+    "path": "Workspace.Prefabs.Resources.1",
+    "locator": "W/2/2/46",
+    "parts": 7,
+    "class": "Model",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0202",
+    "name": "301",
+    "path": "Workspace.Prefabs.Resources.301",
+    "locator": "W/2/2/47",
+    "parts": 7,
+    "class": "Model",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0203",
+    "name": "701",
+    "path": "Workspace.Prefabs.Resources.701",
+    "locator": "W/2/2/48",
+    "parts": 3,
+    "class": "Tool",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0204",
+    "name": "403",
+    "path": "Workspace.Prefabs.Resources.403",
+    "locator": "W/2/2/49",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0205",
+    "name": "113",
+    "path": "Workspace.Prefabs.Resources.113",
+    "locator": "W/2/2/50",
+    "parts": 4,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0206",
+    "name": "130",
+    "path": "Workspace.Prefabs.Resources.130",
+    "locator": "W/2/2/51",
+    "parts": 7,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0207",
+    "name": "101",
+    "path": "Workspace.Prefabs.Resources.101",
+    "locator": "W/2/2/52",
+    "parts": 3,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0208",
+    "name": "214",
+    "path": "Workspace.Prefabs.Resources.214",
+    "locator": "W/2/2/53",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0209",
+    "name": "102",
+    "path": "Workspace.Prefabs.Resources.102",
+    "locator": "W/2/2/54",
+    "parts": 3,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0210",
+    "name": "999",
+    "path": "Workspace.Prefabs.Resources.999",
+    "locator": "W/2/2/55",
+    "parts": 6,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0211",
+    "name": "132",
+    "path": "Workspace.Prefabs.Resources.132",
+    "locator": "W/2/2/56",
+    "parts": 3,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0212",
+    "name": "249",
+    "path": "Workspace.Prefabs.Resources.249",
+    "locator": "W/2/2/57",
+    "parts": 5,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0213",
+    "name": "404",
+    "path": "Workspace.Prefabs.Resources.404",
+    "locator": "W/2/2/58",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0214",
+    "name": "614",
+    "path": "Workspace.Prefabs.Resources.614",
+    "locator": "W/2/2/59",
+    "parts": 15,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0215",
+    "name": "213",
+    "path": "Workspace.Prefabs.Resources.213",
+    "locator": "W/2/2/60",
+    "parts": 9,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0216",
+    "name": "215",
+    "path": "Workspace.Prefabs.Resources.215",
+    "locator": "W/2/2/61",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0217",
+    "name": "108",
+    "path": "Workspace.Prefabs.Resources.108",
+    "locator": "W/2/2/62",
+    "parts": 5,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0218",
+    "name": "401",
+    "path": "Workspace.Prefabs.Resources.401",
+    "locator": "W/2/2/63",
+    "parts": 3,
+    "class": "Tool",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0219",
+    "name": "124",
+    "path": "Workspace.Prefabs.Resources.124",
+    "locator": "W/2/2/64",
+    "parts": 7,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0220",
+    "name": "107",
+    "path": "Workspace.Prefabs.Resources.107",
+    "locator": "W/2/2/65",
+    "parts": 5,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0221",
+    "name": "201",
+    "path": "Workspace.Prefabs.Resources.201",
+    "locator": "W/2/2/66",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0222",
+    "name": "612",
+    "path": "Workspace.Prefabs.Resources.612",
+    "locator": "W/2/2/67",
+    "parts": 5,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0223",
+    "name": "216",
+    "path": "Workspace.Prefabs.Resources.216",
+    "locator": "W/2/2/68",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0224",
+    "name": "222",
+    "path": "Workspace.Prefabs.Resources.222",
+    "locator": "W/2/2/69",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0225",
+    "name": "103",
+    "path": "Workspace.Prefabs.Resources.103",
+    "locator": "W/2/2/70",
+    "parts": 3,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0226",
+    "name": "219",
+    "path": "Workspace.Prefabs.Resources.219",
+    "locator": "W/2/2/71",
+    "parts": 4,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0227",
+    "name": "141",
+    "path": "Workspace.Prefabs.Resources.141",
+    "locator": "W/2/2/72",
+    "parts": 5,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0228",
+    "name": "610",
+    "path": "Workspace.Prefabs.Resources.610",
+    "locator": "W/2/2/73",
+    "parts": 3,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0229",
+    "name": "306",
+    "path": "Workspace.Prefabs.Resources.306",
+    "locator": "W/2/2/74",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0230",
+    "name": "137",
+    "path": "Workspace.Prefabs.Resources.137",
+    "locator": "W/2/2/75",
+    "parts": 2,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0231",
+    "name": "136",
+    "path": "Workspace.Prefabs.Resources.136",
+    "locator": "W/2/2/76",
+    "parts": 3,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0232",
+    "name": "139",
+    "path": "Workspace.Prefabs.Resources.139",
+    "locator": "W/2/2/77",
+    "parts": 4,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0233",
+    "name": "135",
+    "path": "Workspace.Prefabs.Resources.135",
+    "locator": "W/2/2/78",
+    "parts": 2,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0234",
+    "name": "902",
+    "path": "Workspace.Prefabs.Resources.902",
+    "locator": "W/2/2/79",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0235",
+    "name": "905",
+    "path": "Workspace.Prefabs.Resources.905",
+    "locator": "W/2/2/80",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0236",
+    "name": "903",
+    "path": "Workspace.Prefabs.Resources.903",
+    "locator": "W/2/2/81",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0237",
+    "name": "220",
+    "path": "Workspace.Prefabs.Resources.220",
+    "locator": "W/2/2/82",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0238",
+    "name": "310",
+    "path": "Workspace.Prefabs.Resources.310",
+    "locator": "W/2/2/83",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0239",
+    "name": "104",
+    "path": "Workspace.Prefabs.Resources.104",
+    "locator": "W/2/2/84",
+    "parts": 5,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0240",
+    "name": "246",
+    "path": "Workspace.Prefabs.Resources.246",
+    "locator": "W/2/2/85",
+    "parts": 4,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0241",
+    "name": "203",
+    "path": "Workspace.Prefabs.Resources.203",
+    "locator": "W/2/2/86",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0242",
+    "name": "615",
+    "path": "Workspace.Prefabs.Resources.615",
+    "locator": "W/2/2/87",
+    "parts": 16,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0243",
+    "name": "230",
+    "path": "Workspace.Prefabs.Resources.230",
+    "locator": "W/2/2/88",
+    "parts": 2,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0244",
+    "name": "251",
+    "path": "Workspace.Prefabs.Resources.251",
+    "locator": "W/2/2/89",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0245",
+    "name": "314",
+    "path": "Workspace.Prefabs.Resources.314",
+    "locator": "W/2/2/90",
+    "parts": 11,
+    "class": "Model",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0246",
+    "name": "202",
+    "path": "Workspace.Prefabs.Resources.202",
+    "locator": "W/2/2/91",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0247",
+    "name": "904",
+    "path": "Workspace.Prefabs.Resources.904",
+    "locator": "W/2/2/92",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0248",
+    "name": "304",
+    "path": "Workspace.Prefabs.Resources.304",
+    "locator": "W/2/2/93",
+    "parts": 10,
+    "class": "Model",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0249",
+    "name": "128",
+    "path": "Workspace.Prefabs.Resources.128",
+    "locator": "W/2/2/94",
+    "parts": 5,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0250",
+    "name": "110",
+    "path": "Workspace.Prefabs.Resources.110",
+    "locator": "W/2/2/95",
+    "parts": 5,
+    "class": "Tool",
+    "materialType": "武器工具"
+  }
+]

@@ -1,0 +1,683 @@
+[
+  {
+    "id": "M01",
+    "radius": 2,
+    "source": "Grassland",
+    "zone": 3,
+    "previewParts": 26,
+    "clonedRoots": 25,
+    "zoneMin": 2,
+    "center": [
+      -250,
+      0,
+      -400
+    ],
+    "span": 250,
+    "observed": true,
+    "zoneMax": 4,
+    "sourceCandidates": [
+      "Grassland"
+    ],
+    "title": "普通草原",
+    "displayScale": 0.4,
+    "focusHeight": 2.8000000000000003,
+    "centerGrid": [
+      23,
+      20
+    ],
+    "file": "原版截图/M01.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "height": 392,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "id": "M02",
+    "radius": 3,
+    "source": "高原地区地块",
+    "zone": 4,
+    "previewParts": 99,
+    "clonedRoots": 49,
+    "focusHeight": 2,
+    "title": "高原山丘",
+    "span": 350,
+    "observed": true,
+    "center": [
+      800,
+      11.674101829528809,
+      -350
+    ],
+    "displayScale": 0.2857142857142857,
+    "height": 392,
+    "sourceCandidates": [
+      "高原地区地块",
+      "雪原地块"
+    ],
+    "typeName": "land",
+    "centerGrid": [
+      44,
+      21
+    ],
+    "file": "原版截图/M02.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "radius": 2,
+    "source": "沼泽地块",
+    "zone": 3,
+    "id": "M05",
+    "clonedRoots": 25,
+    "previewParts": 201,
+    "span": 250,
+    "observed": true,
+    "center": [
+      550,
+      -0.8049452900886536,
+      350
+    ],
+    "sourceCandidates": [
+      "沼泽地块"
+    ],
+    "title": "沼泽地表",
+    "displayScale": 0.4,
+    "focusHeight": 2.8000000000000003,
+    "centerGrid": [
+      39,
+      35
+    ],
+    "file": "原版截图/M05.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "height": 392,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "radius": 0,
+    "id": "M07D",
+    "clonedRoots": 1,
+    "centerGrid": [
+      52,
+      49
+    ],
+    "span": 50,
+    "observed": true,
+    "center": [
+      1200,
+      -0.10649286210536957,
+      1050
+    ],
+    "displayScale": 2,
+    "title": "毒沼泽近景",
+    "previewParts": 8,
+    "focusHeight": 14,
+    "detail": true,
+    "file": "原版截图/M07D.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "height": 392,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "radius": 2,
+    "source": "雪原地块",
+    "zone": 6,
+    "id": "M09",
+    "clonedRoots": 20,
+    "previewParts": 65,
+    "focusHeight": 2.8000000000000003,
+    "span": 250,
+    "observed": true,
+    "center": [
+      -1150,
+      20.044973373413086,
+      1300
+    ],
+    "sourceCandidates": [
+      "高原地区地块",
+      "雪原地块"
+    ],
+    "title": "雪原地表",
+    "displayScale": 0.4,
+    "typeName": "Snowfield",
+    "centerGrid": [
+      5,
+      54
+    ],
+    "file": "原版截图/M09.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "height": 392,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "focusHeight": 1.5555555555555554,
+    "source": "低位地区地块",
+    "zone": 4,
+    "previewParts": 968,
+    "clonedRoots": 82,
+    "center": [
+      -700,
+      0,
+      -850
+    ],
+    "sourceCandidates": [],
+    "radius": 4,
+    "includeBuilding": "5x5,老矿镇",
+    "id": "M03",
+    "span": 450,
+    "observed": true,
+    "title": "下沉事件区与老矿镇",
+    "height": 392,
+    "displayScale": 0.2222222222222222,
+    "typeName": "Special",
+    "centerGrid": [
+      14,
+      11
+    ],
+    "preload": {
+      "id": "M03",
+      "failures": [
+        {
+          "asset": "rbxassetid://6730238289",
+          "status": "Failure"
+        },
+        {
+          "asset": "rbxassetid://6590787310",
+          "status": "Failure"
+        }
+      ],
+      "parts": 967
+    },
+    "file": "原版截图/M03.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "radius": 1,
+    "source": "池塘",
+    "zone": 1,
+    "id": "M04",
+    "clonedRoots": 20,
+    "previewParts": 137,
+    "span": 150,
+    "observed": true,
+    "center": [
+      -100,
+      -0.47340500354766846,
+      100
+    ],
+    "sourceCandidates": [
+      "池塘"
+    ],
+    "title": "普通池塘",
+    "displayScale": 0.6666666666666666,
+    "focusHeight": 4.666666666666666,
+    "centerGrid": [
+      26,
+      30
+    ],
+    "preload": {
+      "id": "M04",
+      "failures": [],
+      "parts": 136
+    },
+    "file": "原版截图/M04.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "height": 392,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "radius": 2,
+    "source": "沼泽水地块",
+    "zone": 4,
+    "id": "M06",
+    "clonedRoots": 25,
+    "previewParts": 303,
+    "span": 250,
+    "observed": true,
+    "center": [
+      700,
+      -0.9639461636543274,
+      800
+    ],
+    "sourceCandidates": [
+      "沼泽水地块"
+    ],
+    "title": "沼泽水地",
+    "displayScale": 0.4,
+    "focusHeight": 2.8000000000000003,
+    "centerGrid": [
+      42,
+      44
+    ],
+    "preload": {
+      "id": "M06",
+      "failures": [],
+      "parts": 302
+    },
+    "file": "原版截图/M06.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "height": 392,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "radius": 1,
+    "source": "沼泽地块-毒沼泽",
+    "zone": 6,
+    "id": "M07",
+    "clonedRoots": 9,
+    "previewParts": 53,
+    "span": 150,
+    "observed": true,
+    "center": [
+      1200,
+      -0.10649286210536957,
+      1050
+    ],
+    "sourceCandidates": [
+      "沼泽地块-毒沼泽"
+    ],
+    "title": "毒沼泽",
+    "displayScale": 0.6666666666666666,
+    "focusHeight": 4.666666666666666,
+    "centerGrid": [
+      52,
+      49
+    ],
+    "preload": {
+      "id": "M07",
+      "failures": [],
+      "parts": 52
+    },
+    "file": "原版截图/M07.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "height": 392,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "radius": 1,
+    "source": "沼泽地块-泥沼泽",
+    "zone": 6,
+    "id": "M08",
+    "clonedRoots": 9,
+    "previewParts": 54,
+    "span": 150,
+    "observed": true,
+    "center": [
+      1300,
+      0.738150954246521,
+      1050
+    ],
+    "sourceCandidates": [
+      "沼泽地块-泥沼泽"
+    ],
+    "title": "泥沼泽",
+    "displayScale": 0.6666666666666666,
+    "focusHeight": 4.666666666666666,
+    "centerGrid": [
+      54,
+      49
+    ],
+    "preload": {
+      "id": "M08",
+      "failures": [],
+      "parts": 53
+    },
+    "file": "原版截图/M08.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "height": 392,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "radius": 1,
+    "source": "雪原池塘",
+    "zone": 5,
+    "id": "M10",
+    "clonedRoots": 9,
+    "previewParts": 41,
+    "focusHeight": 4.666666666666666,
+    "span": 150,
+    "observed": true,
+    "title": "雪原池塘",
+    "sourceCandidates": [],
+    "center": [
+      -350,
+      10.072265625,
+      1000
+    ],
+    "displayScale": 0.6666666666666666,
+    "typeName": "Snowfield",
+    "centerGrid": [
+      21,
+      48
+    ],
+    "preload": {
+      "id": "M10",
+      "failures": [],
+      "parts": 40
+    },
+    "file": "原版截图/M10.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "height": 392,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "radius": 2,
+    "source": "铁轨路",
+    "zone": 3,
+    "id": "M11",
+    "clonedRoots": 25,
+    "previewParts": 41,
+    "focusHeight": 2.8000000000000003,
+    "span": 250,
+    "observed": true,
+    "title": "铁路路基",
+    "sourceCandidates": [],
+    "center": [
+      0,
+      0,
+      -600
+    ],
+    "displayScale": 0.4,
+    "typeName": "Railway",
+    "centerGrid": [
+      28,
+      16
+    ],
+    "preload": {
+      "id": "M11",
+      "failures": [],
+      "parts": 40
+    },
+    "file": "原版截图/M11.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "height": 392,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "radius": 2,
+    "source": "5级地块",
+    "zone": 5,
+    "id": "M12",
+    "clonedRoots": 25,
+    "previewParts": 51,
+    "span": 250,
+    "observed": true,
+    "center": [
+      -1000,
+      0,
+      -400
+    ],
+    "sourceCandidates": [
+      "5级地块"
+    ],
+    "title": "5级区域地表",
+    "displayScale": 0.4,
+    "focusHeight": 2.8000000000000003,
+    "centerGrid": [
+      8,
+      20
+    ],
+    "preload": {
+      "id": "M12",
+      "failures": [],
+      "parts": 50
+    },
+    "file": "原版截图/M12.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "height": 392,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "radius": 2,
+    "source": "6级地块",
+    "zone": 6,
+    "id": "M13",
+    "clonedRoots": 25,
+    "previewParts": 51,
+    "span": 250,
+    "observed": true,
+    "center": [
+      1250,
+      0,
+      -750
+    ],
+    "sourceCandidates": [
+      "6级地块"
+    ],
+    "title": "6级区域地表",
+    "displayScale": 0.4,
+    "focusHeight": 2.8000000000000003,
+    "centerGrid": [
+      53,
+      13
+    ],
+    "preload": {
+      "id": "M13",
+      "failures": [],
+      "parts": 50
+    },
+    "file": "原版截图/M13.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "height": 392,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "radius": 3,
+    "id": "M15",
+    "clonedRoots": 50,
+    "span": 350,
+    "observed": true,
+    "center": [
+      -899.0233764648438,
+      60,
+      852.2583618164062
+    ],
+    "displayScale": 0.2857142857142857,
+    "previewParts": 408,
+    "title": "雪山山体",
+    "focusHeight": 42.88716343470982,
+    "mountain": true,
+    "preload": {
+      "id": "M15",
+      "failures": [],
+      "parts": 407
+    },
+    "file": "原版截图/M15.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "height": 392,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "radius": 2,
+    "includeBuilding": "1x1,1级铃铛洞穴",
+    "id": "M16",
+    "clonedRoots": 26,
+    "span": 250,
+    "observed": true,
+    "title": "洞穴地表入口",
+    "displayScale": 0.4,
+    "previewParts": 198,
+    "center": [
+      -158.5314178466797,
+      0,
+      750.4801635742188
+    ],
+    "focusHeight": 2.8000000000000003,
+    "trimBelow": -35,
+    "preload": {
+      "id": "M16",
+      "failures": [],
+      "parts": 197
+    },
+    "file": "原版截图/M16.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "height": 392,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "radius": 0,
+    "id": "M10D",
+    "clonedRoots": 1,
+    "centerGrid": [
+      21,
+      48
+    ],
+    "span": 50,
+    "observed": true,
+    "center": [
+      -350,
+      10.072265625,
+      1000
+    ],
+    "displayScale": 2,
+    "title": "雪原池塘近景",
+    "previewParts": 19,
+    "focusHeight": 14,
+    "detail": true,
+    "preload": {
+      "id": "M10D",
+      "failures": [],
+      "parts": 18
+    },
+    "file": "原版截图/M10D.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "height": 392,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "radius": 0,
+    "id": "M08D",
+    "clonedRoots": 1,
+    "centerGrid": [
+      54,
+      49
+    ],
+    "span": 50,
+    "observed": true,
+    "center": [
+      1300,
+      0.738150954246521,
+      1050
+    ],
+    "displayScale": 2,
+    "title": "泥沼泽近景",
+    "previewParts": 7,
+    "focusHeight": 14,
+    "detail": true,
+    "preload": {
+      "id": "M08D",
+      "failures": [],
+      "parts": 6
+    },
+    "file": "原版截图/M08D.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "height": 392,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "radius": 3,
+    "id": "M15D",
+    "clonedRoots": 50,
+    "span": 350,
+    "observed": true,
+    "center": [
+      -899.0233764648438,
+      60,
+      852.2583618164062
+    ],
+    "displayScale": 0.2857142857142857,
+    "previewParts": 408,
+    "title": "雪山崖壁近景",
+    "focusHeight": 65,
+    "mountain": true,
+    "reach": 65,
+    "detail": true,
+    "preload": {
+      "id": "M15",
+      "failures": [],
+      "parts": 407
+    },
+    "file": "原版截图/M15D.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "height": 392,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "focusHeight": 4,
+    "source": "低位地区地块",
+    "zone": 4,
+    "previewParts": 968,
+    "clonedRoots": 82,
+    "center": [
+      -700,
+      0,
+      -850
+    ],
+    "sourceCandidates": [],
+    "radius": 4,
+    "includeBuilding": "5x5,老矿镇",
+    "id": "M03D",
+    "span": 450,
+    "observed": true,
+    "title": "下沉中心与老矿镇近景",
+    "height": 392,
+    "displayScale": 0.2222222222222222,
+    "typeName": "Special",
+    "centerGrid": [
+      14,
+      11
+    ],
+    "mountain": true,
+    "reach": 60,
+    "detail": true,
+    "sampleId": "M03",
+    "file": "原版截图/M03D.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  },
+  {
+    "radius": 2,
+    "includeBuilding": "1x1,1级铃铛洞穴",
+    "id": "M16D",
+    "clonedRoots": 26,
+    "span": 250,
+    "observed": true,
+    "title": "洞穴入口近景",
+    "displayScale": 0.4,
+    "previewParts": 198,
+    "center": [
+      -158.5314178466797,
+      0,
+      750.4801635742188
+    ],
+    "focusHeight": 5,
+    "trimBelow": -35,
+    "mountain": true,
+    "reach": 25,
+    "detail": true,
+    "sampleId": "M16",
+    "file": "原版截图/M16D.jpg",
+    "mimeType": "image/jpeg",
+    "width": 788,
+    "height": 392,
+    "method": "本轮实生样区几何还原，Studio编辑态ViewportFrame截图"
+  }
+]

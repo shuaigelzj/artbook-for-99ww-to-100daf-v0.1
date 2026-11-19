@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="After Fall 局内资产档案，按程序用途与素材类型查询 905 条场景资产及其证据。">
+<title>After Fall · 局内资产档案</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='8' fill='%23283c32'/%3E%3Ctext x='20' y='27' text-anchor='middle' fill='%23ede6d7' font-size='23' font-family='Georgia'%3EA%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="responsive.css">
+<link rel="stylesheet" href="reskin.css">
+<script defer src="catalog-data.js"></script><script defer src="catalog-core.js"></script><script defer src="app.js"></script>
+</head>
+<body>
+<a class="skip" href="#main">跳到素材目录</a>
+<aside class="sidebar">
+ <a href="#" class="brand" aria-label="After Fall 资产档案首页"><span class="brand-mark">AF</span><span>AFTER FALL<small>局内资产档案</small></span></a>
+ <div class="nav-caption">WORKSPACE / 01</div>
+ <nav class="view-nav" aria-label="页面"><button class="view-link active" data-view="catalog"><span class="nav-icon">▤</span>素材目录<span class="tiny-count">905</span></button><button class="view-link" data-view="documents"><span class="nav-icon">▱</span>分类文档</button><button class="view-link" data-view="evidence"><span class="nav-icon">⌁</span>验证说明</button></nav>
+ <a class="view-link preview-nav" href="previews/index.html">◫ 图示审查<span class="tiny-count" id="preview-count">配图</span></a>
+ <div class="nav-caption category-caption">按程序用途</div><nav id="role-nav" class="role-nav" aria-label="程序用途分类"></nav>
+ <div class="sidebar-foot"><span class="status-dot"></span>版本 60 · 2026.11.18<small>905 条编辑态资产快照</small></div>
+</aside>
+<main id="main" class="main">
+ <header class="page-header"><div><div class="eyebrow">ASSET ARCHIVE <span>/</span> AFTER FALL</div><h1 id="page-title">局内资产档案</h1><p id="page-subtitle">按程序用途找到素材，再沿证据回到工程。</p></div><button id="download-category" class="button outline">下载分类 Markdown <span>↗</span></button></header>
+ <section id="catalog-view" class="view">
+  <div class="collection-strip"><span><strong>905</strong> 条素材</span><i></i><span><strong>7</strong> 种程序用途</span><i></i><span><strong>5</strong> 轮生成验证</span><span class="snapshot-label">EDIT SNAPSHOT · V60</span></div>
+  <section class="reskin-overview" aria-label="换皮评估说明"><div><strong>换皮制图评估</strong><span id="reskin-counts"></span></div><details><summary>判定标准与配套关系</summary><p>“是”表示已有完整可辨认的设计单元；“否”需先组合、铺排、试穿、补状态或分镜；“待确认”需查清宿主与显示状态；“不适用”用于空对象、逻辑结构和占地样板。可直接出效果图不等于模型可直接接入工程。配套编号默认是建议演示或对照，具体证据见详情。输入 AF 编号精确查本条，输入“配套:AF-0242”查相关配套。每条方案与工程约束可从原箭头、缩略图或“查看方案”打开。</p></details></section>
+  <section class="search-panel" aria-label="查询条件"><div class="search-box"><span aria-hidden="true">⌕</span><label class="sr-only" for="search">搜索素材</label><input id="search" type="search" placeholder="搜索名称、AF 编号、脚本、配套或制图方案…" autocomplete="off"><kbd>/</kbd></div>
+   <div class="filters"><div class="filter"><label for="type-filter">素材类型</label><select id="type-filter"><option value="">全部素材类型</option></select></div><div class="filter"><label for="source-filter">原始位置</label><select id="source-filter"><option value="">全部位置</option><option value="inside">Prefabs 内</option><option value="outside">Prefabs 外</option></select></div><div class="filter"><label for="evidence-filter">运行证据</label><select id="evidence-filter"><option value="">全部证据状态</option><option value="used">有使用证据</option><option value="retained">仅观察到保留</option><option value="unobserved">本轮未观察到</option></select></div><div class="filter"><label for="reskin-filter">换皮图制图</label><select id="reskin-filter"><option value="">全部制图判定</option></select></div><button id="reset" class="text-button">清除筛选</button></div>
+  </section>
+  <div class="result-heading"><div><h2 id="collection-title">全部素材</h2><span id="result-count" aria-live="polite"></span></div><label class="sort-label">排序<select id="sort"><option value="id">编号顺序</option><option value="name">名称顺序</option><option value="parts">几何件数从多到少</option></select></label></div>
+  <div id="active-filters" class="active-filters"></div>
+  <div class="table-wrap"><table class="asset-table"><thead><tr><th>素材 / 编号</th><th>程序用途 / 类型</th><th>运行证据</th><th>引用审计</th><th>可直接出换皮图</th><th>原始位置</th><th class="numeric">几何件数</th><th><span class="sr-only">查看详情</span></th></tr></thead><tbody id="asset-rows"></tbody></table><div id="empty-state" class="empty-state" hidden><span>⌕</span><h3>没有找到匹配的素材</h3><p>试试较短的名称、AF 编号，或减少筛选条件。</p><button class="button outline" id="empty-reset">重置查询</button></div></div>
+  <footer class="pagination"><span id="page-summary"></span><div><label>每页 <select id="page-size"><option value="30">30 条</option><option value="50">50 条</option><option value="100">100 条</option></select></label><button id="prev-page" aria-label="上一页">←</button><span id="page-label"></span><button id="next-page" aria-label="下一页">→</button></div></footer>
+  <p class="table-note"><span class="mini-dot"></span>引用审计仅标静态线索。“未检出静态引用”不等于无用；搜索“无引用”可查看这些候选条目。</p>
+ </section>
+ <section id="documents-view" class="view" hidden><div class="section-intro"><span class="section-number">01 / DOCUMENTS</span><h2>每个分类，一份文档。</h2><p>两组文件对应同一批 905 条素材。可独立下载，也可以回到目录筛选查看。</p></div><h3 class="document-section-title">按程序用途 <span>7 个文件</span></h3><div id="role-documents" class="document-grid"></div><h3 class="document-section-title">按素材类型 <span>13 个文件</span></h3><div id="type-documents" class="document-grid"></div></section>
+ <section id="evidence-view" class="view" hidden><div class="section-intro"><span class="section-number">02 / EVIDENCE</span><h2>从摆放位置，到实际用途。</h2><p>分类基于编辑态结构、配置身份与五轮地图生成检查。下面几种证据分别记录。</p></div><div class="evidence-layout"><article class="evidence-card"><span class="badge used">有使用证据</span><h3>生成命中，或脚本直接引用</h3><p>来源标记随复制和移动保留。五轮中央地图共命中 81 个不同的预设来源条目；直接引用的正式场景另列。</p></article><article class="evidence-card"><span class="badge retained">运行态保留</span><h3>对象存在，仍需追查用途</h3><p>对象没有被清理，不等于玩法已触发，也不等于玩家能看见。它不会仅凭保留状态被认定为正式使用。</p></article><article class="evidence-card"><span class="badge neutral">目录 / 名称推断</span><h3>保留线索，不代替验证</h3><p>配置表能补齐数字名称，目录能提供分类方向。尚未逐项追踪的调用入口会明确标注为推断。</p></article></div><div class="finding"><div><span class="section-number">CONFIRMED EXCEPTIONS</span><h3>预设库之外，也有正式场景。</h3></div><button data-open-id="AF-0603" class="finding-row"><span><b>野猪王战场</b><small>直接使用的玩法场景 · AF-0603</small></span><span>库外原场景被移动到地下战场 <b>↗</b></span></button><button data-open-id="AF-0899" class="finding-row"><span><b>CamSetting</b><small>过场与演出场景 · AF-0899</small></span><span>镜头脚本直接引用与移动 <b>↗</b></span></button></div><p class="scope-note">范围：当前开关配置下的五次随机开局。未遍历所有模式、节日、后续挑战与过场事件。临时来源标记和测试观察器已清除。</p></section>
+ <footer class="page-footer"><span>AFTER FALL <b>·</b> ASSET ARCHIVE</span><span>Place 108983613755535 <b>·</b> 2026.11.18</span></footer>
+</main>
+<dialog id="asset-dialog" aria-labelledby="detail-title"><div class="dialog-top"><span id="detail-id" class="eyebrow"></span><button id="close-detail" aria-label="关闭详情">×</button></div><div id="detail-body"></div></dialog>
+<div id="toast" role="status" aria-live="polite"></div>
+<noscript><div class="noscript">素材查询需要启用 JavaScript。也可以直接下载 <a href="docs/index.md">Markdown 分类索引</a>。</div></noscript>
+</body></html>

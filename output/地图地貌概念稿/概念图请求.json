@@ -1,0 +1,15 @@
+{
+  "tool": "image_gen.imagegen",
+  "promptFile": "新世界观地貌_最终生图提示词.txt",
+  "referenceImages": [
+    "原版截图/M01.jpg",
+    "原版截图/M02.jpg",
+    "原版截图/M07D.jpg",
+    "原版截图/M09.jpg",
+    "../地图分区分析/05_正方形地图_中心与全图外延一圈.png"
+  ],
+  "transparentBackground": false,
+  "plannedOutput": "新世界观地貌_概念总览.png",
+  "status": "HTTP 401 IP not authorized",
+  "cliKeyPresent": false
+}

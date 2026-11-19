@@ -1,0 +1,21 @@
+{
+  "id": "1",
+  "label": "首批 50 条",
+  "first": "AF-0001",
+  "last": "AF-0050",
+  "count": 50,
+  "methods": {
+    "说明卡": 1,
+    "原貌截图": 45,
+    "辅助可视化": 4
+  },
+  "reviewPending": true,
+  "cleanup": {
+    "cleaned": true,
+    "guiRestored": true,
+    "sourcesIntact": 50,
+    "cameraRestored": true,
+    "lightingRestored": true
+  },
+  "additionalImages": 0
+}

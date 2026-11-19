@@ -1,0 +1,21 @@
+{
+  "id": "6",
+  "label": "第6批 100 条",
+  "first": "AF-0451",
+  "last": "AF-0550",
+  "count": 100,
+  "methods": {
+    "原貌截图": 98,
+    "辅助可视化": 1,
+    "说明卡": 1
+  },
+  "reviewPending": true,
+  "cleanup": {
+    "cleaned": true,
+    "guiRestored": true,
+    "sourcesIntact": 100,
+    "cameraRestored": true,
+    "lightingRestored": true
+  },
+  "additionalImages": 0
+}

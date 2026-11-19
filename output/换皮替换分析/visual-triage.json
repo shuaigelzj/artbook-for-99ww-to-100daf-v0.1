@@ -1,0 +1,602 @@
+[
+  {
+    "id": "AF-0148",
+    "display": "Model",
+    "name": "Model",
+    "parts": 20,
+    "class": "Model",
+    "subcategory": "地图未命名组合"
+  },
+  {
+    "id": "AF-0151",
+    "display": "Union",
+    "name": "Union",
+    "parts": 1,
+    "class": "UnionOperation",
+    "subcategory": "物品预设未映射"
+  },
+  {
+    "id": "AF-0152",
+    "display": "Union",
+    "name": "Union",
+    "parts": 1,
+    "class": "UnionOperation",
+    "subcategory": "物品预设未映射"
+  },
+  {
+    "id": "AF-0153",
+    "display": "Union",
+    "name": "Union",
+    "parts": 1,
+    "class": "UnionOperation",
+    "subcategory": "物品预设未映射"
+  },
+  {
+    "id": "AF-0154",
+    "display": "Union",
+    "name": "Union",
+    "parts": 1,
+    "class": "UnionOperation",
+    "subcategory": "物品预设未映射"
+  },
+  {
+    "id": "AF-0180",
+    "display": "99999",
+    "name": "99999",
+    "parts": 13,
+    "class": "Model",
+    "subcategory": "物品预设未映射"
+  },
+  {
+    "id": "AF-0196",
+    "display": "99999",
+    "name": "99999",
+    "parts": 3,
+    "class": "Model",
+    "subcategory": "物品预设未映射"
+  },
+  {
+    "id": "AF-0210",
+    "display": "999",
+    "name": "999",
+    "parts": 6,
+    "class": "Model",
+    "subcategory": "物品预设未映射"
+  },
+  {
+    "id": "AF-0271",
+    "display": "默认",
+    "name": "默认",
+    "parts": 2,
+    "class": "Model",
+    "subcategory": "物品预设未映射"
+  },
+  {
+    "id": "AF-0593",
+    "display": "304",
+    "name": "304",
+    "parts": 76,
+    "class": "Model",
+    "subcategory": "数字名称命名空间待定"
+  },
+  {
+    "id": "AF-0602",
+    "display": "304",
+    "name": "304",
+    "parts": 41,
+    "class": "Model",
+    "subcategory": "数字名称命名空间待定"
+  },
+  {
+    "id": "AF-0615",
+    "display": "Model",
+    "name": "Model",
+    "parts": 9,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0616",
+    "display": "Model",
+    "name": "Model",
+    "parts": 107,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0617",
+    "display": "Model",
+    "name": "Model",
+    "parts": 27,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0621",
+    "display": "Model",
+    "name": "Model",
+    "parts": 26,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0626",
+    "display": "Model",
+    "name": "Model",
+    "parts": 8,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0627",
+    "display": "Model",
+    "name": "Model",
+    "parts": 3,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0628",
+    "display": "Model",
+    "name": "Model",
+    "parts": 13,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0652",
+    "display": "MiniGun",
+    "name": "MiniGun",
+    "parts": 1,
+    "class": "Accessory",
+    "subcategory": "散放配饰"
+  },
+  {
+    "id": "AF-0656",
+    "display": "Right",
+    "name": "Right",
+    "parts": 3,
+    "class": "Accessory",
+    "subcategory": "散放配饰"
+  },
+  {
+    "id": "AF-0657",
+    "display": "Left",
+    "name": "Left",
+    "parts": 3,
+    "class": "Accessory",
+    "subcategory": "散放配饰"
+  },
+  {
+    "id": "AF-0662",
+    "display": "Model",
+    "name": "Model",
+    "parts": 36,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0664",
+    "display": "Model",
+    "name": "Model",
+    "parts": 513,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0665",
+    "display": "Model",
+    "name": "Model",
+    "parts": 420,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0667",
+    "display": "Model",
+    "name": "Model",
+    "parts": 20,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0669",
+    "display": "Model",
+    "name": "Model",
+    "parts": 472,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0671",
+    "display": "Model",
+    "name": "Model",
+    "parts": 79,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0673",
+    "display": "Model",
+    "name": "Model",
+    "parts": 6,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0679",
+    "display": "Model",
+    "name": "Model",
+    "parts": 7,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0687",
+    "display": "山羊人",
+    "name": "山羊人",
+    "parts": 27,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0689",
+    "display": "SC",
+    "name": "SC",
+    "parts": 1,
+    "class": "MeshPart",
+    "subcategory": "散放零件"
+  },
+  {
+    "id": "AF-0691",
+    "display": "Model",
+    "name": "Model",
+    "parts": 25,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0694",
+    "display": "Model",
+    "name": "Model",
+    "parts": 1,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0696",
+    "display": "Model",
+    "name": "Model",
+    "parts": 11,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0698",
+    "display": "Clockwork Frog",
+    "name": "Clockwork Frog",
+    "parts": 19,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0702",
+    "display": "山羊人",
+    "name": "山羊人",
+    "parts": 27,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0704",
+    "display": "Model",
+    "name": "Model",
+    "parts": 13,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0707",
+    "display": "Model",
+    "name": "Model",
+    "parts": 23,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0708",
+    "display": "Handle",
+    "name": "Handle",
+    "parts": 1,
+    "class": "Part",
+    "subcategory": "散放零件"
+  },
+  {
+    "id": "AF-0711",
+    "display": "Model",
+    "name": "Model",
+    "parts": 23,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0712",
+    "display": "Model",
+    "name": "Model",
+    "parts": 2,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0713",
+    "display": "311",
+    "name": "311",
+    "parts": 17,
+    "class": "Model",
+    "subcategory": "数字名称命名空间待定"
+  },
+  {
+    "id": "AF-0718",
+    "display": "小猪",
+    "name": "小猪",
+    "parts": 22,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0719",
+    "display": "902",
+    "name": "902",
+    "parts": 1,
+    "class": "Model",
+    "subcategory": "数字名称命名空间待定"
+  },
+  {
+    "id": "AF-0725",
+    "display": "Model",
+    "name": "Model",
+    "parts": 2,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0729",
+    "display": "Model",
+    "name": "Model",
+    "parts": 3,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0736",
+    "display": "Model",
+    "name": "Model",
+    "parts": 24,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0744",
+    "display": "[名称含无效UTF-8字节]",
+    "name": "[名称含无效UTF-8字节]",
+    "parts": 1,
+    "class": "Model",
+    "subcategory": "名称编码异常"
+  },
+  {
+    "id": "AF-0745",
+    "display": "Model",
+    "name": "Model",
+    "parts": 4,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0747",
+    "display": "Handle",
+    "name": "Handle",
+    "parts": 1,
+    "class": "Part",
+    "subcategory": "散放零件"
+  },
+  {
+    "id": "AF-0750",
+    "display": "Model",
+    "name": "Model",
+    "parts": 1,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0754",
+    "display": "245",
+    "name": "245",
+    "parts": 3,
+    "class": "Model",
+    "subcategory": "数字名称命名空间待定"
+  },
+  {
+    "id": "AF-0762",
+    "display": "马鞍",
+    "name": "马鞍",
+    "parts": 2,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0765",
+    "display": "Model",
+    "name": "Model",
+    "parts": 1,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0766",
+    "display": "206",
+    "name": "206",
+    "parts": 15,
+    "class": "Model",
+    "subcategory": "数字名称命名空间待定"
+  },
+  {
+    "id": "AF-0776",
+    "display": "Handle",
+    "name": "Handle",
+    "parts": 1,
+    "class": "Part",
+    "subcategory": "散放零件"
+  },
+  {
+    "id": "AF-0777",
+    "display": "904",
+    "name": "904",
+    "parts": 1,
+    "class": "Model",
+    "subcategory": "数字名称命名空间待定"
+  },
+  {
+    "id": "AF-0782",
+    "display": "Model",
+    "name": "Model",
+    "parts": 9,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0785",
+    "display": "Handle",
+    "name": "Handle",
+    "parts": 1,
+    "class": "Part",
+    "subcategory": "散放零件"
+  },
+  {
+    "id": "AF-0796",
+    "display": "206",
+    "name": "206",
+    "parts": 2,
+    "class": "Model",
+    "subcategory": "数字名称命名空间待定"
+  },
+  {
+    "id": "AF-0804",
+    "display": "Handle",
+    "name": "Handle",
+    "parts": 1,
+    "class": "Part",
+    "subcategory": "散放零件"
+  },
+  {
+    "id": "AF-0805",
+    "display": "Model",
+    "name": "Model",
+    "parts": 9,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0810",
+    "display": "Model",
+    "name": "Model",
+    "parts": 5,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0813",
+    "display": "Model",
+    "name": "Model",
+    "parts": 4,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0814",
+    "display": "Model",
+    "name": "Model",
+    "parts": 6,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0821",
+    "display": "Model",
+    "name": "Model",
+    "parts": 11,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0836",
+    "display": "SteampunkFedora",
+    "name": "SteampunkFedora",
+    "parts": 1,
+    "class": "Part",
+    "subcategory": "头饰模型样本"
+  },
+  {
+    "id": "AF-0841",
+    "display": "Model",
+    "name": "Model",
+    "parts": 17,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0860",
+    "display": "Pilgrim Hat",
+    "name": "Pilgrim Hat",
+    "parts": 1,
+    "class": "Part",
+    "subcategory": "头饰模型样本"
+  },
+  {
+    "id": "AF-0861",
+    "display": "Model",
+    "name": "Model",
+    "parts": 4,
+    "class": "Model",
+    "subcategory": "未命名或未识别组合体"
+  },
+  {
+    "id": "AF-0884",
+    "display": "401",
+    "name": "401",
+    "parts": 41,
+    "class": "Model",
+    "subcategory": "数字名称命名空间待定"
+  },
+  {
+    "id": "AF-0889",
+    "display": "101",
+    "name": "101",
+    "parts": 9,
+    "class": "Model",
+    "subcategory": "数字名称命名空间待定"
+  },
+  {
+    "id": "AF-0890",
+    "display": "205",
+    "name": "205",
+    "parts": 13,
+    "class": "Model",
+    "subcategory": "数字名称命名空间待定"
+  },
+  {
+    "id": "AF-0897",
+    "display": "502",
+    "name": "502",
+    "parts": 6,
+    "class": "Model",
+    "subcategory": "数字名称命名空间待定"
+  },
+  {
+    "id": "AF-0904",
+    "display": "301",
+    "name": "301",
+    "parts": 24,
+    "class": "Model",
+    "subcategory": "数字名称命名空间待定"
+  }
+]

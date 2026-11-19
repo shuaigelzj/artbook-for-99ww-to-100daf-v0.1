@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "AF-0551",
+    "name": "2x2,土著营地V2",
+    "path": "Workspace.Prefabs.雪原Map.土著村落.2x2,土著营地V2",
+    "originalLocator": "W/2/18/6/1",
+    "locator": "W/2/18/6/1",
+    "parts": 302,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0552",
+    "name": "2x1,土著村落V1",
+    "path": "Workspace.Prefabs.雪原Map.土著村落.2x1,土著村落V1",
+    "originalLocator": "W/2/18/6/2",
+    "locator": "W/2/18/6/2",
+    "parts": 184,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0553",
+    "name": "2x1,西部铁道公司V1",
+    "path": "Workspace.Prefabs.雪原Map.铁道公司.2x1,西部铁道公司V1",
+    "originalLocator": "W/2/18/8/1",
+    "locator": "W/2/18/8/1",
+    "parts": 299,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0554",
+    "name": "2x1,西部铁道公司V2",
+    "path": "Workspace.Prefabs.雪原Map.铁道公司.2x1,西部铁道公司V2",
+    "originalLocator": "W/2/18/8/2",
+    "locator": "W/2/18/8/2",
+    "parts": 148,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0555",
+    "name": "草",
+    "path": "Workspace.Prefabs.雪原Map.雪山.草",
+    "originalLocator": "W/2/18/9/1",
+    "locator": "W/2/18/9/1",
+    "parts": 18,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0556",
+    "name": "BOSS雪",
+    "path": "Workspace.Prefabs.雪原Map.雪山.BOSS雪",
+    "originalLocator": "W/2/18/9/2",
+    "locator": "W/2/18/9/3",
+    "parts": 4,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0557",
+    "name": "牛牛战场",
+    "path": "Workspace.Prefabs.雪原Map.雪山.牛牛战场",
+    "originalLocator": "W/2/18/9/3",
+    "locator": "W/2/18/9/4",
+    "parts": 195,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0558",
+    "name": "牛牛战败雪",
+    "path": "Workspace.Prefabs.雪原Map.雪山.牛牛战败雪",
+    "originalLocator": "W/2/18/9/4",
+    "locator": "W/2/18/9/2",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0559",
+    "name": "雪山控制器",
+    "path": "Workspace.Prefabs.雪原Map.雪山.雪山控制器",
+    "originalLocator": "W/2/18/9/5",
+    "locator": "W/2/18/9/5",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "机关"
+  },
+  {
+    "id": "AF-0560",
+    "name": "雪山正常V2",
+    "path": "Workspace.Prefabs.雪原Map.雪山.雪山正常V2",
+    "originalLocator": "W/2/18/9/6",
+    "locator": "W/2/18/9/8",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0561",
+    "name": "雪山正常",
+    "path": "Workspace.Prefabs.雪原Map.雪山.雪山正常",
+    "originalLocator": "W/2/18/9/7",
+    "locator": "W/2/18/9/10",
+    "parts": 9,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0562",
+    "name": "雪山暴雪",
+    "path": "Workspace.Prefabs.雪原Map.雪山.雪山暴雪",
+    "originalLocator": "W/2/18/9/8",
+    "locator": "W/2/18/9/9",
+    "parts": 167,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0563",
+    "name": "山",
+    "path": "Workspace.Prefabs.雪原Map.雪山.山",
+    "originalLocator": "W/2/18/9/9",
+    "locator": "W/2/18/9/6",
+    "parts": 390,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0564",
+    "name": "1x1,暴风雪祭坛",
+    "path": "Workspace.Prefabs.雪原Map.雪山.1x1,暴风雪祭坛",
+    "originalLocator": "W/2/18/9/10",
+    "locator": "W/2/18/9/7",
+    "parts": 37,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0565",
+    "name": "1x1,围脖彩蛋V1",
+    "path": "Workspace.Prefabs.雪原Map.特殊房子.1x1,围脖彩蛋V1",
+    "originalLocator": "W/2/18/10/1",
+    "locator": "W/2/18/10/1",
+    "parts": 67,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0566",
+    "name": "1x1,围脖制造",
+    "path": "Workspace.Prefabs.雪原Map.特殊房子.1x1,围脖制造",
+    "originalLocator": "W/2/18/10/2",
+    "locator": "W/2/18/10/2",
+    "parts": 22,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0567",
+    "name": "圣诞围脖",
+    "path": "Workspace.Prefabs.圣诞节.圣诞围脖",
+    "originalLocator": "W/2/19/1",
+    "locator": "W/2/19/1",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0568",
+    "name": "圣诞节据点未修复",
+    "path": "Workspace.Prefabs.圣诞节.圣诞节据点未修复",
+    "originalLocator": "W/2/19/2",
+    "locator": "W/2/19/3",
+    "parts": 123,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0569",
+    "name": "圣诞节据点堕机前",
+    "path": "Workspace.Prefabs.圣诞节.圣诞节据点堕机前",
+    "originalLocator": "W/2/19/3",
+    "locator": "W/2/19/2",
+    "parts": 136,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0570",
+    "name": "圣诞节outlaw据点2",
+    "path": "Workspace.Prefabs.圣诞节.圣诞节outlaw据点2",
+    "originalLocator": "W/2/19/4",
+    "locator": "W/2/19/5",
+    "parts": 57,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0571",
+    "name": "圣诞节据点",
+    "path": "Workspace.Prefabs.圣诞节.圣诞节据点",
+    "originalLocator": "W/2/19/5",
+    "locator": "W/2/19/7",
+    "parts": 438,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0572",
+    "name": "圣诞节控制器",
+    "path": "Workspace.Prefabs.圣诞节.圣诞节控制器",
+    "originalLocator": "W/2/19/6",
+    "locator": "W/2/19/8",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0573",
+    "name": "圣诞节outlaw据点1",
+    "path": "Workspace.Prefabs.圣诞节.圣诞节outlaw据点1",
+    "originalLocator": "W/2/19/7",
+    "locator": "W/2/19/6",
+    "parts": 65,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0574",
+    "name": "圣诞节outlaw据点3",
+    "path": "Workspace.Prefabs.圣诞节.圣诞节outlaw据点3",
+    "originalLocator": "W/2/19/8",
+    "locator": "W/2/19/4",
+    "parts": 76,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0575",
+    "name": "礼物",
+    "path": "Workspace.Prefabs.其他.礼物",
+    "originalLocator": "W/2/20/1",
+    "locator": "W/2/20/1",
+    "parts": 5,
+    "class": "Model",
+    "materialType": "特效与界面"
+  },
+  {
+    "id": "AF-0576",
+    "name": "携带道具",
+    "path": "Workspace.Prefabs.其他.携带道具",
+    "originalLocator": "W/2/20/2",
+    "locator": "W/2/20/2",
+    "parts": 39,
+    "class": "Model",
+    "materialType": "特效与界面"
+  },
+  {
+    "id": "AF-0577",
+    "name": "箭头",
+    "path": "Workspace.Prefabs.其他.箭头",
+    "originalLocator": "W/2/20/3",
+    "locator": "W/2/20/3",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "特效与界面"
+  },
+  {
+    "id": "AF-0578",
+    "name": "ProximityPrompt",
+    "path": "Workspace.Prefabs.其他.ProximityPrompt",
+    "originalLocator": "W/2/20/4",
+    "locator": "W/2/20/4",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "特效与界面"
+  },
+  {
+    "id": "AF-0579",
+    "name": "营火铁商人",
+    "path": "Workspace.Prefabs.NPC事件.铁商人.营火铁商人",
+    "originalLocator": "W/2/21/1/1",
+    "locator": "W/2/21/1/2",
+    "parts": 8,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0580",
+    "name": "铁商人位置",
+    "path": "Workspace.Prefabs.NPC事件.铁商人.铁商人位置",
+    "originalLocator": "W/2/21/1/2",
+    "locator": "W/2/21/1/1",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "辅助零件"
+  },
+  {
+    "id": "AF-0581",
+    "name": "1x1,铁商人据点",
+    "path": "Workspace.Prefabs.NPC事件.铁商人.1x1,铁商人据点",
+    "originalLocator": "W/2/21/1/3",
+    "locator": "W/2/21/1/3",
+    "parts": 10,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0582",
+    "name": "小伙3",
+    "path": "Workspace.Prefabs.NPC事件.拯救小伙3.小伙3",
+    "originalLocator": "W/2/21/2/1",
+    "locator": "W/2/21/2/1",
+    "parts": 14,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0583",
+    "name": "1x1,拯救小伙3据点",
+    "path": "Workspace.Prefabs.NPC事件.拯救小伙3.1x1,拯救小伙3据点",
+    "originalLocator": "W/2/21/2/2",
+    "locator": "W/2/21/2/2",
+    "parts": 11,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0584",
+    "name": "1x1,牛仔呼救阶段1据点",
+    "path": "Workspace.Prefabs.NPC事件.牛仔呼救.1x1,牛仔呼救阶段1据点",
+    "originalLocator": "W/2/21/3/1",
+    "locator": "W/2/21/3/4",
+    "parts": 10,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0585",
+    "name": "cowboy",
+    "path": "Workspace.Prefabs.NPC事件.牛仔呼救.cowboy",
+    "originalLocator": "W/2/21/3/2",
+    "locator": "W/2/21/3/2",
+    "parts": 8,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0586",
+    "name": "1x1,牛仔呼救阶段2据点",
+    "path": "Workspace.Prefabs.NPC事件.牛仔呼救.1x1,牛仔呼救阶段2据点",
+    "originalLocator": "W/2/21/3/3",
+    "locator": "W/2/21/3/3",
+    "parts": 10,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0587",
+    "name": "1x1,牛仔呼救阶段3据点",
+    "path": "Workspace.Prefabs.NPC事件.牛仔呼救.1x1,牛仔呼救阶段3据点",
+    "originalLocator": "W/2/21/3/4",
+    "locator": "W/2/21/3/1",
+    "parts": 16,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0588",
+    "name": "Old Cowboy",
+    "path": "Workspace.Prefabs.NPC事件.暮年牛仔.Old Cowboy",
+    "originalLocator": "W/2/21/4/1",
+    "locator": "W/2/21/4/1",
+    "parts": 24,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0589",
+    "name": "1x1,暮年牛仔阶段1据点",
+    "path": "Workspace.Prefabs.NPC事件.暮年牛仔.1x1,暮年牛仔阶段1据点",
+    "originalLocator": "W/2/21/4/2",
+    "locator": "W/2/21/4/3",
+    "parts": 26,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0590",
+    "name": "old letter",
+    "path": "Workspace.Prefabs.NPC事件.暮年牛仔.old letter",
+    "originalLocator": "W/2/21/4/3",
+    "locator": "W/2/21/4/4",
+    "parts": 5,
+    "class": "Tool",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0591",
+    "name": "1x1,暮年牛仔阶段2据点",
+    "path": "Workspace.Prefabs.NPC事件.暮年牛仔.1x1,暮年牛仔阶段2据点",
+    "originalLocator": "W/2/21/4/4",
+    "locator": "W/2/21/4/2",
+    "parts": 539,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0592",
+    "name": "1x1,暮年牛仔阶段3据点",
+    "path": "Workspace.Prefabs.NPC事件.暮年牛仔.1x1,暮年牛仔阶段3据点",
+    "originalLocator": "W/2/21/4/5",
+    "locator": "W/2/21/4/5",
+    "parts": 562,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0593",
+    "name": "304",
+    "path": "Workspace.Prefabs.304",
+    "originalLocator": "W/2/22",
+    "locator": "W/2/23",
+    "parts": 76,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0594",
+    "name": "双开门",
+    "path": "Workspace.Prefabs.双开门",
+    "originalLocator": "W/2/23",
+    "locator": "W/2/24",
+    "parts": 10,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0595",
+    "name": "Trader",
+    "path": "Workspace.Prefabs.Trader",
+    "originalLocator": "W/2/24",
+    "locator": "W/2/22",
+    "parts": 10,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0596",
+    "name": "IndiaPosition",
+    "path": "Workspace.Prefabs.IndiaPosition",
+    "originalLocator": "W/2/25",
+    "locator": "W/2/26",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "辅助零件"
+  },
+  {
+    "id": "AF-0597",
+    "name": "IndiaBack",
+    "path": "Workspace.Prefabs.IndiaBack",
+    "originalLocator": "W/2/26",
+    "locator": "W/2/25",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "辅助零件"
+  },
+  {
+    "id": "AF-0598",
+    "name": "Effects",
+    "path": "Workspace.Prefabs.Effects",
+    "originalLocator": "W/2/27",
+    "locator": "W/2/29",
+    "parts": 57,
+    "class": "Model",
+    "materialType": "特效与界面"
+  },
+  {
+    "id": "AF-0599",
+    "name": "ladder",
+    "path": "Workspace.Prefabs.ladder",
+    "originalLocator": "W/2/28",
+    "locator": "W/2/27",
+    "parts": 16,
+    "class": "Model",
+    "materialType": "营地设施"
+  },
+  {
+    "id": "AF-0600",
+    "name": "Model",
+    "path": "Workspace.Prefabs.Model",
+    "originalLocator": "W/2/29",
+    "locator": "W/2/30",
+    "parts": 0,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0601",
+    "name": "Others",
+    "path": "Workspace.Prefabs.Others",
+    "originalLocator": "W/2/30",
+    "locator": "W/2/31",
+    "parts": 10,
+    "class": "Model",
+    "materialType": "机关"
+  },
+  {
+    "id": "AF-0602",
+    "name": "304",
+    "path": "Workspace.Prefabs.304",
+    "originalLocator": "W/2/31",
+    "locator": "W/2/28",
+    "parts": 41,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0603",
+    "name": "野猪王战场",
+    "path": "Workspace.沼泽.野猪王战场",
+    "originalLocator": "W/3/1",
+    "locator": "W/3/1",
+    "parts": 142,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0604",
+    "name": "222",
+    "path": "Workspace.GemPack.222",
+    "originalLocator": "W/4/1",
+    "locator": "W/4/9",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0605",
+    "name": "210",
+    "path": "Workspace.GemPack.210",
+    "originalLocator": "W/4/2",
+    "locator": "W/4/8",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0606",
+    "name": "705",
+    "path": "Workspace.GemPack.705",
+    "originalLocator": "W/4/3",
+    "locator": "W/4/2",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0607",
+    "name": "703",
+    "path": "Workspace.GemPack.703",
+    "originalLocator": "W/4/4",
+    "locator": "W/4/5",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0608",
+    "name": "701",
+    "path": "Workspace.GemPack.701",
+    "originalLocator": "W/4/5",
+    "locator": "W/4/6",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0609",
+    "name": "211",
+    "path": "Workspace.GemPack.211",
+    "originalLocator": "W/4/6",
+    "locator": "W/4/1",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0610",
+    "name": "702",
+    "path": "Workspace.GemPack.702",
+    "originalLocator": "W/4/7",
+    "locator": "W/4/4",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0611",
+    "name": "223",
+    "path": "Workspace.GemPack.223",
+    "originalLocator": "W/4/8",
+    "locator": "W/4/3",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0612",
+    "name": "704",
+    "path": "Workspace.GemPack.704",
+    "originalLocator": "W/4/9",
+    "locator": "W/4/7",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0613",
+    "name": "Model",
+    "path": "Workspace.美术其他.Model",
+    "originalLocator": "W/5/2",
+    "locator": "W/5/4",
+    "parts": 95,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0614",
+    "name": "Model",
+    "path": "Workspace.美术其他.Model",
+    "originalLocator": "W/5/3",
+    "locator": "W/5/3",
+    "parts": 25,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0615",
+    "name": "Model",
+    "path": "Workspace.美术其他.Model",
+    "originalLocator": "W/5/4",
+    "locator": "W/5/12",
+    "parts": 9,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0616",
+    "name": "Model",
+    "path": "Workspace.美术其他.Model",
+    "originalLocator": "W/5/5",
+    "locator": "W/5/6",
+    "parts": 107,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0617",
+    "name": "Model",
+    "path": "Workspace.美术其他.Model",
+    "originalLocator": "W/5/6",
+    "locator": "W/5/5",
+    "parts": 27,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0618",
+    "name": "1x1,糖饼屋",
+    "path": "Workspace.美术其他.1x1,糖饼屋",
+    "originalLocator": "W/5/7",
+    "locator": "W/5/27",
+    "parts": 201,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0619",
+    "name": "节日方旗",
+    "path": "Workspace.美术其他.节日方旗",
+    "originalLocator": "W/5/8",
+    "locator": "W/5/11",
+    "parts": 29,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0620",
+    "name": "Light belt",
+    "path": "Workspace.美术其他.Light belt",
+    "originalLocator": "W/5/9",
+    "locator": "W/5/8",
+    "parts": 37,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0621",
+    "name": "Model",
+    "path": "Workspace.美术其他.Model",
+    "originalLocator": "W/5/10",
+    "locator": "W/5/2",
+    "parts": 26,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0622",
+    "name": "1x1,水井",
+    "path": "Workspace.美术其他.1x1,水井",
+    "originalLocator": "W/5/11",
+    "locator": "W/5/7",
+    "parts": 9,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0623",
+    "name": "衣柜",
+    "path": "Workspace.美术其他.衣柜",
+    "originalLocator": "W/5/12",
+    "locator": "W/5/9",
+    "parts": 16,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0624",
+    "name": "Rocking chair\n",
+    "path": "Workspace.美术其他.Rocking chair\n",
+    "originalLocator": "W/5/13",
+    "locator": "W/5/20",
+    "parts": 11,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0625",
+    "name": "Part",
+    "path": "Workspace.美术其他.Part",
+    "originalLocator": "W/5/14",
+    "locator": "W/5/31",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0626",
+    "name": "Model",
+    "path": "Workspace.美术其他.Model",
+    "originalLocator": "W/5/15",
+    "locator": "W/5/21",
+    "parts": 8,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0627",
+    "name": "Model",
+    "path": "Workspace.美术其他.Model",
+    "originalLocator": "W/5/16",
+    "locator": "W/5/26",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0628",
+    "name": "Model",
+    "path": "Workspace.美术其他.Model",
+    "originalLocator": "W/5/17",
+    "locator": "W/5/18",
+    "parts": 13,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0629",
+    "name": "Union",
+    "path": "Workspace.美术其他.Union",
+    "originalLocator": "W/5/18",
+    "locator": "W/5/24",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0630",
+    "name": "Union",
+    "path": "Workspace.美术其他.Union",
+    "originalLocator": "W/5/19",
+    "locator": "W/5/22",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0631",
+    "name": "Union",
+    "path": "Workspace.美术其他.Union",
+    "originalLocator": "W/5/20",
+    "locator": "W/5/17",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0632",
+    "name": "Part",
+    "path": "Workspace.美术其他.Part",
+    "originalLocator": "W/5/21",
+    "locator": "W/5/25",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0633",
+    "name": "Part",
+    "path": "Workspace.美术其他.Part",
+    "originalLocator": "W/5/22",
+    "locator": "W/5/23",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0634",
+    "name": "Part",
+    "path": "Workspace.美术其他.Part",
+    "originalLocator": "W/5/23",
+    "locator": "W/5/14",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0635",
+    "name": "Part",
+    "path": "Workspace.美术其他.Part",
+    "originalLocator": "W/5/24",
+    "locator": "W/5/10",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0636",
+    "name": "Union",
+    "path": "Workspace.美术其他.Union",
+    "originalLocator": "W/5/25",
+    "locator": "W/5/15",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0637",
+    "name": "Union",
+    "path": "Workspace.美术其他.Union",
+    "originalLocator": "W/5/26",
+    "locator": "W/5/28",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0638",
+    "name": "1x1,圣诞树",
+    "path": "Workspace.美术其他.1x1,圣诞树",
+    "originalLocator": "W/5/27",
+    "locator": "W/5/19",
+    "parts": 139,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0639",
+    "name": "Union",
+    "path": "Workspace.美术其他.Union",
+    "originalLocator": "W/5/28",
+    "locator": "W/5/32",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0640",
+    "name": "Part",
+    "path": "Workspace.美术其他.Part",
+    "originalLocator": "W/5/29",
+    "locator": "W/5/29",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0641",
+    "name": "Union",
+    "path": "Workspace.美术其他.Union",
+    "originalLocator": "W/5/30",
+    "locator": "W/5/16",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0642",
+    "name": "Part",
+    "path": "Workspace.美术其他.Part",
+    "originalLocator": "W/5/31",
+    "locator": "W/5/30",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0643",
+    "name": "Part",
+    "path": "Workspace.美术其他.Part",
+    "originalLocator": "W/5/32",
+    "locator": "W/5/13",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0644",
+    "name": "Model",
+    "path": "Workspace.美术其他.Model",
+    "originalLocator": "W/5/33",
+    "locator": "W/5/33",
+    "parts": 0,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0645",
+    "name": "Plate",
+    "path": "Workspace.BagStore.Plate",
+    "originalLocator": "W/6/1",
+    "locator": "W/6/1",
+    "parts": 6,
+    "class": "Part",
+    "materialType": "辅助零件"
+  },
+  {
+    "id": "AF-0646",
+    "name": "Pumpkin Beret",
+    "path": "Workspace.Pumpkin Beret",
+    "originalLocator": "W/7",
+    "locator": "W/7",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0647",
+    "name": "12",
+    "path": "Workspace.12",
+    "originalLocator": "W/9",
+    "locator": "W/9",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0648",
+    "name": "WetModel",
+    "path": "Workspace.Wet.WetModel",
+    "originalLocator": "W/10/1",
+    "locator": "W/10/1",
+    "parts": 0,
+    "class": "Model",
+    "materialType": "特效与界面"
+  },
+  {
+    "id": "AF-0649",
+    "name": "Black Beret",
+    "path": "Workspace.Black Beret",
+    "originalLocator": "W/11",
+    "locator": "W/11",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0650",
+    "name": "CowboyGunV2",
+    "path": "Workspace.火车大劫案.CowboyGunV2",
+    "originalLocator": "W/12/6",
+    "locator": "W/12/6",
+    "parts": 12,
+    "class": "Model",
+    "materialType": "人形角色"
+  }
+]

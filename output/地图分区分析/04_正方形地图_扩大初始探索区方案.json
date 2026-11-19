@@ -1,0 +1,74 @@
+{
+  "status": "proposal_not_applied",
+  "mapGroundCells": [
+    55,
+    55
+  ],
+  "groundCellSizeStuds": 50,
+  "planningGrid": [
+    11,
+    11
+  ],
+  "groundCellsPerPlanningCell": [
+    5,
+    5
+  ],
+  "rowsNorthToSouth": [
+    "AAAAAAAABBB",
+    "AAAAAAAABBB",
+    "AAAAAAAABBB",
+    "DDDDAAAABBB",
+    "DDDD000BBBB",
+    "DDDD000BBBB",
+    "DDDD000BBBB",
+    "DDDCCCCBBBB",
+    "DDDCCCCCCCC",
+    "DDDCCCCCCCC",
+    "DDDCCCCCCCC"
+  ],
+  "unlockOrder": [
+    "0",
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "planningCellCounts": {
+    "A": 28,
+    "B": 28,
+    "D": 28,
+    "0": 9,
+    "C": 28
+  },
+  "groundCellCounts": {
+    "A": 700,
+    "B": 700,
+    "D": 700,
+    "0": 225,
+    "C": 700
+  },
+  "allStagesConnected": true,
+  "initialExplorationBoundsInclusive": {
+    "x": [
+      21,
+      35
+    ],
+    "z": [
+      21,
+      35
+    ]
+  },
+  "campCoreBoundsInclusive": {
+    "x": [
+      26,
+      30
+    ],
+    "z": [
+      26,
+      30
+    ]
+  },
+  "initialTotalCells": 225,
+  "campCoreCells": 25,
+  "initialOuterExplorationCells": 200
+}

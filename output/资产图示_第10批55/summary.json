@@ -1,0 +1,21 @@
+{
+  "id": "10",
+  "label": "第10批 55 条",
+  "first": "AF-0851",
+  "last": "AF-0905",
+  "count": 55,
+  "methods": {
+    "静态视窗": 48,
+    "说明卡": 6,
+    "界面演示": 1
+  },
+  "reviewPending": true,
+  "cleanup": {
+    "cleaned": true,
+    "guiRestored": true,
+    "sourcesIntact": 55,
+    "cameraRestored": true,
+    "lightingRestored": true
+  },
+  "additionalImages": 0
+}

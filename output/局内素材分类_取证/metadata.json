@@ -1,0 +1,554 @@
+{
+  "total": 905,
+  "folders": [
+    {
+      "children": 31,
+      "path": "Workspace.Prefabs",
+      "name": "Prefabs",
+      "locator": "W/2"
+    },
+    {
+      "children": 23,
+      "path": "Workspace.Prefabs.Map",
+      "name": "Map",
+      "locator": "W/2/1"
+    },
+    {
+      "children": 2,
+      "path": "Workspace.Prefabs.Map.保险柜",
+      "name": "保险柜",
+      "locator": "W/2/1/1"
+    },
+    {
+      "children": 8,
+      "path": "Workspace.Prefabs.Map.营火",
+      "name": "营火",
+      "locator": "W/2/1/2"
+    },
+    {
+      "children": 6,
+      "path": "Workspace.Prefabs.Map.制造台",
+      "name": "制造台",
+      "locator": "W/2/1/3"
+    },
+    {
+      "children": 6,
+      "path": "Workspace.Prefabs.Map.树",
+      "name": "树",
+      "locator": "W/2/1/4"
+    },
+    {
+      "children": 2,
+      "path": "Workspace.Prefabs.Map.宝石塔",
+      "name": "宝石塔",
+      "locator": "W/2/1/5"
+    },
+    {
+      "children": 1,
+      "path": "Workspace.Prefabs.Map.陷阱",
+      "name": "陷阱",
+      "locator": "W/2/1/6"
+    },
+    {
+      "children": 22,
+      "path": "Workspace.Prefabs.Map.地块",
+      "name": "地块",
+      "locator": "W/2/1/7"
+    },
+    {
+      "children": 1,
+      "path": "Workspace.Prefabs.Map.地块.暂存",
+      "name": "暂存",
+      "locator": "W/2/1/7/1"
+    },
+    {
+      "children": 5,
+      "path": "Workspace.Prefabs.Map.房子尺寸样板",
+      "name": "房子尺寸样板",
+      "locator": "W/2/1/8"
+    },
+    {
+      "children": 15,
+      "path": "Workspace.Prefabs.Map.资源点",
+      "name": "资源点",
+      "locator": "W/2/1/9"
+    },
+    {
+      "children": 8,
+      "path": "Workspace.Prefabs.Map.宝箱资源点",
+      "name": "宝箱资源点",
+      "locator": "W/2/1/10"
+    },
+    {
+      "children": 8,
+      "path": "Workspace.Prefabs.Map.石头",
+      "name": "石头",
+      "locator": "W/2/1/11"
+    },
+    {
+      "children": 4,
+      "path": "Workspace.Prefabs.Map.神枪手据点",
+      "name": "神枪手据点",
+      "locator": "W/2/1/12"
+    },
+    {
+      "children": 8,
+      "path": "Workspace.Prefabs.Map.特殊房子",
+      "name": "特殊房子",
+      "locator": "W/2/1/13"
+    },
+    {
+      "children": 10,
+      "path": "Workspace.Prefabs.Map.随机事件",
+      "name": "随机事件",
+      "locator": "W/2/1/14"
+    },
+    {
+      "children": 27,
+      "path": "Workspace.Prefabs.Map.宝箱",
+      "name": "宝箱",
+      "locator": "W/2/1/15"
+    },
+    {
+      "children": 0,
+      "path": "Workspace.Prefabs.Map.宝箱.暂存",
+      "name": "暂存",
+      "locator": "W/2/1/15/1"
+    },
+    {
+      "children": 5,
+      "path": "Workspace.Prefabs.Map.铃铛洞穴",
+      "name": "铃铛洞穴",
+      "locator": "W/2/1/16"
+    },
+    {
+      "children": 3,
+      "path": "Workspace.Prefabs.Map.雪块",
+      "name": "雪块",
+      "locator": "W/2/1/17"
+    },
+    {
+      "children": 3,
+      "path": "Workspace.Prefabs.Map.矿脉",
+      "name": "矿脉",
+      "locator": "W/2/1/18"
+    },
+    {
+      "children": 3,
+      "path": "Workspace.Prefabs.Map.齿轮资源点",
+      "name": "齿轮资源点",
+      "locator": "W/2/1/19"
+    },
+    {
+      "children": 151,
+      "path": "Workspace.Prefabs.Resources",
+      "name": "Resources",
+      "locator": "W/2/2"
+    },
+    {
+      "children": 4,
+      "path": "Workspace.Prefabs.Resources.礼物盒",
+      "name": "礼物盒",
+      "locator": "W/2/2/1"
+    },
+    {
+      "children": 3,
+      "path": "Workspace.Prefabs.Resources.暂存",
+      "name": "暂存",
+      "locator": "W/2/2/2"
+    },
+    {
+      "children": 3,
+      "path": "Workspace.Prefabs.动物",
+      "name": "动物",
+      "locator": "W/2/3"
+    },
+    {
+      "children": 43,
+      "path": "Workspace.Prefabs.蓝图",
+      "name": "蓝图",
+      "locator": "W/2/4"
+    },
+    {
+      "children": 1,
+      "path": "Workspace.Prefabs.蓝图.暂存",
+      "name": "暂存",
+      "locator": "W/2/4/1"
+    },
+    {
+      "children": 59,
+      "path": "Workspace.Prefabs.敌人",
+      "name": "敌人",
+      "locator": "W/2/5"
+    },
+    {
+      "children": 3,
+      "path": "Workspace.Prefabs.敌人.小牛2阶段饰品",
+      "name": "小牛2阶段饰品",
+      "locator": "W/2/5/1"
+    },
+    {
+      "children": 1,
+      "path": "Workspace.Prefabs.老矿镇",
+      "name": "老矿镇",
+      "locator": "W/2/6"
+    },
+    {
+      "children": 7,
+      "path": "Workspace.Prefabs.巨型怪物",
+      "name": "巨型怪物",
+      "locator": "W/2/7"
+    },
+    {
+      "children": 3,
+      "path": "Workspace.Prefabs.皮肤",
+      "name": "皮肤",
+      "locator": "W/2/8"
+    },
+    {
+      "children": 1,
+      "path": "Workspace.Prefabs.皮肤.马头饰",
+      "name": "马头饰",
+      "locator": "W/2/8/1"
+    },
+    {
+      "children": 2,
+      "path": "Workspace.Prefabs.皮肤.动物伙伴皮肤",
+      "name": "动物伙伴皮肤",
+      "locator": "W/2/8/2"
+    },
+    {
+      "children": 8,
+      "path": "Workspace.Prefabs.皮肤.道具皮肤",
+      "name": "道具皮肤",
+      "locator": "W/2/8/3"
+    },
+    {
+      "children": 9,
+      "path": "Workspace.Prefabs.UI",
+      "name": "UI",
+      "locator": "W/2/9"
+    },
+    {
+      "children": 27,
+      "path": "Workspace.Prefabs.CharacterHat",
+      "name": "CharacterHat",
+      "locator": "W/2/10"
+    },
+    {
+      "children": 5,
+      "path": "Workspace.Prefabs.马匹",
+      "name": "马匹",
+      "locator": "W/2/11"
+    },
+    {
+      "children": 1,
+      "path": "Workspace.Prefabs.马匹.普通马",
+      "name": "普通马",
+      "locator": "W/2/11/1"
+    },
+    {
+      "children": 3,
+      "path": "Workspace.Prefabs.马匹.马皮肤",
+      "name": "马皮肤",
+      "locator": "W/2/11/2"
+    },
+    {
+      "children": 9,
+      "path": "Workspace.Prefabs.沼泽Map",
+      "name": "沼泽Map",
+      "locator": "W/2/12"
+    },
+    {
+      "children": 9,
+      "path": "Workspace.Prefabs.沼泽Map.资源点",
+      "name": "资源点",
+      "locator": "W/2/12/1"
+    },
+    {
+      "children": 2,
+      "path": "Workspace.Prefabs.沼泽Map.宝箱资源点",
+      "name": "宝箱资源点",
+      "locator": "W/2/12/2"
+    },
+    {
+      "children": 9,
+      "path": "Workspace.Prefabs.沼泽Map.装饰",
+      "name": "装饰",
+      "locator": "W/2/12/3"
+    },
+    {
+      "children": 2,
+      "path": "Workspace.Prefabs.沼泽Map.树",
+      "name": "树",
+      "locator": "W/2/12/4"
+    },
+    {
+      "children": 2,
+      "path": "Workspace.Prefabs.沼泽Map.边缘装饰",
+      "name": "边缘装饰",
+      "locator": "W/2/12/5"
+    },
+    {
+      "children": 2,
+      "path": "Workspace.Prefabs.沼泽Map.沼泽前辈",
+      "name": "沼泽前辈",
+      "locator": "W/2/12/6"
+    },
+    {
+      "children": 4,
+      "path": "Workspace.Prefabs.沼泽Map.特殊房子",
+      "name": "特殊房子",
+      "locator": "W/2/12/7"
+    },
+    {
+      "children": 1,
+      "path": "Workspace.Prefabs.沼泽Map.特殊房子.野猪王入口开放与未开放临时文件夹",
+      "name": "野猪王入口开放与未开放临时文件夹",
+      "locator": "W/2/12/7/1"
+    },
+    {
+      "children": 2,
+      "path": "Workspace.Prefabs.沼泽Map.土著村落",
+      "name": "土著村落",
+      "locator": "W/2/12/8"
+    },
+    {
+      "children": 1,
+      "path": "Workspace.Prefabs.沼泽Map.带敌人资源点",
+      "name": "带敌人资源点",
+      "locator": "W/2/12/9"
+    },
+    {
+      "children": 1,
+      "path": "Workspace.Prefabs.万圣节",
+      "name": "万圣节",
+      "locator": "W/2/13"
+    },
+    {
+      "children": 2,
+      "path": "Workspace.Prefabs.火车大劫案",
+      "name": "火车大劫案",
+      "locator": "W/2/14"
+    },
+    {
+      "children": 2,
+      "path": "Workspace.Prefabs.CharacterAccessory",
+      "name": "CharacterAccessory",
+      "locator": "W/2/15"
+    },
+    {
+      "children": 1,
+      "path": "Workspace.Prefabs.角色",
+      "name": "角色",
+      "locator": "W/2/16"
+    },
+    {
+      "children": 0,
+      "path": "Workspace.Prefabs.角色.9",
+      "name": "9",
+      "locator": "W/2/16/1"
+    },
+    {
+      "children": 13,
+      "path": "Workspace.Prefabs.伙伴",
+      "name": "伙伴",
+      "locator": "W/2/17"
+    },
+    {
+      "children": 10,
+      "path": "Workspace.Prefabs.雪原Map",
+      "name": "雪原Map",
+      "locator": "W/2/18"
+    },
+    {
+      "children": 4,
+      "path": "Workspace.Prefabs.雪原Map.宝箱资源点",
+      "name": "宝箱资源点",
+      "locator": "W/2/18/1"
+    },
+    {
+      "children": 8,
+      "path": "Workspace.Prefabs.雪原Map.资源点",
+      "name": "资源点",
+      "locator": "W/2/18/2"
+    },
+    {
+      "children": 8,
+      "path": "Workspace.Prefabs.雪原Map.装饰",
+      "name": "装饰",
+      "locator": "W/2/18/3"
+    },
+    {
+      "children": 2,
+      "path": "Workspace.Prefabs.雪原Map.树",
+      "name": "树",
+      "locator": "W/2/18/4"
+    },
+    {
+      "children": 2,
+      "path": "Workspace.Prefabs.雪原Map.边缘装饰",
+      "name": "边缘装饰",
+      "locator": "W/2/18/5"
+    },
+    {
+      "children": 2,
+      "path": "Workspace.Prefabs.雪原Map.土著村落",
+      "name": "土著村落",
+      "locator": "W/2/18/6"
+    },
+    {
+      "children": 0,
+      "path": "Workspace.Prefabs.雪原Map.带敌人资源点",
+      "name": "带敌人资源点",
+      "locator": "W/2/18/7"
+    },
+    {
+      "children": 2,
+      "path": "Workspace.Prefabs.雪原Map.铁道公司",
+      "name": "铁道公司",
+      "locator": "W/2/18/8"
+    },
+    {
+      "children": 10,
+      "path": "Workspace.Prefabs.雪原Map.雪山",
+      "name": "雪山",
+      "locator": "W/2/18/9"
+    },
+    {
+      "children": 2,
+      "path": "Workspace.Prefabs.雪原Map.特殊房子",
+      "name": "特殊房子",
+      "locator": "W/2/18/10"
+    },
+    {
+      "children": 8,
+      "path": "Workspace.Prefabs.圣诞节",
+      "name": "圣诞节",
+      "locator": "W/2/19"
+    },
+    {
+      "children": 4,
+      "path": "Workspace.Prefabs.其他",
+      "name": "其他",
+      "locator": "W/2/20"
+    },
+    {
+      "children": 4,
+      "path": "Workspace.Prefabs.NPC事件",
+      "name": "NPC事件",
+      "locator": "W/2/21"
+    },
+    {
+      "children": 3,
+      "path": "Workspace.Prefabs.NPC事件.铁商人",
+      "name": "铁商人",
+      "locator": "W/2/21/1"
+    },
+    {
+      "children": 2,
+      "path": "Workspace.Prefabs.NPC事件.拯救小伙3",
+      "name": "拯救小伙3",
+      "locator": "W/2/21/2"
+    },
+    {
+      "children": 4,
+      "path": "Workspace.Prefabs.NPC事件.牛仔呼救",
+      "name": "牛仔呼救",
+      "locator": "W/2/21/3"
+    },
+    {
+      "children": 5,
+      "path": "Workspace.Prefabs.NPC事件.暮年牛仔",
+      "name": "暮年牛仔",
+      "locator": "W/2/21/4"
+    },
+    {
+      "children": 1,
+      "path": "Workspace.沼泽",
+      "name": "沼泽",
+      "locator": "W/3"
+    },
+    {
+      "children": 9,
+      "path": "Workspace.GemPack",
+      "name": "GemPack",
+      "locator": "W/4"
+    },
+    {
+      "children": 33,
+      "path": "Workspace.美术其他",
+      "name": "美术其他",
+      "locator": "W/5"
+    },
+    {
+      "children": 0,
+      "path": "Workspace.美术其他.Folder",
+      "name": "Folder",
+      "locator": "W/5/1"
+    },
+    {
+      "children": 1,
+      "path": "Workspace.BagStore",
+      "name": "BagStore",
+      "locator": "W/6"
+    },
+    {
+      "children": 0,
+      "path": "Workspace.3 Burner Gas Forge",
+      "name": "3 Burner Gas Forge",
+      "locator": "W/8"
+    },
+    {
+      "children": 1,
+      "path": "Workspace.Wet",
+      "name": "Wet",
+      "locator": "W/10"
+    },
+    {
+      "children": 6,
+      "path": "Workspace.火车大劫案",
+      "name": "火车大劫案",
+      "locator": "W/12"
+    },
+    {
+      "children": 0,
+      "path": "Workspace.火车大劫案.车厢战场敌人",
+      "name": "车厢战场敌人",
+      "locator": "W/12/4"
+    },
+    {
+      "children": 0,
+      "path": "Workspace.PlayerLadder",
+      "name": "PlayerLadder",
+      "locator": "W/20"
+    },
+    {
+      "children": 0,
+      "path": "Workspace.高科技",
+      "name": "高科技",
+      "locator": "W/21"
+    },
+    {
+      "children": 0,
+      "path": "Workspace.雪原",
+      "name": "雪原",
+      "locator": "W/27"
+    },
+    {
+      "children": 0,
+      "path": "Workspace.齿轮资源点",
+      "name": "齿轮资源点",
+      "locator": "W/29"
+    },
+    {
+      "children": 1,
+      "path": "Workspace.Folder",
+      "name": "Folder",
+      "locator": "W/30"
+    }
+  ],
+  "version": 60,
+  "placeId": "108983613755535",
+  "date": "2026-11-18"
+}

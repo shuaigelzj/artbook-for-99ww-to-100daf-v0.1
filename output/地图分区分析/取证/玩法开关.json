@@ -1,0 +1,130 @@
+[
+  {
+    "value": true,
+    "path": "ReplicatedStorage.玩法开关.沼泽"
+  },
+  {
+    "value": 13,
+    "path": "ReplicatedStorage.玩法开关.沼泽.半径"
+  },
+  {
+    "value": true,
+    "path": "ReplicatedStorage.玩法开关.雨天"
+  },
+  {
+    "value": false,
+    "path": "ReplicatedStorage.玩法开关.万圣节"
+  },
+  {
+    "value": 20,
+    "path": "ReplicatedStorage.玩法开关.万圣节.Candy爆率-宝箱"
+  },
+  {
+    "value": 10,
+    "path": "ReplicatedStorage.玩法开关.万圣节.Candy爆率-场景"
+  },
+  {
+    "value": 3,
+    "path": "ReplicatedStorage.玩法开关.万圣节.神枪手死亡获得Candy"
+  },
+  {
+    "value": 1,
+    "path": "ReplicatedStorage.玩法开关.万圣节.升级营火获得Candy"
+  },
+  {
+    "value": 3,
+    "path": "ReplicatedStorage.玩法开关.万圣节.生存7天获得Candy"
+  },
+  {
+    "value": true,
+    "path": "ReplicatedStorage.玩法开关.疯猪祭坛"
+  },
+  {
+    "value": true,
+    "path": "ReplicatedStorage.玩法开关.火车大劫案"
+  },
+  {
+    "value": false,
+    "path": "ReplicatedStorage.玩法开关.感恩节"
+  },
+  {
+    "value": true,
+    "path": "ReplicatedStorage.玩法开关.雷神锤"
+  },
+  {
+    "value": true,
+    "path": "ReplicatedStorage.玩法开关.老矿镇"
+  },
+  {
+    "value": true,
+    "path": "ReplicatedStorage.玩法开关.雪地"
+  },
+  {
+    "value": 26,
+    "path": "ReplicatedStorage.玩法开关.雪地.直径"
+  },
+  {
+    "value": 0.28,
+    "path": "ReplicatedStorage.玩法开关.雪地.冷冻增加"
+  },
+  {
+    "value": true,
+    "path": "ReplicatedStorage.玩法开关.雪地.牛牛Boss挑战"
+  },
+  {
+    "value": true,
+    "path": "ReplicatedStorage.玩法开关.铃铛洞穴"
+  },
+  {
+    "value": false,
+    "path": "ReplicatedStorage.玩法开关.圣诞节"
+  },
+  {
+    "value": 10,
+    "path": "ReplicatedStorage.玩法开关.圣诞节.礼物爆率-场景"
+  },
+  {
+    "value": 20,
+    "path": "ReplicatedStorage.玩法开关.圣诞节.礼物爆率-宝箱"
+  },
+  {
+    "value": true,
+    "path": "ReplicatedStorage.玩法开关.雪块"
+  },
+  {
+    "value": true,
+    "path": "ReplicatedStorage.玩法开关.满月"
+  },
+  {
+    "value": false,
+    "path": "ReplicatedStorage.玩法开关.宠物追击"
+  },
+  {
+    "value": true,
+    "path": "ReplicatedStorage.玩法开关.近战自动朝向"
+  },
+  {
+    "value": true,
+    "path": "ReplicatedStorage.玩法开关.新版近战判定"
+  },
+  {
+    "value": false,
+    "path": "ReplicatedStorage.玩法开关.EnablePunchHitReaction"
+  },
+  {
+    "value": true,
+    "path": "ReplicatedStorage.玩法开关.火鸡王"
+  },
+  {
+    "value": true,
+    "path": "ReplicatedStorage.玩法开关.武器工坊"
+  },
+  {
+    "value": true,
+    "path": "ReplicatedStorage.玩法开关.驼鹿王"
+  },
+  {
+    "value": true,
+    "path": "ReplicatedStorage.玩法开关.新版移动端射击视角"
+  }
+]

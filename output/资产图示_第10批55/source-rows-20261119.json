@@ -1,0 +1,552 @@
+[
+  {
+    "id": "AF-0851",
+    "name": "4 Sided Cone",
+    "path": "Workspace.4 Sided Cone",
+    "originalLocator": "W/219",
+    "locator": "W/104",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0852",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/220",
+    "locator": "W/174",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0853",
+    "name": "Meshes/SM_Prop_Pepper_01",
+    "path": "Workspace.Meshes/SM_Prop_Pepper_01",
+    "originalLocator": "W/221",
+    "locator": "W/132",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0854",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/222",
+    "locator": "W/119",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0855",
+    "name": "Meshes/酿酒配件2_圆柱体_8",
+    "path": "Workspace.Meshes/酿酒配件2_圆柱体_8",
+    "originalLocator": "W/223",
+    "locator": "W/195",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0856",
+    "name": "BlobbyblobBuild_Player",
+    "path": "Workspace.BlobbyblobBuild_Player",
+    "originalLocator": "W/224",
+    "locator": "W/93",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0857",
+    "name": "Star Good axe",
+    "path": "Workspace.Star Good axe",
+    "originalLocator": "W/225",
+    "locator": "W/200",
+    "parts": 10,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0858",
+    "name": "MeshPart",
+    "path": "Workspace.MeshPart",
+    "originalLocator": "W/226",
+    "locator": "W/137",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0859",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/227",
+    "locator": "W/131",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0860",
+    "name": "Pilgrim Hat",
+    "path": "Workspace.Pilgrim Hat",
+    "originalLocator": "W/228",
+    "locator": "W/199",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0861",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/229",
+    "locator": "W/80",
+    "parts": 4,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0862",
+    "name": "614",
+    "path": "Workspace.614",
+    "originalLocator": "W/230",
+    "locator": "W/64",
+    "parts": 15,
+    "class": "Tool",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0863",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/231",
+    "locator": "W/201",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0864",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/232",
+    "locator": "W/129",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0865",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/233",
+    "locator": "W/141",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0866",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/234",
+    "locator": "W/118",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0867",
+    "name": "Meshes/酿酒配件_圆柱体_2",
+    "path": "Workspace.Meshes/酿酒配件_圆柱体_2",
+    "originalLocator": "W/235",
+    "locator": "W/123",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0868",
+    "name": "Pumpkin",
+    "path": "Workspace.Pumpkin",
+    "originalLocator": "W/236",
+    "locator": "W/134",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0869",
+    "name": "Big Wolf",
+    "path": "Workspace.Big Wolf",
+    "originalLocator": "W/237",
+    "locator": "W/190",
+    "parts": 35,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0870",
+    "name": "Flamethrower",
+    "path": "Workspace.Flamethrower",
+    "originalLocator": "W/238",
+    "locator": "W/242",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0871",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/239",
+    "locator": "W/126",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0872",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/240",
+    "locator": "W/162",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0873",
+    "name": "草1",
+    "path": "Workspace.草1",
+    "originalLocator": "W/241",
+    "locator": "W/127",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0874",
+    "name": "Meshes/管道转角_圆柱体_1",
+    "path": "Workspace.Meshes/管道转角_圆柱体_1",
+    "originalLocator": "W/242",
+    "locator": "W/149",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0875",
+    "name": "Meshes/酿酒配件_圆柱体_5",
+    "path": "Workspace.Meshes/酿酒配件_圆柱体_5",
+    "originalLocator": "W/243",
+    "locator": "W/154",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0876",
+    "name": "草1",
+    "path": "Workspace.草1",
+    "originalLocator": "W/244",
+    "locator": "W/73",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0877",
+    "name": "Star Old axe",
+    "path": "Workspace.Star Old axe",
+    "originalLocator": "W/245",
+    "locator": "W/207",
+    "parts": 10,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0878",
+    "name": "Carrot",
+    "path": "Workspace.Carrot",
+    "originalLocator": "W/246",
+    "locator": "W/250",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0879",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/247",
+    "locator": "W/155",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0880",
+    "name": "Meshes/酿酒配件_圆柱体_1",
+    "path": "Workspace.Meshes/酿酒配件_圆柱体_1",
+    "originalLocator": "W/248",
+    "locator": "W/84",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0881",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/249",
+    "locator": "W/72",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0882",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/250",
+    "locator": "W/241",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0883",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/251",
+    "locator": "W/259",
+    "parts": 0,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0884",
+    "name": "401",
+    "path": "Workspace.401",
+    "originalLocator": "W/252",
+    "locator": "W/271",
+    "parts": 41,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0885",
+    "name": "SaloonDoorR",
+    "path": "Workspace.SaloonDoorR",
+    "originalLocator": "W/253",
+    "locator": "W/266",
+    "parts": 0,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0886",
+    "name": "Lion",
+    "path": "Workspace.Lion",
+    "originalLocator": "W/254",
+    "locator": "W/269",
+    "parts": 50,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0887",
+    "name": "Goat",
+    "path": "Workspace.Goat",
+    "originalLocator": "W/255",
+    "locator": "W/257",
+    "parts": 63,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0888",
+    "name": "Buffalo",
+    "path": "Workspace.Buffalo",
+    "originalLocator": "W/256",
+    "locator": "W/252",
+    "parts": 43,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0889",
+    "name": "101",
+    "path": "Workspace.101",
+    "originalLocator": "W/257",
+    "locator": "W/253",
+    "parts": 9,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0890",
+    "name": "205",
+    "path": "Workspace.205",
+    "originalLocator": "W/258",
+    "locator": "W/262",
+    "parts": 13,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0891",
+    "name": "Moose",
+    "path": "Workspace.Moose",
+    "originalLocator": "W/259",
+    "locator": "W/251",
+    "parts": 46,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0892",
+    "name": "巨型猪",
+    "path": "Workspace.巨型猪",
+    "originalLocator": "W/260",
+    "locator": "W/268",
+    "parts": 47,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0893",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/261",
+    "locator": "W/256",
+    "parts": 0,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0894",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/262",
+    "locator": "W/267",
+    "parts": 0,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0895",
+    "name": "蘑菇猪",
+    "path": "Workspace.蘑菇猪",
+    "originalLocator": "W/263",
+    "locator": "W/260",
+    "parts": 39,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0896",
+    "name": "Goat",
+    "path": "Workspace.Goat",
+    "originalLocator": "W/264",
+    "locator": "W/261",
+    "parts": 33,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0897",
+    "name": "502",
+    "path": "Workspace.502",
+    "originalLocator": "W/265",
+    "locator": "W/258",
+    "parts": 6,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0898",
+    "name": "蘑菇猪",
+    "path": "Workspace.蘑菇猪",
+    "originalLocator": "W/266",
+    "locator": "W/270",
+    "parts": 46,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0899",
+    "name": "CamSetting",
+    "path": "Workspace.CamSetting",
+    "originalLocator": "W/267",
+    "locator": "W/254",
+    "parts": 2497,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0900",
+    "name": "God",
+    "path": "Workspace.God",
+    "originalLocator": "W/268",
+    "locator": "W/255",
+    "parts": 18,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0901",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/269",
+    "locator": "W/264",
+    "parts": 0,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0902",
+    "name": "鱿鱼",
+    "path": "Workspace.鱿鱼",
+    "originalLocator": "W/270",
+    "locator": "W/263",
+    "parts": 63,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0903",
+    "name": "902",
+    "path": "Workspace.902",
+    "originalLocator": "W/271",
+    "locator": "W/1",
+    "parts": 0,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0904",
+    "name": "301",
+    "path": "Workspace.301",
+    "originalLocator": "W/272",
+    "locator": "W/273",
+    "parts": 24,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0905",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/273",
+    "locator": "W/265",
+    "parts": 0,
+    "class": "Model",
+    "materialType": "类型待确认"
+  }
+]

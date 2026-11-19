@@ -1,0 +1,4614 @@
+[
+  {
+    "path": "Workspace.tommy gun",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 16,
+    "effectsNotRendered": 0,
+    "focus": [
+      19993.233294725418,
+      9994.587589502335,
+      -20006.766705274582
+    ],
+    "assetFetchFailures": [],
+    "parts": 7,
+    "visibleParts": 3,
+    "method": "静态视窗",
+    "id": "AF-0751",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20005.54296875,
+      10004.43359375,
+      -19994.45703125,
+      0.7071067690849304,
+      -0.34810879826545715,
+      0.6154837012290955,
+      0,
+      0.8704254031181335,
+      0.49230021238327026,
+      -0.7071067690849304,
+      -0.34810879826545715,
+      0.6154837012290955
+    ],
+    "name": "tommy gun",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      4.11322021484375,
+      1.583740234375,
+      0.9464111328125
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0751.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Union",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      28007.384246826172,
+      10005.907470703125,
+      -19992.615753173828
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0752",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28019.693359375,
+      10015.7548828125,
+      -19980.306640625,
+      0.7071067690849304,
+      -0.348158597946167,
+      0.6154556274414062,
+      0,
+      0.8703857064247131,
+      0.49237060546875,
+      -0.7071067690849304,
+      -0.348158597946167,
+      0.6154556274414062
+    ],
+    "name": "Union",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      9.9813232421875,
+      4.9285888671875,
+      15.1993408203125
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0752.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Potato",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      35990.93559837341,
+      9992.751750469208,
+      -20009.064401626587
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0753",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36003.24609375,
+      10002.595703125,
+      -19996.75390625,
+      0.7071067094802856,
+      -0.3480362594127655,
+      0.6155247688293457,
+      0,
+      0.8704833984375,
+      0.4921976327896118,
+      -0.7071067094802856,
+      -0.3480362594127655,
+      0.6155247688293457
+    ],
+    "name": "Potato",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      1.4404296875,
+      1.0186767578125,
+      2.1014404296875
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0753.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.245",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19994.409600496292,
+      9995.527680277824,
+      -12005.590399503708
+    ],
+    "assetFetchFailures": [],
+    "parts": 3,
+    "visibleParts": 3,
+    "method": "静态视窗",
+    "id": "AF-0754",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20006.71875,
+      10005.375,
+      -11993.28125,
+      0.7071067690849304,
+      -0.34815531969070435,
+      0.6154574751853943,
+      0,
+      0.8703882694244385,
+      0.4923659861087799,
+      -0.7071067690849304,
+      -0.34815531969070435,
+      0.6154574751853943
+    ],
+    "name": "245",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.8564453125,
+      3.79522705078125,
+      2.681427001953125
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0754.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Union",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27997.075616121292,
+      9997.660492181778,
+      -12002.924383878708
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0755",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28009.384765625,
+      10007.5078125,
+      -11990.615234375,
+      0.7071067690849304,
+      -0.34815534949302673,
+      0.6154574751853943,
+      0,
+      0.8703882694244385,
+      0.4923660159111023,
+      -0.7071067690849304,
+      -0.34815534949302673,
+      0.6154574751853943
+    ],
+    "name": "Union",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.919189453125,
+      7.3072509765625,
+      0.8291015625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0755.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Model",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      35995.01775717735,
+      9996.0150026083,
+      -12004.981579065323
+    ],
+    "assetFetchFailures": [],
+    "parts": 13,
+    "visibleParts": 13,
+    "method": "静态视窗",
+    "id": "AF-0756",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36007.328125,
+      10005.861328125,
+      -11992.6728515625,
+      0.7070596814155579,
+      -0.3481433689594269,
+      0.6155183911323547,
+      0,
+      0.8704164624214172,
+      0.49231627583503723,
+      -0.7071539163589478,
+      -0.3480969965457916,
+      0.6154363751411438
+    ],
+    "name": "Model",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      0.5177001953125,
+      1.26129150390625,
+      9.353866577148438
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0756.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Meshes/酿酒配件_圆柱体",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19992.480996608734,
+      9993.983570694923,
+      -4007.519770383835
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0757",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20004.7890625,
+      10003.83203125,
+      -3995.21044921875,
+      0.7071427702903748,
+      -0.3481779098510742,
+      0.6154032945632935,
+      0,
+      0.870356023311615,
+      0.49242302775382996,
+      -0.7070707082748413,
+      -0.3482133746147156,
+      0.6154660582542419
+    ],
+    "name": "Meshes/酿酒配件_圆柱体",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.628387451171875,
+      3.1273193359375,
+      0.6483154296875
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0757.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.雪覆盖",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      28002.5780711174,
+      10002.06259214878,
+      -3997.421759366989
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0758",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28014.88671875,
+      10011.91015625,
+      -3985.1123046875,
+      0.7071300148963928,
+      -0.3481525778770447,
+      0.6154323816299438,
+      0,
+      0.8703814148902893,
+      0.49237820506095886,
+      -0.7070836424827576,
+      -0.34817540645599365,
+      0.6154727339744568
+    ],
+    "name": "雪覆盖",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      8.340621948242188,
+      5.09716796875,
+      8.787925720214844
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0758.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.1x1,木屋",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 4,
+    "effectsNotRendered": 0,
+    "focus": [
+      36032.58528280258,
+      10026.067800402641,
+      -4032.584928035736
+    ],
+    "assetFetchFailures": [],
+    "parts": 33,
+    "visibleParts": 30,
+    "method": "静态视窗",
+    "id": "AF-0759",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36044.89453125,
+      10035.9150390625,
+      -4044.89404296875,
+      -0.70710289478302,
+      -0.34815433621406555,
+      0.6154624223709106,
+      0,
+      0.8703905344009399,
+      0.4923619329929352,
+      -0.707110583782196,
+      0.3481505513191223,
+      -0.6154557466506958
+    ],
+    "name": "1x1,木屋",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      24.936813354492188,
+      20.5706787109375,
+      20.664276123046875
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。 依门组件方位选择斜视角。",
+    "file": "images/AF-0759.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.沼泽地块-毒沼泽",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 1,
+    "effectsNotRendered": 4,
+    "focus": [
+      20118.052196502686,
+      10094.44175708294,
+      4118.052638292313
+    ],
+    "assetFetchFailures": [],
+    "parts": 6,
+    "visibleParts": 5,
+    "method": "静态视窗",
+    "id": "AF-0760",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20130.361328125,
+      10104.2890625,
+      4130.36181640625,
+      0.7071080803871155,
+      -0.34815412759780884,
+      0.6154565811157227,
+      0,
+      0.8703886270523071,
+      0.4923652708530426,
+      -0.7071053981781006,
+      -0.3481554687023163,
+      0.6154589056968689
+    ],
+    "name": "沼泽地块-毒沼泽",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      50.069480895996094,
+      84.76904296875,
+      50.087158203125
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0760.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.形象",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 1,
+    "effectsNotRendered": 0,
+    "focus": [
+      27996.52729344368,
+      9997.221604347229,
+      3996.5271010398865
+    ],
+    "assetFetchFailures": [],
+    "parts": 7,
+    "visibleParts": 6,
+    "method": "静态视窗",
+    "id": "AF-0761",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28008.8359375,
+      10007.0693359375,
+      4008.83642578125,
+      0.7071263194084167,
+      -0.3481602668762207,
+      0.6154322028160095,
+      0,
+      0.8703765869140625,
+      0.4923865795135498,
+      -0.7070872187614441,
+      -0.34817951917648315,
+      0.6154662370681763
+    ],
+    "name": "形象",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      4,
+      5,
+      1
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0761.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.马鞍",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      35992.71885585785,
+      9994.17423582077,
+      3992.7185015678406
+    ],
+    "assetFetchFailures": [],
+    "parts": 2,
+    "visibleParts": 2,
+    "method": "静态视窗",
+    "id": "AF-0762",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36005.02734375,
+      10004.0224609375,
+      4005.027587890625,
+      0.7071239948272705,
+      -0.3481789231300354,
+      0.615424394607544,
+      0,
+      0.8703627586364746,
+      0.4924112558364868,
+      -0.7070896625518799,
+      -0.3481958210468292,
+      0.6154543161392212
+    ],
+    "name": "马鞍",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.238525390625,
+      2.526123046875,
+      2.218902587890625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0762.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.雪覆盖",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      20004.245901584625,
+      10003.396820902824,
+      12004.246152162552
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0763",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20016.5546875,
+      10013.244140625,
+      12016.5556640625,
+      0.7071276307106018,
+      -0.3481450378894806,
+      0.6154392957687378,
+      0,
+      0.8703882694244385,
+      0.4923659861087799,
+      -0.707085907459259,
+      -0.3481656014919281,
+      0.615475594997406
+    ],
+    "name": "雪覆盖",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      6.782379150390625,
+      4.4622802734375,
+      13.900787353515625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0763.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Union",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27997.833949565887,
+      9998.267118096352,
+      11997.83374118805
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0764",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28010.142578125,
+      10008.1142578125,
+      12010.1435546875,
+      0.7071408629417419,
+      -0.3481322228908539,
+      0.6154314279556274,
+      0,
+      0.8703933954238892,
+      0.4923569858074188,
+      -0.7070727944374084,
+      -0.34816575050354004,
+      0.6154906749725342
+    ],
+    "name": "Union",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      4.8577880859375,
+      4.8577880859375,
+      4.8577880859375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0764.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "fieldOfView": 35,
+    "visibleParts": 1,
+    "method": "说明卡",
+    "note": "原对象有 1 个动态特效组件，缺少不透明的实体主体；ViewportFrame 不完整支持这些效果，因此使用结构说明卡。原对象与特效参数未修改。 展示面控件通过临时 ScreenGui 直接排版截图。",
+    "id": "AF-0765",
+    "renderMode": "Studio ScreenGui",
+    "scriptsRemoved": 0,
+    "size": [
+      600,
+      600,
+      758.2874755859375
+    ],
+    "captureMode": "Studio scripted viewport pool",
+    "camera": [
+      37319.8359375,
+      11055.869140625,
+      13319.8369140625,
+      0.7071070671081543,
+      -0.3481551706790924,
+      0.6154571771621704,
+      0,
+      0.8703882694244385,
+      0.4923659563064575,
+      -0.7071065306663513,
+      -0.3481554388999939,
+      0.6154576539993286
+    ],
+    "name": "Model",
+    "focus": [
+      37307.52679395676,
+      11046.02182149887,
+      13307.527760982513
+    ],
+    "viewport": [
+      788,
+      392
+    ],
+    "path": "Workspace.Model",
+    "assetFetchFailures": [],
+    "parts": 1,
+    "file": "images/AF-0765.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.206",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19994.784497976303,
+      9995.827741861343,
+      19994.784497976303
+    ],
+    "assetFetchFailures": [],
+    "parts": 15,
+    "visibleParts": 15,
+    "method": "静态视窗",
+    "id": "AF-0766",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20007.09375,
+      10005.6748046875,
+      20007.09375,
+      0.7071067690849304,
+      -0.3481462299823761,
+      0.615462601184845,
+      0,
+      0.8703955411911011,
+      0.4923531413078308,
+      -0.7071067690849304,
+      -0.3481462299823761,
+      0.615462601184845
+    ],
+    "name": "206",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      5.068206787109375,
+      2.611328125,
+      2.641845703125
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0766.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Part",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27988.755303621292,
+      9991.00424337387,
+      19988.755303621292
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0767",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28001.064453125,
+      10000.8515625,
+      20001.064453125,
+      0.7071067690849304,
+      -0.34815528988838196,
+      0.6154574751853943,
+      0,
+      0.8703882694244385,
+      0.4923659563064575,
+      -0.7071067690849304,
+      -0.34815528988838196,
+      0.6154574751853943
+    ],
+    "name": "Part",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      0.3736572265625,
+      0.4676513671875,
+      0.3432579040527344
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0767.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Meshes/酿酒配件_圆柱体_6",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      35995.228222608566,
+      9996.183195710182,
+      19995.22945833206
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0768",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36007.5390625,
+      10006.0302734375,
+      20007.537109375,
+      0.7070151567459106,
+      -0.3481918275356293,
+      0.6155419945716858,
+      0,
+      0.8703950643539429,
+      0.4923538863658905,
+      -0.7071983218193054,
+      -0.3481016457080841,
+      0.6153825521469116
+    ],
+    "name": "Meshes/酿酒配件_圆柱体_6",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.5611572265625,
+      5.122314453125,
+      2.5611572265625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0768.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Part",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19993.321838617325,
+      9994.657239437103,
+      27993.321838617325
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0769",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20005.630859375,
+      10004.5048828125,
+      28005.630859375,
+      0.7071067690849304,
+      -0.3481667637825012,
+      0.6154510378837585,
+      0,
+      0.8703792095184326,
+      0.4923821687698364,
+      -0.7071067690849304,
+      -0.3481667637825012,
+      0.6154510378837585
+    ],
+    "name": "Part",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.643310546875,
+      2.64306640625,
+      2.64312744140625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0769.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Union",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27991.458042383194,
+      9993.16731953621,
+      27991.458042383194
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0770",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28003.767578125,
+      10003.013671875,
+      28003.767578125,
+      0.7071067690849304,
+      -0.34812110662460327,
+      0.6154767870903015,
+      0,
+      0.8704156279563904,
+      0.4923176169395447,
+      -0.7071067690849304,
+      -0.34812110662460327,
+      0.6154767870903015
+    ],
+    "name": "Union",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      1.027587890625,
+      2.2171630859375,
+      1.7838134765625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0770.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.雪覆盖",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      20001.518976688385,
+      10001.21518087387,
+      -19998.481023311615
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0771",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20013.828125,
+      10011.0625,
+      -19986.171875,
+      0.7071068286895752,
+      -0.34815531969070435,
+      0.6154574155807495,
+      0,
+      0.8703882694244385,
+      0.4923659563064575,
+      -0.7071068286895752,
+      -0.34815531969070435,
+      0.6154574155807495
+    ],
+    "name": "雪覆盖",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      8.570292472839355,
+      3.5340576171875,
+      8.894233703613281
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0771.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Part",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27990.802413463593,
+      9992.64135336876,
+      -20009.197586536407
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0772",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28003.111328125,
+      10002.4892578125,
+      -19996.888671875,
+      0.7071067690849304,
+      -0.3481760025024414,
+      0.6154457330703735,
+      0,
+      0.8703716993331909,
+      0.49239522218704224,
+      -0.7071067690849304,
+      -0.3481760025024414,
+      0.6154457330703735
+    ],
+    "name": "Part",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      1.469482421875,
+      1.1143798828125,
+      1.7288932800292969
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0772.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Meat",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      35990.92594218254,
+      9992.736364722252,
+      -20009.07954454422
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0773",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36003.23046875,
+      10002.5859375,
+      -19996.767578125,
+      0.7073204517364502,
+      -0.3481297194957733,
+      0.6152263283729553,
+      0,
+      0.8703244924545288,
+      0.4924786388874054,
+      -0.7068930268287659,
+      -0.3483402132987976,
+      0.6155983209609985
+    ],
+    "name": "Meat",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.4676513671875,
+      1.03369140625,
+      1.03363037109375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0773.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.雪覆盖",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      20009.08548426628,
+      10007.268636107445,
+      -11990.914515733719
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0774",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20021.39453125,
+      10017.1162109375,
+      -11978.60546875,
+      0.7071067690849304,
+      -0.3481643497943878,
+      0.6154523491859436,
+      0,
+      0.8703810572624207,
+      0.49237874150276184,
+      -0.7071067690849304,
+      -0.3481643497943878,
+      0.6154523491859436
+    ],
+    "name": "雪覆盖",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      8.595600128173828,
+      4.4306640625,
+      20.01221466064453
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0774.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.雪覆盖",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      28004.565850496292,
+      10003.65268087387,
+      -11995.434149503708
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0775",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28016.875,
+      10013.5,
+      -11983.125,
+      0.7071067690849304,
+      -0.34815528988838196,
+      0.6154574751853943,
+      0,
+      0.8703882694244385,
+      0.4923659563064575,
+      -0.7071067690849304,
+      -0.34815528988838196,
+      0.6154574751853943
+    ],
+    "name": "雪覆盖",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      6.865200042724609,
+      4.6495361328125,
+      14.090789794921875
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0775.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Handle",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      35991.138119220734,
+      9992.908988118172,
+      -12008.864392280579
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0776",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36003.4453125,
+      10002.7568359375,
+      -11996.5537109375,
+      0.7072070240974426,
+      -0.3481246829032898,
+      0.6153596639633179,
+      0,
+      0.8703733682632446,
+      0.4923923909664154,
+      -0.7070066332817078,
+      -0.34822335839271545,
+      0.6155340671539307
+    ],
+    "name": "Handle",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      1,
+      1,
+      2
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0776.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.904",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19996.604622125626,
+      9997.283846020699,
+      -4003.395285844803
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0777",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20008.9140625,
+      10007.130859375,
+      -3991.086181640625,
+      0.7070971727371216,
+      -0.34814926981925964,
+      0.6154720187187195,
+      0,
+      0.8703970313072205,
+      0.49235066771507263,
+      -0.7071164846420288,
+      -0.34813976287841797,
+      0.6154552102088928
+    ],
+    "name": "904",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      8.2508544921875,
+      0.27978515625,
+      5.5
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0777.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.615",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 2,
+    "focus": [
+      27995.017757177353,
+      9996.0150026083,
+      -4004.981579065323
+    ],
+    "assetFetchFailures": [],
+    "parts": 16,
+    "visibleParts": 13,
+    "method": "静态视窗",
+    "id": "AF-0778",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28007.328125,
+      10005.861328125,
+      -3992.6728515625,
+      0.7070596814155579,
+      -0.3481433689594269,
+      0.6155183911323547,
+      0,
+      0.8704164624214172,
+      0.49231627583503723,
+      -0.7071539163589478,
+      -0.3480969965457916,
+      0.6154363751411438
+    ],
+    "name": "615",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      0.5177001953125,
+      1.26129150390625,
+      9.353874206542969
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0778.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.雪覆盖",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      36006.13640499115,
+      10004.90931892395,
+      -3993.8634321689606
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0779",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36018.4453125,
+      10014.7568359375,
+      -3981.55419921875,
+      0.7071161866188049,
+      -0.34815770387649536,
+      0.6154453754425049,
+      0,
+      0.8703827857971191,
+      0.49237585067749023,
+      -0.7070974707603455,
+      -0.34816694259643555,
+      0.6154616475105286
+    ],
+    "name": "雪覆盖",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      11.148876190185547,
+      3.381103515625,
+      14.039459228515625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0779.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Model",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19992.89303970337,
+      9994.314965486526,
+      3992.894040584564
+    ],
+    "assetFetchFailures": [],
+    "parts": 4,
+    "visibleParts": 4,
+    "method": "静态视窗",
+    "id": "AF-0780",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20005.203125,
+      10004.162109375,
+      4005.202392578125,
+      0.7070569396018982,
+      -0.3481736183166504,
+      0.615504264831543,
+      0,
+      0.8703931570053101,
+      0.49235719442367554,
+      -0.7071565389633179,
+      -0.34812456369400024,
+      0.6154175996780396
+    ],
+    "name": "Model",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      3,
+      1.572265625,
+      3
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0780.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Part",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27988.647475004196,
+      9990.920287847519,
+      3988.6561279296875
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0781",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28000.9609375,
+      10000.7685546875,
+      4000.960205078125,
+      0.7068371176719666,
+      -0.3483215272426605,
+      0.6156731247901917,
+      0,
+      0.8703615069389343,
+      0.49241334199905396,
+      -0.7073763012886047,
+      -0.34805601835250854,
+      0.615203857421875
+    ],
+    "name": "Part",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      0.313720703125,
+      0.3330078125,
+      0.40000152587890625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0781.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Model",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      35997.51950478554,
+      9998.015406608582,
+      3997.5193815231323
+    ],
+    "assetFetchFailures": [],
+    "parts": 9,
+    "visibleParts": 7,
+    "method": "静态视窗",
+    "id": "AF-0782",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36009.828125,
+      10007.86328125,
+      4009.82861328125,
+      0.7071242928504944,
+      -0.348166286945343,
+      0.615431010723114,
+      0,
+      0.8703724145889282,
+      0.49239373207092285,
+      -0.7070891857147217,
+      -0.3481835722923279,
+      0.6154615879058838
+    ],
+    "name": "Model",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      7.3857421875,
+      2.800048828125,
+      4.5311126708984375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0782.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.MeshPart",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19990.295128822327,
+      9992.239738106728,
+      11990.298763275146
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0783",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20002.607421875,
+      10002.0849609375,
+      12002.6064453125,
+      0.7069743275642395,
+      -0.34814637899398804,
+      0.615614652633667,
+      0,
+      0.87044757604599,
+      0.49226114153862,
+      -0.7072392106056213,
+      -0.34801599383354187,
+      0.6153841018676758
+    ],
+    "name": "MeshPart",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      1.5,
+      0.451416015625,
+      1.75
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0783.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Union",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27994.049561023712,
+      9995.238734841347,
+      11994.04864692688
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0784",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28006.357421875,
+      10005.0869140625,
+      12006.3583984375,
+      0.7071611285209656,
+      -0.3481590151786804,
+      0.6153930425643921,
+      0,
+      0.8703640699386597,
+      0.49240896105766296,
+      -0.7070525288581848,
+      -0.34821248054504395,
+      0.6154875755310059
+    ],
+    "name": "Union",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      3,
+      3,
+      3
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0784.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Handle",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      35996.88535118103,
+      9997.508545398712,
+      11996.885682344437
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0785",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36009.1953125,
+      10007.35546875,
+      12009.1943359375,
+      0.7070691585540771,
+      -0.3481597602367401,
+      0.6154980659484863,
+      0,
+      0.8703993558883667,
+      0.4923461675643921,
+      -0.7071442604064941,
+      -0.348122775554657,
+      0.6154326796531677
+    ],
+    "name": "Handle",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      4.34393310546875,
+      2.5699462890625,
+      4.34393310546875
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0785.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Model",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 3,
+    "effectsNotRendered": 0,
+    "focus": [
+      19996.919366121292,
+      9997.53549337387,
+      19996.919366121292
+    ],
+    "assetFetchFailures": [],
+    "parts": 10,
+    "visibleParts": 8,
+    "method": "静态视窗",
+    "id": "AF-0786",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20009.228515625,
+      10007.3828125,
+      20009.228515625,
+      0.7071067690849304,
+      -0.34815528988838196,
+      0.6154574751853943,
+      0,
+      0.8703882694244385,
+      0.4923659563064575,
+      -0.7071067690849304,
+      -0.34815528988838196,
+      0.6154574751853943
+    ],
+    "name": "Model",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      4,
+      5,
+      1.52862548828125
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0786.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Big Turkey",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 1,
+    "effectsNotRendered": 0,
+    "focus": [
+      28013.98767066002,
+      10011.189929127693,
+      20013.98767066002
+    ],
+    "assetFetchFailures": [],
+    "parts": 31,
+    "visibleParts": 28,
+    "method": "静态视窗",
+    "id": "AF-0787",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28026.296875,
+      10021.037109375,
+      20026.296875,
+      0.7071067094802856,
+      -0.348150372505188,
+      0.615460216999054,
+      0,
+      0.8703920841217041,
+      0.4923590123653412,
+      -0.7071067094802856,
+      -0.348150372505188,
+      0.615460216999054
+    ],
+    "name": "Big Turkey",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      15.429290771484375,
+      13.263916015625,
+      9.51251220703125
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0787.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Union",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      35994.04844927788,
+      9995.23930823803,
+      19994.050277471542
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0788",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36006.359375,
+      10005.0869140625,
+      20006.357421875,
+      0.7069981694221497,
+      -0.3482189178466797,
+      0.6155462861061096,
+      0,
+      0.8703802227973938,
+      0.492380291223526,
+      -0.7072153687477112,
+      -0.34811195731163025,
+      0.6153572201728821
+    ],
+    "name": "Union",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      3,
+      3,
+      3
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0788.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Part",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19996.829362630844,
+      9997.463625907898,
+      27996.829362630844
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0789",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20009.138671875,
+      10007.310546875,
+      28009.138671875,
+      0.7071068286895752,
+      -0.34814125299453735,
+      0.6154654622077942,
+      0,
+      0.8703996539115906,
+      0.49234604835510254,
+      -0.7071068286895752,
+      -0.34814125299453735,
+      0.6154654622077942
+    ],
+    "name": "Part",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.16375732421875,
+      7.188232421875,
+      0.96112060546875
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0789.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Union",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27994.048845767975,
+      9995.238162636757,
+      27994.048845767975
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0790",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28006.357421875,
+      10005.0869140625,
+      28006.357421875,
+      0.7071067690849304,
+      -0.34820595383644104,
+      0.6154288053512573,
+      0,
+      0.8703477382659912,
+      0.49243757128715515,
+      -0.7071067690849304,
+      -0.34820595383644104,
+      0.6154288053512573
+    ],
+    "name": "Union",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      3,
+      3,
+      3
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0790.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.鹿角回力镖",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19998.0849609375,
+      9998.468184828758,
+      -20001.9150390625
+    ],
+    "assetFetchFailures": [],
+    "parts": 10,
+    "visibleParts": 10,
+    "method": "静态视窗",
+    "id": "AF-0791",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20010.39453125,
+      10008.314453125,
+      -19989.60546875,
+      0.7071067690849304,
+      -0.3481181561946869,
+      0.615478515625,
+      0,
+      0.8704180717468262,
+      0.492313414812088,
+      -0.7071067690849304,
+      -0.3481181561946869,
+      0.615478515625
+    ],
+    "name": "鹿角回力镖",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      3.1571044921875,
+      7.96533203125,
+      1.9921112060546875
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0791.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Union",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27994.048845767975,
+      9995.238162636757,
+      -20005.951154232025
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0792",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28006.357421875,
+      10005.0869140625,
+      -19993.642578125,
+      0.7071067690849304,
+      -0.34820595383644104,
+      0.6154288053512573,
+      0,
+      0.8703477382659912,
+      0.49243757128715515,
+      -0.7071067690849304,
+      -0.34820595383644104,
+      0.6154288053512573
+    ],
+    "name": "Union",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      3,
+      3,
+      3
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0792.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Union",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      35991.023319244385,
+      9992.817603349686,
+      -20008.976680755615
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0793",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36003.33203125,
+      10002.666015625,
+      -19996.66796875,
+      0.7071068286895752,
+      -0.3481939733028412,
+      0.6154356002807617,
+      0,
+      0.8703574538230896,
+      0.49242061376571655,
+      -0.7071068286895752,
+      -0.3481939733028412,
+      0.6154356002807617
+    ],
+    "name": "Union",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      0.3511962890625,
+      2.090087890625,
+      1.9192390441894531
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0793.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.4 Sided Cone",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      20010.151423215866,
+      10008.120697498322,
+      -11989.849018096924
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0794",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20022.4609375,
+      10017.9677734375,
+      -11977.5400390625,
+      0.7070913910865784,
+      -0.3481542766094208,
+      0.6154757142066956,
+      0,
+      0.8703951835632324,
+      0.49235379695892334,
+      -0.7071221470832825,
+      -0.3481391370296478,
+      0.6154489517211914
+    ],
+    "name": "4 Sided Cone",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      4.4071044921875,
+      17.805908203125,
+      4.411041259765625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0794.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Meshes/酿酒配件_圆柱体_7",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27993.75908946991,
+      9995.007472276688,
+      -12006.24091053009
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0795",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28006.068359375,
+      10004.8544921875,
+      -11993.931640625,
+      0.7071067690849304,
+      -0.3481447100639343,
+      0.6154634952545166,
+      0,
+      0.8703967928886414,
+      0.4923509955406189,
+      -0.7071067690849304,
+      -0.3481447100639343,
+      0.6154634952545166
+    ],
+    "name": "Meshes/酿酒配件_圆柱体_7",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.7025299072265625,
+      3.0933837890625,
+      2.7025146484375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0795.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.206",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      35992.83204293251,
+      9994.264545321465,
+      -12007.16795706749
+    ],
+    "assetFetchFailures": [],
+    "parts": 2,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0796",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36005.140625,
+      10004.11328125,
+      -11994.859375,
+      0.7071067690849304,
+      -0.3482053875923157,
+      0.6154291033744812,
+      0,
+      0.8703481554985046,
+      0.49243679642677307,
+      -0.7071067690849304,
+      -0.3482053875923157,
+      0.6154291033744812
+    ],
+    "name": "206",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.3934326171875,
+      2.3692626953125,
+      2.4554443359375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0796.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Part",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19991.66024708748,
+      9993.329837799072,
+      -4008.338728427887
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0797",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20003.970703125,
+      10003.17578125,
+      -3996.02978515625,
+      0.7070633769035339,
+      -0.3481280505657196,
+      0.6155228018760681,
+      0,
+      0.8704272508621216,
+      0.4922971725463867,
+      -0.7071502208709717,
+      -0.34808531403541565,
+      0.6154471635818481
+    ],
+    "name": "Part",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      1.6024169921875,
+      2.4375,
+      1.2492828369140625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0797.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.4 Sided Cone",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      28010.151473283768,
+      10008.120737433434,
+      -3989.8488574028015
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0798",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28022.4609375,
+      10017.9677734375,
+      -3977.539794921875,
+      0.707095205783844,
+      -0.34815096855163574,
+      0.615473210811615,
+      0,
+      0.8703962564468384,
+      0.49235180020332336,
+      -0.7071182727813721,
+      -0.34813958406448364,
+      0.6154531240463257
+    ],
+    "name": "4 Sided Cone",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      4.4071044921875,
+      17.805908203125,
+      4.4110107421875
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0798.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Union",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      36008.9333217144,
+      10007.14682149887,
+      -3991.066267967224
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0799",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36021.2421875,
+      10016.994140625,
+      -3978.7568359375,
+      0.7071230411529541,
+      -0.34814730286598206,
+      0.6154432892799377,
+      0,
+      0.8703882694244385,
+      0.4923659563064575,
+      -0.7070904970169067,
+      -0.34816330671310425,
+      0.615471601486206
+    ],
+    "name": "Union",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      13.839668273925781,
+      7.26318359375,
+      10.7855224609375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0799.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Tommy",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19993.627161979675,
+      9994.90277838707,
+      3993.627948284149
+    ],
+    "assetFetchFailures": [],
+    "parts": 2,
+    "visibleParts": 2,
+    "method": "静态视窗",
+    "id": "AF-0800",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20005.9375,
+      10004.7490234375,
+      4005.936767578125,
+      0.7070631384849548,
+      -0.3481387794017792,
+      0.6155169010162354,
+      0,
+      0.8704186081886292,
+      0.4923122525215149,
+      -0.7071503400802612,
+      -0.3480958342552185,
+      0.6154409646987915
+    ],
+    "name": "Tommy",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      1.0367431640625,
+      1.38311767578125,
+      4.819915771484375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0800.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Union",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27997.081794977188,
+      9997.665375590324,
+      3997.081643104553
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0801",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28009.390625,
+      10007.5126953125,
+      4009.39111328125,
+      0.707125186920166,
+      -0.3481462895870209,
+      0.6154415011405945,
+      0,
+      0.870388388633728,
+      0.4923659861087799,
+      -0.7070884108543396,
+      -0.3481643795967102,
+      0.6154735088348389
+    ],
+    "name": "Union",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      4.63037109375,
+      7.0552978515625,
+      0.8291015625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0801.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Part",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      35990.79235839844,
+      9992.629822850227,
+      3990.7880034446716
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0802",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36003.09765625,
+      10002.4794921875,
+      4003.09912109375,
+      0.7072739601135254,
+      -0.3481560945510864,
+      0.615264892578125,
+      0,
+      0.8703218102455139,
+      0.4924834668636322,
+      -0.7069396376609802,
+      -0.34832072257995605,
+      0.6155558824539185
+    ],
+    "name": "Part",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      0.330322265625,
+      2.3060302734375,
+      0.6739654541015625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0802.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Part",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19989.65458202362,
+      9991.726751089096,
+      11989.65458202362
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0803",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20001.96484375,
+      10001.5712890625,
+      12001.96484375,
+      0.7071068286895752,
+      -0.34805700182914734,
+      0.6155130863189697,
+      0,
+      0.8704670071601868,
+      0.49222689867019653,
+      -0.7071068286895752,
+      -0.34805700182914734,
+      0.6155130863189697
+    ],
+    "name": "Part",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      0.3553466796875,
+      1.0675048828125,
+      1.035980224609375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0803.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Handle",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27996.885022878647,
+      9997.507753252983,
+      11996.88469171524
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0804",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28009.193359375,
+      10007.35546875,
+      12009.1943359375,
+      0.7071443200111389,
+      -0.3481508195400238,
+      0.6154168248176575,
+      0,
+      0.8703770637512207,
+      0.49238577485084534,
+      -0.7070692181587219,
+      -0.34818780422210693,
+      0.6154822111129761
+    ],
+    "name": "Handle",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      4.34393310546875,
+      2.5699462890625,
+      4.34393310546875
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0804.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Model",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      35997.51927113533,
+      9998.015220046043,
+      11997.51927113533
+    ],
+    "assetFetchFailures": [],
+    "parts": 9,
+    "visibleParts": 7,
+    "method": "静态视窗",
+    "id": "AF-0805",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36009.828125,
+      10007.86328125,
+      12009.828125,
+      0.7071067690849304,
+      -0.3481815457344055,
+      0.61544269323349,
+      0,
+      0.8703674077987671,
+      0.4924030601978302,
+      -0.7071067690849304,
+      -0.3481815457344055,
+      0.61544269323349
+    ],
+    "name": "Model",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      7.3857421875,
+      2.800048828125,
+      4.5311126708984375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0805.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.雪覆盖",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      20003.366724729538,
+      10002.69346344471,
+      20003.366724729538
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0806",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20015.67578125,
+      10012.541015625,
+      20015.67578125,
+      0.7071068286895752,
+      -0.34816357493400574,
+      0.6154528260231018,
+      0,
+      0.870381772518158,
+      0.4923776090145111,
+      -0.7071068286895752,
+      -0.34816357493400574,
+      0.6154528260231018
+    ],
+    "name": "雪覆盖",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      8.572006225585938,
+      5.7904052734375,
+      8.927391052246094
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0806.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Chilli Pepper",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 1,
+    "effectsNotRendered": 0,
+    "focus": [
+      27990.51064682007,
+      9992.409831881523,
+      19990.51064682007
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0807",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28002.8203125,
+      10002.255859375,
+      20002.8203125,
+      0.7071067690849304,
+      -0.348109632730484,
+      0.615483283996582,
+      0,
+      0.8704248070716858,
+      0.4923013746738434,
+      -0.7071067690849304,
+      -0.348109632730484,
+      0.615483283996582
+    ],
+    "name": "Chilli Pepper",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      0.6162109375,
+      1.357177734375,
+      1.7856979370117188
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0807.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Model",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      36004.83907580376,
+      10003.870985388756,
+      20004.839075803757
+    ],
+    "assetFetchFailures": [],
+    "parts": 32,
+    "visibleParts": 23,
+    "method": "静态视窗",
+    "id": "AF-0808",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36017.1484375,
+      10013.7177734375,
+      20017.1484375,
+      0.7071068286895752,
+      -0.3481365442276001,
+      0.6154680848121643,
+      0,
+      0.8704033493995667,
+      0.4923394024372101,
+      -0.7071068286895752,
+      -0.3481365442276001,
+      0.6154680848121643
+    ],
+    "name": "Model",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      7.09332275390625,
+      8.792236328125,
+      4.1231689453125
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0808.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.野猪人1",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 1,
+    "focus": [
+      20036.354943990707,
+      10029.084246397018,
+      28036.354943990707
+    ],
+    "assetFetchFailures": [
+      {
+        "asset": "rbxassetid://121168700208673",
+        "status": "Failure"
+      },
+      {
+        "asset": "rbxassetid://93655367342450",
+        "status": "Failure"
+      },
+      {
+        "asset": "rbxassetid://80993962291351",
+        "status": "Failure"
+      },
+      {
+        "asset": "rbxassetid://73656022217453",
+        "status": "Failure"
+      }
+    ],
+    "parts": 29,
+    "visibleParts": 22,
+    "method": "静态视窗",
+    "id": "AF-0809",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20048.6640625,
+      10038.931640625,
+      28048.6640625,
+      0.7071067690849304,
+      -0.34815794229507446,
+      0.6154559254646301,
+      0,
+      0.8703861236572266,
+      0.49236971139907837,
+      -0.7071067690849304,
+      -0.34815794229507446,
+      0.6154559254646301
+    ],
+    "name": "野猪人1",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      24.1978759765625,
+      30.2510986328125,
+      14.77777099609375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。 预加载失败资源 4 项，部分外观可能缺失。",
+    "file": "images/AF-0809.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Model",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27996.96608376503,
+      9997.572994947433,
+      27996.96608376503
+    ],
+    "assetFetchFailures": [],
+    "parts": 5,
+    "visibleParts": 5,
+    "method": "静态视窗",
+    "id": "AF-0810",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28009.275390625,
+      10007.419921875,
+      28009.275390625,
+      0.7071068286895752,
+      -0.34814146161079407,
+      0.6154653429985046,
+      0,
+      0.8703994750976562,
+      0.4923463463783264,
+      -0.7071068286895752,
+      -0.34814146161079407,
+      0.6154653429985046
+    ],
+    "name": "Model",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      6.0845947265625,
+      4.80810546875,
+      2.28118896484375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0810.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Part",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      20013.81978535652,
+      10011.055931448936,
+      -19986.18021464348
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0811",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20026.12890625,
+      10020.9033203125,
+      -19973.87109375,
+      0.7071067690849304,
+      -0.34815776348114014,
+      0.6154560446739197,
+      0,
+      0.8703862428665161,
+      0.4923694431781769,
+      -0.7071067690849304,
+      -0.34815776348114014,
+      0.6154560446739197
+    ],
+    "name": "Part",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      1.6820831298828125,
+      20.9801025390625,
+      7.0419921875
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0811.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Model",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27995.526230096817,
+      9996.421653151512,
+      -20004.473769903183
+    ],
+    "assetFetchFailures": [],
+    "parts": 2,
+    "visibleParts": 2,
+    "method": "静态视窗",
+    "id": "AF-0812",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28007.8359375,
+      10006.267578125,
+      -19992.1640625,
+      0.7071068286895752,
+      -0.3481060266494751,
+      0.6154853701591492,
+      0,
+      0.8704277873039246,
+      0.4922962486743927,
+      -0.7071068286895752,
+      -0.3481060266494751,
+      0.6154853701591492
+    ],
+    "name": "Model",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.660125732421875,
+      5.3392333984375,
+      2.66015625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0812.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Model",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      35992.100325107574,
+      9993.677808880806,
+      -20007.903176784515
+    ],
+    "assetFetchFailures": [],
+    "parts": 4,
+    "visibleParts": 4,
+    "method": "静态视窗",
+    "id": "AF-0813",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36004.40625,
+      10003.5263671875,
+      -19995.591796875,
+      0.7072634696960449,
+      -0.3481219708919525,
+      0.6152962446212769,
+      0,
+      0.8703532218933105,
+      0.49242791533470154,
+      -0.7069501280784607,
+      -0.348276287317276,
+      0.615568995475769
+    ],
+    "name": "Model",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      1.9384765625,
+      2.29010009765625,
+      1.8197174072265625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0813.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Model",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19998.264501810074,
+      9998.611665844917,
+      -12001.735337495804
+    ],
+    "assetFetchFailures": [],
+    "parts": 6,
+    "visibleParts": 6,
+    "method": "静态视窗",
+    "id": "AF-0814",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20010.57421875,
+      10008.458984375,
+      -11989.4267578125,
+      0.7070741653442383,
+      -0.3481713831424713,
+      0.6154858469963074,
+      0,
+      0.8703882694244385,
+      0.49236592650413513,
+      -0.7071394920349121,
+      -0.348139226436615,
+      0.6154289841651917
+    ],
+    "name": "Model",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      4.489349365234375,
+      4.998291015625,
+      2.857421875
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0814.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Union",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27991.509209871292,
+      9993.20736837387,
+      -12008.490790128708
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0815",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28003.818359375,
+      10003.0546875,
+      -11996.181640625,
+      0.7071067690849304,
+      -0.34815528988838196,
+      0.6154574751853943,
+      0,
+      0.8703882694244385,
+      0.4923659563064575,
+      -0.7071067690849304,
+      -0.34815528988838196,
+      0.6154574751853943
+    ],
+    "name": "Union",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.245269775390625,
+      2,
+      0.9364013671875
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0815.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.1x1,木屋",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      36044.89766001701,
+      10035.917360901833,
+      -11955.103873491287
+    ],
+    "assetFetchFailures": [],
+    "parts": 53,
+    "visibleParts": 52,
+    "method": "静态视窗",
+    "id": "AF-0816",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36057.20703125,
+      10045.7646484375,
+      -11942.794921875,
+      0.7070947289466858,
+      -0.34816011786460876,
+      0.6154685616493225,
+      0,
+      0.8703891038894653,
+      0.49236437678337097,
+      -0.707118809223175,
+      -0.34814825654029846,
+      0.6154475808143616
+    ],
+    "name": "1x1,木屋",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      34.35662841796875,
+      24.61553955078125,
+      25.96502685546875
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0816.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Part",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      20013.800341129303,
+      10011.04037618637,
+      -3986.199400663376
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0817",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20026.109375,
+      10020.8876953125,
+      -3973.89013671875,
+      0.7071133852005005,
+      -0.3481520414352417,
+      0.6154516935348511,
+      0,
+      0.8703882694244385,
+      0.4923659563064575,
+      -0.7071001529693604,
+      -0.3481585681438446,
+      0.6154631972312927
+    ],
+    "name": "Part",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      1.6820831298828125,
+      20.9801025390625,
+      6.92822265625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0817.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.6级地块",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      28117.38033223152,
+      10093.90461909771,
+      -3882.6192259788513
+    ],
+    "assetFetchFailures": [],
+    "parts": 2,
+    "visibleParts": 2,
+    "method": "静态视窗",
+    "id": "AF-0818",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28129.689453125,
+      10103.751953125,
+      -3870.31005859375,
+      0.7071081399917603,
+      -0.3481551706790924,
+      0.6154560446739197,
+      0,
+      0.8703879117965698,
+      0.4923667013645172,
+      -0.7071054577827454,
+      -0.34815651178359985,
+      0.6154583692550659
+    ],
+    "name": "6级地块",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      50,
+      84.05792236328125,
+      50
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0818.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Minigun",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 2,
+    "effectsNotRendered": 1,
+    "focus": [
+      35995.01538038254,
+      9996.01230442524,
+      -4004.9849514961243
+    ],
+    "assetFetchFailures": [
+      {
+        "asset": "rbxassetid://10142721661",
+        "status": "Failure"
+      }
+    ],
+    "parts": 3,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0819",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36007.32421875,
+      10005.859375,
+      -3992.67529296875,
+      0.7071303129196167,
+      -0.34813493490219116,
+      0.6154419183731079,
+      0,
+      0.870395302772522,
+      0.49235352873802185,
+      -0.7070832252502441,
+      -0.3481580913066864,
+      0.6154829263687134
+    ],
+    "name": "Minigun",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.0498046875,
+      2.2452392578125,
+      6.5201416015625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。 预加载失败资源 1 项，部分外观可能缺失。",
+    "file": "images/AF-0819.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "fieldOfView": 35,
+    "visibleParts": 0,
+    "method": "界面演示",
+    "guiWidgets": 1,
+    "id": "AF-0820",
+    "renderMode": "Studio ScreenGui",
+    "scriptsRemoved": 0,
+    "guiRoots": 1,
+    "parts": 1,
+    "camera": [
+      20000,
+      10000,
+      -20040.435546875,
+      -1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      -1
+    ],
+    "name": "Part",
+    "note": "从原界面容器提取控件到临时展示面，启用根层默认布局；没有填写虚构运行数据，也未运行交互脚本。 使用浅色展示底，便于辨认原有深色文字；原控件颜色未变。 展示面控件通过临时 ScreenGui 直接排版截图。",
+    "viewport": [
+      788,
+      392
+    ],
+    "path": "Workspace.Part",
+    "assetFetchFailures": [],
+    "size": [
+      0,
+      0,
+      0
+    ],
+    "file": "images/AF-0820.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Model",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      28001.03599333763,
+      10000.828734517097,
+      4001.0359179973602
+    ],
+    "assetFetchFailures": [],
+    "parts": 11,
+    "visibleParts": 11,
+    "method": "静态视窗",
+    "id": "AF-0821",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28013.345703125,
+      10010.67578125,
+      4013.3447265625,
+      0.7070808410644531,
+      -0.34815841913223267,
+      0.6154854893684387,
+      0,
+      0.8703960180282593,
+      0.49235233664512634,
+      -0.7071326375007629,
+      -0.3481329083442688,
+      0.6154404282569885
+    ],
+    "name": "Model",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      5.877777099609375,
+      10.13995361328125,
+      1.713470458984375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0821.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Spikes",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 2,
+    "effectsNotRendered": 0,
+    "focus": [
+      36001.56105494499,
+      10001.248711824417,
+      4001.56086230278
+    ],
+    "assetFetchFailures": [],
+    "parts": 4,
+    "visibleParts": 3,
+    "method": "静态视窗",
+    "id": "AF-0822",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36013.87109375,
+      10011.095703125,
+      4013.869384765625,
+      0.7070632576942444,
+      -0.3481651544570923,
+      0.6155019402503967,
+      0,
+      0.8703975677490234,
+      0.4923495650291443,
+      -0.7071503400802612,
+      -0.3481222987174988,
+      0.6154261231422424
+    ],
+    "name": "Spikes",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      6.199981689453125,
+      5.14996337890625,
+      9.20001220703125
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0822.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Royal Knight",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19999.82744884491,
+      9999.861964464188,
+      11999.82744884491
+    ],
+    "assetFetchFailures": [],
+    "parts": 3,
+    "visibleParts": 2,
+    "method": "静态视窗",
+    "id": "AF-0823",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20012.13671875,
+      10009.708984375,
+      12012.13671875,
+      0.7071067690849304,
+      -0.3481447100639343,
+      0.6154634952545166,
+      0,
+      0.8703967928886414,
+      0.4923509955406189,
+      -0.7071067690849304,
+      -0.3481447100639343,
+      0.6154634952545166
+    ],
+    "name": "Royal Knight",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      4.182373046875,
+      2.8134765625,
+      11.476425170898438
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0823.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Union",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      28008.032647371292,
+      10006.426117777824,
+      12008.032647371292
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0824",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28020.341796875,
+      10016.2734375,
+      12020.341796875,
+      0.7071067690849304,
+      -0.34815531969070435,
+      0.6154574751853943,
+      0,
+      0.8703882694244385,
+      0.4923659861087799,
+      -0.7071067690849304,
+      -0.34815531969070435,
+      0.6154574751853943
+    ],
+    "name": "Union",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      9.9813232421875,
+      5.72900390625,
+      15.19940185546875
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0824.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Part",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      35993.32253909111,
+      9994.655946016312,
+      11993.320222139359
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0825",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36005.62890625,
+      10004.5048828125,
+      12005.630859375,
+      0.7072294354438782,
+      -0.3481521010398865,
+      0.6153183579444885,
+      0,
+      0.8703425526618958,
+      0.4924468398094177,
+      -0.7069841027259827,
+      -0.3482728898525238,
+      0.615531861782074
+    ],
+    "name": "Part",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.642822265625,
+      2.6429443359375,
+      2.64300537109375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0825.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Part",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      20014.63808989525,
+      10011.71036541462,
+      20014.63808989525
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0826",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20026.947265625,
+      10021.5576171875,
+      20026.947265625,
+      0.7071067690849304,
+      -0.34815290570259094,
+      0.6154587864875793,
+      0,
+      0.8703901767730713,
+      0.4923625886440277,
+      -0.7071067690849304,
+      -0.34815290570259094,
+      0.6154587864875793
+    ],
+    "name": "Part",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      11.40576171875,
+      20.9801025390625,
+      2
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0826.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Onion",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27992.280695438385,
+      9993.82455587387,
+      19992.280695438385
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0827",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28004.58984375,
+      10003.671875,
+      20004.58984375,
+      0.7071068286895752,
+      -0.34815531969070435,
+      0.6154574155807495,
+      0,
+      0.8703882694244385,
+      0.4923659563064575,
+      -0.7071068286895752,
+      -0.34815531969070435,
+      0.6154574155807495
+    ],
+    "name": "Onion",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      1.984466552734375,
+      2.3521728515625,
+      1.9898681640625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0827.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Union",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      36008.93353629112,
+      10007.146993160248,
+      20008.93435692787
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0828",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36021.2421875,
+      10016.994140625,
+      20021.244140625,
+      0.7071393132209778,
+      -0.3481332063674927,
+      0.6154325604438782,
+      0,
+      0.8703930974006653,
+      0.49235737323760986,
+      -0.7070742249488831,
+      -0.34816524386405945,
+      0.6154891848564148
+    ],
+    "name": "Union",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      13.83966064453125,
+      7.26318359375,
+      10.7855224609375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0828.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Part",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19989.917414188385,
+      9991.93393087387,
+      27989.917414188385
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0829",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20002.2265625,
+      10001.78125,
+      28002.2265625,
+      0.7071068286895752,
+      -0.34815531969070435,
+      0.6154574155807495,
+      0,
+      0.8703882694244385,
+      0.4923659563064575,
+      -0.7071068286895752,
+      -0.34815531969070435,
+      0.6154574155807495
+    ],
+    "name": "Part",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      1.8353271484375,
+      0.3951416015625,
+      0.8698501586914062
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0829.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.4 Sided Cone",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27999.440665721893,
+      9999.5525598526,
+      27999.440665721893
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0830",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28011.75,
+      10009.3994140625,
+      28011.75,
+      0.7071067690849304,
+      -0.34813886880874634,
+      0.6154667139053345,
+      0,
+      0.8704013824462891,
+      0.4923427104949951,
+      -0.7071067690849304,
+      -0.34813886880874634,
+      0.6154667139053345
+    ],
+    "name": "4 Sided Cone",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.28253173828125,
+      9.220458984375,
+      2.2845458984375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0830.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Part",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      20021.401787996292,
+      10017.121430277824,
+      -19978.598212003708
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0831",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20033.7109375,
+      10026.96875,
+      -19966.2890625,
+      0.7071067690849304,
+      -0.34815531969070435,
+      0.6154574751853943,
+      0,
+      0.8703882694244385,
+      0.4923659861087799,
+      -0.7071067690849304,
+      -0.34815531969070435,
+      0.6154574751853943
+    ],
+    "name": "Part",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      26.179534912109375,
+      20.9801025390625,
+      0.6636962890625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0831.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Union",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      28008.934786081314,
+      10007.147336483002,
+      -19991.065213918686
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0832",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28021.244140625,
+      10016.994140625,
+      -19978.755859375,
+      0.7071067690849304,
+      -0.3481370806694031,
+      0.6154677271842957,
+      0,
+      0.8704028129577637,
+      0.49234020709991455,
+      -0.7071067690849304,
+      -0.3481370806694031,
+      0.6154677271842957
+    ],
+    "name": "Union",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      13.83966064453125,
+      7.26318359375,
+      10.7855224609375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0832.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Meshes/管道转角_圆柱体",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      35999.905575037,
+      9999.924462676048,
+      -20000.094424962997
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0833",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36012.21484375,
+      10009.771484375,
+      -19987.78515625,
+      0.7071067690849304,
+      -0.3481447994709015,
+      0.6154634356498718,
+      0,
+      0.8703967332839966,
+      0.49235108494758606,
+      -0.7071067690849304,
+      -0.3481447994709015,
+      0.6154634356498718
+    ],
+    "name": "Meshes/管道转角_圆柱体",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      6.074802398681641,
+      7.3822021484375,
+      3.684326171875
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0833.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Part",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      20015.00359725952,
+      10012.003200054169,
+      -11984.995866060257
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0834",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20027.3125,
+      10021.8505859375,
+      -11972.6865234375,
+      0.7071194052696228,
+      -0.34815144538879395,
+      0.6154451370239258,
+      0,
+      0.8703863620758057,
+      0.49236929416656494,
+      -0.707094132900238,
+      -0.3481638729572296,
+      0.6154671311378479
+    ],
+    "name": "Part",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      13.508331298828125,
+      20.9801025390625,
+      2
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0834.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.DENG",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27989.975010871887,
+      9991.977435588837,
+      -12010.024989128113
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 0,
+    "method": "辅助可视化",
+    "id": "AF-0835",
+    "nativeMethod": "辅助可视化",
+    "camera": [
+      28002.283203125,
+      10001.8271484375,
+      -11997.716796875,
+      0.7071067690849304,
+      -0.348239928483963,
+      0.6154096126556396,
+      0,
+      0.8703206181526184,
+      0.4924856424331665,
+      -0.7071067690849304,
+      -0.348239928483963,
+      0.6154096126556396
+    ],
+    "name": "DENG",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      1,
+      1,
+      1
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 原部件均为全透明或近全透明；仅在展示副本上调整透明度及颜色。",
+    "file": "images/AF-0835.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.SteampunkFedora",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      35993.360137701035,
+      9994.6871945858,
+      -12006.641006469727
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0836",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36005.66796875,
+      10004.53515625,
+      -11994.3310546875,
+      0.7071677446365356,
+      -0.34814804792404175,
+      0.6153915524482727,
+      0,
+      0.8703701496124268,
+      0.49239808320999146,
+      -0.7070459127426147,
+      -0.3482080399990082,
+      0.6154975891113281
+    ],
+    "name": "SteampunkFedora",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.666717529296875,
+      1,
+      3.33331298828125
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0836.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Part",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19991.503345012665,
+      9993.204416394234,
+      -4008.4944796562195
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0837",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20003.814453125,
+      10003.05078125,
+      -3996.1865234375,
+      0.7070162296295166,
+      -0.3481661379337311,
+      0.6155554056167603,
+      0,
+      0.8704153299331665,
+      0.4923182427883148,
+      -0.7071973085403442,
+      -0.3480769991874695,
+      0.6153978109359741
+    ],
+    "name": "Part",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      1.6322021484375,
+      1.6522216796875,
+      2
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0837.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Meshes/酿酒配件_圆柱体_8",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27993.663820266724,
+      9994.93084859848,
+      -4006.336439847946
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0838",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28005.97265625,
+      10004.7783203125,
+      -3994.027099609375,
+      0.7071211934089661,
+      -0.3481535315513611,
+      0.6154417991638184,
+      0,
+      0.8703838586807251,
+      0.49237358570098877,
+      -0.7070922255516052,
+      -0.3481678068637848,
+      0.6154670119285583
+    ],
+    "name": "Meshes/酿酒配件_圆柱体_8",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.5611572265625,
+      3.1893310546875,
+      2.5611572265625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0838.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.雪覆盖",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      36000.36287212372,
+      10000.290303468704,
+      -3999.63711977005
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0839",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36012.671875,
+      10010.1376953125,
+      -3987.327880859375,
+      0.7071135640144348,
+      -0.34815454483032227,
+      0.6154501438140869,
+      0,
+      0.8703863024711609,
+      0.4923695921897888,
+      -0.7071000337600708,
+      -0.3481612205505371,
+      0.6154619455337524
+    ],
+    "name": "雪覆盖",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      7.150661468505859,
+      4.4588623046875,
+      7.210418701171875
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0839.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Meshes/酿酒配件_圆柱体_3",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19991.585007429123,
+      9993.268850445747,
+      3991.585007429123
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0840",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20003.89453125,
+      10003.115234375,
+      4003.89453125,
+      0.7071067690849304,
+      -0.348122239112854,
+      0.6154761910438538,
+      0,
+      0.8704147338867188,
+      0.4923191964626312,
+      -0.7071067690849304,
+      -0.348122239112854,
+      0.6154761910438538
+    ],
+    "name": "Meshes/酿酒配件_圆柱体_3",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.5611572265625,
+      0.622314453125,
+      2.5611572265625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0840.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Model",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      28094.292414188385,
+      10075.43393087387,
+      4094.292414188385
+    ],
+    "assetFetchFailures": [],
+    "parts": 17,
+    "visibleParts": 17,
+    "method": "静态视窗",
+    "id": "AF-0841",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28106.6015625,
+      10085.28125,
+      4106.6015625,
+      0.7071068286895752,
+      -0.34815531969070435,
+      0.6154574155807495,
+      0,
+      0.8703882694244385,
+      0.4923659563064575,
+      -0.7071068286895752,
+      -0.34815531969070435,
+      0.6154574155807495
+    ],
+    "name": "Model",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      84.16596221923828,
+      2.8836669921875,
+      85.2874755859375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0841.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.SpawnLocation",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      36040.92514204979,
+      10032.739663481712,
+      4040.9247670173645
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 0,
+    "method": "辅助可视化",
+    "id": "AF-0842",
+    "nativeMethod": "辅助可视化",
+    "camera": [
+      36053.234375,
+      10042.5869140625,
+      4053.23388671875,
+      0.7071035504341125,
+      -0.3481544852256775,
+      0.6154616475105286,
+      0,
+      0.8703902363777161,
+      0.49236252903938293,
+      -0.7071100473403931,
+      -0.348151296377182,
+      0.6154559850692749
+    ],
+    "name": "SpawnLocation",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      50,
+      1,
+      35
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 原部件均为全透明或近全透明；仅在展示副本上调整透明度及颜色。",
+    "file": "images/AF-0842.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.4 Sided Cone",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19999.44027709961,
+      9999.552249908447,
+      11999.440323352814
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0843",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20011.75,
+      10009.3994140625,
+      12011.7490234375,
+      0.7070773839950562,
+      -0.34816429018974304,
+      0.6154861450195312,
+      0,
+      0.8703926801681519,
+      0.4923582077026367,
+      -0.7071361541748047,
+      -0.3481353521347046,
+      0.615435004234314
+    ],
+    "name": "4 Sided Cone",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      2.28253173828125,
+      9.220458984375,
+      2.284576416015625
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0843.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "fieldOfView": 35,
+    "visibleParts": 0,
+    "method": "说明卡",
+    "note": "原对象有 1 个动态特效组件，缺少不透明的实体主体；ViewportFrame 不完整支持这些效果，因此使用结构说明卡。原对象与特效参数未修改。 展示面控件通过临时 ScreenGui 直接排版截图。",
+    "id": "AF-0844",
+    "renderMode": "Studio ScreenGui",
+    "scriptsRemoved": 0,
+    "size": [
+      4,
+      1,
+      4
+    ],
+    "captureMode": "Studio scripted viewport pool",
+    "camera": [
+      28005.966796875,
+      10004.7734375,
+      12005.966796875,
+      0.7071068286895752,
+      -0.34815531969070435,
+      0.6154574155807495,
+      0,
+      0.8703882694244385,
+      0.49236592650413513,
+      -0.7071068286895752,
+      -0.34815531969070435,
+      0.6154574155807495
+    ],
+    "name": "Part",
+    "focus": [
+      27993.657648563385,
+      9994.926118969917,
+      11993.657648563385
+    ],
+    "viewport": [
+      788,
+      392
+    ],
+    "path": "Workspace.Part",
+    "assetFetchFailures": [],
+    "parts": 1,
+    "file": "images/AF-0844.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.EnemyUse Bear Trap ",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 1,
+    "effectsNotRendered": 0,
+    "focus": [
+      35994.334587812424,
+      9995.467836380005,
+      11994.335420846939
+    ],
+    "assetFetchFailures": [],
+    "parts": 3,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0845",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36006.64453125,
+      10005.3154296875,
+      12006.6435546875,
+      0.7070547938346863,
+      -0.348190575838089,
+      0.6154971718788147,
+      0,
+      0.8703804612159729,
+      0.49237966537475586,
+      -0.7071587443351746,
+      -0.3481394052505493,
+      0.6154066920280457
+    ],
+    "name": "EnemyUse Bear Trap ",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      4.539886474609375,
+      1.3619384765625,
+      4.08587646484375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0845.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Meshes/SM_Prop_Tomato_01_L",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19991.274834871292,
+      9993.019867777824,
+      19991.274834871292
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0846",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      20003.583984375,
+      10002.8671875,
+      20003.583984375,
+      0.7071067690849304,
+      -0.34815531969070435,
+      0.6154574751853943,
+      0,
+      0.8703882694244385,
+      0.4923659861087799,
+      -0.7071067690849304,
+      -0.34815531969070435,
+      0.6154574751853943
+    ],
+    "name": "Meshes/SM_Prop_Tomato_01_L",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      1.23291015625,
+      2.1263427734375,
+      1.3999481201171875
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0846.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Meshes/SM_Prop_Beetroot_01_M",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27992.55863761902,
+      9994.04571545124,
+      19992.55863761902
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0847",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28004.8671875,
+      10003.89453125,
+      20004.8671875,
+      0.7071067690849304,
+      -0.3482082188129425,
+      0.6154274940490723,
+      0,
+      0.8703458905220032,
+      0.492440789937973,
+      -0.7071067690849304,
+      -0.3482082188129425,
+      0.6154274940490723
+    ],
+    "name": "Meshes/SM_Prop_Beetroot_01_M",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      1.9744873046875,
+      2.81005859375,
+      1.848175048828125
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0847.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.1x1,木屋",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 2,
+    "effectsNotRendered": 0,
+    "focus": [
+      36020.38177752495,
+      10016.304326415062,
+      19979.619440078735
+    ],
+    "assetFetchFailures": [],
+    "parts": 22,
+    "visibleParts": 20,
+    "method": "静态视窗",
+    "id": "AF-0848",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      36032.69140625,
+      10026.1513671875,
+      19967.310546875,
+      -0.7070856094360352,
+      -0.3481558561325073,
+      0.615481436252594,
+      0,
+      0.8703961372375488,
+      0.49235203862190247,
+      -0.7071278691291809,
+      0.3481350541114807,
+      -0.6154446601867676
+    ],
+    "name": "1x1,木屋",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      13.00054931640625,
+      17.305419921875,
+      17.02581787109375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。 依门组件方位选择斜视角。",
+    "file": "images/AF-0848.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.DENG",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      19989.975010871887,
+      9991.977435588837,
+      27989.975010871887
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 0,
+    "method": "辅助可视化",
+    "id": "AF-0849",
+    "nativeMethod": "辅助可视化",
+    "camera": [
+      20002.283203125,
+      10001.8271484375,
+      28002.283203125,
+      0.7071067690849304,
+      -0.348239928483963,
+      0.6154096126556396,
+      0,
+      0.8703206181526184,
+      0.4924856424331665,
+      -0.7071067690849304,
+      -0.348239928483963,
+      0.6154096126556396
+    ],
+    "name": "DENG",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      1,
+      1,
+      1
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 原部件均为全透明或近全透明；仅在展示副本上调整透明度及颜色。",
+    "file": "images/AF-0849.jpg",
+    "mimeType": "image/jpeg"
+  },
+  {
+    "path": "Workspace.Part",
+    "renderMode": "Studio ViewportFrame",
+    "scriptsRemoved": 0,
+    "effectsNotRendered": 0,
+    "focus": [
+      27989.65458202362,
+      9991.726751089096,
+      27989.65458202362
+    ],
+    "assetFetchFailures": [],
+    "parts": 1,
+    "visibleParts": 1,
+    "method": "静态视窗",
+    "id": "AF-0850",
+    "nativeMethod": "原貌截图",
+    "camera": [
+      28001.96484375,
+      10001.5712890625,
+      28001.96484375,
+      0.7071068286895752,
+      -0.34805700182914734,
+      0.6155130863189697,
+      0,
+      0.8704670071601868,
+      0.49222689867019653,
+      -0.7071068286895752,
+      -0.34805700182914734,
+      0.6155130863189697
+    ],
+    "name": "Part",
+    "captureMode": "Studio scripted viewport pool",
+    "viewport": [
+      788,
+      392
+    ],
+    "size": [
+      0.3553466796875,
+      1.0675048828125,
+      1.035980224609375
+    ],
+    "fieldOfView": 35,
+    "note": "Studio ViewportFrame 渲染原对象副本，保留几何、颜色与贴图；无实时阴影，Neon/Glass及反射显示有差异，界面和动态特效未完整呈现。 Studio 编辑态副本静态外观；保留原部件材质、颜色、透明度与朝向；浮动交互标签隐藏，未演示玩法交互。",
+    "file": "images/AF-0850.jpg",
+    "mimeType": "image/jpeg"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "AF-0751",
+    "name": "tommy gun",
+    "path": "Workspace.tommy gun",
+    "originalLocator": "W/119",
+    "locator": "W/188",
+    "parts": 7,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0752",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/120",
+    "locator": "W/82",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0753",
+    "name": "Potato",
+    "path": "Workspace.Potato",
+    "originalLocator": "W/121",
+    "locator": "W/187",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0754",
+    "name": "245",
+    "path": "Workspace.245",
+    "originalLocator": "W/122",
+    "locator": "W/99",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0755",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/123",
+    "locator": "W/61",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0756",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/124",
+    "locator": "W/56",
+    "parts": 13,
+    "class": "Model",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0757",
+    "name": "Meshes/酿酒配件_圆柱体",
+    "path": "Workspace.Meshes/酿酒配件_圆柱体",
+    "originalLocator": "W/125",
+    "locator": "W/81",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0758",
+    "name": "雪覆盖",
+    "path": "Workspace.雪覆盖",
+    "originalLocator": "W/126",
+    "locator": "W/57",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0759",
+    "name": "1x1,木屋",
+    "path": "Workspace.1x1,木屋",
+    "originalLocator": "W/127",
+    "locator": "W/75",
+    "parts": 33,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0760",
+    "name": "沼泽地块-毒沼泽",
+    "path": "Workspace.沼泽地块-毒沼泽",
+    "originalLocator": "W/128",
+    "locator": "W/87",
+    "parts": 6,
+    "class": "Part",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0761",
+    "name": "形象",
+    "path": "Workspace.形象",
+    "originalLocator": "W/129",
+    "locator": "W/152",
+    "parts": 7,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0762",
+    "name": "马鞍",
+    "path": "Workspace.马鞍",
+    "originalLocator": "W/130",
+    "locator": "W/160",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0763",
+    "name": "雪覆盖",
+    "path": "Workspace.雪覆盖",
+    "originalLocator": "W/131",
+    "locator": "W/50",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0764",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/132",
+    "locator": "W/232",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0765",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/133",
+    "locator": "W/107",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0766",
+    "name": "206",
+    "path": "Workspace.206",
+    "originalLocator": "W/134",
+    "locator": "W/60",
+    "parts": 15,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0767",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/135",
+    "locator": "W/191",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0768",
+    "name": "Meshes/酿酒配件_圆柱体_6",
+    "path": "Workspace.Meshes/酿酒配件_圆柱体_6",
+    "originalLocator": "W/136",
+    "locator": "W/147",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0769",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/137",
+    "locator": "W/235",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0770",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/138",
+    "locator": "W/150",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0771",
+    "name": "雪覆盖",
+    "path": "Workspace.雪覆盖",
+    "originalLocator": "W/139",
+    "locator": "W/179",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0772",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/140",
+    "locator": "W/180",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0773",
+    "name": "Meat",
+    "path": "Workspace.Meat",
+    "originalLocator": "W/141",
+    "locator": "W/168",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0774",
+    "name": "雪覆盖",
+    "path": "Workspace.雪覆盖",
+    "originalLocator": "W/142",
+    "locator": "W/178",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0775",
+    "name": "雪覆盖",
+    "path": "Workspace.雪覆盖",
+    "originalLocator": "W/143",
+    "locator": "W/244",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0776",
+    "name": "Handle",
+    "path": "Workspace.Handle",
+    "originalLocator": "W/144",
+    "locator": "W/67",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0777",
+    "name": "904",
+    "path": "Workspace.904",
+    "originalLocator": "W/145",
+    "locator": "W/186",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0778",
+    "name": "615",
+    "path": "Workspace.615",
+    "originalLocator": "W/146",
+    "locator": "W/209",
+    "parts": 16,
+    "class": "Tool",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0779",
+    "name": "雪覆盖",
+    "path": "Workspace.雪覆盖",
+    "originalLocator": "W/147",
+    "locator": "W/245",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0780",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/148",
+    "locator": "W/103",
+    "parts": 4,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0781",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/149",
+    "locator": "W/166",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0782",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/150",
+    "locator": "W/169",
+    "parts": 9,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0783",
+    "name": "MeshPart",
+    "path": "Workspace.MeshPart",
+    "originalLocator": "W/151",
+    "locator": "W/135",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0784",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/152",
+    "locator": "W/124",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0785",
+    "name": "Handle",
+    "path": "Workspace.Handle",
+    "originalLocator": "W/153",
+    "locator": "W/138",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0786",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/154",
+    "locator": "W/35",
+    "parts": 10,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0787",
+    "name": "Big Turkey",
+    "path": "Workspace.Big Turkey",
+    "originalLocator": "W/155",
+    "locator": "W/214",
+    "parts": 31,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0788",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/156",
+    "locator": "W/66",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0789",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/157",
+    "locator": "W/52",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0790",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/158",
+    "locator": "W/68",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0791",
+    "name": "鹿角回力镖",
+    "path": "Workspace.鹿角回力镖",
+    "originalLocator": "W/159",
+    "locator": "W/83",
+    "parts": 10,
+    "class": "Model",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0792",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/160",
+    "locator": "W/246",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0793",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/161",
+    "locator": "W/112",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0794",
+    "name": "4 Sided Cone",
+    "path": "Workspace.4 Sided Cone",
+    "originalLocator": "W/162",
+    "locator": "W/189",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0795",
+    "name": "Meshes/酿酒配件_圆柱体_7",
+    "path": "Workspace.Meshes/酿酒配件_圆柱体_7",
+    "originalLocator": "W/163",
+    "locator": "W/108",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0796",
+    "name": "206",
+    "path": "Workspace.206",
+    "originalLocator": "W/164",
+    "locator": "W/91",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0797",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/165",
+    "locator": "W/248",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0798",
+    "name": "4 Sided Cone",
+    "path": "Workspace.4 Sided Cone",
+    "originalLocator": "W/166",
+    "locator": "W/223",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0799",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/167",
+    "locator": "W/215",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0800",
+    "name": "Tommy",
+    "path": "Workspace.Tommy",
+    "originalLocator": "W/168",
+    "locator": "W/218",
+    "parts": 2,
+    "class": "Part",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0801",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/169",
+    "locator": "W/86",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0802",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/170",
+    "locator": "W/92",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0803",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/171",
+    "locator": "W/76",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0804",
+    "name": "Handle",
+    "path": "Workspace.Handle",
+    "originalLocator": "W/172",
+    "locator": "W/211",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0805",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/173",
+    "locator": "W/110",
+    "parts": 9,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0806",
+    "name": "雪覆盖",
+    "path": "Workspace.雪覆盖",
+    "originalLocator": "W/174",
+    "locator": "W/100",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0807",
+    "name": "Chilli Pepper",
+    "path": "Workspace.Chilli Pepper",
+    "originalLocator": "W/175",
+    "locator": "W/192",
+    "parts": 1,
+    "class": "Tool",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0808",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/176",
+    "locator": "W/97",
+    "parts": 32,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0809",
+    "name": "野猪人1",
+    "path": "Workspace.野猪人1",
+    "originalLocator": "W/177",
+    "locator": "W/74",
+    "parts": 29,
+    "class": "Model",
+    "materialType": "怪物与Boss"
+  },
+  {
+    "id": "AF-0810",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/178",
+    "locator": "W/114",
+    "parts": 5,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0811",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/179",
+    "locator": "W/170",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0812",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/180",
+    "locator": "W/163",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0813",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/181",
+    "locator": "W/140",
+    "parts": 4,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0814",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/182",
+    "locator": "W/157",
+    "parts": 6,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0815",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/183",
+    "locator": "W/153",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0816",
+    "name": "1x1,木屋",
+    "path": "Workspace.1x1,木屋",
+    "originalLocator": "W/184",
+    "locator": "W/156",
+    "parts": 53,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0817",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/185",
+    "locator": "W/243",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0818",
+    "name": "6级地块",
+    "path": "Workspace.6级地块",
+    "originalLocator": "W/186",
+    "locator": "W/222",
+    "parts": 2,
+    "class": "Part",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0819",
+    "name": "Minigun",
+    "path": "Workspace.Minigun",
+    "originalLocator": "W/187",
+    "locator": "W/105",
+    "parts": 3,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0820",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/188",
+    "locator": "W/231",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0821",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/189",
+    "locator": "W/184",
+    "parts": 11,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0822",
+    "name": "Spikes",
+    "path": "Workspace.Spikes",
+    "originalLocator": "W/190",
+    "locator": "W/217",
+    "parts": 4,
+    "class": "Model",
+    "materialType": "营地设施"
+  },
+  {
+    "id": "AF-0823",
+    "name": "Royal Knight",
+    "path": "Workspace.Royal Knight",
+    "originalLocator": "W/191",
+    "locator": "W/161",
+    "parts": 3,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0824",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/192",
+    "locator": "W/212",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0825",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/193",
+    "locator": "W/208",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0826",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/194",
+    "locator": "W/210",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0827",
+    "name": "Onion",
+    "path": "Workspace.Onion",
+    "originalLocator": "W/195",
+    "locator": "W/238",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0828",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/196",
+    "locator": "W/240",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0829",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/197",
+    "locator": "W/159",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0830",
+    "name": "4 Sided Cone",
+    "path": "Workspace.4 Sided Cone",
+    "originalLocator": "W/198",
+    "locator": "W/226",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0831",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/199",
+    "locator": "W/239",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0832",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/200",
+    "locator": "W/143",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0833",
+    "name": "Meshes/管道转角_圆柱体",
+    "path": "Workspace.Meshes/管道转角_圆柱体",
+    "originalLocator": "W/201",
+    "locator": "W/158",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0834",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/202",
+    "locator": "W/148",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0835",
+    "name": "DENG",
+    "path": "Workspace.DENG",
+    "originalLocator": "W/203",
+    "locator": "W/151",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0836",
+    "name": "SteampunkFedora",
+    "path": "Workspace.SteampunkFedora",
+    "originalLocator": "W/204",
+    "locator": "W/172",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0837",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/205",
+    "locator": "W/146",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0838",
+    "name": "Meshes/酿酒配件_圆柱体_8",
+    "path": "Workspace.Meshes/酿酒配件_圆柱体_8",
+    "originalLocator": "W/206",
+    "locator": "W/120",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0839",
+    "name": "雪覆盖",
+    "path": "Workspace.雪覆盖",
+    "originalLocator": "W/207",
+    "locator": "W/220",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0840",
+    "name": "Meshes/酿酒配件_圆柱体_3",
+    "path": "Workspace.Meshes/酿酒配件_圆柱体_3",
+    "originalLocator": "W/208",
+    "locator": "W/173",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0841",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/209",
+    "locator": "W/95",
+    "parts": 17,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0842",
+    "name": "SpawnLocation",
+    "path": "Workspace.SpawnLocation",
+    "originalLocator": "W/210",
+    "locator": "W/194",
+    "parts": 1,
+    "class": "SpawnLocation",
+    "materialType": "辅助零件"
+  },
+  {
+    "id": "AF-0843",
+    "name": "4 Sided Cone",
+    "path": "Workspace.4 Sided Cone",
+    "originalLocator": "W/211",
+    "locator": "W/225",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0844",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/212",
+    "locator": "W/144",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0845",
+    "name": "EnemyUse Bear Trap ",
+    "path": "Workspace.EnemyUse Bear Trap ",
+    "originalLocator": "W/213",
+    "locator": "W/136",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "营地设施"
+  },
+  {
+    "id": "AF-0846",
+    "name": "Meshes/SM_Prop_Tomato_01_L",
+    "path": "Workspace.Meshes/SM_Prop_Tomato_01_L",
+    "originalLocator": "W/214",
+    "locator": "W/198",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0847",
+    "name": "Meshes/SM_Prop_Beetroot_01_M",
+    "path": "Workspace.Meshes/SM_Prop_Beetroot_01_M",
+    "originalLocator": "W/215",
+    "locator": "W/227",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0848",
+    "name": "1x1,木屋",
+    "path": "Workspace.1x1,木屋",
+    "originalLocator": "W/216",
+    "locator": "W/228",
+    "parts": 22,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0849",
+    "name": "DENG",
+    "path": "Workspace.DENG",
+    "originalLocator": "W/217",
+    "locator": "W/237",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0850",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/218",
+    "locator": "W/121",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  }
+]

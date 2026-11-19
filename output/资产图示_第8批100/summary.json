@@ -1,0 +1,22 @@
+{
+  "id": "8",
+  "label": "第8批 100 条",
+  "first": "AF-0651",
+  "last": "AF-0750",
+  "count": 100,
+  "methods": {
+    "原貌截图": 36,
+    "说明卡": 5,
+    "辅助可视化": 3,
+    "静态视窗": 56
+  },
+  "reviewPending": true,
+  "cleanup": {
+    "cleaned": true,
+    "guiRestored": true,
+    "sourcesIntact": 100,
+    "cameraRestored": true,
+    "lightingRestored": true
+  },
+  "additionalImages": 0
+}

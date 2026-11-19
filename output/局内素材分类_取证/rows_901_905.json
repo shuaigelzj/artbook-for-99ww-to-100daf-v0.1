@@ -1,0 +1,203 @@
+[
+  {
+    "path": "Workspace.Model",
+    "index": 901,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/269",
+    "scripts": 0,
+    "children": [
+      "Model [Model]"
+    ],
+    "parts": 0,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0,
+      0,
+      0
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "Model",
+    "position": [
+      321.66,
+      -791.93,
+      -250.66
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "0:5381",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.鱿鱼",
+    "index": 902,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/270",
+    "scripts": 0,
+    "children": [
+      "Tent2Sucker1 [Part]",
+      "AnimSaves [ObjectValue]",
+      "Tent7BaseSucker1 [Part]",
+      "Humanoid [Humanoid]",
+      "EyeRight [Part]",
+      "Tent1Tip [Part]",
+      "Tent5BaseSucker1 [Part]",
+      "Tent5BaseSucker3 [Part]",
+      "Head [Part]",
+      "Tent1Sucker3 [Part]",
+      "Animations [Folder]",
+      "Tent5Base [Part]",
+      "Tent4Mid [Part]",
+      "Tent7Tip [Part]"
+    ],
+    "parts": 63,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 3,
+    "size": [
+      4.27,
+      9.9,
+      4.45
+    ],
+    "collidable": 10,
+    "meshIds": [
+      "rbxassetid://110575424618450",
+      "rbxassetid://130675368962023"
+    ],
+    "name": "鱿鱼",
+    "position": [
+      -544.9,
+      -787.92,
+      225.39
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "63:1508188491",
+    "descendants": 144
+  },
+  {
+    "path": "Workspace.902",
+    "index": 903,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/271",
+    "scripts": 0,
+    "children": [],
+    "parts": 0,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0,
+      0,
+      0
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "902",
+    "position": [
+      -523.4,
+      -792.78,
+      334.11
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "0:5381",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.301",
+    "index": 904,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/272",
+    "scripts": 3,
+    "children": [
+      "锅 [Folder]",
+      "Soup [UnionOperation]",
+      "F [Part]",
+      "Spoon [MeshPart]",
+      "PM [Part]",
+      "1级锅 [Script]",
+      "Wok [UnionOperation]",
+      "SpoonMoving [MeshPart]",
+      "Core [Part]",
+      "1 [Model]"
+    ],
+    "parts": 24,
+    "attrs": [],
+    "meshes": 18,
+    "tags": [],
+    "scriptNames": [
+      "Script",
+      "1级锅",
+      "Script"
+    ],
+    "animations": 0,
+    "size": [
+      6,
+      4.05,
+      6
+    ],
+    "collidable": 21,
+    "meshIds": [
+      "rbxassetid://119242964276754",
+      "rbxassetid://6742496331",
+      "rbxassetid://79349628460184"
+    ],
+    "name": "301",
+    "position": [
+      -254.84,
+      -790.84,
+      253.73
+    ],
+    "anchored": 24,
+    "humanoids": 0,
+    "geometry": "24:1551986765",
+    "descendants": 51
+  },
+  {
+    "path": "Workspace.Model",
+    "index": 905,
+    "parent": "Workspace",
+    "class": "Model",
+    "locator": "W/273",
+    "scripts": 0,
+    "children": [
+      "SurfaceGui [SurfaceGui]"
+    ],
+    "parts": 0,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0,
+      0,
+      0
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "Model",
+    "position": [
+      -60.53,
+      -732.29,
+      -165.23
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "0:5381",
+    "descendants": 2
+  }
+]

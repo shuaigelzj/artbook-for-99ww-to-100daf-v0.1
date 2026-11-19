@@ -1,0 +1,12 @@
+[
+  {"id":"AF-0601","role":"系统辅助与表现对象","materialType":"机关","basis":"精确路径及 Clone 调用确认","entry":"Workspace.Prefabs.Resources.137.虫洞制造器_server:7–13；Resources.140.无限虫洞制造器_server:15","note":"Others 是混合辅助资源包；已确认其中虫洞入口被道具事件克隆到 Workspace。确认范围为该子对象，不代表整个资源包及全部子对象都会使用。"},
+  {"id":"AF-0645","role":"系统辅助与表现对象","materialType":"辅助零件","basis":"精确路径及位置读取确认","entry":"ReplicatedStorage.src.Helpers.BagHelper:112–144（Store）","note":"背包收纳时读取 Plate.Position，并将非玩家物品移动到附近，作为收纳存放区的位置基准。此次确认来自静态调用分析，未新增运行实测。"},
+  {"id":"AF-0648","role":"系统辅助与表现对象","materialType":"特效与界面","basis":"精确路径及父容器读写确认","entry":"ServerScriptService.Game.WeatherService:13、36–59、73–93","note":"雨天将露天木材移入 WetModel，并在停雨后移出；它是带 Highlight 的潮湿对象容器。受下雨开关及天气条件控制，此次未实测触发。"},
+  {"id":"AF-0678","role":"已确认的开发测试与展示素材","basis":"动画保存 ObjectValue 精确指向","entry":"ServerStorage.RBX_ANIMSAVES.Rig.Value → Workspace.Model.Model.Rig（AF-0678 内部）","note":"动画保存记录关联到内部 Rig，确认有动画制作用途。此结论不表示该候选组合的所有子对象均仅用于制作，也不排除正式用途。"},
+  {"id":"AF-0727","role":"已确认的开发测试与展示素材","basis":"动画保存 ObjectValue 精确指向","entry":"ServerStorage.RBX_ANIMSAVES.Bear.Value → Workspace.Bear","note":"动画保存记录关联的 Bear 制作模型；确认动画制作用途，不等于正式游戏永不使用。"},
+  {"id":"AF-0734","role":"已确认的开发测试与展示素材","basis":"动画保存 ObjectValue 精确指向","entry":"ServerStorage.RBX_ANIMSAVES.猪侄子2.Value → Workspace.猪侄子2","note":"动画保存记录关联的猪侄子2制作模型；确认动画制作用途，不等于正式游戏永不使用。"},
+  {"id":"AF-0786","role":"已确认的开发测试与展示素材","basis":"动画保存 ObjectValue 精确指向","entry":"ServerStorage.RBX_ANIMSAVES.Rig.Value → Workspace.Model.Rig（AF-0786 内部）","note":"动画保存记录精确关联此候选对象内的 Rig。同名路径按属性指针确认，确认动画制作用途，不排除正式用途。"},
+  {"id":"AF-0787","role":"已确认的开发测试与展示素材","basis":"动画保存 ObjectValue 精确指向","entry":"ServerStorage.RBX_ANIMSAVES.Big Turkey.Value → Workspace.Big Turkey","note":"动画保存记录关联的 Big Turkey 制作模型；确认动画制作用途，不等于正式游戏永不使用。"},
+  {"id":"AF-0809","role":"已确认的开发测试与展示素材","materialType":"怪物与Boss","basis":"动画保存 ObjectValue 精确指向","entry":"ServerStorage.RBX_ANIMSAVES.野猪人1.Value → Workspace.野猪人1","note":"动画保存记录关联的野猪人制作模型；确认动画制作用途，不等于正式游戏永不使用。"},
+  {"id":"AF-0773","role":"用途待确认","basis":"精确引用已复核，但用途未确认","entry":"Workspace.Prefabs.蓝图.302.Model.Core.Script:6；Workspace.Prefabs.蓝图.103.Core.Script:6","note":"两处 local meat = workspace.Meat 均只赋值，后续没有消费该变量；实际产肉调用 ResourcesItemHelper:CreateRawMeat。保留精确引用状态，但不足以认定此实例是产肉模板或玩法资源。"}
+]

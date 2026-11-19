@@ -1,0 +1,21 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+const workspace=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'../..'),dist=path.join(workspace,'sites/afterfall-assets/dist');
+let app=await fs.readFile(path.join(dist,'app.js'),'utf8');
+function replace(from,to){if(!app.includes(from))throw Error('Missing app anchor: '+from);app=app.replace(from,to);}
+replace("evidence:['used','retained','unobserved'].includes(p.get('evidence'))?p.get('evidence'):'',sort:","evidence:['used','retained','unobserved'].includes(p.get('evidence'))?p.get('evidence'):'',reskin:['direct','prepare','verify','none'].includes(p.get('reskin'))?p.get('reskin'):'',sort:");
+replace("['view','role','type','source','evidence','q','sort','page','size']","['view','role','type','source','evidence','reskin','q','sort','page','size']");
+replace('${referenceCell(r)}</td><td><span class="source-text">','${referenceCell(r)}</td><td class="reskin-cell">${reskinCell(r)}</td><td><span class="source-text">');
+replace("'位置','引用审计','脚本或入口'","'位置','引用审计','可直接出换皮图','制图单元与理由','配套与替换方案','工程保留约束','脚本或入口'");
+replace("r.referenceAudit?.status??'未审计',r.entry", "r.referenceAudit?.status??'未审计',r.reskin.decision+' · '+r.reskin.workflow+'（'+r.reskin.confidence+'）',r.reskin.subject+'；'+r.reskin.unit+'；'+r.reskin.reason,[r.reskin.companions.map(c=>c.id+' '+c.name+'（'+c.relation+'）').join('；'),...r.reskin.plan.map((p,i)=>(i+1)+'. '+p)].filter(Boolean).join('；'),r.reskin.engineering.join('；'),r.entry");
+replace('条素材。程序用途与素材类型分别记录，位置不代表正式或非正式。','条素材。程序用途与素材类型分别记录，位置不代表正式或非正式。换皮评估更新于2026-11-19；可直接出图不等于工程可直接替换，配套默认是建议对照。');
+await fs.writeFile(path.join(dist,'app.js'),app,'utf8');
+let html=await fs.readFile(path.join(dist,'index.html'),'utf8');
+html=html.replace('<link rel="stylesheet" href="responsive.css">','<link rel="stylesheet" href="responsive.css">\n<link rel="stylesheet" href="reskin.css">');
+html=html.replace('<button id="reset" class="text-button">','<div class="filter"><label for="reskin-filter">换皮图制图</label><select id="reskin-filter"><option value="">全部制图判定</option></select></div><button id="reset" class="text-button">');
+html=html.replace('<th>引用审计</th><th>原始位置</th>','<th>引用审计</th><th>可直接出换皮图</th><th>原始位置</th>');
+html=html.replace('  <section class="search-panel"','  <section class="reskin-overview" aria-label="换皮评估说明"><div><strong>换皮制图评估</strong><span id="reskin-counts"></span></div><details><summary>判定标准与配套关系</summary><p>“是”表示已有完整可辨认的设计单元；“否”需先组合、铺排、试穿、补状态或分镜；“待确认”需查清宿主与显示状态；“不适用”用于空对象、逻辑结构和占地样板。可直接出效果图不等于模型可直接接入工程。配套编号默认是建议演示或对照，具体证据见详情。每条方案与工程约束可从原箭头、缩略图或“查看方案”打开。</p></details></section>\n  <section class="search-panel"');
+html=html.replace('或 Studio 路径…','、配套或制图方案…');
+await fs.writeFile(path.join(dist,'index.html'),html,'utf8');
+console.log('Added reskin column, four-way filter, search fields, detail plans and Markdown download fields.');

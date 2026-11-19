@@ -1,0 +1,19 @@
+{
+  "id": "3",
+  "label": "第3批 100 条",
+  "first": "AF-0151",
+  "last": "AF-0250",
+  "count": 100,
+  "methods": {
+    "原貌截图": 100
+  },
+  "reviewPending": true,
+  "cleanup": {
+    "cleaned": true,
+    "guiRestored": true,
+    "sourcesIntact": 100,
+    "cameraRestored": true,
+    "lightingRestored": true
+  },
+  "additionalImages": 0
+}

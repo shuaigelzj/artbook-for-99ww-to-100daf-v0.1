@@ -1,0 +1,1003 @@
+[
+  {
+    "id": "AF-0651",
+    "name": "12",
+    "path": "Workspace.12",
+    "originalLocator": "W/13",
+    "locator": "W/13",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0652",
+    "name": "MiniGun",
+    "path": "Workspace.MiniGun",
+    "originalLocator": "W/14",
+    "locator": "W/14",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0653",
+    "name": "Accessory (Neck Fur Collar)",
+    "path": "Workspace.Accessory (Neck Fur Collar)",
+    "originalLocator": "W/15",
+    "locator": "W/15",
+    "parts": 0,
+    "class": "Accessory",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0654",
+    "name": "Goat Skull Hat",
+    "path": "Workspace.Goat Skull Hat",
+    "originalLocator": "W/16",
+    "locator": "W/16",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0655",
+    "name": "Black Gunfighter Cowboy Hat",
+    "path": "Workspace.Black Gunfighter Cowboy Hat",
+    "originalLocator": "W/19",
+    "locator": "W/19",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0656",
+    "name": "Right",
+    "path": "Workspace.Right",
+    "originalLocator": "W/22",
+    "locator": "W/22",
+    "parts": 3,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0657",
+    "name": "Left",
+    "path": "Workspace.Left",
+    "originalLocator": "W/23",
+    "locator": "W/23",
+    "parts": 3,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0658",
+    "name": "4",
+    "path": "Workspace.4",
+    "originalLocator": "W/24",
+    "locator": "W/24",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0659",
+    "name": "DevAwardsBombastic",
+    "path": "Workspace.DevAwardsBombastic",
+    "originalLocator": "W/25",
+    "locator": "W/25",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0660",
+    "name": "circumgyration",
+    "path": "Workspace.circumgyration",
+    "originalLocator": "W/26",
+    "locator": "W/26",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0661",
+    "name": "Accessory (Beige Vintage Protopoly Y2K Cap)",
+    "path": "Workspace.Accessory (Beige Vintage Protopoly Y2K Cap)",
+    "originalLocator": "W/28",
+    "locator": "W/28",
+    "parts": 0,
+    "class": "Accessory",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0662",
+    "name": "Model",
+    "path": "Workspace.Folder.Model",
+    "originalLocator": "W/30/1",
+    "locator": "W/30/1",
+    "parts": 36,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0663",
+    "name": "Terrain",
+    "path": "Workspace.Terrain",
+    "originalLocator": "W/31",
+    "locator": "W/31",
+    "parts": 1,
+    "class": "Terrain",
+    "materialType": "辅助零件"
+  },
+  {
+    "id": "AF-0664",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/32",
+    "locator": "W/34",
+    "parts": 513,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0665",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/33",
+    "locator": "W/32",
+    "parts": 420,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0666",
+    "name": "墓地",
+    "path": "Workspace.墓地",
+    "originalLocator": "W/34",
+    "locator": "W/39",
+    "parts": 148,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0667",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/35",
+    "locator": "W/54",
+    "parts": 20,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0668",
+    "name": "Rig",
+    "path": "Workspace.Rig",
+    "originalLocator": "W/36",
+    "locator": "W/55",
+    "parts": 16,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0669",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/37",
+    "locator": "W/36",
+    "parts": 472,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0670",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/38",
+    "locator": "W/45",
+    "parts": 29,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0671",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/39",
+    "locator": "W/49",
+    "parts": 79,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0672",
+    "name": "Royal Knight",
+    "path": "Workspace.Royal Knight",
+    "originalLocator": "W/40",
+    "locator": "W/196",
+    "parts": 3,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0673",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/41",
+    "locator": "W/193",
+    "parts": 6,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0674",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/42",
+    "locator": "W/204",
+    "parts": 12,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0675",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/43",
+    "locator": "W/37",
+    "parts": 25,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0676",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/44",
+    "locator": "W/125",
+    "parts": 8,
+    "class": "Model",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0677",
+    "name": "Zombie",
+    "path": "Workspace.Zombie",
+    "originalLocator": "W/45",
+    "locator": "W/47",
+    "parts": 9,
+    "class": "Model",
+    "materialType": "怪物与Boss"
+  },
+  {
+    "id": "AF-0678",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/46",
+    "locator": "W/41",
+    "parts": 25,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0679",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/47",
+    "locator": "W/109",
+    "parts": 7,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0680",
+    "name": "Jingle Stick",
+    "path": "Workspace.Jingle Stick",
+    "originalLocator": "W/48",
+    "locator": "W/79",
+    "parts": 1,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0681",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/49",
+    "locator": "W/164",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0682",
+    "name": "Rig",
+    "path": "Workspace.Rig",
+    "originalLocator": "W/50",
+    "locator": "W/48",
+    "parts": 22,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0683",
+    "name": "CowboyMeleeVC",
+    "path": "Workspace.CowboyMeleeVC",
+    "originalLocator": "W/51",
+    "locator": "W/43",
+    "parts": 17,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0684",
+    "name": "遮雨棚",
+    "path": "Workspace.遮雨棚",
+    "originalLocator": "W/52",
+    "locator": "W/111",
+    "parts": 16,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0685",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/53",
+    "locator": "W/181",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0686",
+    "name": "1x1,大叔",
+    "path": "Workspace.1x1,大叔",
+    "originalLocator": "W/54",
+    "locator": "W/142",
+    "parts": 24,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0687",
+    "name": "山羊人",
+    "path": "Workspace.山羊人",
+    "originalLocator": "W/55",
+    "locator": "W/113",
+    "parts": 27,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0688",
+    "name": "Rig",
+    "path": "Workspace.Rig",
+    "originalLocator": "W/56",
+    "locator": "W/106",
+    "parts": 11,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0689",
+    "name": "SC",
+    "path": "Workspace.SC",
+    "originalLocator": "W/57",
+    "locator": "W/249",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0690",
+    "name": "小牛",
+    "path": "Workspace.小牛",
+    "originalLocator": "W/58",
+    "locator": "W/33",
+    "parts": 45,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0691",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/59",
+    "locator": "W/145",
+    "parts": 25,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0692",
+    "name": "Rig",
+    "path": "Workspace.Rig",
+    "originalLocator": "W/60",
+    "locator": "W/51",
+    "parts": 17,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0693",
+    "name": "1x1,侧翻马车",
+    "path": "Workspace.1x1,侧翻马车",
+    "originalLocator": "W/61",
+    "locator": "W/115",
+    "parts": 30,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0694",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/62",
+    "locator": "W/88",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0695",
+    "name": "铁轨",
+    "path": "Workspace.铁轨",
+    "originalLocator": "W/63",
+    "locator": "W/96",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0696",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/64",
+    "locator": "W/176",
+    "parts": 11,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0697",
+    "name": "Meshes/酿酒配件_圆柱体_3",
+    "path": "Workspace.Meshes/酿酒配件_圆柱体_3",
+    "originalLocator": "W/65",
+    "locator": "W/182",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0698",
+    "name": "Clockwork Frog",
+    "path": "Workspace.Clockwork Frog",
+    "originalLocator": "W/66",
+    "locator": "W/70",
+    "parts": 19,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0699",
+    "name": "4 Sided Cone",
+    "path": "Workspace.4 Sided Cone",
+    "originalLocator": "W/67",
+    "locator": "W/171",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0700",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/68",
+    "locator": "W/247",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0701",
+    "name": "雪覆盖",
+    "path": "Workspace.雪覆盖",
+    "originalLocator": "W/69",
+    "locator": "W/206",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0702",
+    "name": "山羊人",
+    "path": "Workspace.山羊人",
+    "originalLocator": "W/70",
+    "locator": "W/53",
+    "parts": 27,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0703",
+    "name": ".22 Revolver",
+    "path": "Workspace..22 Revolver",
+    "originalLocator": "W/71",
+    "locator": "W/221",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0704",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/72",
+    "locator": "W/69",
+    "parts": 13,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0705",
+    "name": "Pan",
+    "path": "Workspace.Pan",
+    "originalLocator": "W/73",
+    "locator": "W/213",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0706",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/74",
+    "locator": "W/85",
+    "parts": 6,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0707",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/75",
+    "locator": "W/77",
+    "parts": 23,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0708",
+    "name": "Handle",
+    "path": "Workspace.Handle",
+    "originalLocator": "W/76",
+    "locator": "W/229",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0709",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/77",
+    "locator": "W/101",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0710",
+    "name": "洞口",
+    "path": "Workspace.洞口",
+    "originalLocator": "W/78",
+    "locator": "W/78",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0711",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/79",
+    "locator": "W/59",
+    "parts": 23,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0712",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/80",
+    "locator": "W/102",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0713",
+    "name": "311",
+    "path": "Workspace.311",
+    "originalLocator": "W/81",
+    "locator": "W/90",
+    "parts": 17,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0714",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/82",
+    "locator": "W/98",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0715",
+    "name": "Bear",
+    "path": "Workspace.Bear",
+    "originalLocator": "W/83",
+    "locator": "W/177",
+    "parts": 29,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0716",
+    "name": "Cloud",
+    "path": "Workspace.Cloud",
+    "originalLocator": "W/84",
+    "locator": "W/89",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0717",
+    "name": "CowboyGunVC",
+    "path": "Workspace.CowboyGunVC",
+    "originalLocator": "W/85",
+    "locator": "W/38",
+    "parts": 26,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0718",
+    "name": "小猪",
+    "path": "Workspace.小猪",
+    "originalLocator": "W/86",
+    "locator": "W/94",
+    "parts": 22,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0719",
+    "name": "902",
+    "path": "Workspace.902",
+    "originalLocator": "W/87",
+    "locator": "W/116",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0720",
+    "name": "Holy Lancer",
+    "path": "Workspace.Holy Lancer",
+    "originalLocator": "W/88",
+    "locator": "W/62",
+    "parts": 2,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0721",
+    "name": "Yggdrasil's Shadow",
+    "path": "Workspace.Yggdrasil's Shadow",
+    "originalLocator": "W/89",
+    "locator": "W/71",
+    "parts": 2,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0722",
+    "name": "Watermelon",
+    "path": "Workspace.Watermelon",
+    "originalLocator": "W/90",
+    "locator": "W/233",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "资源与食物"
+  },
+  {
+    "id": "AF-0723",
+    "name": "1x1,木屋",
+    "path": "Workspace.1x1,木屋",
+    "originalLocator": "W/91",
+    "locator": "W/216",
+    "parts": 30,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0724",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/92",
+    "locator": "W/224",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0725",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/93",
+    "locator": "W/197",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0726",
+    "name": "Moonlight Blade",
+    "path": "Workspace.Moonlight Blade",
+    "originalLocator": "W/94",
+    "locator": "W/230",
+    "parts": 3,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0727",
+    "name": "Bear",
+    "path": "Workspace.Bear",
+    "originalLocator": "W/95",
+    "locator": "W/122",
+    "parts": 34,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0728",
+    "name": "Baseplate",
+    "path": "Workspace.Baseplate",
+    "originalLocator": "W/96",
+    "locator": "W/165",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "辅助零件"
+  },
+  {
+    "id": "AF-0729",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/97",
+    "locator": "W/133",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0730",
+    "name": "子弹盒",
+    "path": "Workspace.子弹盒",
+    "originalLocator": "W/98",
+    "locator": "W/44",
+    "parts": 8,
+    "class": "Model",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0731",
+    "name": "Demon Hunter",
+    "path": "Workspace.Demon Hunter",
+    "originalLocator": "W/99",
+    "locator": "W/42",
+    "parts": 4,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0732",
+    "name": "1x1,棺材",
+    "path": "Workspace.1x1,棺材",
+    "originalLocator": "W/100",
+    "locator": "W/130",
+    "parts": 5,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0733",
+    "name": "RootPart",
+    "path": "Workspace.RootPart",
+    "originalLocator": "W/101",
+    "locator": "W/167",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0734",
+    "name": "猪侄子2",
+    "path": "Workspace.猪侄子2",
+    "originalLocator": "W/102",
+    "locator": "W/46",
+    "parts": 31,
+    "class": "Model",
+    "materialType": "怪物与Boss"
+  },
+  {
+    "id": "AF-0735",
+    "name": "Star Power axe",
+    "path": "Workspace.Star Power axe",
+    "originalLocator": "W/103",
+    "locator": "W/236",
+    "parts": 11,
+    "class": "Tool",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0736",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/104",
+    "locator": "W/63",
+    "parts": 24,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0737",
+    "name": "CowboyGunV1",
+    "path": "Workspace.CowboyGunV1",
+    "originalLocator": "W/105",
+    "locator": "W/234",
+    "parts": 22,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0738",
+    "name": "雪覆盖",
+    "path": "Workspace.雪覆盖",
+    "originalLocator": "W/106",
+    "locator": "W/203",
+    "parts": 1,
+    "class": "MeshPart",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0739",
+    "name": "草1",
+    "path": "Workspace.草1",
+    "originalLocator": "W/107",
+    "locator": "W/175",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0740",
+    "name": "Gem Trader",
+    "path": "Workspace.Gem Trader",
+    "originalLocator": "W/108",
+    "locator": "W/117",
+    "parts": 10,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0741",
+    "name": "衣柜",
+    "path": "Workspace.衣柜",
+    "originalLocator": "W/109",
+    "locator": "W/58",
+    "parts": 16,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0742",
+    "name": "棕色普通马",
+    "path": "Workspace.棕色普通马",
+    "originalLocator": "W/110",
+    "locator": "W/219",
+    "parts": 27,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0743",
+    "name": "Part",
+    "path": "Workspace.Part",
+    "originalLocator": "W/111",
+    "locator": "W/185",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0744",
+    "name": "[名称含无效UTF-8字节]",
+    "path": "Workspace.[名称含无效UTF-8字节]",
+    "originalLocator": "W/112",
+    "locator": "W/205",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "类型待确认",
+    "rawNameHex": "E7 A0 B4 E5 B8 BD E5 AD 3F 66 62 78"
+  },
+  {
+    "id": "AF-0745",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/113",
+    "locator": "W/65",
+    "parts": 4,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0746",
+    "name": "Tree",
+    "path": "Workspace.Tree",
+    "originalLocator": "W/114",
+    "locator": "W/40",
+    "parts": 31,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0747",
+    "name": "Handle",
+    "path": "Workspace.Handle",
+    "originalLocator": "W/115",
+    "locator": "W/202",
+    "parts": 1,
+    "class": "Part",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0748",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/116",
+    "locator": "W/139",
+    "parts": 10,
+    "class": "Model",
+    "materialType": "武器工具"
+  },
+  {
+    "id": "AF-0749",
+    "name": "Union",
+    "path": "Workspace.Union",
+    "originalLocator": "W/117",
+    "locator": "W/183",
+    "parts": 1,
+    "class": "UnionOperation",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0750",
+    "name": "Model",
+    "path": "Workspace.Model",
+    "originalLocator": "W/118",
+    "locator": "W/128",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "类型待确认"
+  }
+]

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="After Fall 局内副本、据点和任务路线图鉴。总览筛选、逐项流程、战斗配置、奖励刷新与静态脚本依据。">
+  <meta name="theme-color" content="#162328"><title>After Fall · 副本与据点图鉴</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg"><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="readability.css">
+  <script src="data.js" defer></script><script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip-link" href="#main">跳到主要内容</a>
+<div class="nav-shade" id="navShade"></div>
+<aside class="sidebar" id="sidebar" aria-label="图鉴导航">
+  <a class="brand" href="#overview" aria-label="After Fall 图鉴首页"><span class="brand-mark">AF<span></span></span><span>AFTER FALL<small>玩法档案 / FIELD GUIDE</small></span></a>
+  <div class="nav-label">内容目录</div><nav id="categoryNav"></nav>
+  <div class="sidebar-divider"></div>
+  <div class="nav-label">阅读与导出</div>
+  <a class="nav-item" href="#method"><span class="nav-icon">◎</span><span>复核说明</span></a>
+  <a class="nav-item" href="docs/overview.csv" download><span class="nav-icon">▤</span><span>下载总览表</span><span class="file-label">CSV</span></a>
+  <a class="nav-item" href="docs/details.md" download><span class="nav-icon">≡</span><span>下载完整详解</span><span class="file-label">MD</span></a>
+  <div class="sidebar-bottom"><div class="camp-symbol"><span></span><span></span><span></span></div><strong>探索有路径，挑战有回报。</strong><p>从独立战场到野外遭遇，<br>把每一条玩法路线放回全局。</p><div class="sidebar-snapshot">静态快照 <b>2026.11.19</b></div></div>
+</aside>
+<div class="workspace">
+  <header class="topbar"><div class="topbar-start"><button class="icon-button menu-button" id="menuButton" aria-label="展开导航" aria-expanded="false">☰</button><span class="breadcrumb">AFTER FALL <span>/</span> 玩法资料库</span></div><div class="topbar-end"><span class="snapshot-label">编辑态静态分析</span><span class="topbar-divider"></span><span>2026.11.19</span></div></header>
+  <main id="main" tabindex="-1">
+    <section id="overviewView">
+      <div class="hero">
+        <div class="hero-copy"><div class="eyebrow"><span></span> THE WILDERNESS, DOCUMENTED</div><h1>副本与据点<span>探索图鉴</span></h1><p>先看全局，再走进每一条路线。<br>入口门槛、战斗结构、奖励与刷新，一处查清。</p><div class="hero-tags"><span>六圈探索</span><span>逐项玩法详解</span><span>脚本依据可追溯</span></div></div>
+        <div class="hero-map" aria-hidden="true"><svg viewBox="0 0 370 258" fill="none"><defs><pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" stroke="#dce4e4" stroke-width=".65"/></pattern></defs><rect width="370" height="258" fill="url(#grid)"/><g transform="translate(185 128) rotate(-12)"><rect x="-112" y="-112" width="224" height="224" rx="2" stroke="#aabdbd" stroke-dasharray="3 5"/><rect x="-90" y="-90" width="180" height="180" rx="2" stroke="#b4c6c4"/><rect x="-68" y="-68" width="136" height="136" stroke="#98b1ac"/><rect x="-46" y="-46" width="92" height="92" stroke="#9db9ae"/><rect x="-24" y="-24" width="48" height="48" fill="#d8e4d9" stroke="#8ca995"/><rect x="-6" y="-6" width="12" height="12" fill="#d88145"/><path d="M0 0H35V-53H76V-94H112" stroke="#c9773c" stroke-width="2" stroke-dasharray="5 4"/><circle cx="35" cy="-53" r="5" fill="#f6f8f6" stroke="#c9773c" stroke-width="2"/><circle cx="76" cy="-94" r="5" fill="#c9773c"/><circle cx="-65" cy="64" r="5" fill="#658779"/><path d="M-65 64h-30m15-15v30" stroke="#658779"/><path d="M112 88v-16m-8 8h16" stroke="#99aaa8"/></g><text x="41" y="35" fill="#7c9290" font-size="11" font-family="monospace">N</text><path d="M44 44v18m-4-12 4-6 4 6" stroke="#7c9290"/><rect x="241" y="196" width="112" height="27" rx="4" fill="#fff" stroke="#d9e2df"/><text x="252" y="213" fill="#557268" font-size="11" font-family="sans-serif">六圈扩图 · 结构示意</text></svg></div>
+      </div>
+      <div class="metrics" id="metrics"></div>
+      <section class="catalog-panel" aria-labelledby="catalogTitle">
+        <div class="panel-heading"><div><div class="section-eyebrow">ENCOUNTER INDEX</div><h2 id="catalogTitle">全览目录 <span id="categoryLabel">全部内容</span></h2></div><div class="panel-actions"><a class="secondary-button download-link" href="docs/overview.csv" download><span aria-hidden="true">▤</span> 导出总览表</a><button class="secondary-button download-link" id="exportPdf" type="button" title="将全部条目导出为单个不分页的 PDF"><span aria-hidden="true">⇩</span> 导出 PDF</button></div></div>
+        <div class="filters"><label class="search-field"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="searchInput" type="search" placeholder="搜索名称、奖励、入口条件…" aria-label="搜索副本与据点"><kbd>/</kbd></label><label class="select-field"><span>区域</span><select id="zoneFilter" aria-label="按区域筛选"><option value="all">全部区域</option><option value="2">2 区</option><option value="3">3 区</option><option value="4">4 区</option><option value="5">5 区</option><option value="6">6 区</option></select></label><label class="select-field status-select"><span>状态</span><select id="statusFilter" aria-label="按启用状态筛选"><option value="all">全部状态</option><option value="enabled">生成入口启用</option><option value="inactive">未启用预设</option></select></label><button class="reset-button" id="resetFilters">重置</button></div>
+        <div class="result-bar"><p id="resultCount" role="status" aria-live="polite"></p><label class="page-size-field">每页显示 <select id="pageSize" aria-label="每页显示数量"><option value="10">10</option><option value="25">25</option><option value="50">50</option></select> 项</label></div>
+        <div class="table-wrap"><table><thead><tr><th scope="col">副本 / 据点</th><th scope="col">分类</th><th scope="col">区域 / 占地</th><th scope="col">战斗结构</th><th scope="col">主要收益</th><th scope="col">刷新 / 状态</th><th scope="col"><span class="sr-only">操作</span></th></tr></thead><tbody id="catalogBody"></tbody></table></div>
+        <div id="emptyState" class="empty-state" hidden><div>⌕</div><h3>没有匹配的条目</h3><p>试试其他关键词，或清除区域和状态筛选。</p><button class="secondary-button" id="emptyReset">清除筛选</button></div>
+        <div class="pagination"><span id="pageInfo"></span><div><button id="prevPage" class="page-button">上一页</button><span id="pageNumber"></span><button id="nextPage" class="page-button">下一页</button></div></div>
+      </section>
+      <div class="reading-note"><span class="note-icon">i</span><p><strong>先分清“预设存在”和“本局出现”。</strong> 生成入口启用仍受落点、随机事件、昼夜和任务阶段约束。数值为基础配置，实际可受模式倍率影响。</p><a href="#method">查看复核口径</a></div>
+      <section class="feature-notes"><div><span class="section-eyebrow">REVIEW HIGHLIGHTS</span><h2>容易漏读的三条线</h2><p>把场景内脚本和全局服务连起来，才能还原完整玩法。</p></div><button class="highlight" data-open="old-mine"><span class="highlight-mark">☾</span><strong>老矿镇不止采矿</strong><p>满月幽灵、夜间城堡、拔剑事件，分别触发。</p><span>阅读复合流程</span></button><button class="highlight" data-open="gatling"><span class="highlight-mark">▦</span><strong>工坊也是攻占目标</strong><p>14 名守卫与铁材料加工，共同构成据点价值。</p><span>阅读攻占与生产</span></button><button class="highlight" data-open="cowboy-help"><span class="highlight-mark">⚑</span><strong>NPC 任务可以跨圈</strong><p>4、5、6 区连续推进，还有跨日失败分支。</p><span>阅读三阶段任务</span></button></section>
+    </section>
+    <section id="detailView" hidden></section>
+    <section id="methodView" hidden></section>
+    <footer><span>AFTER FALL <b>FIELD GUIDE</b></span><span>2026.11.19 静态快照 · Place 108983613755535</span><a href="docs/details.md" download>下载完整详解</a></footer>
+  </main>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

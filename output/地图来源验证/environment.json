@@ -1,0 +1,38 @@
+{
+  "ready": true,
+  "battle": {
+    "path": "Workspace.沼泽.野猪王战场",
+    "origin": "L:AF-0603",
+    "position": "-575, -150, 550"
+  },
+  "cam": {
+    "path": "Workspace.CamSetting",
+    "origin": "L:AF-0899",
+    "position": "3217.55224609375, -459.3360900878906, 76.98082733154297"
+  },
+  "mode": 1,
+  "switches": {
+    "雷神锤": "true",
+    "新版移动端射击视角": "true",
+    "EnablePunchHitReaction": "false",
+    "雨天": "true",
+    "满月": "true",
+    "老矿镇": "true",
+    "新版近战判定": "true",
+    "雪地": "true",
+    "雪块": "true",
+    "铃铛洞穴": "true",
+    "宠物追击": "false",
+    "圣诞节": "false",
+    "疯猪祭坛": "true",
+    "近战自动朝向": "true",
+    "感恩节": "false",
+    "驼鹿王": "true",
+    "武器工坊": "true",
+    "火鸡王": "true",
+    "沼泽": "true",
+    "万圣节": "false",
+    "火车大劫案": "true"
+  },
+  "mainReady": true
+}

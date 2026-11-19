@@ -1,0 +1,769 @@
+{
+  "folders": {
+    "雪原": [
+      {
+        "size": [
+          250,
+          0.10000000149011612,
+          250
+        ],
+        "class": "Model",
+        "name": "雪山控制器",
+        "position": [
+          -900,
+          60.833736419677734,
+          850
+        ]
+      },
+      {
+        "size": [
+          256.09478759765625,
+          339.93896484375,
+          251.9532012939453
+        ],
+        "class": "Model",
+        "name": "山",
+        "position": [
+          -899.0233764648438,
+          210.10507202148438,
+          852.2583618164062
+        ]
+      },
+      {
+        "size": [
+          802.1262817382812,
+          874.08642578125,
+          778.9998168945312
+        ],
+        "class": "Model",
+        "name": "雪山暴雪",
+        "position": [
+          -899.999755859375,
+          147.876953125,
+          901.0631103515625
+        ]
+      },
+      {
+        "size": [
+          50.948638916015625,
+          16.97458839416504,
+          50
+        ],
+        "class": "Model",
+        "name": "1x1,暴风雪祭坛",
+        "position": [
+          -249.5256805419922,
+          6.166121482849121,
+          400
+        ]
+      },
+      {
+        "size": [
+          50.94865417480469,
+          16.97458839416504,
+          50
+        ],
+        "class": "Model",
+        "name": "1x1,暴风雪祭坛",
+        "position": [
+          -250,
+          5.06796407699585,
+          850.4743041992188
+        ]
+      },
+      {
+        "size": [
+          50.94865417480469,
+          16.97458839416504,
+          50
+        ],
+        "class": "Model",
+        "name": "1x1,暴风雪祭坛",
+        "position": [
+          -1099.525634765625,
+          46.0615234375,
+          1100
+        ]
+      },
+      {
+        "size": [
+          104.23198699951172,
+          33.0220832824707,
+          51.834373474121094
+        ],
+        "class": "Model",
+        "name": "2x1,土著村落V1",
+        "position": [
+          -849.0828247070312,
+          36.84419631958008,
+          426.70941162109375
+        ]
+      },
+      {
+        "size": [
+          104.83981323242188,
+          46.134727478027344,
+          102.0134506225586
+        ],
+        "class": "Model",
+        "name": "2x2,土著营地V2",
+        "position": [
+          -1022.947021484375,
+          42.641571044921875,
+          423.9932861328125
+        ]
+      },
+      {
+        "size": [
+          63.76026916503906,
+          36.0012321472168,
+          44.60361862182617
+        ],
+        "class": "Model",
+        "name": "2x1,西部铁道公司V1",
+        "position": [
+          -478.783935546875,
+          30.144737243652344,
+          300.4737854003906
+        ]
+      },
+      {
+        "size": [
+          50,
+          4.221573829650879,
+          50
+        ],
+        "class": "Model",
+        "name": "1x1,围脖彩蛋V1",
+        "position": [
+          -850,
+          52.369728088378906,
+          650
+        ]
+      }
+    ],
+    "沼泽": [
+      {
+        "size": [
+          195.17739868164062,
+          75.46824645996094,
+          170
+        ],
+        "class": "Model",
+        "name": "野猪王战场",
+        "position": [
+          439.80859375,
+          -182.734130859375,
+          575
+        ]
+      },
+      {
+        "size": [
+          100.02369689941406,
+          104.67373657226562,
+          50.000030517578125
+        ],
+        "class": "Model",
+        "name": "2x1,野猪王入口",
+        "position": [
+          450,
+          -24.97491455078125,
+          575.0118408203125
+        ]
+      },
+      {
+        "size": [
+          102.67549896240234,
+          39.372825622558594,
+          100
+        ],
+        "class": "Model",
+        "name": "2x2,土著营地",
+        "position": [
+          875,
+          14.501016616821289,
+          973.6622314453125
+        ]
+      },
+      {
+        "size": [
+          100,
+          35.818626403808594,
+          54.47352600097656
+        ],
+        "class": "Model",
+        "name": "2x1,土著村落",
+        "position": [
+          925,
+          11.920969009399414,
+          400.2749938964844
+        ]
+      },
+      {
+        "size": [
+          150,
+          68.33070373535156,
+          150
+        ],
+        "class": "Model",
+        "name": "3x3,加特林工坊LV2",
+        "position": [
+          600,
+          35.12741470336914,
+          800
+        ]
+      },
+      {
+        "size": [
+          72.28440856933594,
+          33.88337326049805,
+          57.28412628173828
+        ],
+        "class": "Model",
+        "name": "2x1,私酒工坊LV1",
+        "position": [
+          256.60577392578125,
+          20.310501098632812,
+          625.55419921875
+        ]
+      }
+    ],
+    "火车大劫案": [
+      {
+        "size": [
+          4,
+          5.45001220703125,
+          2
+        ],
+        "class": "Model",
+        "name": "CowboyGunV2",
+        "position": [
+          -484.9718322753906,
+          -782.25927734375,
+          -259.91387939453125
+        ]
+      }
+    ]
+  },
+  "readyAt": 0.2666666805744171,
+  "method": "Live generated map -> disposable sampled clones -> Studio ViewportFrame. No realtime shadows, particles or exact Glass/Neon rendering.",
+  "id": "terrain-one-run-20261119",
+  "sampleAt": 351.3208516687155,
+  "views": [
+    {
+      "id": "M01",
+      "radius": 2,
+      "source": "Grassland",
+      "zone": 3,
+      "previewParts": 26,
+      "clonedRoots": 25,
+      "zoneMin": 2,
+      "center": [
+        -250,
+        0,
+        -400
+      ],
+      "span": 250,
+      "observed": true,
+      "zoneMax": 4,
+      "sourceCandidates": [
+        "Grassland"
+      ],
+      "title": "普通草原",
+      "displayScale": 0.4,
+      "focusHeight": 2.8000000000000003,
+      "centerGrid": [
+        23,
+        20
+      ]
+    },
+    {
+      "id": "M02",
+      "radius": 3,
+      "source": "高原地区地块",
+      "zone": 4,
+      "previewParts": 99,
+      "clonedRoots": 49,
+      "focusHeight": 2,
+      "title": "高原山丘",
+      "span": 350,
+      "observed": true,
+      "center": [
+        800,
+        11.674101829528809,
+        -350
+      ],
+      "displayScale": 0.2857142857142857,
+      "height": "max",
+      "sourceCandidates": [
+        "高原地区地块",
+        "雪原地块"
+      ],
+      "typeName": "land",
+      "centerGrid": [
+        44,
+        21
+      ]
+    },
+    {
+      "focusHeight": 1.5555555555555554,
+      "source": "低位地区地块",
+      "zone": 4,
+      "previewParts": 968,
+      "clonedRoots": 82,
+      "center": [
+        -700,
+        0,
+        -850
+      ],
+      "sourceCandidates": [],
+      "radius": 4,
+      "includeBuilding": "5x5,老矿镇",
+      "id": "M03",
+      "span": 450,
+      "observed": true,
+      "title": "下沉事件区与老矿镇",
+      "height": "min",
+      "displayScale": 0.2222222222222222,
+      "typeName": "Special",
+      "centerGrid": [
+        14,
+        11
+      ]
+    },
+    {
+      "radius": 1,
+      "source": "池塘",
+      "zone": 1,
+      "id": "M04",
+      "clonedRoots": 20,
+      "previewParts": 137,
+      "span": 150,
+      "observed": true,
+      "center": [
+        -100,
+        -0.47340500354766846,
+        100
+      ],
+      "sourceCandidates": [
+        "池塘"
+      ],
+      "title": "普通池塘",
+      "displayScale": 0.6666666666666666,
+      "focusHeight": 4.666666666666666,
+      "centerGrid": [
+        26,
+        30
+      ]
+    },
+    {
+      "radius": 2,
+      "source": "沼泽地块",
+      "zone": 3,
+      "id": "M05",
+      "clonedRoots": 25,
+      "previewParts": 201,
+      "span": 250,
+      "observed": true,
+      "center": [
+        550,
+        -0.8049452900886536,
+        350
+      ],
+      "sourceCandidates": [
+        "沼泽地块"
+      ],
+      "title": "沼泽地表",
+      "displayScale": 0.4,
+      "focusHeight": 2.8000000000000003,
+      "centerGrid": [
+        39,
+        35
+      ]
+    },
+    {
+      "radius": 2,
+      "source": "沼泽水地块",
+      "zone": 4,
+      "id": "M06",
+      "clonedRoots": 25,
+      "previewParts": 303,
+      "span": 250,
+      "observed": true,
+      "center": [
+        700,
+        -0.9639461636543274,
+        800
+      ],
+      "sourceCandidates": [
+        "沼泽水地块"
+      ],
+      "title": "沼泽水地",
+      "displayScale": 0.4,
+      "focusHeight": 2.8000000000000003,
+      "centerGrid": [
+        42,
+        44
+      ]
+    },
+    {
+      "radius": 1,
+      "source": "沼泽地块-毒沼泽",
+      "zone": 6,
+      "id": "M07",
+      "clonedRoots": 9,
+      "previewParts": 53,
+      "span": 150,
+      "observed": true,
+      "center": [
+        1200,
+        -0.10649286210536957,
+        1050
+      ],
+      "sourceCandidates": [
+        "沼泽地块-毒沼泽"
+      ],
+      "title": "毒沼泽",
+      "displayScale": 0.6666666666666666,
+      "focusHeight": 4.666666666666666,
+      "centerGrid": [
+        52,
+        49
+      ]
+    },
+    {
+      "radius": 1,
+      "source": "沼泽地块-泥沼泽",
+      "zone": 6,
+      "id": "M08",
+      "clonedRoots": 9,
+      "previewParts": 54,
+      "span": 150,
+      "observed": true,
+      "center": [
+        1300,
+        0.738150954246521,
+        1050
+      ],
+      "sourceCandidates": [
+        "沼泽地块-泥沼泽"
+      ],
+      "title": "泥沼泽",
+      "displayScale": 0.6666666666666666,
+      "focusHeight": 4.666666666666666,
+      "centerGrid": [
+        54,
+        49
+      ]
+    },
+    {
+      "radius": 2,
+      "source": "雪原地块",
+      "zone": 6,
+      "id": "M09",
+      "clonedRoots": 20,
+      "previewParts": 65,
+      "focusHeight": 2.8000000000000003,
+      "span": 250,
+      "observed": true,
+      "center": [
+        -1150,
+        20.044973373413086,
+        1300
+      ],
+      "sourceCandidates": [
+        "高原地区地块",
+        "雪原地块"
+      ],
+      "title": "雪原地表",
+      "displayScale": 0.4,
+      "typeName": "Snowfield",
+      "centerGrid": [
+        5,
+        54
+      ]
+    },
+    {
+      "radius": 1,
+      "source": "雪原池塘",
+      "zone": 5,
+      "id": "M10",
+      "clonedRoots": 9,
+      "previewParts": 41,
+      "focusHeight": 4.666666666666666,
+      "span": 150,
+      "observed": true,
+      "title": "雪原池塘",
+      "sourceCandidates": [],
+      "center": [
+        -350,
+        10.072265625,
+        1000
+      ],
+      "displayScale": 0.6666666666666666,
+      "typeName": "Snowfield",
+      "centerGrid": [
+        21,
+        48
+      ]
+    },
+    {
+      "radius": 2,
+      "source": "铁轨路",
+      "zone": 3,
+      "id": "M11",
+      "clonedRoots": 25,
+      "previewParts": 41,
+      "focusHeight": 2.8000000000000003,
+      "span": 250,
+      "observed": true,
+      "title": "铁路路基",
+      "sourceCandidates": [],
+      "center": [
+        0,
+        0,
+        -600
+      ],
+      "displayScale": 0.4,
+      "typeName": "Railway",
+      "centerGrid": [
+        28,
+        16
+      ]
+    },
+    {
+      "radius": 2,
+      "source": "5级地块",
+      "zone": 5,
+      "id": "M12",
+      "clonedRoots": 25,
+      "previewParts": 51,
+      "span": 250,
+      "observed": true,
+      "center": [
+        -1000,
+        0,
+        -400
+      ],
+      "sourceCandidates": [
+        "5级地块"
+      ],
+      "title": "5级区域地表",
+      "displayScale": 0.4,
+      "focusHeight": 2.8000000000000003,
+      "centerGrid": [
+        8,
+        20
+      ]
+    },
+    {
+      "radius": 2,
+      "source": "6级地块",
+      "zone": 6,
+      "id": "M13",
+      "clonedRoots": 25,
+      "previewParts": 51,
+      "span": 250,
+      "observed": true,
+      "center": [
+        1250,
+        0,
+        -750
+      ],
+      "sourceCandidates": [
+        "6级地块"
+      ],
+      "title": "6级区域地表",
+      "displayScale": 0.4,
+      "focusHeight": 2.8000000000000003,
+      "centerGrid": [
+        53,
+        13
+      ]
+    },
+    {
+      "radius": 3,
+      "source": "雷神锤子专属地块",
+      "id": "M14",
+      "observed": false,
+      "title": "雷神锤事件坑"
+    },
+    {
+      "radius": 3,
+      "id": "M15",
+      "clonedRoots": 50,
+      "span": 350,
+      "observed": true,
+      "center": [
+        -899.0233764648438,
+        60,
+        852.2583618164062
+      ],
+      "displayScale": 0.2857142857142857,
+      "previewParts": 408,
+      "title": "雪山山体",
+      "focusHeight": 42.88716343470982,
+      "mountain": true
+    },
+    {
+      "radius": 2,
+      "includeBuilding": "1x1,1级铃铛洞穴",
+      "id": "M16",
+      "clonedRoots": 26,
+      "span": 250,
+      "observed": true,
+      "title": "洞穴地表入口",
+      "displayScale": 0.4,
+      "previewParts": 198,
+      "center": [
+        -158.5314178466797,
+        0,
+        750.4801635742188
+      ],
+      "focusHeight": 2.8000000000000003,
+      "trimBelow": -35
+    },
+    {
+      "radius": 0,
+      "id": "M10D",
+      "clonedRoots": 1,
+      "centerGrid": [
+        21,
+        48
+      ],
+      "span": 50,
+      "observed": true,
+      "center": [
+        -350,
+        10.072265625,
+        1000
+      ],
+      "displayScale": 2,
+      "title": "雪原池塘近景",
+      "previewParts": 19,
+      "focusHeight": 14,
+      "detail": true
+    },
+    {
+      "radius": 0,
+      "id": "M07D",
+      "clonedRoots": 1,
+      "centerGrid": [
+        52,
+        49
+      ],
+      "span": 50,
+      "observed": true,
+      "center": [
+        1200,
+        -0.10649286210536957,
+        1050
+      ],
+      "displayScale": 2,
+      "title": "毒沼泽近景",
+      "previewParts": 8,
+      "focusHeight": 14,
+      "detail": true
+    },
+    {
+      "radius": 0,
+      "id": "M08D",
+      "clonedRoots": 1,
+      "centerGrid": [
+        54,
+        49
+      ],
+      "span": 50,
+      "observed": true,
+      "center": [
+        1300,
+        0.738150954246521,
+        1050
+      ],
+      "displayScale": 2,
+      "title": "泥沼泽近景",
+      "previewParts": 7,
+      "focusHeight": 14,
+      "detail": true
+    }
+  ],
+  "sources": {
+    "雪原地块2": 23,
+    "沼泽地块-毒沼泽": 31,
+    "5级地块": 238,
+    "6级地块": 281,
+    "雪原地块": 221,
+    "沼泽池塘": 1,
+    "雪原地块3": 33,
+    "沼泽地块-泥沼泽": 45,
+    "空地块": 29,
+    "Grassland": 802,
+    "池塘": 1,
+    "沼泽水地块": 94,
+    "铁轨出入口": 1,
+    "高原地区地块": 221,
+    "沼泽地块": 237,
+    "沼泽地块-泥沼(废弃)": 29
+  },
+  "groundCount": 3026,
+  "grid": 55,
+  "sampledAt": 572.5208632098511,
+  "cell": 50,
+  "specialBuildings": [
+    {
+      "size": [
+        250,
+        143.2389678955078,
+        250
+      ],
+      "name": "5x5,老矿镇",
+      "position": [
+        -700,
+        12.199579238891602,
+        -850
+      ]
+    },
+    {
+      "size": [
+        199.84181213378906,
+        329.6885986328125,
+        158.13670349121094
+      ],
+      "name": "1x1,1级铃铛洞穴",
+      "position": [
+        -158.5314178466797,
+        -128.212890625,
+        750.4801635742188
+      ]
+    },
+    {
+      "size": [
+        158.13671875,
+        404.552001953125,
+        199.84178161621094
+      ],
+      "name": "1x1,2级铃铛洞穴",
+      "position": [
+        -908.5314331054688,
+        -164.88548278808594,
+        -499.51983642578125
+      ]
+    }
+  ],
+  "types": {
+    "LightHouse": 1,
+    "Hospital": 2,
+    "building": 649,
+    "Special": 51,
+    "MarshPond": 4,
+    "Snowfield": 390,
+    "ToxicSwamp": 31,
+    "GemTower": 9,
+    "land": 1390,
+    "Railway": 55,
+    "Stronghold": 36,
+    "pond": 11,
+    "campfireLand": 24,
+    "Marsh": 373
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "5",
+  "label": "第5批 100 条",
+  "first": "AF-0351",
+  "last": "AF-0450",
+  "count": 100,
+  "methods": {
+    "原貌截图": 90,
+    "辅助可视化": 1,
+    "界面演示": 9
+  },
+  "reviewPending": true,
+  "cleanup": {
+    "cleaned": true,
+    "guiRestored": true,
+    "sourcesIntact": 100,
+    "cameraRestored": true,
+    "lightingRestored": true
+  },
+  "additionalImages": 0
+}

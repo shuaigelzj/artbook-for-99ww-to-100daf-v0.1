@@ -1,0 +1,14 @@
+{
+  "status": "failed_before_image_output",
+  "tool": "image_gen.imagegen",
+  "scope": "M12/M13 one combined concept image only",
+  "referenceImageCount": 2,
+  "requestedImageCount": 1,
+  "elapsedSeconds": 3.5,
+  "httpStatus": 401,
+  "serverMessage": "Your IP is not authorized to make this request.",
+  "quotaInsufficientReported": false,
+  "generatedImageExists": false,
+  "promptFile": "M12_M13_辐射废渣荒地_生图提示词.txt",
+  "fallbackExecuted": false
+}

@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "AF-0351",
+    "name": "1002",
+    "path": "Workspace.Prefabs.蓝图.1002",
+    "originalLocator": "W/2/4/42",
+    "locator": "W/2/4/24",
+    "parts": 24,
+    "class": "Model",
+    "materialType": "营地设施"
+  },
+  {
+    "id": "AF-0352",
+    "name": "1008",
+    "path": "Workspace.Prefabs.蓝图.1008",
+    "originalLocator": "W/2/4/43",
+    "locator": "W/2/4/29",
+    "parts": 4,
+    "class": "Model",
+    "materialType": "营地设施"
+  },
+  {
+    "id": "AF-0353",
+    "name": "肩膀冰刺右",
+    "path": "Workspace.Prefabs.敌人.小牛2阶段饰品.肩膀冰刺右",
+    "originalLocator": "W/2/5/1/1",
+    "locator": "W/2/5/1/1",
+    "parts": 2,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0354",
+    "name": "肩膀冰刺左",
+    "path": "Workspace.Prefabs.敌人.小牛2阶段饰品.肩膀冰刺左",
+    "originalLocator": "W/2/5/1/2",
+    "locator": "W/2/5/1/2",
+    "parts": 2,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0355",
+    "name": "身体冰刺",
+    "path": "Workspace.Prefabs.敌人.小牛2阶段饰品.身体冰刺",
+    "originalLocator": "W/2/5/1/3",
+    "locator": "W/2/5/1/3",
+    "parts": 3,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0356",
+    "name": "枪僵尸",
+    "path": "Workspace.Prefabs.敌人.枪僵尸",
+    "originalLocator": "W/2/5/2",
+    "locator": "W/2/5/9",
+    "parts": 16,
+    "class": "Model",
+    "materialType": "怪物与Boss"
+  },
+  {
+    "id": "AF-0357",
+    "name": "Mr.Doge",
+    "path": "Workspace.Prefabs.敌人.Mr.Doge",
+    "originalLocator": "W/2/5/3",
+    "locator": "W/2/5/2",
+    "parts": 22,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0358",
+    "name": "自爆僵尸",
+    "path": "Workspace.Prefabs.敌人.自爆僵尸",
+    "originalLocator": "W/2/5/4",
+    "locator": "W/2/5/38",
+    "parts": 9,
+    "class": "Model",
+    "materialType": "怪物与Boss"
+  },
+  {
+    "id": "AF-0359",
+    "name": "猪侄子2",
+    "path": "Workspace.Prefabs.敌人.猪侄子2",
+    "originalLocator": "W/2/5/5",
+    "locator": "W/2/5/13",
+    "parts": 31,
+    "class": "Model",
+    "materialType": "怪物与Boss"
+  },
+  {
+    "id": "AF-0360",
+    "name": "Snow Archer",
+    "path": "Workspace.Prefabs.敌人.Snow Archer",
+    "originalLocator": "W/2/5/6",
+    "locator": "W/2/5/21",
+    "parts": 11,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0361",
+    "name": "Snowy",
+    "path": "Workspace.Prefabs.敌人.Snowy",
+    "originalLocator": "W/2/5/7",
+    "locator": "W/2/5/29",
+    "parts": 13,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0362",
+    "name": "CowboyMeleeVD",
+    "path": "Workspace.Prefabs.敌人.CowboyMeleeVD",
+    "originalLocator": "W/2/5/8",
+    "locator": "W/2/5/33",
+    "parts": 18,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0363",
+    "name": "小牛2阶段",
+    "path": "Workspace.Prefabs.敌人.小牛2阶段",
+    "originalLocator": "W/2/5/9",
+    "locator": "W/2/5/16",
+    "parts": 38,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0364",
+    "name": "Wild Lancer",
+    "path": "Workspace.Prefabs.敌人.Wild Lancer",
+    "originalLocator": "W/2/5/10",
+    "locator": "W/2/5/10",
+    "parts": 14,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0365",
+    "name": "猪侄子1",
+    "path": "Workspace.Prefabs.敌人.猪侄子1",
+    "originalLocator": "W/2/5/11",
+    "locator": "W/2/5/19",
+    "parts": 31,
+    "class": "Model",
+    "materialType": "怪物与Boss"
+  },
+  {
+    "id": "AF-0366",
+    "name": "CowboyMeleeVC",
+    "path": "Workspace.Prefabs.敌人.CowboyMeleeVC",
+    "originalLocator": "W/2/5/12",
+    "locator": "W/2/5/5",
+    "parts": 17,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0367",
+    "name": "幽灵",
+    "path": "Workspace.Prefabs.敌人.幽灵",
+    "originalLocator": "W/2/5/13",
+    "locator": "W/2/5/14",
+    "parts": 9,
+    "class": "Model",
+    "materialType": "怪物与Boss"
+  },
+  {
+    "id": "AF-0368",
+    "name": "Snow Lancer",
+    "path": "Workspace.Prefabs.敌人.Snow Lancer",
+    "originalLocator": "W/2/5/14",
+    "locator": "W/2/5/11",
+    "parts": 13,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0369",
+    "name": "CowboyMeleeV3",
+    "path": "Workspace.Prefabs.敌人.CowboyMeleeV3",
+    "originalLocator": "W/2/5/15",
+    "locator": "W/2/5/3",
+    "parts": 22,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0370",
+    "name": "破坏者1",
+    "path": "Workspace.Prefabs.敌人.破坏者1",
+    "originalLocator": "W/2/5/16",
+    "locator": "W/2/5/17",
+    "parts": 19,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0371",
+    "name": "Gabe",
+    "path": "Workspace.Prefabs.敌人.Gabe",
+    "originalLocator": "W/2/5/17",
+    "locator": "W/2/5/34",
+    "parts": 32,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0372",
+    "name": "解救神枪手牛仔",
+    "path": "Workspace.Prefabs.敌人.解救神枪手牛仔",
+    "originalLocator": "W/2/5/18",
+    "locator": "W/2/5/15",
+    "parts": 12,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0373",
+    "name": "Jack",
+    "path": "Workspace.Prefabs.敌人.Jack",
+    "originalLocator": "W/2/5/19",
+    "locator": "W/2/5/7",
+    "parts": 16,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0374",
+    "name": "Bear",
+    "path": "Workspace.Prefabs.敌人.Bear",
+    "originalLocator": "W/2/5/20",
+    "locator": "W/2/5/18",
+    "parts": 29,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0375",
+    "name": "CowboyMeleeV2",
+    "path": "Workspace.Prefabs.敌人.CowboyMeleeV2",
+    "originalLocator": "W/2/5/21",
+    "locator": "W/2/5/24",
+    "parts": 18,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0376",
+    "name": "小牛",
+    "path": "Workspace.Prefabs.敌人.小牛",
+    "originalLocator": "W/2/5/22",
+    "locator": "W/2/5/12",
+    "parts": 35,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0377",
+    "name": "CowboyMeleeV1",
+    "path": "Workspace.Prefabs.敌人.CowboyMeleeV1",
+    "originalLocator": "W/2/5/23",
+    "locator": "W/2/5/6",
+    "parts": 14,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0378",
+    "name": "破坏者2",
+    "path": "Workspace.Prefabs.敌人.破坏者2",
+    "originalLocator": "W/2/5/24",
+    "locator": "W/2/5/56",
+    "parts": 28,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0379",
+    "name": "镐子僵尸",
+    "path": "Workspace.Prefabs.敌人.镐子僵尸",
+    "originalLocator": "W/2/5/25",
+    "locator": "W/2/5/32",
+    "parts": 12,
+    "class": "Model",
+    "materialType": "怪物与Boss"
+  },
+  {
+    "id": "AF-0380",
+    "name": "Sam",
+    "path": "Workspace.Prefabs.敌人.Sam",
+    "originalLocator": "W/2/5/26",
+    "locator": "W/2/5/31",
+    "parts": 19,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0381",
+    "name": "CowboyGunV2",
+    "path": "Workspace.Prefabs.敌人.CowboyGunV2",
+    "originalLocator": "W/2/5/27",
+    "locator": "W/2/5/26",
+    "parts": 16,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0382",
+    "name": "CowboyGunVC",
+    "path": "Workspace.Prefabs.敌人.CowboyGunVC",
+    "originalLocator": "W/2/5/28",
+    "locator": "W/2/5/37",
+    "parts": 26,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0383",
+    "name": "Mounted CowboyGunV1",
+    "path": "Workspace.Prefabs.敌人.Mounted CowboyGunV1",
+    "originalLocator": "W/2/5/29",
+    "locator": "W/2/5/46",
+    "parts": 43,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0384",
+    "name": "Carlos",
+    "path": "Workspace.Prefabs.敌人.Carlos",
+    "originalLocator": "W/2/5/30",
+    "locator": "W/2/5/20",
+    "parts": 16,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0385",
+    "name": "CowboyGunV4",
+    "path": "Workspace.Prefabs.敌人.CowboyGunV4",
+    "originalLocator": "W/2/5/31",
+    "locator": "W/2/5/8",
+    "parts": 32,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0386",
+    "name": "Snow bear",
+    "path": "Workspace.Prefabs.敌人.Snow bear",
+    "originalLocator": "W/2/5/32",
+    "locator": "W/2/5/52",
+    "parts": 33,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0387",
+    "name": "Wild Boar",
+    "path": "Workspace.Prefabs.敌人.Wild Boar",
+    "originalLocator": "W/2/5/33",
+    "locator": "W/2/5/30",
+    "parts": 32,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0388",
+    "name": "CowboyMeleeV4",
+    "path": "Workspace.Prefabs.敌人.CowboyMeleeV4",
+    "originalLocator": "W/2/5/34",
+    "locator": "W/2/5/23",
+    "parts": 13,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0389",
+    "name": "CowboyGunV3",
+    "path": "Workspace.Prefabs.敌人.CowboyGunV3",
+    "originalLocator": "W/2/5/35",
+    "locator": "W/2/5/39",
+    "parts": 25,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0390",
+    "name": "Mad Bear",
+    "path": "Workspace.Prefabs.敌人.Mad Bear",
+    "originalLocator": "W/2/5/36",
+    "locator": "W/2/5/25",
+    "parts": 29,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0391",
+    "name": "Mounted CowboyGunV3",
+    "path": "Workspace.Prefabs.敌人.Mounted CowboyGunV3",
+    "originalLocator": "W/2/5/37",
+    "locator": "W/2/5/45",
+    "parts": 46,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0392",
+    "name": "Wild Archer",
+    "path": "Workspace.Prefabs.敌人.Wild Archer",
+    "originalLocator": "W/2/5/38",
+    "locator": "W/2/5/36",
+    "parts": 11,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0393",
+    "name": "King of Wild Boars",
+    "path": "Workspace.Prefabs.敌人.King of Wild Boars",
+    "originalLocator": "W/2/5/39",
+    "locator": "W/2/5/43",
+    "parts": 31,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0394",
+    "name": "Big Turkey",
+    "path": "Workspace.Prefabs.敌人.Big Turkey",
+    "originalLocator": "W/2/5/40",
+    "locator": "W/2/5/54",
+    "parts": 38,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0395",
+    "name": "Mounted CowboyMeleeV1",
+    "path": "Workspace.Prefabs.敌人.Mounted CowboyMeleeV1",
+    "originalLocator": "W/2/5/41",
+    "locator": "W/2/5/47",
+    "parts": 35,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0396",
+    "name": "Alligator",
+    "path": "Workspace.Prefabs.敌人.Alligator",
+    "originalLocator": "W/2/5/42",
+    "locator": "W/2/5/4",
+    "parts": 44,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0397",
+    "name": "Pine",
+    "path": "Workspace.Prefabs.敌人.Pine",
+    "originalLocator": "W/2/5/43",
+    "locator": "W/2/5/22",
+    "parts": 17,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0398",
+    "name": "Turkey",
+    "path": "Workspace.Prefabs.敌人.Turkey",
+    "originalLocator": "W/2/5/44",
+    "locator": "W/2/5/49",
+    "parts": 31,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0399",
+    "name": "Baby Wolf",
+    "path": "Workspace.Prefabs.敌人.Baby Wolf",
+    "originalLocator": "W/2/5/45",
+    "locator": "W/2/5/35",
+    "parts": 30,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0400",
+    "name": "Maya",
+    "path": "Workspace.Prefabs.敌人.Maya",
+    "originalLocator": "W/2/5/46",
+    "locator": "W/2/5/27",
+    "parts": 14,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0401",
+    "name": "Mounted Gunslinger",
+    "path": "Workspace.Prefabs.敌人.Mounted Gunslinger",
+    "originalLocator": "W/2/5/47",
+    "locator": "W/2/5/50",
+    "parts": 53,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0402",
+    "name": "Snow Wolf",
+    "path": "Workspace.Prefabs.敌人.Snow Wolf",
+    "originalLocator": "W/2/5/48",
+    "locator": "W/2/5/44",
+    "parts": 31,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0403",
+    "name": "Mounted Lancer",
+    "path": "Workspace.Prefabs.敌人.Mounted Lancer",
+    "originalLocator": "W/2/5/49",
+    "locator": "W/2/5/28",
+    "parts": 34,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0404",
+    "name": "Wolf",
+    "path": "Workspace.Prefabs.敌人.Wolf",
+    "originalLocator": "W/2/5/50",
+    "locator": "W/2/5/53",
+    "parts": 30,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0405",
+    "name": "Big Wolf",
+    "path": "Workspace.Prefabs.敌人.Big Wolf",
+    "originalLocator": "W/2/5/51",
+    "locator": "W/2/5/48",
+    "parts": 35,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0406",
+    "name": "Cougar",
+    "path": "Workspace.Prefabs.敌人.Cougar",
+    "originalLocator": "W/2/5/52",
+    "locator": "W/2/5/41",
+    "parts": 36,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0407",
+    "name": "CowboyGunV1",
+    "path": "Workspace.Prefabs.敌人.CowboyGunV1",
+    "originalLocator": "W/2/5/53",
+    "locator": "W/2/5/51",
+    "parts": 22,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0408",
+    "name": "Snow Leopard",
+    "path": "Workspace.Prefabs.敌人.Snow Leopard",
+    "originalLocator": "W/2/5/54",
+    "locator": "W/2/5/55",
+    "parts": 36,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0409",
+    "name": "Big Alligator",
+    "path": "Workspace.Prefabs.敌人.Big Alligator",
+    "originalLocator": "W/2/5/55",
+    "locator": "W/2/5/42",
+    "parts": 48,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0410",
+    "name": "Mounted CowboyGunV2",
+    "path": "Workspace.Prefabs.敌人.Mounted CowboyGunV2",
+    "originalLocator": "W/2/5/56",
+    "locator": "W/2/5/58",
+    "parts": 37,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0411",
+    "name": "Mounted CowboyMeleeV2",
+    "path": "Workspace.Prefabs.敌人.Mounted CowboyMeleeV2",
+    "originalLocator": "W/2/5/57",
+    "locator": "W/2/5/40",
+    "parts": 39,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0412",
+    "name": "Mounted CowboyMeleeV3",
+    "path": "Workspace.Prefabs.敌人.Mounted CowboyMeleeV3",
+    "originalLocator": "W/2/5/58",
+    "locator": "W/2/5/57",
+    "parts": 43,
+    "class": "Model",
+    "materialType": "人形角色"
+  },
+  {
+    "id": "AF-0413",
+    "name": "King Moose",
+    "path": "Workspace.Prefabs.敌人.King Moose",
+    "originalLocator": "W/2/5/59",
+    "locator": "W/2/5/59",
+    "parts": 48,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0414",
+    "name": "5x5,老矿镇",
+    "path": "Workspace.Prefabs.老矿镇.5x5,老矿镇",
+    "originalLocator": "W/2/6/1",
+    "locator": "W/2/6/1",
+    "parts": 1007,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0415",
+    "name": "圣诞帽",
+    "path": "Workspace.Prefabs.巨型怪物.圣诞帽",
+    "originalLocator": "W/2/7/1",
+    "locator": "W/2/7/1",
+    "parts": 2,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0416",
+    "name": "山羊人",
+    "path": "Workspace.Prefabs.巨型怪物.山羊人",
+    "originalLocator": "W/2/7/2",
+    "locator": "W/2/7/2",
+    "parts": 26,
+    "class": "Model",
+    "materialType": "怪物与Boss"
+  },
+  {
+    "id": "AF-0417",
+    "name": "猪爹",
+    "path": "Workspace.Prefabs.巨型怪物.猪爹",
+    "originalLocator": "W/2/7/3",
+    "locator": "W/2/7/3",
+    "parts": 35,
+    "class": "Model",
+    "materialType": "怪物与Boss"
+  },
+  {
+    "id": "AF-0418",
+    "name": "移动机器人",
+    "path": "Workspace.Prefabs.巨型怪物.移动机器人",
+    "originalLocator": "W/2/7/4",
+    "locator": "W/2/7/4",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "怪物与Boss"
+  },
+  {
+    "id": "AF-0419",
+    "name": "野猪人",
+    "path": "Workspace.Prefabs.巨型怪物.野猪人",
+    "originalLocator": "W/2/7/5",
+    "locator": "W/2/7/5",
+    "parts": 34,
+    "class": "Model",
+    "materialType": "怪物与Boss"
+  },
+  {
+    "id": "AF-0420",
+    "name": "野猪人1",
+    "path": "Workspace.Prefabs.巨型怪物.野猪人1",
+    "originalLocator": "W/2/7/6",
+    "locator": "W/2/7/6",
+    "parts": 29,
+    "class": "Model",
+    "materialType": "怪物与Boss"
+  },
+  {
+    "id": "AF-0421",
+    "name": "野猪人3",
+    "path": "Workspace.Prefabs.巨型怪物.野猪人3",
+    "originalLocator": "W/2/7/7",
+    "locator": "W/2/7/7",
+    "parts": 33,
+    "class": "Model",
+    "materialType": "怪物与Boss"
+  },
+  {
+    "id": "AF-0422",
+    "name": "驯鹿头饰",
+    "path": "Workspace.Prefabs.皮肤.马头饰.驯鹿头饰",
+    "originalLocator": "W/2/8/1/1",
+    "locator": "W/2/8/1/1",
+    "parts": 6,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0423",
+    "name": "Wolf1",
+    "path": "Workspace.Prefabs.皮肤.动物伙伴皮肤.Wolf1",
+    "originalLocator": "W/2/8/2/1",
+    "locator": "W/2/8/2/2",
+    "parts": 37,
+    "class": "Model",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0424",
+    "name": "Wild Boar1",
+    "path": "Workspace.Prefabs.皮肤.动物伙伴皮肤.Wild Boar1",
+    "originalLocator": "W/2/8/2/2",
+    "locator": "W/2/8/2/1",
+    "parts": 42,
+    "class": "Model",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0425",
+    "name": "Star Old bag",
+    "path": "Workspace.Prefabs.皮肤.道具皮肤.Star Old bag",
+    "originalLocator": "W/2/8/3/1",
+    "locator": "W/2/8/3/7",
+    "parts": 8,
+    "class": "Tool",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0426",
+    "name": "Star Good axe",
+    "path": "Workspace.Prefabs.皮肤.道具皮肤.Star Good axe",
+    "originalLocator": "W/2/8/3/2",
+    "locator": "W/2/8/3/4",
+    "parts": 10,
+    "class": "Tool",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0427",
+    "name": "Star Power axe",
+    "path": "Workspace.Prefabs.皮肤.道具皮肤.Star Power axe",
+    "originalLocator": "W/2/8/3/3",
+    "locator": "W/2/8/3/8",
+    "parts": 11,
+    "class": "Tool",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0428",
+    "name": "水枪2号",
+    "path": "Workspace.Prefabs.皮肤.道具皮肤.水枪2号",
+    "originalLocator": "W/2/8/3/4",
+    "locator": "W/2/8/3/5",
+    "parts": 13,
+    "class": "Tool",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0429",
+    "name": "Star Old axe",
+    "path": "Workspace.Prefabs.皮肤.道具皮肤.Star Old axe",
+    "originalLocator": "W/2/8/3/5",
+    "locator": "W/2/8/3/1",
+    "parts": 10,
+    "class": "Tool",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0430",
+    "name": "Star Big bag",
+    "path": "Workspace.Prefabs.皮肤.道具皮肤.Star Big bag",
+    "originalLocator": "W/2/8/3/6",
+    "locator": "W/2/8/3/2",
+    "parts": 8,
+    "class": "Tool",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0431",
+    "name": "Star Large bag",
+    "path": "Workspace.Prefabs.皮肤.道具皮肤.Star Large bag",
+    "originalLocator": "W/2/8/3/7",
+    "locator": "W/2/8/3/3",
+    "parts": 8,
+    "class": "Tool",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0432",
+    "name": "水枪1号",
+    "path": "Workspace.Prefabs.皮肤.道具皮肤.水枪1号",
+    "originalLocator": "W/2/8/3/8",
+    "locator": "W/2/8/3/6",
+    "parts": 11,
+    "class": "Tool",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0433",
+    "name": "UIStore",
+    "path": "Workspace.Prefabs.UI.UIStore",
+    "originalLocator": "W/2/9/1",
+    "locator": "W/2/9/1",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "特效与界面"
+  },
+  {
+    "id": "AF-0434",
+    "name": "UIMuscleUP",
+    "path": "Workspace.Prefabs.UI.UIMuscleUP",
+    "originalLocator": "W/2/9/2",
+    "locator": "W/2/9/5",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "特效与界面"
+  },
+  {
+    "id": "AF-0435",
+    "name": "UICD",
+    "path": "Workspace.Prefabs.UI.UICD",
+    "originalLocator": "W/2/9/3",
+    "locator": "W/2/9/2",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "特效与界面"
+  },
+  {
+    "id": "AF-0436",
+    "name": "Guide",
+    "path": "Workspace.Prefabs.UI.Guide",
+    "originalLocator": "W/2/9/4",
+    "locator": "W/2/9/7",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "特效与界面"
+  },
+  {
+    "id": "AF-0437",
+    "name": "UIHealth",
+    "path": "Workspace.Prefabs.UI.UIHealth",
+    "originalLocator": "W/2/9/5",
+    "locator": "W/2/9/4",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "特效与界面"
+  },
+  {
+    "id": "AF-0438",
+    "name": "UIPlayerDie",
+    "path": "Workspace.Prefabs.UI.UIPlayerDie",
+    "originalLocator": "W/2/9/6",
+    "locator": "W/2/9/6",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "特效与界面"
+  },
+  {
+    "id": "AF-0439",
+    "name": "UIItemDesc",
+    "path": "Workspace.Prefabs.UI.UIItemDesc",
+    "originalLocator": "W/2/9/7",
+    "locator": "W/2/9/8",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "特效与界面"
+  },
+  {
+    "id": "AF-0440",
+    "name": "驯服",
+    "path": "Workspace.Prefabs.UI.驯服",
+    "originalLocator": "W/2/9/8",
+    "locator": "W/2/9/9",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "特效与界面"
+  },
+  {
+    "id": "AF-0441",
+    "name": "无名客",
+    "path": "Workspace.Prefabs.UI.无名客",
+    "originalLocator": "W/2/9/9",
+    "locator": "W/2/9/3",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "特效与界面"
+  },
+  {
+    "id": "AF-0442",
+    "name": "1",
+    "path": "Workspace.Prefabs.CharacterHat.1",
+    "originalLocator": "W/2/10/1",
+    "locator": "W/2/10/1",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0443",
+    "name": "3",
+    "path": "Workspace.Prefabs.CharacterHat.3",
+    "originalLocator": "W/2/10/2",
+    "locator": "W/2/10/2",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0444",
+    "name": "2",
+    "path": "Workspace.Prefabs.CharacterHat.2",
+    "originalLocator": "W/2/10/3",
+    "locator": "W/2/10/3",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0445",
+    "name": "4",
+    "path": "Workspace.Prefabs.CharacterHat.4",
+    "originalLocator": "W/2/10/4",
+    "locator": "W/2/10/4",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0446",
+    "name": "5",
+    "path": "Workspace.Prefabs.CharacterHat.5",
+    "originalLocator": "W/2/10/5",
+    "locator": "W/2/10/5",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0447",
+    "name": "6",
+    "path": "Workspace.Prefabs.CharacterHat.6",
+    "originalLocator": "W/2/10/6",
+    "locator": "W/2/10/6",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0448",
+    "name": "7",
+    "path": "Workspace.Prefabs.CharacterHat.7",
+    "originalLocator": "W/2/10/7",
+    "locator": "W/2/10/7",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0449",
+    "name": "8",
+    "path": "Workspace.Prefabs.CharacterHat.8",
+    "originalLocator": "W/2/10/8",
+    "locator": "W/2/10/8",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0450",
+    "name": "9",
+    "path": "Workspace.Prefabs.CharacterHat.9",
+    "originalLocator": "W/2/10/9",
+    "locator": "W/2/10/9",
+    "parts": 7,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  }
+]

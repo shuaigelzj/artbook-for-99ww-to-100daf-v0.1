@@ -1,0 +1,2682 @@
+[
+  {
+    "path": "Workspace.Prefabs.沼泽Map.资源点.1x1,树桩",
+    "index": 481,
+    "parent": "Workspace.Prefabs.沼泽Map.资源点",
+    "class": "Model",
+    "locator": "W/2/12/1/6",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "Union [UnionOperation]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      11.24,
+      11.95,
+      11.29
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "1x1,树桩",
+    "position": [
+      173.32,
+      -792.07,
+      -213.49
+    ],
+    "anchored": 2,
+    "humanoids": 0,
+    "geometry": "2:3404361495",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.资源点.1x1,树桩",
+    "index": 482,
+    "parent": "Workspace.Prefabs.沼泽Map.资源点",
+    "class": "Model",
+    "locator": "W/2/12/1/7",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "Union [UnionOperation]",
+      "Union [UnionOperation]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      29.75,
+      8.74,
+      20.97
+    ],
+    "collidable": 2,
+    "meshIds": [],
+    "name": "1x1,树桩",
+    "position": [
+      133.67,
+      -788.58,
+      -215.46
+    ],
+    "anchored": 3,
+    "humanoids": 0,
+    "geometry": "3:3968687313",
+    "descendants": 4
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.资源点.1x1,木屋",
+    "index": 483,
+    "parent": "Workspace.Prefabs.沼泽Map.资源点",
+    "class": "Model",
+    "locator": "W/2/12/1/8",
+    "scripts": 2,
+    "children": [
+      "Union [UnionOperation]",
+      "Model [Model]",
+      "RootPart [Part]"
+    ],
+    "parts": 29,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "Sound Script",
+      "Script"
+    ],
+    "animations": 0,
+    "size": [
+      13,
+      20.88,
+      21.64
+    ],
+    "collidable": 27,
+    "meshIds": [],
+    "name": "1x1,木屋",
+    "position": [
+      217,
+      -783.53,
+      -220.12
+    ],
+    "anchored": 26,
+    "humanoids": 0,
+    "geometry": "29:1142518134",
+    "descendants": 58
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.资源点.1x1,木屋",
+    "index": 484,
+    "parent": "Workspace.Prefabs.沼泽Map.资源点",
+    "class": "Model",
+    "locator": "W/2/12/1/9",
+    "scripts": 2,
+    "children": [
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Model [Model]",
+      "RootPart [Part]",
+      "Part [Part]"
+    ],
+    "parts": 40,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "Script",
+      "Sound Script"
+    ],
+    "animations": 0,
+    "size": [
+      17.53,
+      26.37,
+      24.63
+    ],
+    "collidable": 38,
+    "meshIds": [],
+    "name": "1x1,木屋",
+    "position": [
+      194.92,
+      -780.79,
+      -219.99
+    ],
+    "anchored": 37,
+    "humanoids": 0,
+    "geometry": "40:89047342",
+    "descendants": 53
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.宝箱资源点.1x1,树屋",
+    "index": 485,
+    "parent": "Workspace.Prefabs.沼泽Map.宝箱资源点",
+    "class": "Model",
+    "locator": "W/2/12/2/1",
+    "scripts": 0,
+    "children": [
+      "Model [Model]",
+      "PrimaryPart [Part]",
+      "TreeXL [Model]",
+      "Model [Model]"
+    ],
+    "parts": 136,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      34.93,
+      67.32,
+      32.3
+    ],
+    "collidable": 128,
+    "meshIds": [],
+    "name": "1x1,树屋",
+    "position": [
+      100.45,
+      -763.99,
+      -255.64
+    ],
+    "anchored": 135,
+    "humanoids": 0,
+    "geometry": "136:2848958444",
+    "descendants": 168
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.宝箱资源点.2x1,木屋",
+    "index": 486,
+    "parent": "Workspace.Prefabs.沼泽Map.宝箱资源点",
+    "class": "Model",
+    "locator": "W/2/12/2/2",
+    "scripts": 0,
+    "children": [
+      "Part [Part]",
+      "Model [Model]",
+      "Part [Part]",
+      "Part [Part]",
+      "KJ [Part]",
+      "Union [UnionOperation]",
+      "KJ [Part]",
+      "衣柜 [Model]",
+      "Part [Part]",
+      "Model [Model]",
+      "KJ [Part]",
+      "KJ [Part]",
+      "Part [Part]",
+      "KJ [Part]"
+    ],
+    "parts": 68,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [
+      "UIBuilding"
+    ],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      56.05,
+      44.19,
+      40.66
+    ],
+    "collidable": 63,
+    "meshIds": [],
+    "name": "2x1,木屋",
+    "position": [
+      -27.5,
+      -776.57,
+      -285.36
+    ],
+    "anchored": 67,
+    "humanoids": 0,
+    "geometry": "68:15373017",
+    "descendants": 87
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.装饰.石块",
+    "index": 487,
+    "parent": "Workspace.Prefabs.沼泽Map.装饰",
+    "class": "Model",
+    "locator": "W/2/12/3/1",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      12.82,
+      10.57,
+      12.56
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "石块",
+    "position": [
+      232.47,
+      -793.05,
+      -181.31
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:2096418467",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.装饰.草1",
+    "index": 488,
+    "parent": "Workspace.Prefabs.沼泽Map.装饰",
+    "class": "Model",
+    "locator": "W/2/12/3/2",
+    "scripts": 0,
+    "children": [
+      "SC [MeshPart]",
+      "SC [MeshPart]",
+      "SC [MeshPart]"
+    ],
+    "parts": 3,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      20.21,
+      9.34,
+      15.61
+    ],
+    "collidable": 0,
+    "meshIds": [
+      "rbxassetid://130635119283909"
+    ],
+    "name": "草1",
+    "position": [
+      100.25,
+      -789.56,
+      -180.99
+    ],
+    "anchored": 3,
+    "humanoids": 0,
+    "geometry": "3:1486955755",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.装饰.草1",
+    "index": 489,
+    "parent": "Workspace.Prefabs.沼泽Map.装饰",
+    "class": "Model",
+    "locator": "W/2/12/3/3",
+    "scripts": 0,
+    "children": [
+      "SC [MeshPart]",
+      "SC [MeshPart]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      15.31,
+      5.82,
+      25.15
+    ],
+    "collidable": 0,
+    "meshIds": [
+      "rbxassetid://106309616683097"
+    ],
+    "name": "草1",
+    "position": [
+      79.33,
+      -791.11,
+      -173.67
+    ],
+    "anchored": 2,
+    "humanoids": 0,
+    "geometry": "2:2533415929",
+    "descendants": 2
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.装饰.草",
+    "index": 490,
+    "parent": "Workspace.Prefabs.沼泽Map.装饰",
+    "class": "Model",
+    "locator": "W/2/12/3/4",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      21.54,
+      8.12,
+      18.5
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "草",
+    "position": [
+      170.41,
+      -795.42,
+      -180.57
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:2137194336",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.装饰.石块",
+    "index": 491,
+    "parent": "Workspace.Prefabs.沼泽Map.装饰",
+    "class": "Model",
+    "locator": "W/2/12/3/5",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      30.4,
+      10.72,
+      25.29
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "石块",
+    "position": [
+      202.28,
+      -792.97,
+      -177.44
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:30220462",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.装饰.石块",
+    "index": 492,
+    "parent": "Workspace.Prefabs.沼泽Map.装饰",
+    "class": "Model",
+    "locator": "W/2/12/3/6",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      7.66,
+      26.39,
+      8.39
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "石块",
+    "position": [
+      248.74,
+      -784.92,
+      -183.59
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1486896662",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.装饰.土地",
+    "index": 493,
+    "parent": "Workspace.Prefabs.沼泽Map.装饰",
+    "class": "Model",
+    "locator": "W/2/12/3/7",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      15.7,
+      6.74,
+      14.74
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "土地",
+    "position": [
+      147.21,
+      -796.11,
+      -181.93
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:3276209865",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.装饰.土地",
+    "index": 494,
+    "parent": "Workspace.Prefabs.沼泽Map.装饰",
+    "class": "Model",
+    "locator": "W/2/12/3/8",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      23.29,
+      9.16,
+      25.01
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "土地",
+    "position": [
+      124.22,
+      -797.31,
+      -180.09
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:4042880083",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.装饰.草1",
+    "index": 495,
+    "parent": "Workspace.Prefabs.沼泽Map.装饰",
+    "class": "Model",
+    "locator": "W/2/12/3/9",
+    "scripts": 0,
+    "children": [
+      "SC [MeshPart]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      4.79,
+      12.17,
+      6.09
+    ],
+    "collidable": 0,
+    "meshIds": [
+      "rbxassetid://116971278289154"
+    ],
+    "name": "草1",
+    "position": [
+      73.05,
+      -787.55,
+      -181.31
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:3685183413",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.树.TreeL",
+    "index": 496,
+    "parent": "Workspace.Prefabs.沼泽Map.树",
+    "class": "Model",
+    "locator": "W/2/12/4/1",
+    "scripts": 0,
+    "children": [
+      "Core [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Union [UnionOperation]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]"
+    ],
+    "parts": 7,
+    "attrs": {
+      "hp": "13"
+    },
+    "meshes": 0,
+    "tags": [
+      "SeedlessTree"
+    ],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      8.19,
+      39.85,
+      11.68
+    ],
+    "collidable": 5,
+    "meshIds": [],
+    "name": "TreeL",
+    "position": [
+      109.94,
+      -773.61,
+      -217.78
+    ],
+    "anchored": 7,
+    "humanoids": 0,
+    "geometry": "7:3222694329",
+    "descendants": 7
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.树.TreeXL",
+    "index": 497,
+    "parent": "Workspace.Prefabs.沼泽Map.树",
+    "class": "Model",
+    "locator": "W/2/12/4/2",
+    "scripts": 0,
+    "children": [
+      "树干 [Part]",
+      "树干 [Part]",
+      "Union [UnionOperation]",
+      "树干 [Part]",
+      "Core [Part]",
+      "树干 [Part]",
+      "Union [UnionOperation]",
+      "Union [UnionOperation]",
+      "树干 [Part]",
+      "树干 [Part]",
+      "Union [UnionOperation]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]"
+    ],
+    "parts": 17,
+    "attrs": {
+      "hp": "480"
+    },
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      20.51,
+      66,
+      38.65
+    ],
+    "collidable": 13,
+    "meshIds": [],
+    "name": "TreeXL",
+    "position": [
+      83.74,
+      -758.28,
+      -216.22
+    ],
+    "anchored": 17,
+    "humanoids": 0,
+    "geometry": "17:1230386304",
+    "descendants": 17
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.边缘装饰.土地",
+    "index": 498,
+    "parent": "Workspace.Prefabs.沼泽Map.边缘装饰",
+    "class": "Model",
+    "locator": "W/2/12/5/1",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      23.29,
+      9.16,
+      25.01
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "土地",
+    "position": [
+      100.15,
+      -797.31,
+      -150.09
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:4042880083",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.边缘装饰.土地",
+    "index": 499,
+    "parent": "Workspace.Prefabs.沼泽Map.边缘装饰",
+    "class": "Model",
+    "locator": "W/2/12/5/2",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      15.7,
+      6.74,
+      14.74
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "土地",
+    "position": [
+      134.81,
+      -796.11,
+      -151.93
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:3276209865",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.沼泽前辈.1x1,牛仔鞋,面罩前辈",
+    "index": 500,
+    "parent": "Workspace.Prefabs.沼泽Map.沼泽前辈",
+    "class": "Model",
+    "locator": "W/2/12/6/1",
+    "scripts": 0,
+    "children": [
+      "308 [Model]",
+      "RootPart [Part]",
+      "前辈 [Model]",
+      "306 [Model]"
+    ],
+    "parts": 16,
+    "attrs": [],
+    "meshes": 11,
+    "tags": [
+      "Senior"
+    ],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      5.91,
+      2.3,
+      5.23
+    ],
+    "collidable": 12,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=36780032",
+      "http://www.roblox.com/asset/?id=36780079",
+      "http://www.roblox.com/asset/?id=36780113",
+      "http://www.roblox.com/asset/?id=36780156",
+      "http://www.roblox.com/asset/?id=36780195",
+      "http://www.roblox.com/asset/?id=36869983",
+      "http://www.roblox.com/asset/?id=93050267",
+      "rbxassetid://75295377339971"
+    ],
+    "name": "1x1,牛仔鞋,面罩前辈",
+    "position": [
+      -708.73,
+      -792.02,
+      -376.48
+    ],
+    "anchored": 9,
+    "humanoids": 0,
+    "geometry": "16:298980955",
+    "descendants": 45
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.沼泽前辈.1x1,毒矛前辈",
+    "index": 501,
+    "parent": "Workspace.Prefabs.沼泽Map.沼泽前辈",
+    "class": "Model",
+    "locator": "W/2/12/6/2",
+    "scripts": 0,
+    "children": [
+      "前辈 [Model]",
+      "RootPart [Part]",
+      "125 [Tool]",
+      "帽子 [Part]"
+    ],
+    "parts": 12,
+    "attrs": [],
+    "meshes": 10,
+    "tags": [
+      "Senior"
+    ],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      6.53,
+      8.92,
+      5.23
+    ],
+    "collidable": 8,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=36780032",
+      "http://www.roblox.com/asset/?id=36780079",
+      "http://www.roblox.com/asset/?id=36780113",
+      "http://www.roblox.com/asset/?id=36780156",
+      "http://www.roblox.com/asset/?id=36780195",
+      "http://www.roblox.com/asset/?id=36869983",
+      "rbxassetid://10513435210",
+      "rbxassetid://130663471294373",
+      "rbxassetid://84068785102202"
+    ],
+    "name": "1x1,毒矛前辈",
+    "position": [
+      -694.23,
+      -788.35,
+      -377.13
+    ],
+    "anchored": 9,
+    "humanoids": 0,
+    "geometry": "12:3168030892",
+    "descendants": 35
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.特殊房子.野猪王入口开放与未开放临时文件夹.Dr.Jones",
+    "index": 502,
+    "parent": "Workspace.Prefabs.沼泽Map.特殊房子.野猪王入口开放与未开放临时文件夹",
+    "class": "Model",
+    "locator": "W/2/12/7/1/1",
+    "scripts": 1,
+    "children": [
+      "Pants [Pants]",
+      "ForceField [ForceField]",
+      "dialogScript [Script]",
+      "Right Leg [Part]",
+      "Shirt [Shirt]",
+      "Humanoid [Humanoid]",
+      "ProximityPrompt [ProximityPrompt]",
+      "Right Arm [Part]",
+      "Torso [Part]",
+      "Left Leg [Part]",
+      "Head [Part]",
+      "Handle [Part]",
+      "Left Arm [Part]"
+    ],
+    "parts": 7,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [
+      "dialogScript"
+    ],
+    "animations": 0,
+    "size": [
+      4,
+      5.6,
+      1
+    ],
+    "collidable": 3,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=1285237"
+    ],
+    "name": "Dr.Jones",
+    "position": [
+      -249.9,
+      -781.94,
+      -455.64
+    ],
+    "anchored": 7,
+    "humanoids": 1,
+    "geometry": "7:134277998",
+    "descendants": 35
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.特殊房子.2x1,私酒工坊LV1",
+    "index": 503,
+    "parent": "Workspace.Prefabs.沼泽Map.特殊房子",
+    "class": "Model",
+    "locator": "W/2/12/7/2",
+    "scripts": 2,
+    "children": [
+      "燃烧瓶制作台 [Folder]",
+      "111 [Model]",
+      "Part [Part]",
+      "Union [UnionOperation]",
+      "111 [Model]",
+      "Part [Part]",
+      "111 [Model]",
+      "Union [UnionOperation]",
+      "Part [Part]",
+      "Model [Model]",
+      "PrimaryPart [Part]",
+      "11 [Model]",
+      "Model [Model]",
+      "敌人生成点 [Part]"
+    ],
+    "parts": 246,
+    "attrs": [],
+    "meshes": 53,
+    "tags": [],
+    "scriptNames": [
+      "燃烧瓶制作台",
+      "燃烧瓶制作台"
+    ],
+    "animations": 0,
+    "size": [
+      72.28,
+      33.88,
+      57.28
+    ],
+    "collidable": 235,
+    "meshIds": [
+      "http://www.roblox.com/Asset/?id=9753878",
+      "rbxassetid://10357809137",
+      "rbxassetid://10357809659",
+      "rbxassetid://115625831333832",
+      "rbxassetid://133680613957548",
+      "rbxassetid://13615530461",
+      "rbxassetid://5097603253",
+      "rbxassetid://514528119",
+      "rbxassetid://5547038797",
+      "rbxassetid://74047768470376",
+      "rbxassetid://94735520903444"
+    ],
+    "name": "2x1,私酒工坊LV1",
+    "position": [
+      -367.65,
+      -775.87,
+      -385.51
+    ],
+    "anchored": 246,
+    "humanoids": 0,
+    "geometry": "246:1460838303",
+    "descendants": 341
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.特殊房子.3x3,加特林工坊LV2",
+    "index": 504,
+    "parent": "Workspace.Prefabs.沼泽Map.特殊房子",
+    "class": "Model",
+    "locator": "W/2/12/7/3",
+    "scripts": 10,
+    "children": [
+      "606 [Tool]",
+      "213 [Model]",
+      "213 [Model]",
+      "213 [Model]",
+      "228 [Model]",
+      "606 [Tool]",
+      "228 [Model]",
+      "607 [Tool]",
+      "606 [Tool]",
+      "606 [Tool]",
+      "238 [Model]",
+      "238 [Model]",
+      "238 [Model]",
+      "238 [Model]"
+    ],
+    "parts": 652,
+    "attrs": [],
+    "meshes": 294,
+    "tags": [],
+    "scriptNames": [
+      "DamageScript",
+      "DamageScript",
+      "DamageScript",
+      "DamageScript",
+      "Sound Script",
+      "Script",
+      "Sound Script",
+      "Script",
+      "加特林子弹制作台",
+      "加特林子弹制作台"
+    ],
+    "animations": 8,
+    "size": [
+      150,
+      68.33,
+      150
+    ],
+    "collidable": 498,
+    "meshIds": [
+      "rbxassetid://102157207475324",
+      "rbxassetid://10357809137",
+      "rbxassetid://10357809659",
+      "rbxassetid://109168106234627",
+      "rbxassetid://113009665897499",
+      "rbxassetid://114196707057521",
+      "rbxassetid://117904528080531",
+      "rbxassetid://130635119283909",
+      "rbxassetid://133680613957548",
+      "rbxassetid://135313796901566",
+      "rbxassetid://135751696937777",
+      "rbxassetid://13615530461",
+      "rbxassetid://139813931017120",
+      "rbxassetid://140060244813995",
+      "rbxassetid://2128760908",
+      "rbxassetid://2128761993",
+      "rbxassetid://441590120",
+      "rbxassetid://72865977876606",
+      "rbxassetid://81252383255190",
+      "rbxassetid://8187885023",
+      "rbxassetid://84155142436142",
+      "rbxassetid://85845888449583",
+      "rbxassetid://88175366748093",
+      "rbxassetid://90063595916894",
+      "rbxassetid://90534966393532"
+    ],
+    "name": "3x3,加特林工坊LV2",
+    "position": [
+      -237.6,
+      -759.17,
+      -564.7
+    ],
+    "anchored": 484,
+    "humanoids": 2,
+    "geometry": "652:2433714805",
+    "descendants": 1234
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.特殊房子.2x1,野猪王入口",
+    "index": 505,
+    "parent": "Workspace.Prefabs.沼泽Map.特殊房子",
+    "class": "Model",
+    "locator": "W/2/12/7/4",
+    "scripts": 2,
+    "children": [
+      "Model [Model]",
+      "Model [Model]",
+      "SC [MeshPart]",
+      "Meshes/野猪牙 [MeshPart]",
+      "Part [Part]",
+      "敌人生成点 [Part]",
+      "Meshes/野猪牙 [MeshPart]",
+      "pm [Part]",
+      "921 [Model]",
+      "疯猪祭坛 [Folder]",
+      "Model [Model]",
+      "传送点 [Attachment]",
+      "SC [MeshPart]",
+      "野猪王入口 [Part]"
+    ],
+    "parts": 218,
+    "attrs": [],
+    "meshes": 67,
+    "tags": [],
+    "scriptNames": [
+      "直接死",
+      "疯猪祭坛"
+    ],
+    "animations": 0,
+    "size": [
+      100.02,
+      104.67,
+      50
+    ],
+    "collidable": 200,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=13643366",
+      "rbxassetid://116971278289154",
+      "rbxassetid://124361105433706",
+      "rbxassetid://128028745628656",
+      "rbxassetid://130635119283909",
+      "rbxassetid://15006871346",
+      "rbxassetid://4382285860",
+      "rbxassetid://5943950484",
+      "rbxassetid://5972856856",
+      "rbxassetid://79349628460184",
+      "rbxassetid://80619970547749",
+      "rbxassetid://8187885023",
+      "rbxassetid://86162755422910",
+      "rbxassetid://94413993831857",
+      "rbxassetid://98826269074003"
+    ],
+    "name": "2x1,野猪王入口",
+    "position": [
+      -245.51,
+      -816.01,
+      -445.36
+    ],
+    "anchored": 206,
+    "humanoids": 1,
+    "geometry": "218:1143616898",
+    "descendants": 391
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.土著村落.2x2,土著营地",
+    "index": 506,
+    "parent": "Workspace.Prefabs.沼泽Map.土著村落",
+    "class": "Model",
+    "locator": "W/2/12/8/1",
+    "scripts": 0,
+    "children": [
+      "Model [Model]",
+      "304 [Model]",
+      "Model [Model]",
+      "Model [Model]",
+      "CandleStick [Model]",
+      "草 [Model]",
+      "Model [Model]",
+      "火把 [Model]",
+      "土地 [Model]",
+      "CandleStick [Model]",
+      "1x1,木桶 [Model]",
+      "Model [Model]",
+      "MeshPart [MeshPart]",
+      "Model [Model]"
+    ],
+    "parts": 243,
+    "attrs": [],
+    "meshes": 64,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      102.68,
+      39.37,
+      100
+    ],
+    "collidable": 216,
+    "meshIds": [
+      "rbxassetid://10357809137",
+      "rbxassetid://10357809659",
+      "rbxassetid://128028745628656",
+      "rbxassetid://130635119283909",
+      "rbxassetid://139659456898797",
+      "rbxassetid://6742496331",
+      "rbxassetid://79349628460184",
+      "rbxassetid://83792849770412"
+    ],
+    "name": "2x2,土著营地",
+    "position": [
+      -375.02,
+      -780.6,
+      -540.87
+    ],
+    "anchored": 231,
+    "humanoids": 0,
+    "geometry": "243:355163183",
+    "descendants": 387
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.土著村落.2x1,土著村落",
+    "index": 507,
+    "parent": "Workspace.Prefabs.沼泽Map.土著村落",
+    "class": "Model",
+    "locator": "W/2/12/8/2",
+    "scripts": 0,
+    "children": [
+      "Model [Model]",
+      "225 [Model]",
+      "Model [Model]",
+      "火4级 [Model]",
+      "骨头 [UnionOperation]",
+      "土地 [Model]",
+      "草 [Model]",
+      "Camp by CRaNmnator [Model]",
+      "Model [Model]",
+      "pm [Part]",
+      "敌人生成点 [Part]",
+      "草1 [Model]",
+      "225 [Model]",
+      "225 [Model]"
+    ],
+    "parts": 212,
+    "attrs": [],
+    "meshes": 55,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      100,
+      35.82,
+      54.47
+    ],
+    "collidable": 204,
+    "meshIds": [
+      "rbxassetid://130635119283909",
+      "rbxassetid://139659456898797",
+      "rbxassetid://6742496331",
+      "rbxassetid://79349628460184",
+      "rbxassetid://83792849770412"
+    ],
+    "name": "2x1,土著村落",
+    "position": [
+      -375.46,
+      -782.39,
+      -447.27
+    ],
+    "anchored": 200,
+    "humanoids": 0,
+    "geometry": "212:2949015053",
+    "descendants": 982
+  },
+  {
+    "path": "Workspace.Prefabs.沼泽Map.带敌人资源点.2x1,破房子",
+    "index": 508,
+    "parent": "Workspace.Prefabs.沼泽Map.带敌人资源点",
+    "class": "Model",
+    "locator": "W/2/12/9/1",
+    "scripts": 0,
+    "children": [
+      "pm [Part]",
+      "敌人生成点 [Part]",
+      "Model [Model]"
+    ],
+    "parts": 70,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [
+      "SpecialEvent"
+    ],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      77.63,
+      61.23,
+      53.42
+    ],
+    "collidable": 69,
+    "meshIds": [],
+    "name": "2x1,破房子",
+    "position": [
+      -256.31,
+      -779.07,
+      -378.89
+    ],
+    "anchored": 70,
+    "humanoids": 0,
+    "geometry": "70:4237852358",
+    "descendants": 81
+  },
+  {
+    "path": "Workspace.Prefabs.万圣节.1x1,Candy前辈",
+    "index": 509,
+    "parent": "Workspace.Prefabs.万圣节",
+    "class": "Model",
+    "locator": "W/2/13/1",
+    "scripts": 0,
+    "children": [
+      "233 [Model]",
+      "233 [Model]",
+      "233 [Model]",
+      "前辈 [Model]",
+      "RootPart [Part]",
+      "233 [Model]",
+      "帽子 [Part]",
+      "233 [Model]"
+    ],
+    "parts": 23,
+    "attrs": [],
+    "meshes": 12,
+    "tags": [
+      "Senior"
+    ],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      6.72,
+      3.6,
+      5.89
+    ],
+    "collidable": 17,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=36780032",
+      "http://www.roblox.com/asset/?id=36780079",
+      "http://www.roblox.com/asset/?id=36780113",
+      "http://www.roblox.com/asset/?id=36780156",
+      "http://www.roblox.com/asset/?id=36780195",
+      "http://www.roblox.com/asset/?id=36869983",
+      "rbxassetid://10513435210",
+      "rbxassetid://7623153195"
+    ],
+    "name": "1x1,Candy前辈",
+    "position": [
+      -631.52,
+      -791.01,
+      -468.8
+    ],
+    "anchored": 23,
+    "humanoids": 0,
+    "geometry": "23:2793649933",
+    "descendants": 60
+  },
+  {
+    "path": "Workspace.Prefabs.火车大劫案.车厢战场",
+    "index": 510,
+    "parent": "Workspace.Prefabs.火车大劫案",
+    "class": "Model",
+    "locator": "W/2/14/1",
+    "scripts": 4,
+    "children": [
+      "传送点 [Attachment]",
+      "车厢3 [Model]",
+      "车厢战场 [Folder]",
+      "车厢4 [Model]",
+      "车厢1 [Model]",
+      "车厢2 [Model]"
+    ],
+    "parts": 1429,
+    "attrs": [],
+    "meshes": 460,
+    "tags": [],
+    "scriptNames": [
+      "车厢战场",
+      "火车倒计时",
+      "退出副本",
+      "退出副本"
+    ],
+    "animations": 0,
+    "size": [
+      48.51,
+      28.84,
+      329.72
+    ],
+    "collidable": 1390,
+    "meshIds": [
+      "rbxassetid://102157207475324",
+      "rbxassetid://10357809137",
+      "rbxassetid://10357809659",
+      "rbxassetid://106524561575918",
+      "rbxassetid://109168106234627",
+      "rbxassetid://113009665897499",
+      "rbxassetid://114196707057521",
+      "rbxassetid://13615530461",
+      "rbxassetid://3226465884",
+      "rbxassetid://452216160",
+      "rbxassetid://5524325817",
+      "rbxassetid://85845888449583",
+      "rbxassetid://90063595916894",
+      "rbxassetid://92126595435552",
+      "rbxassetid://941391080"
+    ],
+    "name": "车厢战场",
+    "position": [
+      -644.97,
+      -782.26,
+      -219.26
+    ],
+    "anchored": 1301,
+    "humanoids": 0,
+    "geometry": "1429:1145630487",
+    "descendants": 2288
+  },
+  {
+    "path": "Workspace.Prefabs.火车大劫案.火车",
+    "index": 511,
+    "parent": "Workspace.Prefabs.火车大劫案",
+    "class": "Model",
+    "locator": "W/2/14/2",
+    "scripts": 7,
+    "children": [
+      "车厢2 [Model]",
+      "UIAtt [Attachment]",
+      "传送点 [Attachment]",
+      "前 [Model]",
+      "车厢3 [Model]",
+      "Motion [BoolValue]",
+      "车厢4 [Model]",
+      "车厢1 [Model]",
+      "火车_server [Script]",
+      "RootPart [Part]",
+      "车头创飞老铁 [Part]",
+      "车门TakeDamageModel [Model]",
+      "车头TakeDamageModel [Model]"
+    ],
+    "parts": 469,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [
+      "火车倒计时",
+      "火车_server",
+      "创飞老铁_server",
+      "创飞老铁_client",
+      "火车门血条",
+      "火车头血条_server",
+      "火车头血条_client"
+    ],
+    "animations": 0,
+    "size": [
+      12.81,
+      22.44,
+      173.07
+    ],
+    "collidable": 203,
+    "meshIds": [
+      "rbxassetid://534791716"
+    ],
+    "name": "火车",
+    "position": [
+      -434.33,
+      -783.3,
+      -260.64
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "469:4235186571",
+    "descendants": 1299
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterAccessory.15",
+    "index": 512,
+    "parent": "Workspace.Prefabs.CharacterAccessory",
+    "class": "Accessory",
+    "locator": "W/2/15/1",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      1,
+      1,
+      1
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://108438206573992"
+    ],
+    "name": "15",
+    "position": [
+      -281.56,
+      -790.52,
+      334.52
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:2353733508",
+    "descendants": 7
+  },
+  {
+    "path": "Workspace.Prefabs.CharacterAccessory.17",
+    "index": 513,
+    "parent": "Workspace.Prefabs.CharacterAccessory",
+    "class": "Accessory",
+    "locator": "W/2/15/2",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2.5,
+      1.75,
+      1.25
+    ],
+    "collidable": 0,
+    "meshIds": [
+      "rbxassetid://4382285860"
+    ],
+    "name": "17",
+    "position": [
+      -280.22,
+      -791.99,
+      338.33
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:636089170",
+    "descendants": 7
+  },
+  {
+    "path": "Workspace.Prefabs.伙伴.Wolf1",
+    "index": 514,
+    "parent": "Workspace.Prefabs.伙伴",
+    "class": "Model",
+    "locator": "W/2/17/1",
+    "scripts": 0,
+    "children": [
+      "Head [Part]",
+      "Torso [Part]",
+      "LowerTorso [Part]",
+      "damage [Sound]",
+      "TailFur [Part]",
+      "Left Arm [Part]",
+      "LowerTail [Part]",
+      "Jaw [Part]",
+      "AnimSaves [ObjectValue]",
+      "Right Leg [Part]",
+      "Right Arm [Part]",
+      "Humanoid [Humanoid]",
+      "Animations [Folder]",
+      "Left Leg [Part]"
+    ],
+    "parts": 31,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 2,
+    "size": [
+      2.14,
+      3.74,
+      7.5
+    ],
+    "collidable": 22,
+    "meshIds": [],
+    "name": "Wolf1",
+    "position": [
+      -492.15,
+      -791,
+      273.83
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "31:3788937593",
+    "descendants": 144
+  },
+  {
+    "path": "Workspace.Prefabs.伙伴.Baby Wolf",
+    "index": 515,
+    "parent": "Workspace.Prefabs.伙伴",
+    "class": "Model",
+    "locator": "W/2/17/2",
+    "scripts": 0,
+    "children": [
+      "Left Arm [Part]",
+      "Head [Part]",
+      "TailFur [Part]",
+      "Jaw [Part]",
+      "Right Leg [Part]",
+      "LowerTorso [Part]",
+      "Left Leg [Part]",
+      "damage [Sound]",
+      "Animations [Folder]",
+      "Right Arm [Part]",
+      "HumanoidRootPart [Part]",
+      "AnimSaves [ObjectValue]",
+      "Humanoid [Humanoid]",
+      "LowerTail [Part]"
+    ],
+    "parts": 35,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 2,
+    "size": [
+      1.69,
+      2.89,
+      5.93
+    ],
+    "collidable": 22,
+    "meshIds": [],
+    "name": "Baby Wolf",
+    "position": [
+      -511.12,
+      -791.37,
+      269.49
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "35:2388339255",
+    "descendants": 152
+  },
+  {
+    "path": "Workspace.Prefabs.伙伴.Bear",
+    "index": 516,
+    "parent": "Workspace.Prefabs.伙伴",
+    "class": "Model",
+    "locator": "W/2/17/3",
+    "scripts": 0,
+    "children": [
+      "Jaw [Part]",
+      "Humanoid [Humanoid]",
+      "Left Leg [Part]",
+      "LowerTorso [Part]",
+      "Right Arm [Part]",
+      "Right Leg [Part]",
+      "HumanoidRootPart [Part]",
+      "Torso [Part]",
+      "Left Arm [Part]",
+      "Animations [Folder]",
+      "damage [Sound]",
+      "Head [Part]",
+      "AnimSaves [ObjectValue]",
+      "TailFur [Part]"
+    ],
+    "parts": 34,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 2,
+    "size": [
+      3.94,
+      5.16,
+      8.57
+    ],
+    "collidable": 22,
+    "meshIds": [],
+    "name": "Bear",
+    "position": [
+      -513.01,
+      -790.3,
+      290.91
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "34:1101663213",
+    "descendants": 152
+  },
+  {
+    "path": "Workspace.Prefabs.伙伴.Alligator",
+    "index": 517,
+    "parent": "Workspace.Prefabs.伙伴",
+    "class": "Model",
+    "locator": "W/2/17/4",
+    "scripts": 0,
+    "children": [
+      "damage [Sound]",
+      "AnimSaves [ObjectValue]",
+      "Left Leg [Part]",
+      "Animations [Folder]",
+      "Humanoid [Humanoid]",
+      "Jaw [Part]",
+      "Torso [Part]",
+      "LowerTail [Part]",
+      "Right Leg [Part]",
+      "Head [Part]",
+      "Left Arm [Part]",
+      "LowerTorso [Part]",
+      "HumanoidRootPart [Part]",
+      "Right Arm [Part]"
+    ],
+    "parts": 48,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 2,
+    "size": [
+      5.74,
+      3.05,
+      16.57
+    ],
+    "collidable": 23,
+    "meshIds": [],
+    "name": "Alligator",
+    "position": [
+      -510.64,
+      -791.31,
+      297.21
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "48:1799622162",
+    "descendants": 241
+  },
+  {
+    "path": "Workspace.Prefabs.伙伴.Wild Boar",
+    "index": 518,
+    "parent": "Workspace.Prefabs.伙伴",
+    "class": "Model",
+    "locator": "W/2/17/5",
+    "scripts": 0,
+    "children": [
+      "Left Leg [Part]",
+      "Humanoid [Humanoid]",
+      "Head [Part]",
+      "Torso [Part]",
+      "Right Arm [Part]",
+      "Jaw [Part]",
+      "damage [Sound]",
+      "Right Leg [Part]",
+      "LowerTorso [Part]",
+      "Left Arm [Part]",
+      "HumanoidRootPart [Part]",
+      "TailFur [Part]",
+      "AnimSaves [ObjectValue]",
+      "Animations [Folder]"
+    ],
+    "parts": 37,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 2,
+    "size": [
+      2.41,
+      3.52,
+      5.92
+    ],
+    "collidable": 25,
+    "meshIds": [],
+    "name": "Wild Boar",
+    "position": [
+      -511.89,
+      -791.07,
+      278.9
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "37:413634838",
+    "descendants": 160
+  },
+  {
+    "path": "Workspace.Prefabs.伙伴.Baby Wolf1",
+    "index": 519,
+    "parent": "Workspace.Prefabs.伙伴",
+    "class": "Model",
+    "locator": "W/2/17/6",
+    "scripts": 0,
+    "children": [
+      "HumanoidRootPart [Part]",
+      "Left Arm [Part]",
+      "AnimSaves [ObjectValue]",
+      "Animations [Folder]",
+      "damage [Sound]",
+      "Right Leg [Part]",
+      "Torso [Part]",
+      "Head [Part]",
+      "TailFur [Part]",
+      "Humanoid [Humanoid]",
+      "Jaw [Part]",
+      "Right Arm [Part]",
+      "LowerTorso [Part]",
+      "Left Leg [Part]"
+    ],
+    "parts": 31,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 2,
+    "size": [
+      1.69,
+      2.95,
+      5.93
+    ],
+    "collidable": 22,
+    "meshIds": [],
+    "name": "Baby Wolf1",
+    "position": [
+      -492.16,
+      -791.34,
+      269.49
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "31:2908028355",
+    "descendants": 144
+  },
+  {
+    "path": "Workspace.Prefabs.伙伴.Turkey1",
+    "index": 520,
+    "parent": "Workspace.Prefabs.伙伴",
+    "class": "Model",
+    "locator": "W/2/17/7",
+    "scripts": 1,
+    "children": [
+      "Head [Part]",
+      "Left Leg [Part]",
+      "火鸡_server [Script]",
+      "Humanoid [Humanoid]",
+      "Right Leg [Part]",
+      "LowerTorso [Part]",
+      "AnimSaves [ObjectValue]",
+      "Left Arm [Part]",
+      "Torso [Part]",
+      "TailFur [Part]",
+      "HumanoidRootPart [Part]",
+      "Right Arm [Part]",
+      "Jaw [Part]",
+      "stealSound [Sound]"
+    ],
+    "parts": 32,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "火鸡_server"
+    ],
+    "animations": 2,
+    "size": [
+      4.4,
+      6.13,
+      7.13
+    ],
+    "collidable": 22,
+    "meshIds": [],
+    "name": "Turkey1",
+    "position": [
+      -493.91,
+      -789.8,
+      284.46
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "32:2556380666",
+    "descendants": 150
+  },
+  {
+    "path": "Workspace.Prefabs.伙伴.Turkey",
+    "index": 521,
+    "parent": "Workspace.Prefabs.伙伴",
+    "class": "Model",
+    "locator": "W/2/17/8",
+    "scripts": 1,
+    "children": [
+      "Head [Part]",
+      "Torso [Part]",
+      "Right Arm [Part]",
+      "Humanoid [Humanoid]",
+      "stealSound [Sound]",
+      "Right Leg [Part]",
+      "damage [Sound]",
+      "Animations [Folder]",
+      "TailFur [Part]",
+      "AnimSaves [ObjectValue]",
+      "LowerTorso [Part]",
+      "HumanoidRootPart [Part]",
+      "Left Leg [Part]",
+      "火鸡_server [Script]"
+    ],
+    "parts": 36,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "火鸡_server"
+    ],
+    "animations": 2,
+    "size": [
+      4.4,
+      6.13,
+      7.13
+    ],
+    "collidable": 22,
+    "meshIds": [],
+    "name": "Turkey",
+    "position": [
+      -512.9,
+      -789.8,
+      284.46
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "36:3096755400",
+    "descendants": 158
+  },
+  {
+    "path": "Workspace.Prefabs.伙伴.Wolf",
+    "index": 522,
+    "parent": "Workspace.Prefabs.伙伴",
+    "class": "Model",
+    "locator": "W/2/17/9",
+    "scripts": 0,
+    "children": [
+      "Right Arm [Part]",
+      "damage [Sound]",
+      "Right Leg [Part]",
+      "TailFur [Part]",
+      "HumanoidRootPart [Part]",
+      "Head [Part]",
+      "Animations [Folder]",
+      "Left Arm [Part]",
+      "LowerTorso [Part]",
+      "AnimSaves [ObjectValue]",
+      "LowerTail [Part]",
+      "Humanoid [Humanoid]",
+      "Torso [Part]",
+      "Jaw [Part]"
+    ],
+    "parts": 35,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 2,
+    "size": [
+      2.14,
+      3.74,
+      7.5
+    ],
+    "collidable": 22,
+    "meshIds": [],
+    "name": "Wolf",
+    "position": [
+      -511.26,
+      -791,
+      273.83
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "35:2021495053",
+    "descendants": 152
+  },
+  {
+    "path": "Workspace.Prefabs.伙伴.Wild Boar1",
+    "index": 523,
+    "parent": "Workspace.Prefabs.伙伴",
+    "class": "Model",
+    "locator": "W/2/17/10",
+    "scripts": 0,
+    "children": [
+      "Head [Part]",
+      "Left Arm [Part]",
+      "Jaw [Part]",
+      "HumanoidRootPart [Part]",
+      "damage [Sound]",
+      "Torso [Part]",
+      "Right Leg [Part]",
+      "Animations [Folder]",
+      "Humanoid [Humanoid]",
+      "LowerTorso [Part]",
+      "AnimSaves [ObjectValue]",
+      "Right Arm [Part]",
+      "Left Leg [Part]",
+      "TailFur [Part]"
+    ],
+    "parts": 33,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 2,
+    "size": [
+      2.41,
+      3.52,
+      5.92
+    ],
+    "collidable": 25,
+    "meshIds": [],
+    "name": "Wild Boar1",
+    "position": [
+      -492.86,
+      -791.07,
+      278.9
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "33:3890371894",
+    "descendants": 152
+  },
+  {
+    "path": "Workspace.Prefabs.伙伴.Alligator1",
+    "index": 524,
+    "parent": "Workspace.Prefabs.伙伴",
+    "class": "Model",
+    "locator": "W/2/17/11",
+    "scripts": 0,
+    "children": [
+      "HumanoidRootPart [Part]",
+      "Left Arm [Part]",
+      "LowerTail [Part]",
+      "LowerTorso [Part]",
+      "Jaw [Part]",
+      "Head [Part]",
+      "Right Arm [Part]",
+      "Left Leg [Part]",
+      "Torso [Part]",
+      "Animations [Folder]",
+      "damage [Sound]",
+      "AnimSaves [ObjectValue]",
+      "Right Leg [Part]",
+      "TailFur [Part]"
+    ],
+    "parts": 44,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 2,
+    "size": [
+      5.74,
+      3.05,
+      16.57
+    ],
+    "collidable": 23,
+    "meshIds": [],
+    "name": "Alligator1",
+    "position": [
+      -492.55,
+      -791.31,
+      297.21
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "44:199945976",
+    "descendants": 232
+  },
+  {
+    "path": "Workspace.Prefabs.伙伴.Bear1",
+    "index": 525,
+    "parent": "Workspace.Prefabs.伙伴",
+    "class": "Model",
+    "locator": "W/2/17/12",
+    "scripts": 0,
+    "children": [
+      "HumanoidRootPart [Part]",
+      "Humanoid [Humanoid]",
+      "Head [Part]",
+      "Right Leg [Part]",
+      "TailFur [Part]",
+      "Animations [Folder]",
+      "Right Arm [Part]",
+      "AnimSaves [ObjectValue]",
+      "damage [Sound]",
+      "Torso [Part]",
+      "LowerTorso [Part]",
+      "Left Leg [Part]",
+      "Jaw [Part]",
+      "Left Arm [Part]"
+    ],
+    "parts": 30,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 2,
+    "size": [
+      3.94,
+      5.16,
+      8.57
+    ],
+    "collidable": 22,
+    "meshIds": [],
+    "name": "Bear1",
+    "position": [
+      -493.72,
+      -790.3,
+      290.91
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "30:1689367661",
+    "descendants": 144
+  },
+  {
+    "path": "Workspace.Prefabs.伙伴.Beast",
+    "index": 526,
+    "parent": "Workspace.Prefabs.伙伴",
+    "class": "Model",
+    "locator": "W/2/17/13",
+    "scripts": 4,
+    "children": [
+      "Animations [Folder]",
+      "Right Leg [Part]",
+      "EatTips [Highlight]",
+      "吸血饰品 [Folder]",
+      "levelup [Attachment]",
+      "Left Leg [Part]",
+      "damage [Sound]",
+      "铁饰品 [Folder]",
+      "Left Arm [Part]",
+      "Humanoid [Humanoid]",
+      "LowerTorso [Part]",
+      "Torso [Part]",
+      "Head [Part]",
+      "Jaw [Part]"
+    ],
+    "parts": 71,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "闪烁",
+      "吃铁进度",
+      "吃肉进度",
+      "吃尸体进度"
+    ],
+    "animations": 2,
+    "size": [
+      2.15,
+      3.02,
+      6.54
+    ],
+    "collidable": 33,
+    "meshIds": [],
+    "name": "Beast",
+    "position": [
+      -535.77,
+      -791.35,
+      288.52
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "71:258148665",
+    "descendants": 267
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.宝箱资源点.2x1,木屋",
+    "index": 527,
+    "parent": "Workspace.Prefabs.雪原Map.宝箱资源点",
+    "class": "Model",
+    "locator": "W/2/18/1/1",
+    "scripts": 0,
+    "children": [
+      "Model [Model]",
+      "KJ [Part]",
+      "Model [Model]",
+      "Part [Part]",
+      "Union [UnionOperation]",
+      "衣柜 [Model]",
+      "Part [Part]",
+      "Union [UnionOperation]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "KJ [Part]",
+      "Part [Part]",
+      "Part [Part]"
+    ],
+    "parts": 88,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [
+      "UIBuilding"
+    ],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      54.51,
+      47.99,
+      40.66
+    ],
+    "collidable": 83,
+    "meshIds": [],
+    "name": "2x1,木屋",
+    "position": [
+      45.96,
+      -776.43,
+      108.74
+    ],
+    "anchored": 87,
+    "humanoids": 0,
+    "geometry": "88:3142781489",
+    "descendants": 107
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.宝箱资源点.1x1,露天废墟",
+    "index": 528,
+    "parent": "Workspace.Prefabs.雪原Map.宝箱资源点",
+    "class": "Model",
+    "locator": "W/2/18/1/2",
+    "scripts": 0,
+    "children": [
+      "草 [Model]",
+      "Model [Model]",
+      "草 [Model]",
+      "RootPart [Part]",
+      "草 [Model]",
+      "草 [Model]"
+    ],
+    "parts": 16,
+    "attrs": [],
+    "meshes": 4,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      46.2,
+      25.72,
+      47.17
+    ],
+    "collidable": 15,
+    "meshIds": [
+      "rbxassetid://110034671889313",
+      "rbxassetid://138706541488462",
+      "rbxassetid://81456841487038"
+    ],
+    "name": "1x1,露天废墟",
+    "position": [
+      185.87,
+      -787.64,
+      156.84
+    ],
+    "anchored": 16,
+    "humanoids": 0,
+    "geometry": "16:2537042180",
+    "descendants": 25
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.宝箱资源点.1x1,大叔",
+    "index": 529,
+    "parent": "Workspace.Prefabs.雪原Map.宝箱资源点",
+    "class": "Model",
+    "locator": "W/2/18/1/3",
+    "scripts": 0,
+    "children": [
+      "草 [Model]",
+      "草 [Model]",
+      "草 [Model]",
+      "草 [Model]",
+      "草 [Model]",
+      "草 [Model]",
+      "PrimaryPart [Part]",
+      "草 [Model]",
+      "TreeXXL [Model]",
+      "草 [Model]",
+      "草 [Model]"
+    ],
+    "parts": 57,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      58,
+      96.96,
+      74.97
+    ],
+    "collidable": 55,
+    "meshIds": [],
+    "name": "1x1,大叔",
+    "position": [
+      38.1,
+      -751.17,
+      242.76
+    ],
+    "anchored": 57,
+    "humanoids": 0,
+    "geometry": "57:1423949819",
+    "descendants": 73
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.宝箱资源点.1x1,大雪人",
+    "index": 530,
+    "parent": "Workspace.Prefabs.雪原Map.宝箱资源点",
+    "class": "Model",
+    "locator": "W/2/18/1/4",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "Model [Model]"
+    ],
+    "parts": 22,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      46.68,
+      47.75,
+      46.33
+    ],
+    "collidable": 19,
+    "meshIds": [
+      "rbxassetid://134778725539458",
+      "rbxassetid://14697643674",
+      "rbxassetid://14697643838"
+    ],
+    "name": "1x1,大雪人",
+    "position": [
+      241.22,
+      -768.99,
+      162.64
+    ],
+    "anchored": 22,
+    "humanoids": 0,
+    "geometry": "22:1031343391",
+    "descendants": 28
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.资源点.1x1,木屋",
+    "index": 531,
+    "parent": "Workspace.Prefabs.雪原Map.资源点",
+    "class": "Model",
+    "locator": "W/2/18/2/1",
+    "scripts": 2,
+    "children": [
+      "草 [Model]",
+      "Union [UnionOperation]",
+      "Model [Model]",
+      "草 [Model]",
+      "RootPart [Part]",
+      "草 [Model]"
+    ],
+    "parts": 43,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "Script",
+      "Sound Script"
+    ],
+    "animations": 0,
+    "size": [
+      38.61,
+      32.99,
+      26.08
+    ],
+    "collidable": 41,
+    "meshIds": [],
+    "name": "1x1,木屋",
+    "position": [
+      136.8,
+      -782.3,
+      162.02
+    ],
+    "anchored": 40,
+    "humanoids": 0,
+    "geometry": "43:1061367655",
+    "descendants": 59
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.资源点.1x1,水井",
+    "index": 532,
+    "parent": "Workspace.Prefabs.雪原Map.资源点",
+    "class": "Model",
+    "locator": "W/2/18/2/2",
+    "scripts": 0,
+    "children": [
+      "草 [Model]",
+      "KIT [MeshPart]",
+      "草 [Model]",
+      "KIT [MeshPart]",
+      "KIT [MeshPart]",
+      "草 [Model]",
+      "草 [Model]",
+      "Model [Model]",
+      "RootPart [Part]"
+    ],
+    "parts": 11,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      17.98,
+      13.77,
+      14.78
+    ],
+    "collidable": 10,
+    "meshIds": [
+      "rbxassetid://120614298582213",
+      "rbxassetid://123520365701496",
+      "rbxassetid://98771032819890"
+    ],
+    "name": "1x1,水井",
+    "position": [
+      102.47,
+      -788.7,
+      117.98
+    ],
+    "anchored": 11,
+    "humanoids": 0,
+    "geometry": "11:2856561247",
+    "descendants": 17
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.资源点.1x1,坟墓",
+    "index": 533,
+    "parent": "Workspace.Prefabs.雪原Map.资源点",
+    "class": "Model",
+    "locator": "W/2/18/2/3",
+    "scripts": 0,
+    "children": [
+      "草 [Model]",
+      "草 [Model]",
+      "草 [Model]",
+      "草 [Model]",
+      "Model [Model]",
+      "幽灵生成点 [Folder]",
+      "RootPart [Part]",
+      "1x1,棺材 [Model]",
+      "草 [Model]",
+      "草 [Model]",
+      "草 [Model]",
+      "草 [Model]"
+    ],
+    "parts": 16,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      21.79,
+      10.07,
+      28.62
+    ],
+    "collidable": 14,
+    "meshIds": [],
+    "name": "1x1,坟墓",
+    "position": [
+      180.26,
+      -790.8,
+      116.82
+    ],
+    "anchored": 16,
+    "humanoids": 0,
+    "geometry": "16:1303386774",
+    "descendants": 31
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.资源点.1x1,围栏1",
+    "index": 534,
+    "parent": "Workspace.Prefabs.雪原Map.资源点",
+    "class": "Model",
+    "locator": "W/2/18/2/4",
+    "scripts": 0,
+    "children": [
+      "Model [Model]",
+      "RootPart [Part]",
+      "草 [Model]",
+      "草 [Model]",
+      "草 [Model]"
+    ],
+    "parts": 16,
+    "attrs": [],
+    "meshes": 4,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      14.04,
+      11.17,
+      18.5
+    ],
+    "collidable": 15,
+    "meshIds": [
+      "rbxassetid://501461390"
+    ],
+    "name": "1x1,围栏1",
+    "position": [
+      151.29,
+      -790.94,
+      116.95
+    ],
+    "anchored": 16,
+    "humanoids": 0,
+    "geometry": "16:2806364057",
+    "descendants": 21
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.资源点.1x1,水井",
+    "index": 535,
+    "parent": "Workspace.Prefabs.雪原Map.资源点",
+    "class": "Model",
+    "locator": "W/2/18/2/5",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]",
+      "草 [Model]",
+      "Part [Part]",
+      "Part [Part]",
+      "RootPart [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "草 [Model]",
+      "Union [UnionOperation]",
+      "Union [UnionOperation]"
+    ],
+    "parts": 29,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      15.43,
+      15.39,
+      15.69
+    ],
+    "collidable": 27,
+    "meshIds": [
+      "rbxassetid://74146555185446",
+      "rbxassetid://78901569042232"
+    ],
+    "name": "1x1,水井",
+    "position": [
+      128.01,
+      -787.89,
+      118.19
+    ],
+    "anchored": 29,
+    "humanoids": 0,
+    "geometry": "29:883086744",
+    "descendants": 35
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.资源点.1x1,围栏2",
+    "index": 536,
+    "parent": "Workspace.Prefabs.雪原Map.资源点",
+    "class": "Model",
+    "locator": "W/2/18/2/6",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Union [UnionOperation]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]"
+    ],
+    "parts": 8,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      9.19,
+      5.77,
+      13.71
+    ],
+    "collidable": 7,
+    "meshIds": [],
+    "name": "1x1,围栏2",
+    "position": [
+      201.68,
+      -790.1,
+      114.68
+    ],
+    "anchored": 2,
+    "humanoids": 0,
+    "geometry": "8:2373473526",
+    "descendants": 9
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.资源点.1x1,侧翻马车",
+    "index": 537,
+    "parent": "Workspace.Prefabs.雪原Map.资源点",
+    "class": "Model",
+    "locator": "W/2/18/2/7",
+    "scripts": 0,
+    "children": [
+      "草 [Model]",
+      "PM [Part]",
+      "草 [Model]",
+      "Model [Model]",
+      "草 [Model]",
+      "草 [Model]",
+      "草 [Model]",
+      "草 [Model]"
+    ],
+    "parts": 32,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      22.15,
+      17.65,
+      20.86
+    ],
+    "collidable": 31,
+    "meshIds": [],
+    "name": "1x1,侧翻马车",
+    "position": [
+      226.79,
+      -787.71,
+      117.99
+    ],
+    "anchored": 32,
+    "humanoids": 0,
+    "geometry": "32:1424015357",
+    "descendants": 41
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.资源点.1x1,木屋",
+    "index": 538,
+    "parent": "Workspace.Prefabs.雪原Map.资源点",
+    "class": "Model",
+    "locator": "W/2/18/2/8",
+    "scripts": 2,
+    "children": [
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Model [Model]",
+      "草 [Model]",
+      "RootPart [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "草 [Model]",
+      "Union [UnionOperation]",
+      "草 [Model]"
+    ],
+    "parts": 41,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "Sound Script",
+      "Script"
+    ],
+    "animations": 0,
+    "size": [
+      38.61,
+      28.93,
+      26.08
+    ],
+    "collidable": 39,
+    "meshIds": [],
+    "name": "1x1,木屋",
+    "position": [
+      91.74,
+      -785.56,
+      159.48
+    ],
+    "anchored": 38,
+    "humanoids": 0,
+    "geometry": "41:728728156",
+    "descendants": 73
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.装饰.草",
+    "index": 539,
+    "parent": "Workspace.Prefabs.雪原Map.装饰",
+    "class": "Model",
+    "locator": "W/2/18/3/1",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      12.79,
+      10.29,
+      12.09
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "草",
+    "position": [
+      170.96,
+      -794.33,
+      -107.43
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1115476422",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.装饰.草1",
+    "index": 540,
+    "parent": "Workspace.Prefabs.雪原Map.装饰",
+    "class": "Model",
+    "locator": "W/2/18/3/2",
+    "scripts": 0,
+    "children": [
+      "Meshes/t+g_2 (1) [MeshPart]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      9.88,
+      7.15,
+      9.77
+    ],
+    "collidable": 0,
+    "meshIds": [
+      "rbxassetid://80541769542917"
+    ],
+    "name": "草1",
+    "position": [
+      96.96,
+      -790,
+      -109.84
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:4247595489",
+    "descendants": 1
+  }
+]

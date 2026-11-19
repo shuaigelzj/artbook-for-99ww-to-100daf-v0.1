@@ -1,0 +1,81 @@
+{
+  "total": 905,
+  "prefabs": 601,
+  "loose": 304,
+  "folders": 91,
+  "noParts": 14,
+  "unknown": 157,
+  "pending": 206,
+  "duplicatePathGroups": 41,
+  "invalidNames": 1,
+  "categories": [
+    {
+      "category": "地形与植被",
+      "count": 89
+    },
+    {
+      "category": "建筑与场景组合",
+      "count": 156
+    },
+    {
+      "category": "营地与建造设施",
+      "count": 61
+    },
+    {
+      "category": "资源、食物与消耗品",
+      "count": 80
+    },
+    {
+      "category": "武器与交互工具",
+      "count": 91
+    },
+    {
+      "category": "角色、敌人与动物",
+      "count": 124
+    },
+    {
+      "category": "服饰、护具与皮肤",
+      "count": 75
+    },
+    {
+      "category": "机关、特效与界面",
+      "count": 45
+    },
+    {
+      "category": "辅助与空对象",
+      "count": 27
+    },
+    {
+      "category": "待辨认素材",
+      "count": 157
+    }
+  ],
+  "basis": [
+    [
+      "结构确认",
+      45
+    ],
+    [
+      "目录确认",
+      343
+    ],
+    [
+      "待核实",
+      157
+    ],
+    [
+      "配置确认",
+      238
+    ],
+    [
+      "名称推断",
+      122
+    ]
+  ],
+  "outputs": [
+    "局内建模素材分类清单.md",
+    "output/局内素材分类/01_预设库明细.md",
+    "output/局内素材分类/02_散放素材明细.md",
+    "output/局内素材分类/03_目录与定位索引.md"
+  ]
+}

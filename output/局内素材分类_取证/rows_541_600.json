@@ -1,0 +1,2877 @@
+[
+  {
+    "path": "Workspace.Prefabs.雪原Map.装饰.石块",
+    "index": 541,
+    "parent": "Workspace.Prefabs.雪原Map.装饰",
+    "class": "Model",
+    "locator": "W/2/18/3/3",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      30.87,
+      10.72,
+      32.27
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "石块",
+    "position": [
+      202.04,
+      -792.97,
+      -105.09
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1860051205",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.装饰.石块",
+    "index": 542,
+    "parent": "Workspace.Prefabs.雪原Map.装饰",
+    "class": "Model",
+    "locator": "W/2/18/3/4",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      12.82,
+      10.57,
+      12.56
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "石块",
+    "position": [
+      232.47,
+      -793.05,
+      -109.03
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:2096418467",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.装饰.土地",
+    "index": 543,
+    "parent": "Workspace.Prefabs.雪原Map.装饰",
+    "class": "Model",
+    "locator": "W/2/18/3/5",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      23.29,
+      9.16,
+      25.01
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "土地",
+    "position": [
+      124.22,
+      -797.31,
+      -107.81
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:4042880083",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.装饰.石块",
+    "index": 544,
+    "parent": "Workspace.Prefabs.雪原Map.装饰",
+    "class": "Model",
+    "locator": "W/2/18/3/6",
+    "scripts": 0,
+    "children": [
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]"
+    ],
+    "parts": 10,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      10.75,
+      27.22,
+      12.09
+    ],
+    "collidable": 10,
+    "meshIds": [],
+    "name": "石块",
+    "position": [
+      247.94,
+      -785.32,
+      -110.28
+    ],
+    "anchored": 10,
+    "humanoids": 0,
+    "geometry": "10:3382117199",
+    "descendants": 10
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.装饰.土地",
+    "index": 545,
+    "parent": "Workspace.Prefabs.雪原Map.装饰",
+    "class": "Model",
+    "locator": "W/2/18/3/7",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      15.7,
+      6.74,
+      14.74
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "土地",
+    "position": [
+      147.21,
+      -796.11,
+      -109.65
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:3276209865",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.装饰.草1",
+    "index": 546,
+    "parent": "Workspace.Prefabs.雪原Map.装饰",
+    "class": "Model",
+    "locator": "W/2/18/3/8",
+    "scripts": 0,
+    "children": [
+      "Meshes/t+g_1 (1) [MeshPart]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      8.61,
+      4.03,
+      6.97
+    ],
+    "collidable": 0,
+    "meshIds": [
+      "rbxassetid://92823053998670"
+    ],
+    "name": "草1",
+    "position": [
+      80.71,
+      -790.91,
+      -108.81
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:72005299",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.树.TreeXL",
+    "index": 547,
+    "parent": "Workspace.Prefabs.雪原Map.树",
+    "class": "Model",
+    "locator": "W/2/18/4/1",
+    "scripts": 0,
+    "children": [
+      "Part [Part]",
+      "Part [Part]",
+      "Union [UnionOperation]",
+      "Union [UnionOperation]",
+      "Part [Part]",
+      "Part [Part]",
+      "Union [UnionOperation]",
+      "Union [UnionOperation]",
+      "Union [UnionOperation]",
+      "core [Part]"
+    ],
+    "parts": 10,
+    "attrs": {
+      "hp": "440"
+    },
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      17.96,
+      48.94,
+      17.96
+    ],
+    "collidable": 10,
+    "meshIds": [],
+    "name": "TreeXL",
+    "position": [
+      287.51,
+      -768.86,
+      -106.33
+    ],
+    "anchored": 10,
+    "humanoids": 0,
+    "geometry": "10:3242990687",
+    "descendants": 10
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.树.TreeL",
+    "index": 548,
+    "parent": "Workspace.Prefabs.雪原Map.树",
+    "class": "Model",
+    "locator": "W/2/18/4/2",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]",
+      "Union [UnionOperation]",
+      "Part [Part]",
+      "Part [Part]",
+      "Union [UnionOperation]",
+      "Union [UnionOperation]",
+      "core [Part]"
+    ],
+    "parts": 7,
+    "attrs": {
+      "hp": "10"
+    },
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      7.91,
+      23.19,
+      7.91
+    ],
+    "collidable": 7,
+    "meshIds": [],
+    "name": "TreeL",
+    "position": [
+      271.11,
+      -781.74,
+      -106.33
+    ],
+    "anchored": 7,
+    "humanoids": 0,
+    "geometry": "7:3011268975",
+    "descendants": 7
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.边缘装饰.草",
+    "index": 549,
+    "parent": "Workspace.Prefabs.雪原Map.边缘装饰",
+    "class": "Model",
+    "locator": "W/2/18/5/1",
+    "scripts": 0,
+    "children": [
+      "Part [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      8.06,
+      4.05,
+      7.92
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "草",
+    "position": [
+      153.26,
+      -794.31,
+      -81.25
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:3733166129",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.边缘装饰.草",
+    "index": 550,
+    "parent": "Workspace.Prefabs.雪原Map.边缘装饰",
+    "class": "Model",
+    "locator": "W/2/18/5/2",
+    "scripts": 0,
+    "children": [
+      "Union [UnionOperation]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      21.54,
+      8.12,
+      18.5
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "草",
+    "position": [
+      174.27,
+      -796.16,
+      -65.56
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:2137194336",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.土著村落.2x2,土著营地V2",
+    "index": 551,
+    "parent": "Workspace.Prefabs.雪原Map.土著村落",
+    "class": "Model",
+    "locator": "W/2/18/6/1",
+    "scripts": 14,
+    "children": [
+      "Model [Model]",
+      "1x1,木桶 [Model]",
+      "CandleStick [Model]",
+      "骨头 [UnionOperation]",
+      "pm [Part]",
+      "Model [Model]",
+      "敌人生成点 [Part]",
+      "218 [Tool]",
+      "CandleStick [Model]",
+      "火5级 [Model]",
+      "218 [Tool]",
+      "401 [Tool]",
+      "218 [Tool]",
+      "402 [Tool]"
+    ],
+    "parts": 302,
+    "attrs": [],
+    "meshes": 103,
+    "tags": [],
+    "scriptNames": [
+      "Script",
+      "Script",
+      "LocalScript",
+      "Script",
+      "Script",
+      "LocalScript",
+      "Script",
+      "Script",
+      "Script",
+      "LocalScript",
+      "Script",
+      "Script"
+    ],
+    "animations": 0,
+    "size": [
+      104.84,
+      46.13,
+      102.01
+    ],
+    "collidable": 283,
+    "meshIds": [
+      "rbxassetid://101501200965372",
+      "rbxassetid://102257241638285",
+      "rbxassetid://10357809137",
+      "rbxassetid://10357809659",
+      "rbxassetid://106265136652297",
+      "rbxassetid://107430079972094",
+      "rbxassetid://120614298582213",
+      "rbxassetid://123520365701496",
+      "rbxassetid://131166850672291",
+      "rbxassetid://133203178997458",
+      "rbxassetid://138706541488462",
+      "rbxassetid://139659456898797",
+      "rbxassetid://6742496331",
+      "rbxassetid://72674681923496",
+      "rbxassetid://78269520515541",
+      "rbxassetid://79349628460184",
+      "rbxassetid://80541769542917",
+      "rbxassetid://83792849770412",
+      "rbxassetid://84437698433402",
+      "rbxassetid://92823053998670",
+      "rbxassetid://98771032819890"
+    ],
+    "name": "2x2,土著营地V2",
+    "position": [
+      196.8,
+      -773.03,
+      42.77
+    ],
+    "anchored": 268,
+    "humanoids": 0,
+    "geometry": "302:905800402",
+    "descendants": 476
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.土著村落.2x1,土著村落V1",
+    "index": 552,
+    "parent": "Workspace.Prefabs.雪原Map.土著村落",
+    "class": "Model",
+    "locator": "W/2/18/6/2",
+    "scripts": 4,
+    "children": [
+      "Model [Model]",
+      "218 [Tool]",
+      "pm [Part]",
+      "火4级 [Model]",
+      "218 [Tool]",
+      "骨头 [UnionOperation]",
+      "敌人生成点 [Part]",
+      "Camp by CRaNmnator [Model]",
+      "218 [Tool]",
+      "218 [Tool]"
+    ],
+    "parts": 184,
+    "attrs": [],
+    "meshes": 73,
+    "tags": [],
+    "scriptNames": [
+      "Script",
+      "Script",
+      "Script",
+      "Script"
+    ],
+    "animations": 0,
+    "size": [
+      104.23,
+      33.02,
+      51.83
+    ],
+    "collidable": 183,
+    "meshIds": [
+      "rbxassetid://106265136652297",
+      "rbxassetid://107430079972094",
+      "rbxassetid://120614298582213",
+      "rbxassetid://123520365701496",
+      "rbxassetid://131166850672291",
+      "rbxassetid://133203178997458",
+      "rbxassetid://138706541488462",
+      "rbxassetid://139659456898797",
+      "rbxassetid://6742496331",
+      "rbxassetid://72674681923496",
+      "rbxassetid://79349628460184",
+      "rbxassetid://83792849770412",
+      "rbxassetid://84437698433402",
+      "rbxassetid://98771032819890"
+    ],
+    "name": "2x1,土著村落V1",
+    "position": [
+      107.47,
+      -778.82,
+      39.9
+    ],
+    "anchored": 168,
+    "humanoids": 0,
+    "geometry": "184:1085776442",
+    "descendants": 273
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.铁道公司.2x1,西部铁道公司V1",
+    "index": 553,
+    "parent": "Workspace.Prefabs.雪原Map.铁道公司",
+    "class": "Model",
+    "locator": "W/2/18/8/1",
+    "scripts": 10,
+    "children": [
+      "铲子 [Model]",
+      "Model [Model]",
+      "pm [Part]",
+      "铁道公司1 [Model]",
+      "敌人生成点 [Part]",
+      "401 [Tool]",
+      "402 [Tool]",
+      "213 [Model]",
+      "134 [Tool]",
+      "213 [Model]",
+      "213 [Model]",
+      "212 [Model]",
+      "212 [Model]",
+      "401 [Tool]"
+    ],
+    "parts": 299,
+    "attrs": [],
+    "meshes": 49,
+    "tags": [
+      "SpecialEvent"
+    ],
+    "scriptNames": [
+      "Script",
+      "Sound Script",
+      "Script",
+      "Sound Script",
+      "Script",
+      "LocalScript",
+      "Script",
+      "LocalScript",
+      "Script",
+      "LocalScript"
+    ],
+    "animations": 0,
+    "size": [
+      63.76,
+      36,
+      44.6
+    ],
+    "collidable": 245,
+    "meshIds": [
+      "rbxassetid://101501200965372",
+      "rbxassetid://117732578675214",
+      "rbxassetid://13615530461",
+      "rbxassetid://18325727975",
+      "rbxassetid://2128760908",
+      "rbxassetid://2128761993",
+      "rbxassetid://501461390",
+      "rbxassetid://79349628460184",
+      "rbxassetid://9989512747"
+    ],
+    "name": "2x1,西部铁道公司V1",
+    "position": [
+      109.88,
+      -777.76,
+      219.13
+    ],
+    "anchored": 213,
+    "humanoids": 0,
+    "geometry": "299:1820678292",
+    "descendants": 587
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.铁道公司.2x1,西部铁道公司V2",
+    "index": 554,
+    "parent": "Workspace.Prefabs.雪原Map.铁道公司",
+    "class": "Model",
+    "locator": "W/2/18/8/2",
+    "scripts": 0,
+    "children": [
+      "Model [Model]",
+      "Union [UnionOperation]",
+      "111 [Model]",
+      "PrimaryPart [Part]",
+      "111 [Model]",
+      "Union [UnionOperation]",
+      "111 [Model]",
+      "草 [Model]",
+      "Model [Model]",
+      "Part [Part]",
+      "草 [Model]",
+      "草 [Model]",
+      "111 [Model]",
+      "Union [UnionOperation]"
+    ],
+    "parts": 148,
+    "attrs": [],
+    "meshes": 14,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      74.17,
+      43.21,
+      63.5
+    ],
+    "collidable": 138,
+    "meshIds": [
+      "rbxassetid://10357809137",
+      "rbxassetid://10357809659",
+      "rbxassetid://13615530461"
+    ],
+    "name": "2x1,西部铁道公司V2",
+    "position": [
+      190.21,
+      -779.08,
+      218.57
+    ],
+    "anchored": 148,
+    "humanoids": 0,
+    "geometry": "148:2832330907",
+    "descendants": 182
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.雪山.草",
+    "index": 555,
+    "parent": "Workspace.Prefabs.雪原Map.雪山",
+    "class": "Model",
+    "locator": "W/2/18/9/1",
+    "scripts": 0,
+    "children": [
+      "Meshes/t+g_2 (1) [MeshPart]",
+      "Meshes/t+g_2 (1) [MeshPart]",
+      "Meshes/t+g_2 (1) [MeshPart]",
+      "Meshes/t+g_1 (1) [MeshPart]",
+      "Meshes/t+g_1 (1) [MeshPart]",
+      "Meshes/t+g_1 (1) [MeshPart]",
+      "Meshes/t+g_1 (1) [MeshPart]",
+      "Meshes/t+g_1 (1) [MeshPart]",
+      "Meshes/t+g_1 (1) [MeshPart]",
+      "Meshes/t+g_2 (1) [MeshPart]",
+      "Meshes/t+g_2 (1) [MeshPart]",
+      "Meshes/t+g_1 (1) [MeshPart]",
+      "Meshes/t+g_2 (1) [MeshPart]",
+      "Meshes/t+g_2 (1) [MeshPart]"
+    ],
+    "parts": 18,
+    "attrs": [],
+    "meshes": 18,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      224.98,
+      311.41,
+      189.13
+    ],
+    "collidable": 0,
+    "meshIds": [
+      "rbxassetid://80541769542917",
+      "rbxassetid://92823053998670"
+    ],
+    "name": "草",
+    "position": [
+      420.66,
+      -635.78,
+      243.35
+    ],
+    "anchored": 18,
+    "humanoids": 0,
+    "geometry": "18:2512978757",
+    "descendants": 18
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.雪山.BOSS雪",
+    "index": 556,
+    "parent": "Workspace.Prefabs.雪原Map.雪山",
+    "class": "Model",
+    "locator": "W/2/18/9/2",
+    "scripts": 2,
+    "children": [
+      "hide [BoolValue]",
+      "BOSS雪_client [Script]",
+      "雪覆盖 [MeshPart]",
+      "雪覆盖 [MeshPart]",
+      "雪覆盖 [MeshPart]",
+      "RootPart [Part]",
+      "BOSS雪_server [Script]"
+    ],
+    "parts": 4,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [
+      "BOSS雪_client",
+      "BOSS雪_server"
+    ],
+    "animations": 0,
+    "size": [
+      49.77,
+      21.48,
+      49.11
+    ],
+    "collidable": 3,
+    "meshIds": [
+      "rbxassetid://107430079972094",
+      "rbxassetid://138706541488462"
+    ],
+    "name": "BOSS雪",
+    "position": [
+      805.35,
+      -778.31,
+      252.38
+    ],
+    "anchored": 4,
+    "humanoids": 0,
+    "geometry": "4:982173886",
+    "descendants": 7
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.雪山.牛牛战场",
+    "index": 557,
+    "parent": "Workspace.Prefabs.雪原Map.雪山",
+    "class": "Model",
+    "locator": "W/2/18/9/3",
+    "scripts": 2,
+    "children": [
+      "Model [Model]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Model [Model]",
+      "火把 [Model]",
+      "火把 [Model]",
+      "Part [Part]",
+      "Part [Part]",
+      "底座 [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]"
+    ],
+    "parts": 195,
+    "attrs": [],
+    "meshes": 48,
+    "tags": [],
+    "scriptNames": [
+      "牛牛战场_server",
+      "牛牛战场_client"
+    ],
+    "animations": 0,
+    "size": [
+      280.48,
+      118.91,
+      237.21
+    ],
+    "collidable": 176,
+    "meshIds": [
+      "rbxassetid://120614298582213",
+      "rbxassetid://123520365701496",
+      "rbxassetid://138706541488462",
+      "rbxassetid://5347868749",
+      "rbxassetid://8187885023",
+      "rbxassetid://86162755422910",
+      "rbxassetid://94413993831857",
+      "rbxassetid://98771032819890",
+      "rbxassetid://98826269074003"
+    ],
+    "name": "牛牛战场",
+    "position": [
+      795.25,
+      -735.67,
+      252.11
+    ],
+    "anchored": 195,
+    "humanoids": 0,
+    "geometry": "195:4064731293",
+    "descendants": 309
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.雪山.牛牛战败雪",
+    "index": 558,
+    "parent": "Workspace.Prefabs.雪原Map.雪山",
+    "class": "MeshPart",
+    "locator": "W/2/18/9/4",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      18.03,
+      9.99,
+      18.67
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "rbxassetid://133203178997458"
+    ],
+    "name": "牛牛战败雪",
+    "position": [
+      638.5,
+      -787.87,
+      286.86
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:287011091",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.雪山.雪山控制器",
+    "index": 559,
+    "parent": "Workspace.Prefabs.雪原Map.雪山",
+    "class": "Model",
+    "locator": "W/2/18/9/5",
+    "scripts": 1,
+    "children": [
+      "RootPart [Part]",
+      "雪山控制器_server [Script]",
+      "Values [Configuration]",
+      "Stage [IntValue]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "雪山控制器_server"
+    ],
+    "animations": 0,
+    "size": [
+      250,
+      0.1,
+      250
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "雪山控制器",
+    "position": [
+      421.17,
+      -792.82,
+      240.25
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:268346155",
+    "descendants": 6
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.雪山.雪山正常V2",
+    "index": 560,
+    "parent": "Workspace.Prefabs.雪原Map.雪山",
+    "class": "Model",
+    "locator": "W/2/18/9/6",
+    "scripts": 1,
+    "children": [
+      "雪山正常V2_server [Script]",
+      "入口Part [Part]",
+      "RootPart [Part]",
+      "传送点 [Attachment]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "雪山正常V2_server"
+    ],
+    "animations": 0,
+    "size": [
+      250,
+      23.72,
+      250
+    ],
+    "collidable": 2,
+    "meshIds": [],
+    "name": "雪山正常V2",
+    "position": [
+      421.17,
+      -781.01,
+      240.25
+    ],
+    "anchored": 2,
+    "humanoids": 0,
+    "geometry": "2:2417804858",
+    "descendants": 5
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.雪山.雪山正常",
+    "index": 561,
+    "parent": "Workspace.Prefabs.雪原Map.雪山",
+    "class": "Model",
+    "locator": "W/2/18/9/7",
+    "scripts": 1,
+    "children": [
+      "RootPart [Part]",
+      "雪山琼斯 [Model]"
+    ],
+    "parts": 9,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [
+      "雪山琼斯对话"
+    ],
+    "animations": 0,
+    "size": [
+      250,
+      22.19,
+      250
+    ],
+    "collidable": 4,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=1285237",
+      "rbxassetid://5841111026"
+    ],
+    "name": "雪山正常",
+    "position": [
+      421.17,
+      -781.77,
+      240.25
+    ],
+    "anchored": 8,
+    "humanoids": 1,
+    "geometry": "9:2607858035",
+    "descendants": 43
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.雪山.雪山暴雪",
+    "index": 562,
+    "parent": "Workspace.Prefabs.雪原Map.雪山",
+    "class": "Model",
+    "locator": "W/2/18/9/8",
+    "scripts": 5,
+    "children": [
+      "AttackStart [Attachment]",
+      "雪山暴雪_server [Script]",
+      "雪山暴雪_client [Script]",
+      "AttackTarget [Attachment]",
+      "SnowballRangePart [Part]",
+      "小牛 [Model]",
+      "CloudsCenter [Model]",
+      "CloudsOutside [Model]",
+      "SnowstormTouchPart [Part]",
+      "RootPart [Part]",
+      "SnowballHitC2S [RemoteEvent]",
+      "SetInSnowballRangeC2S [RemoteEvent]",
+      "SnowballAttackS2C [RemoteEvent]",
+      "SetInSnowstormC2S [RemoteEvent]"
+    ],
+    "parts": 167,
+    "attrs": [],
+    "meshes": 157,
+    "tags": [],
+    "scriptNames": [
+      "雪山暴雪_server",
+      "雪山暴雪_client",
+      "AnimateScript",
+      "模型旋转",
+      "模型旋转"
+    ],
+    "animations": 27,
+    "size": [
+      785,
+      524.14,
+      779
+    ],
+    "collidable": 15,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=1095708",
+      "rbxassetid://100651267386204",
+      "rbxassetid://103363319636367",
+      "rbxassetid://112672102568248",
+      "rbxassetid://114768531226753",
+      "rbxassetid://115076865733892",
+      "rbxassetid://117226403444825",
+      "rbxassetid://122453843247540",
+      "rbxassetid://122586205049819",
+      "rbxassetid://123133713013251",
+      "rbxassetid://125208056441093",
+      "rbxassetid://125872756449935",
+      "rbxassetid://131401220816848",
+      "rbxassetid://133401644262568",
+      "rbxassetid://135912426076117",
+      "rbxassetid://138798303435454",
+      "rbxassetid://72674681923496",
+      "rbxassetid://74898382572223",
+      "rbxassetid://78093553758909",
+      "rbxassetid://78269520515541",
+      "rbxassetid://86040545575950",
+      "rbxassetid://86509958061686",
+      "rbxassetid://89198787202144",
+      "rbxassetid://94106059945960",
+      "rbxassetid://94849936041442",
+      "rbxassetid://99562621742909"
+    ],
+    "name": "雪山暴雪",
+    "position": [
+      421.17,
+      -530.8,
+      180.63
+    ],
+    "anchored": 139,
+    "humanoids": 1,
+    "geometry": "167:3698310607",
+    "descendants": 653
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.雪山.山",
+    "index": 563,
+    "parent": "Workspace.Prefabs.雪原Map.雪山",
+    "class": "Model",
+    "locator": "W/2/18/9/9",
+    "scripts": 1,
+    "children": [
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "树 [Model]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]"
+    ],
+    "parts": 390,
+    "attrs": [],
+    "meshes": 101,
+    "tags": [
+      "UISnowMountain"
+    ],
+    "scriptNames": [
+      "冰护甲"
+    ],
+    "animations": 3,
+    "size": [
+      256.09,
+      340.54,
+      251.95
+    ],
+    "collidable": 275,
+    "meshIds": [
+      "rbxassetid://120614298582213",
+      "rbxassetid://123520365701496",
+      "rbxassetid://130635119283909",
+      "rbxassetid://133671795875645",
+      "rbxassetid://13615530461",
+      "rbxassetid://18325727975",
+      "rbxassetid://72674681923496",
+      "rbxassetid://75303093996432",
+      "rbxassetid://80541769542917",
+      "rbxassetid://86162755422910",
+      "rbxassetid://92823053998670",
+      "rbxassetid://94264226608615",
+      "rbxassetid://94413993831857",
+      "rbxassetid://98771032819890",
+      "rbxassetid://98826269074003",
+      "rbxassetid://99168517786167"
+    ],
+    "name": "山",
+    "position": [
+      420.19,
+      -643.24,
+      237.99
+    ],
+    "anchored": 272,
+    "humanoids": 0,
+    "geometry": "390:1270893755",
+    "descendants": 716
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.雪山.1x1,暴风雪祭坛",
+    "index": 564,
+    "parent": "Workspace.Prefabs.雪原Map.雪山",
+    "class": "Model",
+    "locator": "W/2/18/9/10",
+    "scripts": 2,
+    "children": [
+      "UI [Attachment]",
+      "火盆 [Model]",
+      "TouchPart [Part]",
+      "暴风雪祭坛 [Script]",
+      "RootPart [Part]",
+      "Beam [Beam]",
+      "Meshes/t+g_2 (1) [MeshPart]",
+      "Model [Model]",
+      "Values [Configuration]",
+      "Part [Part]",
+      "Model [Model]",
+      "Meshes/t+g_1 (1) [MeshPart]",
+      "圈 [Model]",
+      "火焰 [Part]"
+    ],
+    "parts": 37,
+    "attrs": [],
+    "meshes": 9,
+    "tags": [],
+    "scriptNames": [
+      "暴风雪祭坛",
+      "直接死"
+    ],
+    "animations": 0,
+    "size": [
+      50.95,
+      16.97,
+      50
+    ],
+    "collidable": 25,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=13643366",
+      "rbxassetid://15006871346",
+      "rbxassetid://15270720246",
+      "rbxassetid://4382285860",
+      "rbxassetid://5943950484",
+      "rbxassetid://5972856856",
+      "rbxassetid://80541769542917",
+      "rbxassetid://92823053998670"
+    ],
+    "name": "1x1,暴风雪祭坛",
+    "position": [
+      -245.99,
+      -792.5,
+      186.44
+    ],
+    "anchored": 25,
+    "humanoids": 1,
+    "geometry": "37:2676445152",
+    "descendants": 133
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.特殊房子.1x1,围脖彩蛋V1",
+    "index": 565,
+    "parent": "Workspace.Prefabs.雪原Map.特殊房子",
+    "class": "Model",
+    "locator": "W/2/18/10/1",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "Values [Configuration]",
+      "雪人 [Model]",
+      "雪人 [Model]",
+      "雪人 [Model]",
+      "雪人 [Model]",
+      "雪人 [Model]",
+      "雪人 [Model]"
+    ],
+    "parts": 67,
+    "attrs": [],
+    "meshes": 24,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      50,
+      4.22,
+      50
+    ],
+    "collidable": 43,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=99856331 ",
+      "rbxassetid://134778725539458",
+      "rbxassetid://14697643674",
+      "rbxassetid://14697643838"
+    ],
+    "name": "1x1,围脖彩蛋V1",
+    "position": [
+      -146.52,
+      -791.02,
+      211.9
+    ],
+    "anchored": 61,
+    "humanoids": 0,
+    "geometry": "67:1196934508",
+    "descendants": 116
+  },
+  {
+    "path": "Workspace.Prefabs.雪原Map.特殊房子.1x1,围脖制造",
+    "index": 566,
+    "parent": "Workspace.Prefabs.雪原Map.特殊房子",
+    "class": "Model",
+    "locator": "W/2/18/10/2",
+    "scripts": 2,
+    "children": [
+      "兑换围脖 [Model]",
+      "Hunter [Model]",
+      "Values [Configuration]",
+      "RootPart [Part]"
+    ],
+    "parts": 22,
+    "attrs": [],
+    "meshes": 6,
+    "tags": [],
+    "scriptNames": [
+      "兑换围脖",
+      "兑换围脖"
+    ],
+    "animations": 0,
+    "size": [
+      50,
+      9.76,
+      50
+    ],
+    "collidable": 10,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=157959108 ",
+      "http://www.roblox.com/asset/?id=25684478",
+      "http://www.roblox.com/asset/?id=283706818",
+      "http://www.roblox.com/asset/?id=61899290",
+      "rbxassetid://108438206573992"
+    ],
+    "name": "1x1,围脖制造",
+    "position": [
+      -146.52,
+      -787.71,
+      267.52
+    ],
+    "anchored": 10,
+    "humanoids": 1,
+    "geometry": "22:4130681141",
+    "descendants": 124
+  },
+  {
+    "path": "Workspace.Prefabs.圣诞节.圣诞围脖",
+    "index": 567,
+    "parent": "Workspace.Prefabs.圣诞节",
+    "class": "Accessory",
+    "locator": "W/2/19/1",
+    "scripts": 0,
+    "children": [
+      "Handle [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      2,
+      3,
+      1.6
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=105352403"
+    ],
+    "name": "圣诞围脖",
+    "position": [
+      153.29,
+      -785.87,
+      -353.79
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "1:3903961859",
+    "descendants": 6
+  },
+  {
+    "path": "Workspace.Prefabs.圣诞节.圣诞节据点未修复",
+    "index": 568,
+    "parent": "Workspace.Prefabs.圣诞节",
+    "class": "Model",
+    "locator": "W/2/19/2",
+    "scripts": 5,
+    "children": [
+      "214 [Model]",
+      "209 [Model]",
+      "对话开启 [Script]",
+      "圣诞节据点阶段1 [Script]",
+      "圣诞节据点阶段1 [Script]",
+      "火堆 [Model]",
+      "RootPart [Part]",
+      "Santa1 [Model]",
+      "马车 [Model]",
+      "Values [Configuration]",
+      "布置 [Model]",
+      "210 [Model]",
+      "210 [Model]",
+      "敌人生成点 [Part]"
+    ],
+    "parts": 123,
+    "attrs": [],
+    "meshes": 26,
+    "tags": [],
+    "scriptNames": [
+      "对话开启",
+      "圣诞节据点阶段1",
+      "圣诞节据点阶段1",
+      "圣诞老人",
+      "圣诞老人对话1"
+    ],
+    "animations": 3,
+    "size": [
+      50,
+      9.77,
+      50
+    ],
+    "collidable": 82,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=29938421",
+      "http://www.roblox.com/asset/?id=79401392 ",
+      "rbxassetid://10311347262",
+      "rbxassetid://133680613957548",
+      "rbxassetid://4382285860",
+      "rbxassetid://4383178127",
+      "rbxassetid://4940369149",
+      "rbxassetid://5973559504",
+      "rbxassetid://5991345067",
+      "rbxassetid://6742496331",
+      "rbxassetid://6986126059",
+      "rbxassetid://7853485675",
+      "rbxassetid://79349628460184",
+      "rbxassetid://88175366748093",
+      "rbxassetid://9111879522",
+      "rbxassetid://9111880064",
+      "rbxassetid://9111880272",
+      "rbxassetid://9364940905"
+    ],
+    "name": "圣诞节据点未修复",
+    "position": [
+      208.75,
+      -791.2,
+      -331.62
+    ],
+    "anchored": 86,
+    "humanoids": 1,
+    "geometry": "123:2818189307",
+    "descendants": 389
+  },
+  {
+    "path": "Workspace.Prefabs.圣诞节.圣诞节据点堕机前",
+    "index": 569,
+    "parent": "Workspace.Prefabs.圣诞节",
+    "class": "Model",
+    "locator": "W/2/19/3",
+    "scripts": 3,
+    "children": [
+      "星星 [Script]",
+      "Model [Model]",
+      "圣诞树 [Model]",
+      "圣诞节据点堕机前 [Script]",
+      "RootPart [Part]",
+      "下雪 [Part]",
+      "圣诞树 [Model]",
+      "圣诞树 [Model]",
+      "圣诞树 [Model]",
+      "圣诞琼斯 [Model]"
+    ],
+    "parts": 136,
+    "attrs": [],
+    "meshes": 15,
+    "tags": [],
+    "scriptNames": [
+      "星星",
+      "圣诞节据点堕机前",
+      "圣诞琼斯对话"
+    ],
+    "animations": 0,
+    "size": [
+      50.51,
+      53,
+      50.02
+    ],
+    "collidable": 125,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=1285237",
+      "rbxassetid://134778725539458",
+      "rbxassetid://14697643674",
+      "rbxassetid://14697643838",
+      "rbxassetid://514528697",
+      "rbxassetid://5841111026"
+    ],
+    "name": "圣诞节据点堕机前",
+    "position": [
+      153.26,
+      -769.47,
+      -331.63
+    ],
+    "anchored": 135,
+    "humanoids": 1,
+    "geometry": "136:1117948814",
+    "descendants": 198
+  },
+  {
+    "path": "Workspace.Prefabs.圣诞节.圣诞节outlaw据点2",
+    "index": 570,
+    "parent": "Workspace.Prefabs.圣诞节",
+    "class": "Model",
+    "locator": "W/2/19/4",
+    "scripts": 1,
+    "children": [
+      "Model [Model]",
+      "下雪 [Part]",
+      "RootPart [Part]",
+      "火0级 [Model]",
+      "Boss [Model]",
+      "敌人生成点 [Part]"
+    ],
+    "parts": 57,
+    "attrs": [],
+    "meshes": 24,
+    "tags": [],
+    "scriptNames": [
+      "Animate"
+    ],
+    "animations": 9,
+    "size": [
+      50,
+      38.09,
+      50
+    ],
+    "collidable": 43,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=187852667 ",
+      "http://www.roblox.com/asset/?id=47963332",
+      "rbxassetid://4315739043",
+      "rbxassetid://5699656852",
+      "rbxassetid://76029606210039",
+      "rbxassetid://79349628460184",
+      "rbxassetid://8029572115",
+      "rbxassetid://85845888449583"
+    ],
+    "name": "圣诞节outlaw据点2",
+    "position": [
+      410.05,
+      -774.88,
+      -331.62
+    ],
+    "anchored": 44,
+    "humanoids": 1,
+    "geometry": "57:3247771884",
+    "descendants": 193
+  },
+  {
+    "path": "Workspace.Prefabs.圣诞节.圣诞节据点",
+    "index": 571,
+    "parent": "Workspace.Prefabs.圣诞节",
+    "class": "Model",
+    "locator": "W/2/19/5",
+    "scripts": 5,
+    "children": [
+      "圣诞节据点阶段2 [Script]",
+      "白色环 [Part]",
+      "下雪 [Part]",
+      "Config [Configuration]",
+      "彩灯 [Model]",
+      "Model [Model]",
+      "Santa2 [Model]",
+      "RootPart [Part]",
+      "402 [Model]",
+      "GiftWantedBoard [Model]",
+      "火3级 [Model]",
+      "马车 [Model]"
+    ],
+    "parts": 438,
+    "attrs": [],
+    "meshes": 73,
+    "tags": [],
+    "scriptNames": [
+      "圣诞节据点阶段2",
+      "Script",
+      "圣诞老人对话2",
+      "Animate",
+      "圣诞节悬赏令"
+    ],
+    "animations": 17,
+    "size": [
+      50,
+      65.7,
+      50
+    ],
+    "collidable": 319,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=29938421",
+      "http://www.roblox.com/asset/?id=79401392 ",
+      "rbxassetid://10311347262",
+      "rbxassetid://139659456898797",
+      "rbxassetid://4382285860",
+      "rbxassetid://4383178127",
+      "rbxassetid://4940369149",
+      "rbxassetid://5063517579",
+      "rbxassetid://514528697",
+      "rbxassetid://5699656852",
+      "rbxassetid://5941512295",
+      "rbxassetid://5971932291",
+      "rbxassetid://5972856856",
+      "rbxassetid://5973559504",
+      "rbxassetid://5991345067",
+      "rbxassetid://6742496331",
+      "rbxassetid://6986126059",
+      "rbxassetid://7853485675",
+      "rbxassetid://79349628460184",
+      "rbxassetid://8029572115",
+      "rbxassetid://8187885023",
+      "rbxassetid://9111879522",
+      "rbxassetid://9111880064",
+      "rbxassetid://9111880272",
+      "rbxassetid://9364940905"
+    ],
+    "name": "圣诞节据点",
+    "position": [
+      270.23,
+      -785.63,
+      -331.62
+    ],
+    "anchored": 410,
+    "humanoids": 6,
+    "geometry": "438:3190457324",
+    "descendants": 998
+  },
+  {
+    "path": "Workspace.Prefabs.圣诞节.圣诞节控制器",
+    "index": 572,
+    "parent": "Workspace.Prefabs.圣诞节",
+    "class": "Model",
+    "locator": "W/2/19/6",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [
+      "UISantaClaus"
+    ],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      50,
+      1,
+      50
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "圣诞节控制器",
+    "position": [
+      154.63,
+      -793.1,
+      -276.6
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:2882582953",
+    "descendants": 1
+  },
+  {
+    "path": "Workspace.Prefabs.圣诞节.圣诞节outlaw据点1",
+    "index": 573,
+    "parent": "Workspace.Prefabs.圣诞节",
+    "class": "Model",
+    "locator": "W/2/19/7",
+    "scripts": 1,
+    "children": [
+      "下雪 [Part]",
+      "敌人生成点 [Part]",
+      "火0级 [Model]",
+      "Boss [Model]",
+      "Model [Model]",
+      "RootPart [Part]"
+    ],
+    "parts": 65,
+    "attrs": [],
+    "meshes": 27,
+    "tags": [],
+    "scriptNames": [
+      "Animate"
+    ],
+    "animations": 9,
+    "size": [
+      50,
+      37.85,
+      50
+    ],
+    "collidable": 48,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=79401392 ",
+      "rbxassetid://4295969633",
+      "rbxassetid://430075625",
+      "rbxassetid://4315739043",
+      "rbxassetid://4459012810",
+      "rbxassetid://4466218586",
+      "rbxassetid://4470297637",
+      "rbxassetid://4976411793",
+      "rbxassetid://5971932291",
+      "rbxassetid://76029606210039",
+      "rbxassetid://79349628460184",
+      "rbxassetid://85845888449583"
+    ],
+    "name": "圣诞节outlaw据点1",
+    "position": [
+      350.79,
+      -774.78,
+      -331.62
+    ],
+    "anchored": 48,
+    "humanoids": 1,
+    "geometry": "65:3721662436",
+    "descendants": 218
+  },
+  {
+    "path": "Workspace.Prefabs.圣诞节.圣诞节outlaw据点3",
+    "index": 574,
+    "parent": "Workspace.Prefabs.圣诞节",
+    "class": "Model",
+    "locator": "W/2/19/8",
+    "scripts": 1,
+    "children": [
+      "Model [Model]",
+      "敌人生成点 [Part]",
+      "下雪 [Part]",
+      "RootPart [Part]",
+      "Boss [Model]",
+      "火0级 [Model]"
+    ],
+    "parts": 76,
+    "attrs": [],
+    "meshes": 23,
+    "tags": [],
+    "scriptNames": [
+      "Animate"
+    ],
+    "animations": 12,
+    "size": [
+      50,
+      39.14,
+      50
+    ],
+    "collidable": 44,
+    "meshIds": [
+      "rbxassetid://4315739043",
+      "rbxassetid://4382285860",
+      "rbxassetid://5063517579",
+      "rbxassetid://5941512295",
+      "rbxassetid://5972856856",
+      "rbxassetid://76029606210039",
+      "rbxassetid://79349628460184",
+      "rbxassetid://85845888449583"
+    ],
+    "name": "圣诞节outlaw据点3",
+    "position": [
+      467.66,
+      -776.51,
+      -331.62
+    ],
+    "anchored": 44,
+    "humanoids": 1,
+    "geometry": "76:2291392924",
+    "descendants": 253
+  },
+  {
+    "path": "Workspace.Prefabs.其他.礼物",
+    "index": 575,
+    "parent": "Workspace.Prefabs.其他",
+    "class": "Model",
+    "locator": "W/2/20/1",
+    "scripts": 0,
+    "children": [
+      "轧带1 [Part]",
+      "Part2 [Part]",
+      "轧带2 [Part]",
+      "Part3 [Part]",
+      "Part1 [Part]"
+    ],
+    "parts": 5,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      4.69,
+      4.32,
+      4.48
+    ],
+    "collidable": 3,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=16593970"
+    ],
+    "name": "礼物",
+    "position": [
+      -175.4,
+      -789.9,
+      -276.44
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "5:733960969",
+    "descendants": 12
+  },
+  {
+    "path": "Workspace.Prefabs.其他.携带道具",
+    "index": 576,
+    "parent": "Workspace.Prefabs.其他",
+    "class": "Model",
+    "locator": "W/2/20/2",
+    "scripts": 1,
+    "children": [
+      "箱子 [Model]",
+      "UIAtt [Attachment]",
+      "RootPart [Part]",
+      "携带道具_server [Script]",
+      "Values [Configuration]"
+    ],
+    "parts": 39,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [
+      "携带道具_server"
+    ],
+    "animations": 0,
+    "size": [
+      4.29,
+      4.98,
+      4.33
+    ],
+    "collidable": 38,
+    "meshIds": [],
+    "name": "携带道具",
+    "position": [
+      -175.4,
+      -790.03,
+      -276.49
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "39:1931319193",
+    "descendants": 144
+  },
+  {
+    "path": "Workspace.Prefabs.其他.箭头",
+    "index": 577,
+    "parent": "Workspace.Prefabs.其他",
+    "class": "Model",
+    "locator": "W/2/20/3",
+    "scripts": 0,
+    "children": [
+      "Arrow [MeshPart]",
+      "RootPart [Part]"
+    ],
+    "parts": 2,
+    "attrs": [],
+    "meshes": 1,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      4.4,
+      0.29,
+      5.92
+    ],
+    "collidable": 0,
+    "meshIds": [
+      "rbxassetid://16616461249"
+    ],
+    "name": "箭头",
+    "position": [
+      -125.34,
+      -783.64,
+      372.06
+    ],
+    "anchored": 2,
+    "humanoids": 0,
+    "geometry": "2:4251167813",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.其他.ProximityPrompt",
+    "index": 578,
+    "parent": "Workspace.Prefabs.其他",
+    "class": "Model",
+    "locator": "W/2/20/4",
+    "scripts": 0,
+    "children": [
+      "RootPart [Part]",
+      "复活 [ProximityPrompt]"
+    ],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      4,
+      1,
+      2
+    ],
+    "collidable": 1,
+    "meshIds": [],
+    "name": "ProximityPrompt",
+    "position": [
+      -475.44,
+      -792.37,
+      366.15
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1038582853",
+    "descendants": 3
+  },
+  {
+    "path": "Workspace.Prefabs.NPC事件.铁商人.营火铁商人",
+    "index": 579,
+    "parent": "Workspace.Prefabs.NPC事件.铁商人",
+    "class": "Model",
+    "locator": "W/2/21/1/1",
+    "scripts": 2,
+    "children": [
+      "Torso [Part]",
+      "Left Leg [Part]",
+      "Humanoid [Humanoid]",
+      "Body Colors [BodyColors]",
+      "ProximityPrompt [ProximityPrompt]",
+      "isGifted [BoolValue]",
+      "GiftC2S [RemoteEvent]",
+      "营火铁商人_client [Script]",
+      "HumanoidRootPart [Part]",
+      "Right Leg [Part]",
+      "Head [Part]",
+      "Right Arm [Part]",
+      "GiftPoint [Attachment]",
+      "ForceField [ForceField]"
+    ],
+    "parts": 8,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [
+      "营火铁商人_client",
+      "营火铁商人对话_client"
+    ],
+    "animations": 0,
+    "size": [
+      4,
+      5.18,
+      1.03
+    ],
+    "collidable": 4,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=13332444"
+    ],
+    "name": "营火铁商人",
+    "position": [
+      208.74,
+      -790.31,
+      -391.6
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "8:420307200",
+    "descendants": 43
+  },
+  {
+    "path": "Workspace.Prefabs.NPC事件.铁商人.铁商人位置",
+    "index": 580,
+    "parent": "Workspace.Prefabs.NPC事件.铁商人",
+    "class": "Part",
+    "locator": "W/2/21/1/2",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      4,
+      1,
+      2
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "铁商人位置",
+    "position": [
+      20.01,
+      -441.13,
+      -52.91
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1038582853",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.Prefabs.NPC事件.铁商人.1x1,铁商人据点",
+    "index": 581,
+    "parent": "Workspace.Prefabs.NPC事件.铁商人",
+    "class": "Model",
+    "locator": "W/2/21/1/3",
+    "scripts": 2,
+    "children": [
+      "铁商人敌人生成点 [Part]",
+      "已完成 [BoolValue]",
+      "完成后白天出现的概率百分比 [IntValue]",
+      "铁商人据点_server [Script]",
+      "据点铁商人 [Model]",
+      "RootPart [Part]"
+    ],
+    "parts": 10,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [
+      "铁商人据点_server",
+      "据点铁商人对话_client"
+    ],
+    "animations": 0,
+    "size": [
+      50,
+      5.44,
+      50
+    ],
+    "collidable": 5,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=13332444"
+    ],
+    "name": "1x1,铁商人据点",
+    "position": [
+      208.75,
+      -790.44,
+      -405.06
+    ],
+    "anchored": 3,
+    "humanoids": 1,
+    "geometry": "10:1490225921",
+    "descendants": 50
+  },
+  {
+    "path": "Workspace.Prefabs.NPC事件.拯救小伙3.小伙3",
+    "index": 582,
+    "parent": "Workspace.Prefabs.NPC事件.拯救小伙3",
+    "class": "Model",
+    "locator": "W/2/21/2/1",
+    "scripts": 1,
+    "children": [
+      "砍树间隔 [NumberValue]",
+      "WideBrimStrawHat [Accessory]",
+      "Animations [Folder]",
+      "Humanoid [Humanoid]",
+      "营地帮手_server [Script]",
+      "Beam [Beam]",
+      "斧头id [IntValue]",
+      "目标 [ObjectValue]",
+      "Swing [Animation]",
+      "ForceField [ForceField]",
+      "Ultra-Fabulous Hair [Accessory]",
+      "Shirt [Shirt]",
+      "Body Colors [BodyColors]",
+      "Pants [Pants]"
+    ],
+    "parts": 14,
+    "attrs": [],
+    "meshes": 8,
+    "tags": [],
+    "scriptNames": [
+      "营地帮手_server"
+    ],
+    "animations": 5,
+    "size": [
+      4,
+      6,
+      4.47
+    ],
+    "collidable": 5,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=116425085 ",
+      "http://www.roblox.com/asset/?id=16627529",
+      "rbxassetid://102583119625003",
+      "rbxassetid://120134928694251",
+      "rbxassetid://134351025683131",
+      "rbxassetid://87153725846056"
+    ],
+    "name": "小伙3",
+    "position": [
+      256.11,
+      -789.63,
+      -405.71
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "14:1378306817",
+    "descendants": 69
+  },
+  {
+    "path": "Workspace.Prefabs.NPC事件.拯救小伙3.1x1,拯救小伙3据点",
+    "index": 583,
+    "parent": "Workspace.Prefabs.NPC事件.拯救小伙3",
+    "class": "Model",
+    "locator": "W/2/21/2/2",
+    "scripts": 2,
+    "children": [
+      "已完成 [BoolValue]",
+      "小伙据点3敌人生成点 [Part]",
+      "小伙据点3_server [Script]",
+      "小伙3 [Model]",
+      "RootPart [Part]"
+    ],
+    "parts": 11,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [
+      "小伙据点3_server",
+      "待拯救小伙3对话_client"
+    ],
+    "animations": 1,
+    "size": [
+      50,
+      6.26,
+      50
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=116425085 ",
+      "http://www.roblox.com/asset/?id=16627529"
+    ],
+    "name": "1x1,拯救小伙3据点",
+    "position": [
+      264.86,
+      -789.95,
+      -405.06
+    ],
+    "anchored": 3,
+    "humanoids": 1,
+    "geometry": "11:2426781701",
+    "descendants": 61
+  },
+  {
+    "path": "Workspace.Prefabs.NPC事件.牛仔呼救.1x1,牛仔呼救阶段1据点",
+    "index": 584,
+    "parent": "Workspace.Prefabs.NPC事件.牛仔呼救",
+    "class": "Model",
+    "locator": "W/2/21/3/1",
+    "scripts": 2,
+    "children": [
+      "RootPart [Part]",
+      "已触发对话 [BoolValue]",
+      "呼叫牛仔阶段1 [Model]",
+      "已完成 [BoolValue]",
+      "呼叫牛仔阶段1敌人生成点 [Part]",
+      "牛仔呼救阶段1据点_server [Script]"
+    ],
+    "parts": 10,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [
+      "呼叫牛仔阶段1对话_client",
+      "牛仔呼救阶段1据点_server"
+    ],
+    "animations": 0,
+    "size": [
+      50,
+      6.12,
+      50
+    ],
+    "collidable": 3,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=45915012"
+    ],
+    "name": "1x1,牛仔呼救阶段1据点",
+    "position": [
+      309.36,
+      -790.07,
+      -407.51
+    ],
+    "anchored": 2,
+    "humanoids": 1,
+    "geometry": "10:917352010",
+    "descendants": 52
+  },
+  {
+    "path": "Workspace.Prefabs.NPC事件.牛仔呼救.cowboy",
+    "index": 585,
+    "parent": "Workspace.Prefabs.NPC事件.牛仔呼救",
+    "class": "Model",
+    "locator": "W/2/21/3/2",
+    "scripts": 0,
+    "children": [
+      "Left Arm [Part]",
+      "Torso [Part]",
+      "Cowboy Hat [Accessory]",
+      "Pants [Pants]",
+      "Head [Part]",
+      "Shirt [Shirt]",
+      "Left Leg [Part]",
+      "HumanoidRootPart [Part]",
+      "Right Leg [Part]",
+      "Humanoid [Humanoid]",
+      "Right Arm [Part]"
+    ],
+    "parts": 8,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      4,
+      5.86,
+      2.16
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=45915012"
+    ],
+    "name": "cowboy",
+    "position": [
+      316.13,
+      -789.94,
+      -407.51
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "8:3198999241",
+    "descendants": 26
+  },
+  {
+    "path": "Workspace.Prefabs.NPC事件.牛仔呼救.1x1,牛仔呼救阶段2据点",
+    "index": 586,
+    "parent": "Workspace.Prefabs.NPC事件.牛仔呼救",
+    "class": "Model",
+    "locator": "W/2/21/3/3",
+    "scripts": 2,
+    "children": [
+      "RootPart [Part]",
+      "已完成 [BoolValue]",
+      "呼叫牛仔阶段2 [Model]",
+      "牛仔呼救阶段2据点_server [Script]",
+      "已触发对话 [BoolValue]",
+      "呼叫牛仔阶段2敌人生成点 [Part]"
+    ],
+    "parts": 10,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [
+      "呼叫牛仔阶段2对话_client",
+      "牛仔呼救阶段2据点_server"
+    ],
+    "animations": 0,
+    "size": [
+      50,
+      6.12,
+      50
+    ],
+    "collidable": 3,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=45915012"
+    ],
+    "name": "1x1,牛仔呼救阶段2据点",
+    "position": [
+      309.36,
+      -790.07,
+      -446.28
+    ],
+    "anchored": 2,
+    "humanoids": 1,
+    "geometry": "10:917352010",
+    "descendants": 52
+  },
+  {
+    "path": "Workspace.Prefabs.NPC事件.牛仔呼救.1x1,牛仔呼救阶段3据点",
+    "index": 587,
+    "parent": "Workspace.Prefabs.NPC事件.牛仔呼救",
+    "class": "Model",
+    "locator": "W/2/21/3/4",
+    "scripts": 2,
+    "children": [
+      "牛仔呼救阶段3据点_server [Script]",
+      "呼叫牛仔阶段3敌人生成点 [Part]",
+      "前辈 [Model]",
+      "已触发对话 [BoolValue]",
+      "呼叫牛仔阶段3 [Model]",
+      "已完成 [BoolValue]",
+      "RootPart [Part]"
+    ],
+    "parts": 16,
+    "attrs": [],
+    "meshes": 8,
+    "tags": [],
+    "scriptNames": [
+      "牛仔呼救阶段3据点_server",
+      "呼叫牛仔阶段3对话_client"
+    ],
+    "animations": 0,
+    "size": [
+      50,
+      10.82,
+      50
+    ],
+    "collidable": 9,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=36780032",
+      "http://www.roblox.com/asset/?id=36780079",
+      "http://www.roblox.com/asset/?id=36780113",
+      "http://www.roblox.com/asset/?id=36780156",
+      "http://www.roblox.com/asset/?id=36780195",
+      "http://www.roblox.com/asset/?id=36869983",
+      "http://www.roblox.com/asset/?id=45915012"
+    ],
+    "name": "1x1,牛仔呼救阶段3据点",
+    "position": [
+      309.36,
+      -787.72,
+      -488.24
+    ],
+    "anchored": 2,
+    "humanoids": 1,
+    "geometry": "16:999865712",
+    "descendants": 73
+  },
+  {
+    "path": "Workspace.Prefabs.NPC事件.暮年牛仔.Old Cowboy",
+    "index": 588,
+    "parent": "Workspace.Prefabs.NPC事件.暮年牛仔",
+    "class": "Model",
+    "locator": "W/2/21/4/1",
+    "scripts": 1,
+    "children": [
+      "Canadian [Accessory]",
+      "Model [Model]",
+      "Meshes/CowboyBando_3030Left (1)Accessory [Accessory]",
+      "Classic Aviators [Accessory]",
+      "15 [Accessory]",
+      "Humanoid [Humanoid]",
+      "Pants [Pants]",
+      "Body Colors [BodyColors]",
+      "Shirt [Shirt]",
+      "AnimSaves [ObjectValue]",
+      "Animations [Folder]",
+      "Animate [LocalScript]",
+      "Right Arm [Part]",
+      "Left Leg [Part]"
+    ],
+    "parts": 24,
+    "attrs": [],
+    "meshes": 18,
+    "tags": [],
+    "scriptNames": [
+      "Animate"
+    ],
+    "animations": 12,
+    "size": [
+      4.2,
+      6.05,
+      2.2
+    ],
+    "collidable": 14,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=13072452",
+      "rbxassetid://101655965984584",
+      "rbxassetid://101799961984205",
+      "rbxassetid://108438206573992",
+      "rbxassetid://109697585286634",
+      "rbxassetid://113261122272721",
+      "rbxassetid://118850484637268",
+      "rbxassetid://121836182093416",
+      "rbxassetid://123063758083669",
+      "rbxassetid://127198025733411",
+      "rbxassetid://134168622427001",
+      "rbxassetid://140423854243588",
+      "rbxassetid://5063517579",
+      "rbxassetid://7155918115",
+      "rbxassetid://88007591495395",
+      "rbxassetid://9666889724",
+      "rbxassetid://99240765320190"
+    ],
+    "name": "Old Cowboy",
+    "position": [
+      401.88,
+      -789.84,
+      -403.84
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "24:1674340885",
+    "descendants": 180
+  },
+  {
+    "path": "Workspace.Prefabs.NPC事件.暮年牛仔.1x1,暮年牛仔阶段1据点",
+    "index": 589,
+    "parent": "Workspace.Prefabs.NPC事件.暮年牛仔",
+    "class": "Model",
+    "locator": "W/2/21/4/2",
+    "scripts": 3,
+    "children": [
+      "RootPart [Part]",
+      "敌人生成点 [Part]",
+      "已完成 [BoolValue]",
+      "已触发对话 [BoolValue]",
+      "牛仔呼救阶段3据点_server [Script]",
+      "Old Cowboy [Model]"
+    ],
+    "parts": 26,
+    "attrs": [],
+    "meshes": 18,
+    "tags": [],
+    "scriptNames": [
+      "牛仔呼救阶段3据点_server",
+      "暮年老牛仔_client",
+      "Animate"
+    ],
+    "animations": 12,
+    "size": [
+      50,
+      6.11,
+      50
+    ],
+    "collidable": 15,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=13072452",
+      "rbxassetid://101655965984584",
+      "rbxassetid://101799961984205",
+      "rbxassetid://108438206573992",
+      "rbxassetid://109697585286634",
+      "rbxassetid://113261122272721",
+      "rbxassetid://118850484637268",
+      "rbxassetid://121836182093416",
+      "rbxassetid://123063758083669",
+      "rbxassetid://127198025733411",
+      "rbxassetid://134168622427001",
+      "rbxassetid://140423854243588",
+      "rbxassetid://5063517579",
+      "rbxassetid://7155918115",
+      "rbxassetid://88007591495395",
+      "rbxassetid://9666889724",
+      "rbxassetid://99240765320190"
+    ],
+    "name": "1x1,暮年牛仔阶段1据点",
+    "position": [
+      365.72,
+      -789.84,
+      -404.8
+    ],
+    "anchored": 2,
+    "humanoids": 1,
+    "geometry": "26:2918970934",
+    "descendants": 192
+  },
+  {
+    "path": "Workspace.Prefabs.NPC事件.暮年牛仔.old letter",
+    "index": 590,
+    "parent": "Workspace.Prefabs.NPC事件.暮年牛仔",
+    "class": "Tool",
+    "locator": "W/2/21/4/3",
+    "scripts": 1,
+    "children": [
+      "MeshPart [MeshPart]",
+      "Red Arrow (pointing down) [Decal]",
+      "Part [Part]",
+      "Handle [MeshPart]",
+      "Part [Part]",
+      "MeshPart [MeshPart]",
+      "OldCowboyLetter_client [Script]"
+    ],
+    "parts": 5,
+    "attrs": [],
+    "meshes": 3,
+    "tags": [],
+    "scriptNames": [
+      "OldCowboyLetter_client"
+    ],
+    "animations": 0,
+    "size": [
+      1.91,
+      1.91,
+      2.79
+    ],
+    "collidable": 4,
+    "meshIds": [
+      "rbxassetid://89919526205524"
+    ],
+    "name": "old letter",
+    "position": [
+      409.7,
+      -791.15,
+      -403.84
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "5:2630254270",
+    "descendants": 15
+  },
+  {
+    "path": "Workspace.Prefabs.NPC事件.暮年牛仔.1x1,暮年牛仔阶段2据点",
+    "index": 591,
+    "parent": "Workspace.Prefabs.NPC事件.暮年牛仔",
+    "class": "Model",
+    "locator": "W/2/21/4/4",
+    "scripts": 3,
+    "children": [
+      "触发剧情 [Part]",
+      "RootPart [Part]",
+      "Old Cowboy [Model]",
+      "Model [Model]",
+      "已完成 [BoolValue]",
+      "已触发对话 [BoolValue]",
+      "牛仔呼救阶段3据点_server [Script]"
+    ],
+    "parts": 539,
+    "attrs": [],
+    "meshes": 18,
+    "tags": [],
+    "scriptNames": [
+      "Animate",
+      "暮年老牛仔_client",
+      "牛仔呼救阶段3据点_server"
+    ],
+    "animations": 12,
+    "size": [
+      60.8,
+      16.46,
+      53.59
+    ],
+    "collidable": 527,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=13072452",
+      "rbxassetid://101655965984584",
+      "rbxassetid://101799961984205",
+      "rbxassetid://108438206573992",
+      "rbxassetid://109697585286634",
+      "rbxassetid://113261122272721",
+      "rbxassetid://118850484637268",
+      "rbxassetid://121836182093416",
+      "rbxassetid://123063758083669",
+      "rbxassetid://127198025733411",
+      "rbxassetid://134168622427001",
+      "rbxassetid://140423854243588",
+      "rbxassetid://5063517579",
+      "rbxassetid://7155918115",
+      "rbxassetid://88007591495395",
+      "rbxassetid://9666889724",
+      "rbxassetid://99240765320190"
+    ],
+    "name": "1x1,暮年牛仔阶段2据点",
+    "position": [
+      378.99,
+      -784.64,
+      -457.95
+    ],
+    "anchored": 515,
+    "humanoids": 1,
+    "geometry": "539:2797549032",
+    "descendants": 1825
+  },
+  {
+    "path": "Workspace.Prefabs.NPC事件.暮年牛仔.1x1,暮年牛仔阶段3据点",
+    "index": 592,
+    "parent": "Workspace.Prefabs.NPC事件.暮年牛仔",
+    "class": "Model",
+    "locator": "W/2/21/4/5",
+    "scripts": 3,
+    "children": [
+      "已完成 [BoolValue]",
+      "已触发对话 [BoolValue]",
+      "Model [Model]",
+      "Old Cowboy [Model]",
+      "402 [Tool]",
+      "old letter [Tool]",
+      "614 [Tool]",
+      "RootPart [Part]",
+      "敌人生成点 [Part]",
+      "牛仔呼救阶段3据点_server [Script]",
+      "宝石宝箱 [Model]"
+    ],
+    "parts": 562,
+    "attrs": [],
+    "meshes": 31,
+    "tags": [],
+    "scriptNames": [
+      "Animate",
+      "地图笔记",
+      "牛仔呼救阶段3据点_server"
+    ],
+    "animations": 12,
+    "size": [
+      60.8,
+      16.11,
+      53.59
+    ],
+    "collidable": 548,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=13072452",
+      "rbxassetid://101655965984584",
+      "rbxassetid://101799961984205",
+      "rbxassetid://108438206573992",
+      "rbxassetid://109697585286634",
+      "rbxassetid://113261122272721",
+      "rbxassetid://118850484637268",
+      "rbxassetid://121836182093416",
+      "rbxassetid://123063758083669",
+      "rbxassetid://127198025733411",
+      "rbxassetid://134168622427001",
+      "rbxassetid://140423854243588",
+      "rbxassetid://5063517579",
+      "rbxassetid://7155918115",
+      "rbxassetid://8617758914",
+      "rbxassetid://8617759146",
+      "rbxassetid://8617759392",
+      "rbxassetid://8617759563",
+      "rbxassetid://8617759754",
+      "rbxassetid://88007591495395",
+      "rbxassetid://89919526205524",
+      "rbxassetid://9666889724",
+      "rbxassetid://99240765320190"
+    ],
+    "name": "1x1,暮年牛仔阶段3据点",
+    "position": [
+      378.99,
+      -784.47,
+      -540.71
+    ],
+    "anchored": 535,
+    "humanoids": 1,
+    "geometry": "562:2637019969",
+    "descendants": 1901
+  },
+  {
+    "path": "Workspace.Prefabs.304",
+    "index": 593,
+    "parent": "Workspace.Prefabs",
+    "class": "Model",
+    "locator": "W/2/22",
+    "scripts": 0,
+    "children": [
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]"
+    ],
+    "parts": 76,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      13.2,
+      27.85,
+      13.62
+    ],
+    "collidable": 76,
+    "meshIds": [],
+    "name": "304",
+    "position": [
+      -312.95,
+      -778.89,
+      433.18
+    ],
+    "anchored": 76,
+    "humanoids": 0,
+    "geometry": "76:4038229251",
+    "descendants": 76
+  },
+  {
+    "path": "Workspace.Prefabs.双开门",
+    "index": 594,
+    "parent": "Workspace.Prefabs",
+    "class": "Model",
+    "locator": "W/2/23",
+    "scripts": 0,
+    "children": [
+      "leftDoor [Model]",
+      "RightDoor [Model]"
+    ],
+    "parts": 10,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      11.83,
+      9.61,
+      1.62
+    ],
+    "collidable": 6,
+    "meshIds": [],
+    "name": "双开门",
+    "position": [
+      -428.01,
+      -788.01,
+      206.39
+    ],
+    "anchored": 8,
+    "humanoids": 0,
+    "geometry": "10:1167871325",
+    "descendants": 21
+  },
+  {
+    "path": "Workspace.Prefabs.Trader",
+    "index": 595,
+    "parent": "Workspace.Prefabs",
+    "class": "Model",
+    "locator": "W/2/24",
+    "scripts": 3,
+    "children": [
+      "Pants [Pants]",
+      "Torso [Part]",
+      "Body Colors [BodyColors]",
+      "Right Arm [Part]",
+      "Left Leg [Part]",
+      "ChangeItem [Accessory]",
+      "HumanoidRootPart [Part]",
+      "Head [Part]",
+      "Humanoid [Humanoid]",
+      "Left Arm [Part]",
+      "Script [Script]",
+      "Right Leg [Part]",
+      "ForceField [ForceField]",
+      "印第安佬 [Script]"
+    ],
+    "parts": 10,
+    "attrs": [],
+    "meshes": 2,
+    "tags": [],
+    "scriptNames": [
+      "Script",
+      "Script",
+      "印第安佬"
+    ],
+    "animations": 0,
+    "size": [
+      5,
+      6.24,
+      7.24
+    ],
+    "collidable": 2,
+    "meshIds": [
+      "rbxassetid://14884118491"
+    ],
+    "name": "Trader",
+    "position": [
+      -406.32,
+      -790.43,
+      307.2
+    ],
+    "anchored": 0,
+    "humanoids": 1,
+    "geometry": "10:3268016764",
+    "descendants": 61
+  },
+  {
+    "path": "Workspace.Prefabs.IndiaPosition",
+    "index": 596,
+    "parent": "Workspace.Prefabs",
+    "class": "Part",
+    "locator": "W/2/25",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      4,
+      1,
+      2
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "IndiaPosition",
+    "position": [
+      27.04,
+      -441.63,
+      -52.91
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1038582853",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.Prefabs.IndiaBack",
+    "index": 597,
+    "parent": "Workspace.Prefabs",
+    "class": "Part",
+    "locator": "W/2/26",
+    "scripts": 0,
+    "children": [],
+    "parts": 1,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      4,
+      1,
+      2
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "IndiaBack",
+    "position": [
+      -298.61,
+      -792.32,
+      274.66
+    ],
+    "anchored": 1,
+    "humanoids": 0,
+    "geometry": "1:1038582853",
+    "descendants": 0
+  },
+  {
+    "path": "Workspace.Prefabs.Effects",
+    "index": 598,
+    "parent": "Workspace.Prefabs",
+    "class": "Model",
+    "locator": "W/2/27",
+    "scripts": 2,
+    "children": [
+      "下雪 [Part]",
+      "闪电命中 [MeshPart]",
+      "枪口火 [Attachment]",
+      "燃烧 [Attachment]",
+      "迷雾 [Part]",
+      "箭 [Part]",
+      "Lightning [Part]",
+      "破损烟雾 [Part]",
+      "变化形态 [Part]",
+      "Bullet [Part]",
+      "召唤 [Part]",
+      "爱心 [Part]",
+      "冻结特效 [MeshPart]",
+      "Punch-03 [Part]"
+    ],
+    "parts": 57,
+    "attrs": [],
+    "meshes": 6,
+    "tags": [],
+    "scriptNames": [
+      "枪口火",
+      "复活光柱_client"
+    ],
+    "animations": 0,
+    "size": [
+      1366.74,
+      2097.47,
+      1890.22
+    ],
+    "collidable": 1,
+    "meshIds": [
+      "http://www.roblox.com/asset/?id=92189547",
+      "rbxassetid://11269875252",
+      "rbxassetid://1504522132"
+    ],
+    "name": "Effects",
+    "position": [
+      -214.99,
+      191.42,
+      754.11
+    ],
+    "anchored": 56,
+    "humanoids": 0,
+    "geometry": "57:2679658668",
+    "descendants": 222
+  },
+  {
+    "path": "Workspace.Prefabs.ladder",
+    "index": 599,
+    "parent": "Workspace.Prefabs",
+    "class": "Model",
+    "locator": "W/2/28",
+    "scripts": 0,
+    "children": [
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "Part [Part]",
+      "PM [Part]",
+      "Part [Part]"
+    ],
+    "parts": 16,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      4.74,
+      19.31,
+      1.34
+    ],
+    "collidable": 16,
+    "meshIds": [],
+    "name": "ladder",
+    "position": [
+      -377.47,
+      -792.2,
+      307.6
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "16:103256150",
+    "descendants": 51
+  },
+  {
+    "path": "Workspace.Prefabs.Model",
+    "index": 600,
+    "parent": "Workspace.Prefabs",
+    "class": "Model",
+    "locator": "W/2/29",
+    "scripts": 0,
+    "children": [],
+    "parts": 0,
+    "attrs": [],
+    "meshes": 0,
+    "tags": [],
+    "scriptNames": [],
+    "animations": 0,
+    "size": [
+      0,
+      0,
+      0
+    ],
+    "collidable": 0,
+    "meshIds": [],
+    "name": "Model",
+    "position": [
+      -896.05,
+      -791.86,
+      -204.87
+    ],
+    "anchored": 0,
+    "humanoids": 0,
+    "geometry": "0:5381",
+    "descendants": 0
+  }
+]

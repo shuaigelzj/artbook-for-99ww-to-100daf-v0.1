@@ -1,0 +1,145 @@
+{
+  "total": 905,
+  "documents": [
+    {
+      "dimension": "role",
+      "name": "地图生成模板",
+      "count": 234,
+      "file": "role-01.md",
+      "local": "按程序用途/01_地图生成模板.md"
+    },
+    {
+      "dimension": "role",
+      "name": "实体与物品模板",
+      "count": 327,
+      "file": "role-02.md",
+      "local": "按程序用途/02_实体与物品模板.md"
+    },
+    {
+      "dimension": "role",
+      "name": "直接使用的玩法场景",
+      "count": 1,
+      "file": "role-03.md",
+      "local": "按程序用途/03_直接使用的玩法场景.md"
+    },
+    {
+      "dimension": "role",
+      "name": "过场与演出场景",
+      "count": 1,
+      "file": "role-04.md",
+      "local": "按程序用途/04_过场与演出场景.md"
+    },
+    {
+      "dimension": "role",
+      "name": "系统辅助与表现对象",
+      "count": 26,
+      "file": "role-05.md",
+      "local": "按程序用途/05_系统辅助与表现对象.md"
+    },
+    {
+      "dimension": "role",
+      "name": "已确认的开发测试与展示素材",
+      "count": 13,
+      "file": "role-06.md",
+      "local": "按程序用途/06_已确认的开发测试与展示素材.md"
+    },
+    {
+      "dimension": "role",
+      "name": "用途待确认",
+      "count": 303,
+      "file": "role-07.md",
+      "local": "按程序用途/07_用途待确认.md"
+    },
+    {
+      "dimension": "type",
+      "name": "地形植被",
+      "count": 89,
+      "file": "type-01.md",
+      "local": "按素材类型/01_地形植被.md"
+    },
+    {
+      "dimension": "type",
+      "name": "建筑场景",
+      "count": 157,
+      "file": "type-02.md",
+      "local": "按素材类型/02_建筑场景.md"
+    },
+    {
+      "dimension": "type",
+      "name": "营地设施",
+      "count": 61,
+      "file": "type-03.md",
+      "local": "按素材类型/03_营地设施.md"
+    },
+    {
+      "dimension": "type",
+      "name": "人形角色",
+      "count": 60,
+      "file": "type-04.md",
+      "local": "按素材类型/04_人形角色.md"
+    },
+    {
+      "dimension": "type",
+      "name": "怪物与Boss",
+      "count": 15,
+      "file": "type-05.md",
+      "local": "按素材类型/05_怪物与Boss.md"
+    },
+    {
+      "dimension": "type",
+      "name": "动物与坐骑",
+      "count": 50,
+      "file": "type-06.md",
+      "local": "按素材类型/06_动物与坐骑.md"
+    },
+    {
+      "dimension": "type",
+      "name": "资源与食物",
+      "count": 80,
+      "file": "type-07.md",
+      "local": "按素材类型/07_资源与食物.md"
+    },
+    {
+      "dimension": "type",
+      "name": "武器工具",
+      "count": 91,
+      "file": "type-08.md",
+      "local": "按素材类型/08_武器工具.md"
+    },
+    {
+      "dimension": "type",
+      "name": "服饰护具",
+      "count": 75,
+      "file": "type-09.md",
+      "local": "按素材类型/09_服饰护具.md"
+    },
+    {
+      "dimension": "type",
+      "name": "机关",
+      "count": 32,
+      "file": "type-10.md",
+      "local": "按素材类型/10_机关.md"
+    },
+    {
+      "dimension": "type",
+      "name": "特效与界面",
+      "count": 15,
+      "file": "type-11.md",
+      "local": "按素材类型/11_特效与界面.md"
+    },
+    {
+      "dimension": "type",
+      "name": "辅助零件",
+      "count": 13,
+      "file": "type-12.md",
+      "local": "按素材类型/12_辅助零件.md"
+    },
+    {
+      "dimension": "type",
+      "name": "类型待确认",
+      "count": 167,
+      "file": "type-13.md",
+      "local": "按素材类型/13_类型待确认.md"
+    }
+  ]
+}

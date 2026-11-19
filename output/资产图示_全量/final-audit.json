@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-19",
+  "count": 905,
+  "total": 905,
+  "additionalImages": 2,
+  "totalImageFiles": 907,
+  "methods": {
+    "说明卡": 17,
+    "原貌截图": 651,
+    "辅助可视化": 26,
+    "界面演示": 11,
+    "效果演示": 2,
+    "静态视窗": 198
+  },
+  "sourceCountVerified": 905,
+  "batches": [
+    {
+      "id": "1",
+      "count": 50,
+      "cleaned": true,
+      "guiRestored": true,
+      "sourcesIntact": 50,
+      "cameraRestored": true,
+      "lightingRestored": true
+    },
+    {
+      "id": "2",
+      "count": 100,
+      "cleaned": true,
+      "guiRestored": true,
+      "sourcesIntact": 100,
+      "cameraRestored": true,
+      "lightingRestored": true
+    },
+    {
+      "id": "3",
+      "count": 100,
+      "cleaned": true,
+      "guiRestored": true,
+      "sourcesIntact": 100,
+      "cameraRestored": true,
+      "lightingRestored": true
+    },
+    {
+      "id": "4",
+      "count": 100,
+      "cleaned": true,
+      "guiRestored": true,
+      "sourcesIntact": 100,
+      "cameraRestored": true,
+      "lightingRestored": true
+    },
+    {
+      "id": "5",
+      "count": 100,
+      "cleaned": true,
+      "guiRestored": true,
+      "sourcesIntact": 100,
+      "cameraRestored": true,
+      "lightingRestored": true
+    },
+    {
+      "id": "6",
+      "count": 100,
+      "cleaned": true,
+      "guiRestored": true,
+      "sourcesIntact": 100,
+      "cameraRestored": true,
+      "lightingRestored": true
+    },
+    {
+      "id": "7",
+      "count": 100,
+      "cleaned": true,
+      "guiRestored": true,
+      "sourcesIntact": 100,
+      "cameraRestored": true,
+      "lightingRestored": true
+    },
+    {
+      "id": "8",
+      "count": 100,
+      "cleaned": true,
+      "guiRestored": true,
+      "sourcesIntact": 100,
+      "cameraRestored": true,
+      "lightingRestored": true
+    },
+    {
+      "id": "9",
+      "count": 100,
+      "cleaned": true,
+      "guiRestored": true,
+      "sourcesIntact": 100,
+      "cameraRestored": true,
+      "lightingRestored": true
+    },
+    {
+      "id": "10",
+      "count": 55,
+      "cleaned": true,
+      "guiRestored": true,
+      "sourcesIntact": 55,
+      "cameraRestored": true,
+      "lightingRestored": true
+    }
+  ],
+  "allImagesDecoded": true,
+  "whiteFrames": 0,
+  "emptyViewportFrames": 0,
+  "previous650ImageBytesPreserved": true,
+  "studioTemporaryObjectsRemoved": true,
+  "cameraLightingGuiRestored": true,
+  "gameSavedOrPublished": false,
+  "websitePublished": 905,
+  "deployment": {
+    "id": "appgdep_6afe83ef373481918a42a313e33a23b6",
+    "status": "succeeded",
+    "url": "https://afterfall-asset-catalog-20261118.neighborlynook32.chatgpt.site",
+    "versionId": "appgprj_6afd6b95845c8191b98a36f4c5a3f3c5~appgver_40189e3f43f08191ae19201458cb78e8",
+    "commit": "b5c41019070b8f29f69bc3d17b86daf59dc8b1e4",
+    "archive": "C:\\Users\\Leung\\vwork\\Roblox_100_Days_After_Fall\\output\\afterfall-assets-preview905.tar.gz"
+  }
+}

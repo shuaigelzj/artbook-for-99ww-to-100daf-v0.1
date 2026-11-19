@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "AF-0451",
+    "name": "11",
+    "path": "Workspace.Prefabs.CharacterHat.11",
+    "originalLocator": "W/2/10/10",
+    "locator": "W/2/10/10",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0452",
+    "name": "13",
+    "path": "Workspace.Prefabs.CharacterHat.13",
+    "originalLocator": "W/2/10/11",
+    "locator": "W/2/10/11",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0453",
+    "name": "12",
+    "path": "Workspace.Prefabs.CharacterHat.12",
+    "originalLocator": "W/2/10/12",
+    "locator": "W/2/10/12",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0454",
+    "name": "10",
+    "path": "Workspace.Prefabs.CharacterHat.10",
+    "originalLocator": "W/2/10/13",
+    "locator": "W/2/10/13",
+    "parts": 3,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0455",
+    "name": "15",
+    "path": "Workspace.Prefabs.CharacterHat.15",
+    "originalLocator": "W/2/10/14",
+    "locator": "W/2/10/14",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0456",
+    "name": "14",
+    "path": "Workspace.Prefabs.CharacterHat.14",
+    "originalLocator": "W/2/10/15",
+    "locator": "W/2/10/15",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0457",
+    "name": "16",
+    "path": "Workspace.Prefabs.CharacterHat.16",
+    "originalLocator": "W/2/10/16",
+    "locator": "W/2/10/16",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0458",
+    "name": "17",
+    "path": "Workspace.Prefabs.CharacterHat.17",
+    "originalLocator": "W/2/10/17",
+    "locator": "W/2/10/17",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0459",
+    "name": "9999",
+    "path": "Workspace.Prefabs.CharacterHat.9999",
+    "originalLocator": "W/2/10/18",
+    "locator": "W/2/10/18",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0460",
+    "name": "18",
+    "path": "Workspace.Prefabs.CharacterHat.18",
+    "originalLocator": "W/2/10/19",
+    "locator": "W/2/10/19",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0461",
+    "name": "19",
+    "path": "Workspace.Prefabs.CharacterHat.19",
+    "originalLocator": "W/2/10/20",
+    "locator": "W/2/10/20",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0462",
+    "name": "20",
+    "path": "Workspace.Prefabs.CharacterHat.20",
+    "originalLocator": "W/2/10/21",
+    "locator": "W/2/10/21",
+    "parts": 19,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0463",
+    "name": "21",
+    "path": "Workspace.Prefabs.CharacterHat.21",
+    "originalLocator": "W/2/10/22",
+    "locator": "W/2/10/22",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0464",
+    "name": "24",
+    "path": "Workspace.Prefabs.CharacterHat.24",
+    "originalLocator": "W/2/10/23",
+    "locator": "W/2/10/23",
+    "parts": 2,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0465",
+    "name": "22",
+    "path": "Workspace.Prefabs.CharacterHat.22",
+    "originalLocator": "W/2/10/24",
+    "locator": "W/2/10/24",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0466",
+    "name": "23",
+    "path": "Workspace.Prefabs.CharacterHat.23",
+    "originalLocator": "W/2/10/25",
+    "locator": "W/2/10/25",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0467",
+    "name": "25",
+    "path": "Workspace.Prefabs.CharacterHat.25",
+    "originalLocator": "W/2/10/26",
+    "locator": "W/2/10/26",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0468",
+    "name": "26",
+    "path": "Workspace.Prefabs.CharacterHat.26",
+    "originalLocator": "W/2/10/27",
+    "locator": "W/2/10/27",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0469",
+    "name": "棕色普通马",
+    "path": "Workspace.Prefabs.马匹.普通马.棕色普通马",
+    "originalLocator": "W/2/11/1/1",
+    "locator": "W/2/11/1/1",
+    "parts": 21,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0470",
+    "name": "黑色普通马",
+    "path": "Workspace.Prefabs.马匹.马皮肤.黑色普通马",
+    "originalLocator": "W/2/11/2/1",
+    "locator": "W/2/11/2/1",
+    "parts": 21,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0471",
+    "name": "红色普通马",
+    "path": "Workspace.Prefabs.马匹.马皮肤.红色普通马",
+    "originalLocator": "W/2/11/2/2",
+    "locator": "W/2/11/2/2",
+    "parts": 21,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0472",
+    "name": "白色普通马",
+    "path": "Workspace.Prefabs.马匹.马皮肤.白色普通马",
+    "originalLocator": "W/2/11/2/3",
+    "locator": "W/2/11/2/3",
+    "parts": 21,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0473",
+    "name": "驯鹿(废弃)",
+    "path": "Workspace.Prefabs.马匹.驯鹿(废弃)",
+    "originalLocator": "W/2/11/3",
+    "locator": "W/2/11/3",
+    "parts": 21,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0474",
+    "name": "驯鹿",
+    "path": "Workspace.Prefabs.马匹.驯鹿",
+    "originalLocator": "W/2/11/4",
+    "locator": "W/2/11/4",
+    "parts": 31,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0475",
+    "name": "Model",
+    "path": "Workspace.Prefabs.马匹.Model",
+    "originalLocator": "W/2/11/5",
+    "locator": "W/2/11/5",
+    "parts": 0,
+    "class": "Model",
+    "materialType": "类型待确认"
+  },
+  {
+    "id": "AF-0476",
+    "name": "1x1,侧翻马车",
+    "path": "Workspace.Prefabs.沼泽Map.资源点.1x1,侧翻马车",
+    "originalLocator": "W/2/12/1/1",
+    "locator": "W/2/12/1/1",
+    "parts": 31,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0477",
+    "name": "1x1,木桶",
+    "path": "Workspace.Prefabs.沼泽Map.资源点.1x1,木桶",
+    "originalLocator": "W/2/12/1/2",
+    "locator": "W/2/12/1/4",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0478",
+    "name": "1x1,石块",
+    "path": "Workspace.Prefabs.沼泽Map.资源点.1x1,石块",
+    "originalLocator": "W/2/12/1/3",
+    "locator": "W/2/12/1/6",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0479",
+    "name": "1x1,骨头",
+    "path": "Workspace.Prefabs.沼泽Map.资源点.1x1,骨头",
+    "originalLocator": "W/2/12/1/4",
+    "locator": "W/2/12/1/7",
+    "parts": 4,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0480",
+    "name": "1x1,围栏2",
+    "path": "Workspace.Prefabs.沼泽Map.资源点.1x1,围栏2",
+    "originalLocator": "W/2/12/1/5",
+    "locator": "W/2/12/1/8",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0481",
+    "name": "1x1,树桩",
+    "path": "Workspace.Prefabs.沼泽Map.资源点.1x1,树桩",
+    "originalLocator": "W/2/12/1/6",
+    "locator": "W/2/12/1/3",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0482",
+    "name": "1x1,树桩",
+    "path": "Workspace.Prefabs.沼泽Map.资源点.1x1,树桩",
+    "originalLocator": "W/2/12/1/7",
+    "locator": "W/2/12/1/2",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0483",
+    "name": "1x1,木屋",
+    "path": "Workspace.Prefabs.沼泽Map.资源点.1x1,木屋",
+    "originalLocator": "W/2/12/1/8",
+    "locator": "W/2/12/1/9",
+    "parts": 29,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0484",
+    "name": "1x1,木屋",
+    "path": "Workspace.Prefabs.沼泽Map.资源点.1x1,木屋",
+    "originalLocator": "W/2/12/1/9",
+    "locator": "W/2/12/1/5",
+    "parts": 40,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0485",
+    "name": "1x1,树屋",
+    "path": "Workspace.Prefabs.沼泽Map.宝箱资源点.1x1,树屋",
+    "originalLocator": "W/2/12/2/1",
+    "locator": "W/2/12/2/1",
+    "parts": 136,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0486",
+    "name": "2x1,木屋",
+    "path": "Workspace.Prefabs.沼泽Map.宝箱资源点.2x1,木屋",
+    "originalLocator": "W/2/12/2/2",
+    "locator": "W/2/12/2/2",
+    "parts": 68,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0487",
+    "name": "石块",
+    "path": "Workspace.Prefabs.沼泽Map.装饰.石块",
+    "originalLocator": "W/2/12/3/1",
+    "locator": "W/2/12/3/7",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0488",
+    "name": "草1",
+    "path": "Workspace.Prefabs.沼泽Map.装饰.草1",
+    "originalLocator": "W/2/12/3/2",
+    "locator": "W/2/12/3/8",
+    "parts": 3,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0489",
+    "name": "草1",
+    "path": "Workspace.Prefabs.沼泽Map.装饰.草1",
+    "originalLocator": "W/2/12/3/3",
+    "locator": "W/2/12/3/1",
+    "parts": 2,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0490",
+    "name": "草",
+    "path": "Workspace.Prefabs.沼泽Map.装饰.草",
+    "originalLocator": "W/2/12/3/4",
+    "locator": "W/2/12/3/2",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0491",
+    "name": "石块",
+    "path": "Workspace.Prefabs.沼泽Map.装饰.石块",
+    "originalLocator": "W/2/12/3/5",
+    "locator": "W/2/12/3/6",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0492",
+    "name": "石块",
+    "path": "Workspace.Prefabs.沼泽Map.装饰.石块",
+    "originalLocator": "W/2/12/3/6",
+    "locator": "W/2/12/3/3",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0493",
+    "name": "土地",
+    "path": "Workspace.Prefabs.沼泽Map.装饰.土地",
+    "originalLocator": "W/2/12/3/7",
+    "locator": "W/2/12/3/5",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0494",
+    "name": "土地",
+    "path": "Workspace.Prefabs.沼泽Map.装饰.土地",
+    "originalLocator": "W/2/12/3/8",
+    "locator": "W/2/12/3/9",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0495",
+    "name": "草1",
+    "path": "Workspace.Prefabs.沼泽Map.装饰.草1",
+    "originalLocator": "W/2/12/3/9",
+    "locator": "W/2/12/3/4",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0496",
+    "name": "TreeL",
+    "path": "Workspace.Prefabs.沼泽Map.树.TreeL",
+    "originalLocator": "W/2/12/4/1",
+    "locator": "W/2/12/4/1",
+    "parts": 7,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0497",
+    "name": "TreeXL",
+    "path": "Workspace.Prefabs.沼泽Map.树.TreeXL",
+    "originalLocator": "W/2/12/4/2",
+    "locator": "W/2/12/4/2",
+    "parts": 17,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0498",
+    "name": "土地",
+    "path": "Workspace.Prefabs.沼泽Map.边缘装饰.土地",
+    "originalLocator": "W/2/12/5/1",
+    "locator": "W/2/12/5/1",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0499",
+    "name": "土地",
+    "path": "Workspace.Prefabs.沼泽Map.边缘装饰.土地",
+    "originalLocator": "W/2/12/5/2",
+    "locator": "W/2/12/5/2",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0500",
+    "name": "1x1,牛仔鞋,面罩前辈",
+    "path": "Workspace.Prefabs.沼泽Map.沼泽前辈.1x1,牛仔鞋,面罩前辈",
+    "originalLocator": "W/2/12/6/1",
+    "locator": "W/2/12/6/2",
+    "parts": 16,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0501",
+    "name": "1x1,毒矛前辈",
+    "path": "Workspace.Prefabs.沼泽Map.沼泽前辈.1x1,毒矛前辈",
+    "originalLocator": "W/2/12/6/2",
+    "locator": "W/2/12/6/1",
+    "parts": 12,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0502",
+    "name": "Dr.Jones",
+    "path": "Workspace.Prefabs.沼泽Map.特殊房子.野猪王入口开放与未开放临时文件夹.Dr.Jones",
+    "originalLocator": "W/2/12/7/1/1",
+    "locator": "W/2/12/7/1/1",
+    "parts": 7,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0503",
+    "name": "2x1,私酒工坊LV1",
+    "path": "Workspace.Prefabs.沼泽Map.特殊房子.2x1,私酒工坊LV1",
+    "originalLocator": "W/2/12/7/2",
+    "locator": "W/2/12/7/2",
+    "parts": 246,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0504",
+    "name": "3x3,加特林工坊LV2",
+    "path": "Workspace.Prefabs.沼泽Map.特殊房子.3x3,加特林工坊LV2",
+    "originalLocator": "W/2/12/7/3",
+    "locator": "W/2/12/7/3",
+    "parts": 652,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0505",
+    "name": "2x1,野猪王入口",
+    "path": "Workspace.Prefabs.沼泽Map.特殊房子.2x1,野猪王入口",
+    "originalLocator": "W/2/12/7/4",
+    "locator": "W/2/12/7/4",
+    "parts": 218,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0506",
+    "name": "2x2,土著营地",
+    "path": "Workspace.Prefabs.沼泽Map.土著村落.2x2,土著营地",
+    "originalLocator": "W/2/12/8/1",
+    "locator": "W/2/12/8/1",
+    "parts": 243,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0507",
+    "name": "2x1,土著村落",
+    "path": "Workspace.Prefabs.沼泽Map.土著村落.2x1,土著村落",
+    "originalLocator": "W/2/12/8/2",
+    "locator": "W/2/12/8/2",
+    "parts": 212,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0508",
+    "name": "2x1,破房子",
+    "path": "Workspace.Prefabs.沼泽Map.带敌人资源点.2x1,破房子",
+    "originalLocator": "W/2/12/9/1",
+    "locator": "W/2/12/9/1",
+    "parts": 70,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0509",
+    "name": "1x1,Candy前辈",
+    "path": "Workspace.Prefabs.万圣节.1x1,Candy前辈",
+    "originalLocator": "W/2/13/1",
+    "locator": "W/2/13/1",
+    "parts": 23,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0510",
+    "name": "车厢战场",
+    "path": "Workspace.Prefabs.火车大劫案.车厢战场",
+    "originalLocator": "W/2/14/1",
+    "locator": "W/2/14/1",
+    "parts": 1429,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0511",
+    "name": "火车",
+    "path": "Workspace.Prefabs.火车大劫案.火车",
+    "originalLocator": "W/2/14/2",
+    "locator": "W/2/14/2",
+    "parts": 469,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0512",
+    "name": "15",
+    "path": "Workspace.Prefabs.CharacterAccessory.15",
+    "originalLocator": "W/2/15/1",
+    "locator": "W/2/15/1",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0513",
+    "name": "17",
+    "path": "Workspace.Prefabs.CharacterAccessory.17",
+    "originalLocator": "W/2/15/2",
+    "locator": "W/2/15/2",
+    "parts": 1,
+    "class": "Accessory",
+    "materialType": "服饰护具"
+  },
+  {
+    "id": "AF-0514",
+    "name": "Wolf1",
+    "path": "Workspace.Prefabs.伙伴.Wolf1",
+    "originalLocator": "W/2/17/1",
+    "locator": "W/2/17/1",
+    "parts": 31,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0515",
+    "name": "Baby Wolf",
+    "path": "Workspace.Prefabs.伙伴.Baby Wolf",
+    "originalLocator": "W/2/17/2",
+    "locator": "W/2/17/12",
+    "parts": 35,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0516",
+    "name": "Bear",
+    "path": "Workspace.Prefabs.伙伴.Bear",
+    "originalLocator": "W/2/17/3",
+    "locator": "W/2/17/13",
+    "parts": 34,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0517",
+    "name": "Alligator",
+    "path": "Workspace.Prefabs.伙伴.Alligator",
+    "originalLocator": "W/2/17/4",
+    "locator": "W/2/17/8",
+    "parts": 48,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0518",
+    "name": "Wild Boar",
+    "path": "Workspace.Prefabs.伙伴.Wild Boar",
+    "originalLocator": "W/2/17/5",
+    "locator": "W/2/17/9",
+    "parts": 37,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0519",
+    "name": "Baby Wolf1",
+    "path": "Workspace.Prefabs.伙伴.Baby Wolf1",
+    "originalLocator": "W/2/17/6",
+    "locator": "W/2/17/10",
+    "parts": 31,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0520",
+    "name": "Turkey1",
+    "path": "Workspace.Prefabs.伙伴.Turkey1",
+    "originalLocator": "W/2/17/7",
+    "locator": "W/2/17/5",
+    "parts": 32,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0521",
+    "name": "Turkey",
+    "path": "Workspace.Prefabs.伙伴.Turkey",
+    "originalLocator": "W/2/17/8",
+    "locator": "W/2/17/11",
+    "parts": 36,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0522",
+    "name": "Wolf",
+    "path": "Workspace.Prefabs.伙伴.Wolf",
+    "originalLocator": "W/2/17/9",
+    "locator": "W/2/17/7",
+    "parts": 35,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0523",
+    "name": "Wild Boar1",
+    "path": "Workspace.Prefabs.伙伴.Wild Boar1",
+    "originalLocator": "W/2/17/10",
+    "locator": "W/2/17/4",
+    "parts": 33,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0524",
+    "name": "Alligator1",
+    "path": "Workspace.Prefabs.伙伴.Alligator1",
+    "originalLocator": "W/2/17/11",
+    "locator": "W/2/17/2",
+    "parts": 44,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0525",
+    "name": "Bear1",
+    "path": "Workspace.Prefabs.伙伴.Bear1",
+    "originalLocator": "W/2/17/12",
+    "locator": "W/2/17/6",
+    "parts": 30,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0526",
+    "name": "Beast",
+    "path": "Workspace.Prefabs.伙伴.Beast",
+    "originalLocator": "W/2/17/13",
+    "locator": "W/2/17/3",
+    "parts": 71,
+    "class": "Model",
+    "materialType": "动物与坐骑"
+  },
+  {
+    "id": "AF-0527",
+    "name": "2x1,木屋",
+    "path": "Workspace.Prefabs.雪原Map.宝箱资源点.2x1,木屋",
+    "originalLocator": "W/2/18/1/1",
+    "locator": "W/2/18/1/2",
+    "parts": 88,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0528",
+    "name": "1x1,露天废墟",
+    "path": "Workspace.Prefabs.雪原Map.宝箱资源点.1x1,露天废墟",
+    "originalLocator": "W/2/18/1/2",
+    "locator": "W/2/18/1/3",
+    "parts": 16,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0529",
+    "name": "1x1,大叔",
+    "path": "Workspace.Prefabs.雪原Map.宝箱资源点.1x1,大叔",
+    "originalLocator": "W/2/18/1/3",
+    "locator": "W/2/18/1/4",
+    "parts": 57,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0530",
+    "name": "1x1,大雪人",
+    "path": "Workspace.Prefabs.雪原Map.宝箱资源点.1x1,大雪人",
+    "originalLocator": "W/2/18/1/4",
+    "locator": "W/2/18/1/1",
+    "parts": 22,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0531",
+    "name": "1x1,木屋",
+    "path": "Workspace.Prefabs.雪原Map.资源点.1x1,木屋",
+    "originalLocator": "W/2/18/2/1",
+    "locator": "W/2/18/2/5",
+    "parts": 43,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0532",
+    "name": "1x1,水井",
+    "path": "Workspace.Prefabs.雪原Map.资源点.1x1,水井",
+    "originalLocator": "W/2/18/2/2",
+    "locator": "W/2/18/2/3",
+    "parts": 11,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0533",
+    "name": "1x1,坟墓",
+    "path": "Workspace.Prefabs.雪原Map.资源点.1x1,坟墓",
+    "originalLocator": "W/2/18/2/3",
+    "locator": "W/2/18/2/6",
+    "parts": 16,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0534",
+    "name": "1x1,围栏1",
+    "path": "Workspace.Prefabs.雪原Map.资源点.1x1,围栏1",
+    "originalLocator": "W/2/18/2/4",
+    "locator": "W/2/18/2/4",
+    "parts": 16,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0535",
+    "name": "1x1,水井",
+    "path": "Workspace.Prefabs.雪原Map.资源点.1x1,水井",
+    "originalLocator": "W/2/18/2/5",
+    "locator": "W/2/18/2/1",
+    "parts": 29,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0536",
+    "name": "1x1,围栏2",
+    "path": "Workspace.Prefabs.雪原Map.资源点.1x1,围栏2",
+    "originalLocator": "W/2/18/2/6",
+    "locator": "W/2/18/2/8",
+    "parts": 8,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0537",
+    "name": "1x1,侧翻马车",
+    "path": "Workspace.Prefabs.雪原Map.资源点.1x1,侧翻马车",
+    "originalLocator": "W/2/18/2/7",
+    "locator": "W/2/18/2/2",
+    "parts": 32,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0538",
+    "name": "1x1,木屋",
+    "path": "Workspace.Prefabs.雪原Map.资源点.1x1,木屋",
+    "originalLocator": "W/2/18/2/8",
+    "locator": "W/2/18/2/7",
+    "parts": 41,
+    "class": "Model",
+    "materialType": "建筑场景"
+  },
+  {
+    "id": "AF-0539",
+    "name": "草",
+    "path": "Workspace.Prefabs.雪原Map.装饰.草",
+    "originalLocator": "W/2/18/3/1",
+    "locator": "W/2/18/3/4",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0540",
+    "name": "草1",
+    "path": "Workspace.Prefabs.雪原Map.装饰.草1",
+    "originalLocator": "W/2/18/3/2",
+    "locator": "W/2/18/3/2",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0541",
+    "name": "石块",
+    "path": "Workspace.Prefabs.雪原Map.装饰.石块",
+    "originalLocator": "W/2/18/3/3",
+    "locator": "W/2/18/3/1",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0542",
+    "name": "石块",
+    "path": "Workspace.Prefabs.雪原Map.装饰.石块",
+    "originalLocator": "W/2/18/3/4",
+    "locator": "W/2/18/3/5",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0543",
+    "name": "土地",
+    "path": "Workspace.Prefabs.雪原Map.装饰.土地",
+    "originalLocator": "W/2/18/3/5",
+    "locator": "W/2/18/3/7",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0544",
+    "name": "石块",
+    "path": "Workspace.Prefabs.雪原Map.装饰.石块",
+    "originalLocator": "W/2/18/3/6",
+    "locator": "W/2/18/3/8",
+    "parts": 10,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0545",
+    "name": "土地",
+    "path": "Workspace.Prefabs.雪原Map.装饰.土地",
+    "originalLocator": "W/2/18/3/7",
+    "locator": "W/2/18/3/6",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0546",
+    "name": "草1",
+    "path": "Workspace.Prefabs.雪原Map.装饰.草1",
+    "originalLocator": "W/2/18/3/8",
+    "locator": "W/2/18/3/3",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0547",
+    "name": "TreeXL",
+    "path": "Workspace.Prefabs.雪原Map.树.TreeXL",
+    "originalLocator": "W/2/18/4/1",
+    "locator": "W/2/18/4/2",
+    "parts": 10,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0548",
+    "name": "TreeL",
+    "path": "Workspace.Prefabs.雪原Map.树.TreeL",
+    "originalLocator": "W/2/18/4/2",
+    "locator": "W/2/18/4/1",
+    "parts": 7,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0549",
+    "name": "草",
+    "path": "Workspace.Prefabs.雪原Map.边缘装饰.草",
+    "originalLocator": "W/2/18/5/1",
+    "locator": "W/2/18/5/2",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  },
+  {
+    "id": "AF-0550",
+    "name": "草",
+    "path": "Workspace.Prefabs.雪原Map.边缘装饰.草",
+    "originalLocator": "W/2/18/5/2",
+    "locator": "W/2/18/5/1",
+    "parts": 1,
+    "class": "Model",
+    "materialType": "地形植被"
+  }
+]
